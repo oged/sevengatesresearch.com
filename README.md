@@ -1,0 +1,1 @@
+# sevengatesresearch.com
