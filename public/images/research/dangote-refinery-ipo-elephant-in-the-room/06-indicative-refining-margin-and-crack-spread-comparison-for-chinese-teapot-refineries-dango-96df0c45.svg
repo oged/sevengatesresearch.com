@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">Refining margins: the cycle is doing a lot of talking</title>
+  <desc id="desc">Horizontal range chart comparing Chinese teapot reported margins of four to eight dollars per barrel, Dangote mid-cycle analyst assumption of thirteen to sixteen, Asian complex refining near thirty, and the US Gulf Coast 3-2-1 crack spread at 63.61 dollars per barrel.</desc>
+  <rect width="1200" height="690" fill="#fffdf7"/>
+  <text x="72" y="70" fill="#123d31" font-family="Georgia,serif" font-size="34">Refining margins: the cycle is doing a lot of talking</text>
+  <text x="72" y="104" fill="#66776f" font-family="Arial,sans-serif" font-size="17">US$/barrel · indicative snapshots and one underwriting assumption · not directly comparable net profit</text>
+  <g stroke="#e5ddcc" stroke-width="1">
+    <line x1="350" y1="150" x2="350" y2="570"/><line x1="459" y1="150" x2="459" y2="570"/><line x1="568" y1="150" x2="568" y2="570"/><line x1="677" y1="150" x2="677" y2="570"/><line x1="786" y1="150" x2="786" y2="570"/><line x1="895" y1="150" x2="895" y2="570"/><line x1="1004" y1="150" x2="1004" y2="570"/><line x1="1113" y1="150" x2="1113" y2="570"/>
+  </g>
+  <g fill="#66776f" font-family="Arial,sans-serif" font-size="14" text-anchor="middle">
+    <text x="350" y="600">0</text><text x="459" y="600">10</text><text x="568" y="600">20</text><text x="677" y="600">30</text><text x="786" y="600">40</text><text x="895" y="600">50</text><text x="1004" y="600">60</text><text x="1113" y="600">70</text>
+  </g>
+  <g font-family="Arial,sans-serif">
+    <text x="72" y="206" fill="#173f33" font-size="20" font-weight="700">China teapots</text><text x="72" y="230" fill="#76847d" font-size="14">Reported July 2026</text>
+    <rect x="394" y="185" width="44" height="54" rx="7" fill="#a7aaa4"/><text x="448" y="218" fill="#273b34" font-size="16" font-weight="700">US$4–8</text>
+    <text x="72" y="316" fill="#173f33" font-size="20" font-weight="700">Dangote</text><text x="72" y="340" fill="#76847d" font-size="14">Analyst mid-cycle assumption</text>
+    <rect x="492" y="295" width="33" height="54" rx="7" fill="#b79043"/><text x="535" y="328" fill="#273b34" font-size="16" font-weight="700">US$13–16</text>
+    <text x="72" y="426" fill="#173f33" font-size="20" font-weight="700">Asian complex</text><text x="72" y="450" fill="#76847d" font-size="14">Singapore proxy, March 2026</text>
+    <rect x="350" y="405" width="327" height="54" rx="7" fill="#386b5b"/><text x="691" y="438" fill="#273b34" font-size="16" font-weight="700">~US$30</text>
+    <text x="72" y="536" fill="#173f33" font-size="20" font-weight="700">US Gulf Coast</text><text x="72" y="560" fill="#76847d" font-size="14">LLS 3-2-1, 30 July 2026</text>
+    <rect x="350" y="515" width="693" height="54" rx="7" fill="#123d31"/><text x="1057" y="548" fill="#273b34" font-size="16" font-weight="700">US$63.61</text>
+  </g>
+  <line x1="492" y1="270" x2="525" y2="270" stroke="#b79043" stroke-width="5"/><text x="535" y="275" fill="#765e2d" font-family="Arial,sans-serif" font-size="13">Valuation input, not observed Dangote disclosure</text>
+  <text x="72" y="646" fill="#66776f" font-family="Arial,sans-serif" font-size="14">Sources: Reuters/LSEG; US EIA. Teapot conversion assumes approximately 7.3 barrels per metric tonne.</text>
+</svg>
