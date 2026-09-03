@@ -47,6 +47,9 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_DAILY_BRIEF_MODEL: ${{ vars.OPENAI_DAILY_BRIEF_MODEL }}
+          OPENAI_DAILY_BRIEF_SEARCH_CONTEXT: ${{ vars.OPENAI_DAILY_BRIEF_SEARCH_CONTEXT }}
+          OPENAI_DAILY_BRIEF_REASONING: ${{ vars.OPENAI_DAILY_BRIEF_REASONING }}
+          OPENAI_DAILY_BRIEF_MAX_OUTPUT_TOKENS: ${{ vars.OPENAI_DAILY_BRIEF_MAX_OUTPUT_TOKENS }}
           PUBLISH_DATE: ${{ inputs.publish_date }}
           OVERWRITE: ${{ inputs.overwrite }}
         run: node scripts/generate-daily-brief.mjs

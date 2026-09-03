@@ -27,15 +27,25 @@ Paste the API key as the value.
 
 API billing is separate from the ChatGPT subscription. Make sure the API account has billing/credits configured.
 
-## Optional model variable
+## Cost-optimised defaults
 
-The script defaults to `gpt-5.6-sol`.
+The publisher now defaults to:
 
-To change it without editing code, create a GitHub Actions repository variable:
+- model: `gpt-5.6-terra`
+- web-search context: `medium`
+- reasoning effort: `low`
+- maximum output tokens: `4500`
 
-`OPENAI_DAILY_BRIEF_MODEL`
+These settings are intended to preserve editorial quality while materially reducing API cost versus the original Sol/high-search/medium-reasoning configuration.
 
-For example: `gpt-5.6-terra` for a lower-cost daily run.
+All four can be changed later without editing code by creating GitHub Actions repository variables:
+
+- `OPENAI_DAILY_BRIEF_MODEL`
+- `OPENAI_DAILY_BRIEF_SEARCH_CONTEXT`
+- `OPENAI_DAILY_BRIEF_REASONING`
+- `OPENAI_DAILY_BRIEF_MAX_OUTPUT_TOKENS`
+
+If no variables are created, the cost-optimised defaults above are used automatically.
 
 ## First test
 

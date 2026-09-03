@@ -5,7 +5,10 @@ const ROOT = process.cwd();
 const BRIEFING_DIR = path.join(ROOT, "content", "briefings");
 const VISUAL_DIR = path.join(ROOT, "public", "images", "briefings");
 const API_KEY = process.env.OPENAI_API_KEY;
-const MODEL = process.env.OPENAI_DAILY_BRIEF_MODEL || "gpt-5.6-sol";
+const MODEL = process.env.OPENAI_DAILY_BRIEF_MODEL || "gpt-5.6-terra";
+const SEARCH_CONTEXT_SIZE = process.env.OPENAI_DAILY_BRIEF_SEARCH_CONTEXT || "medium";
+const REASONING_EFFORT = process.env.OPENAI_DAILY_BRIEF_REASONING || "low";
+const MAX_OUTPUT_TOKENS = Number.parseInt(process.env.OPENAI_DAILY_BRIEF_MAX_OUTPUT_TOKENS || "4500", 10);
 const OVERWRITE = String(process.env.OVERWRITE || "false").toLowerCase() === "true";
 const requestedDate = String(process.env.PUBLISH_DATE || "").trim();
 
@@ -176,7 +179,7 @@ Editorial discipline:
 
 const input = `Prepare the Seven Gates Daily Brief for ${publishDate}. Research developments current to the publication date. Return only the structured response requested by the schema. The title should contain an argument rather than simply the date. The excerpt should state what changed and why it matters in one sentence.`;
 
-console.log(`Generating ${publishDate} with ${MODEL} and web search...`);
+console.log(`Generating ${publishDate} with ${MODEL}; search=${SEARCH_CONTEXT_SIZE}; reasoning=${REASONING_EFFORT}; max_output=${MAX_OUTPUT_TOKENS}...`);
 const apiResponse = await fetch("https://api.openai.com/v1/responses", {
   method: "POST",
   headers: {
@@ -189,14 +192,14 @@ const apiResponse = await fetch("https://api.openai.com/v1/responses", {
     input,
     tools: [{
       type: "web_search",
-      search_context_size: "high",
+      search_context_size: SEARCH_CONTEXT_SIZE,
       user_location: {
         type: "approximate",
         country: "GB",
         timezone: "Europe/London"
       }
     }],
-    reasoning: { effort: "medium" },
+    reasoning: { effort: REASONING_EFFORT },
     text: {
       verbosity: "medium",
       format: {
@@ -206,7 +209,7 @@ const apiResponse = await fetch("https://api.openai.com/v1/responses", {
         schema
       }
     },
-    max_output_tokens: 7000,
+    max_output_tokens: MAX_OUTPUT_TOKENS,
     store: false
   })
 });
@@ -437,6 +440,6 @@ fs.writeFileSync(targetFile, markdown, "utf8");
 
 setOutput("publish_date", publishDate);
 setOutput("skipped", "false");
-summary(`### Seven Gates Daily Brief\n\nGenerated \`${publishDate}.md\` with **${MODEL}**, web search and a **${visualType.replaceAll("_", " ")}** visual.`);
+summary(`### Seven Gates Daily Brief\n\nGenerated \`${publishDate}.md\` with **${MODEL}**, **${SEARCH_CONTEXT_SIZE}** web-search context, **${REASONING_EFFORT}** reasoning, max **${MAX_OUTPUT_TOKENS}** output tokens, and a **${visualType.replaceAll("_", " ")}** visual.`);
 console.log(`Wrote ${path.relative(ROOT, targetFile)}`);
 console.log(`Wrote ${path.relative(ROOT, visualPath)}`);
