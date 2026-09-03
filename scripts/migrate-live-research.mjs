@@ -15,6 +15,177 @@ const MIN_ITEMS = Number.parseInt(process.env.MIN_RESEARCH_ITEMS || "15", 10);
 const OVERWRITE = String(process.env.RESEARCH_OVERWRITE || "false").toLowerCase() === "true";
 const MAX_PAGES = Number.parseInt(process.env.MAX_RESEARCH_PAGES || "120", 10);
 
+const CANONICAL_METADATA = {
+  "aradel-the-little-oil-company-has-acquired-an-empire": {
+    "date": "2026-08-22",
+    "readingTime": "12 min",
+    "researchType": "Note",
+    "category": "Energy",
+    "ticker": "ARADEL",
+    "region": "Nigeria"
+  },
+  "cbn-payment-data-localisation-ngx-winners": {
+    "date": "2026-08-25",
+    "readingTime": "24 min",
+    "researchType": "Essay",
+    "category": "Financials",
+    "ticker": "",
+    "region": "Nigeria"
+  },
+  "champion-breweries-beer-bullet-morning-after": {
+    "date": "2026-08-02",
+    "readingTime": "11 min",
+    "researchType": "Note",
+    "category": "Consumer goods",
+    "ticker": "CHAMPION",
+    "region": "Nigeria"
+  },
+  "dangote-refinery-ipo-elephant-in-the-room": {
+    "date": "2026-08-02",
+    "readingTime": "18 min",
+    "researchType": "Note",
+    "category": "Energy",
+    "ticker": "DANGREF",
+    "region": "Nigeria"
+  },
+  "first-holdco-old-bank-new-money": {
+    "date": "2026-08-10",
+    "readingTime": "11 min",
+    "researchType": "Note",
+    "category": "Banking",
+    "ticker": "FIRSTHOLDCO",
+    "region": "Nigeria"
+  },
+  "gtco-the-bank-that-keeps-its-shirt-buttoned": {
+    "date": "2026-08-02",
+    "readingTime": "8 min",
+    "researchType": "Note",
+    "category": "Banking",
+    "ticker": "GTCO",
+    "region": "Nigeria"
+  },
+  "honyflour-man-must-wack": {
+    "date": "2026-08-02",
+    "readingTime": "6 min",
+    "researchType": "Note",
+    "category": "Consumer goods",
+    "ticker": "HONYFLOUR",
+    "region": "Nigeria"
+  },
+  "mtn-nigeria-data-flying-generator-invoice-h1-2026": {
+    "date": "2026-08-28",
+    "readingTime": "15 min",
+    "researchType": "Note",
+    "category": "Telecommunications",
+    "ticker": "MTNN",
+    "region": "Nigeria"
+  },
+  "nigeria-gdp-growth-2026-poverty-economy": {
+    "date": "2026-09-01",
+    "readingTime": "27 min",
+    "researchType": "Essay",
+    "category": "Macro & policy",
+    "ticker": "MACRO",
+    "region": "Nigeria"
+  },
+  "presco-the-plantation-is-excellent": {
+    "date": "2026-08-10",
+    "readingTime": "9 min",
+    "researchType": "Note",
+    "category": "Agriculture",
+    "ticker": "PRESCO",
+    "region": "Nigeria"
+  },
+  "project-gazelle-tomorrows-oil-todays-dollars": {
+    "date": "2026-08-30",
+    "readingTime": "24 min",
+    "researchType": "Essay",
+    "category": "Macro",
+    "ticker": "MACRO",
+    "region": "Nigeria"
+  },
+  "pz-nigeria-rebound-two-listings-one-family": {
+    "date": "2026-09-01",
+    "readingTime": "19 min",
+    "researchType": "Report",
+    "category": "Consumer goods",
+    "ticker": "PZ",
+    "region": "Nigeria"
+  },
+  "seplat-and-the-privilege-of-dollar-earnings": {
+    "date": "2026-07-31",
+    "readingTime": "14 min",
+    "researchType": "Note",
+    "category": "Energy",
+    "ticker": "SEPLAT",
+    "region": "Nigeria"
+  },
+  "seplat-the-price-has-heard-the-news": {
+    "date": "2026-08-02",
+    "readingTime": "3 min",
+    "researchType": "Note",
+    "category": "Energy",
+    "ticker": "SEPLAT",
+    "region": "Nigeria"
+  },
+  "stanbic-ibtc-quality-still-needs-a-price": {
+    "date": "2026-08-28",
+    "readingTime": "4 min",
+    "researchType": "Report",
+    "category": "Banking",
+    "ticker": "STANBIC",
+    "region": "Nigeria"
+  },
+  "tantalizers-the-old-man-and-the-sea": {
+    "date": "2026-08-02",
+    "readingTime": "9 min",
+    "researchType": "Note",
+    "category": "Hospitality",
+    "ticker": "TANTALIZER",
+    "region": "Nigeria"
+  },
+  "the-middle-of-the-barrel-has-taken-hostages": {
+    "date": "2026-08-22",
+    "readingTime": "15 min",
+    "researchType": "Essay",
+    "category": "Energy & commodities",
+    "ticker": "REFINING",
+    "region": "Global"
+  },
+  "the-naira-is-not-a-footnote-in-your-valuation": {
+    "date": "2026-08-02",
+    "readingTime": "9 min",
+    "researchType": "Essay",
+    "category": "Macro",
+    "ticker": "MACRO",
+    "region": "Nigeria"
+  },
+  "uba-a-fine-african-franchise": {
+    "date": "2026-08-02",
+    "readingTime": "8 min",
+    "researchType": "Note",
+    "category": "Banking",
+    "ticker": "UBA",
+    "region": "Nigeria"
+  },
+  "universal-insurance-risk-that-wasnt-insured": {
+    "date": "2026-08-28",
+    "readingTime": "15 min",
+    "researchType": "Report",
+    "category": "Insurance",
+    "ticker": "UNIVINSURE",
+    "region": "Nigeria"
+  },
+  "vfd-group-berkshire-ambition-lagos-financing": {
+    "date": "2026-08-02",
+    "readingTime": "7 min",
+    "researchType": "Note",
+    "category": "Financials",
+    "ticker": "VFDGROUP",
+    "region": "Nigeria"
+  }
+};
+
 const root = process.cwd();
 const contentDir = path.join(root, "content", "research");
 const imageRoot = path.join(root, "public", "images", "research");
@@ -248,12 +419,22 @@ async function importArticle(url) {
   const firstAfterH1 = squash(main.find("h1").first().nextAll("p").first().text());
   const excerpt = metaDescription || firstAfterH1 || squash(main.find("p").first().text()).slice(0, 260);
   const pageText = squash(main.text());
-  const date = parseDate(pageText, $);
-  const readingTime = inferReadingTime(pageText);
-  const researchType = inferType(pageText);
-  const category = inferCategory(pageText);
-  const ticker = inferTicker(pageText);
-  const region = inferRegion(pageText);
+  let date = parseDate(pageText, $);
+  let readingTime = inferReadingTime(pageText);
+  let researchType = inferType(pageText);
+  let category = inferCategory(pageText);
+  let ticker = inferTicker(pageText);
+  let region = inferRegion(pageText);
+
+  const canonical = CANONICAL_METADATA[slug];
+  if (canonical) {
+    date = canonical.date || date;
+    readingTime = canonical.readingTime || readingTime;
+    researchType = canonical.researchType || researchType;
+    category = canonical.category || category;
+    ticker = Object.hasOwn(canonical, "ticker") ? canonical.ticker : ticker;
+    region = canonical.region || region;
+  }
 
   const assetMap = await localiseImages($, main, url, slug);
 
