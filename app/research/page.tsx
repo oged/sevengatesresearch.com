@@ -1,0 +1,1 @@
+export default function ResearchPage(){return <section className="archive"><div className="shell"><div className="archive-head"><p className="kicker">RESEARCH</p><h1>Research library</h1><p className="deck">Company underwrites, macro work and red-team essays migrate here next. The Daily Brief engine is established first.</p></div></div></section>}
