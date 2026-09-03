@@ -1,0 +1,46 @@
+name: Import Seven Gates Legacy Briefings
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: seven-gates-legacy-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out publication
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Install project dependencies
+        run: npm install --no-audit --no-fund
+      - name: Install one-off HTML migration parser
+        run: npm install --no-save cheerio@1.1.2 --no-audit --no-fund
+      - name: Import legacy Daily Brief archive
+        run: node scripts/import-legacy-briefings.mjs
+      - name: Fix duplicated historic heading numbers
+        run: node scripts/normalise-briefing-headings.mjs --all
+      - name: Run Seven Gates publication gate
+        run: npm run validate
+      - name: Commit archive migration
+        run: |
+          if [ -z "$(git status --porcelain -- content/briefings)" ]; then
+            echo "No archive changes to commit."
+            exit 0
+          fi
+          git config user.name "Seven Gates Publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/briefings
+          git commit -m "Migrate Seven Gates legacy Daily Brief archive"
+          git push origin HEAD:main
