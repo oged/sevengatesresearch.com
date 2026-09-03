@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+<title id="title">Risk ladder: what can move markets from here</title>
+<desc id="desc">A four-step risk ladder showing Hormuz shipping disruption as the highest immediate risk, followed by US inflation and Fed policy, Nigerian fuel and foreign-exchange transmission, and AI valuation risk.</desc>
+<style>
+  .eyebrow{font:700 18px Arial,sans-serif;letter-spacing:3px;fill:#B08A3E}
+  .title{font:700 50px Georgia,serif;fill:#0B1F33}
+  .subtitle{font:400 24px Arial,sans-serif;fill:#64707B}
+  .label{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .labelLight{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .value{font:700 35px Georgia,serif;fill:#0B1F33}
+  .valueLight{font:700 35px Georgia,serif;fill:#FFFFFF}
+  .valueSmall{font:700 26px Georgia,serif;fill:#0B1F33}
+  .detail{font:400 20px Arial,sans-serif;fill:#0B1F33}
+  .detailLight{font:400 20px Arial,sans-serif;fill:#FFFFFF}
+  .rank{font:700 28px Georgia,serif;fill:#B08A3E}
+  .source{font:400 15px Arial,sans-serif;fill:#64707B}
+</style>
+<rect width="1400" height="760" fill="#F5F0E6"/>
+<rect x="0" y="0" width="1400" height="14" fill="#0B1F33"/>
+<text x="55" y="72" class="eyebrow">SEVEN GATES RESEARCH · VISUAL OF THE DAY</text>
+<text x="55" y="142" class="title">Risk ladder: what can move markets from here</text>
+<text x="55" y="190" class="subtitle">From immediate physical disruption to slower-moving domestic transmission on 3 September</text>
+<text x="55" y="220" class="subtitle">2026</text>
+<text x="70" y="296" class="rank">01</text><rect x="150" y="260" width="930" height="72" rx="12" fill="#0B1F33" stroke="#0B1F33" stroke-width="2"/><text x="178" y="291" class="labelLight">HORMUZ AND GULF SHIPPING</text><text x="178" y="319" class="detailLight">Renewed strikes and retaliation keep oil and maritime-security risk elevated around the</text><text x="1108" y="307" class="valueSmall">Highest immediate risk</text><text x="70" y="391" class="rank">02</text><rect x="150" y="355" width="785" height="72" rx="12" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="178" y="386" class="label">US INFLATION AND THE FED</text><text x="178" y="414" class="detail">Markets have materially raised the odds of a September increase, with the 11 September i</text><text x="963" y="402" class="valueSmall">60% hike probability</text><text x="70" y="486" class="rank">03</text><rect x="150" y="450" width="640" height="72" rx="12" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="178" y="481" class="label">NIGERIA’S OIL-PRICE TRANSMISSION</text><text x="178" y="509" class="detail">Faster growth and higher crude receipts improve the macro picture, but fuel, freight and</text><text x="818" y="497" class="valueSmall">4.43% Q2 GDP growth</text><text x="70" y="581" class="rank">04</text><rect x="150" y="545" width="495" height="72" rx="12" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="178" y="576" class="label">AI INFRASTRUCTURE VALUATIONS</text><text x="178" y="604" class="detail">Demand is unusually strong, but Broadcom’s reaction shows that earnings expectations are</text><text x="673" y="592" class="valueSmall">$95bn Dell backlog</text>
+<line x1="55" y1="690" x2="1345" y2="690" stroke="#EDE4D3" stroke-width="2"/>
+<text x="55" y="724" class="source">Sources: Associated Press, Iran targets Kuwait in retaliation for US bombardments · Reuters, Oil edges down as investors weigh uncertainty over US-Iran strikes · Reuters, Stocks gain as bonds recover; rising Gulf tensions boost oil · Associated Press, Fed’s Waller says central bank’s next rate move depends on upcoming inflation report. Seven Gates Research, 2026-09-03.</text>
+</svg>
