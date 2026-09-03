@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Airport ground-handling crews servicing a passenger aircraft at dawn</title>
+<desc id="desc">Editorial illustration of a wide-body aircraft on the apron with baggage carts, cargo pallets, loaders and ground crew.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ead7b8"/><stop offset=".65" stop-color="#f6efe4"/><stop offset="1" stop-color="#d8d0c2"/></linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#sky)"/>
+<circle cx="1015" cy="105" r="48" fill="#c69a52" opacity=".8"/>
+<path d="M0 445 L1200 412 L1200 630 L0 630Z" fill="#59615f"/>
+<path d="M0 481 L1200 450" stroke="#f4f0e8" stroke-width="5" stroke-dasharray="24 18" opacity=".7"/>
+<path d="M220 270 Q500 160 900 238 L1120 288 L1085 318 L740 294 L540 321 L355 299 L195 328Z" fill="#1a1f24"/>
+<path d="M548 293 L682 135 L735 145 L650 301Z" fill="#1a1f24"/>
+<circle cx="455" cy="336" r="48" fill="#1a1f24"/><circle cx="455" cy="336" r="19" fill="#a67c3d"/>
+<circle cx="861" cy="325" r="48" fill="#1a1f24"/><circle cx="861" cy="325" r="19" fill="#a67c3d"/>
+<rect x="160" y="432" width="165" height="64" rx="6" fill="#1a1f24"/><rect x="190" y="401" width="72" height="35" rx="4" fill="#1a1f24"/>
+<circle cx="200" cy="504" r="22" fill="#15191d"/><circle cx="292" cy="504" r="22" fill="#15191d"/>
+<g fill="#c6bfae"><rect x="360" y="438" width="98" height="58"/><rect x="473" y="433" width="98" height="63"/><rect x="586" y="428" width="98" height="68"/></g>
+<path d="M765 462 L922 389 L938 402 L805 491Z" fill="#a67c3d"/><rect x="901" y="378" width="54" height="29" fill="#1a1f24"/>
+<g fill="#1a1f24"><circle cx="726" cy="444" r="9"/><rect x="719" y="453" width="14" height="44" rx="6"/><circle cx="995" cy="425" r="9"/><rect x="988" y="434" width="14" height="44" rx="6"/></g>
+<rect x="0" y="565" width="1200" height="65" fill="#1a1f24" opacity=".92"/>
+<text x="52" y="604" font-family="Georgia,serif" font-size="22" fill="#f4f0e8">The money is made in the minutes between arrival and departure.</text>
+</svg>
