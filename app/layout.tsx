@@ -10,6 +10,27 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://sevengatesresearch.com"),
   title: { default: "Seven Gates Research", template: "%s | Seven Gates Research" },
   description: "Independent research on companies, markets and power.",
+  applicationName: "Seven Gates Research",
+  authors: [{ name: "Seven Gates Research" }],
+  creator: "Seven Gates Research",
+  publisher: "Seven Gates Research",
+  manifest: "/manifest.webmanifest",
+  icons: { icon: "/icon.svg" },
+  openGraph: {
+    title: "Seven Gates Research",
+    description: "Independent research on companies, markets and power.",
+    url: "/",
+    siteName: "Seven Gates Research",
+    locale: "en_GB",
+    type: "website",
+    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "Seven Gates Research" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Seven Gates Research",
+    description: "Independent research on companies, markets and power.",
+    images: ["/opengraph-image"],
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -26,6 +47,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/briefing">Daily Brief</a>
               <a href="/briefing/archive">Archive</a>
               <a href="/research">Research</a>
+              <a href="/companies">Company directory</a>
+              <a href="/valuation-lab">Valuation Lab</a>
               <a href="/about">About</a>
             </nav>
           </div>
@@ -34,6 +57,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer className="site-footer">
           <div className="shell footer-inner">
             <div><strong>SEVEN GATES RESEARCH</strong><p>Independent research on companies, markets and power.</p></div>
+            <div className="footer-links" aria-label="Footer navigation">
+              <a href="/briefing">Daily Brief</a>
+              <a href="/research">Research</a>
+              <a href="/companies">Company directory</a>
+              <a href="/valuation-lab">Valuation Lab</a>
+              <a href="/about">About</a>
+            </div>
             <p className="house-rule">Interesting first. Correct always.</p>
           </div>
         </footer>

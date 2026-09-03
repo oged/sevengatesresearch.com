@@ -7,8 +7,14 @@ export function generateStaticParams() { return getAllBriefings().map(x => ({dat
 
 export async function generateMetadata({params}:{params:Promise<{date:string}>}):Promise<Metadata>{
   const {date}=await params; const item=getBriefing(date); if(!item)return {};
-  return {title:item.title,description:item.excerpt,alternates:{canonical:`/briefing/${item.date}`},
-    openGraph:{title:item.title,description:item.excerpt,type:"article",publishedTime:item.date,images:item.hero?[item.hero]:undefined}};
+  const image=item.hero||"/opengraph-image";
+  return {
+    title:item.title,
+    description:item.excerpt,
+    alternates:{canonical:`/briefing/${item.date}`},
+    openGraph:{title:item.title,description:item.excerpt,url:`/briefing/${item.date}`,type:"article",publishedTime:item.date,images:[image]},
+    twitter:{card:"summary_large_image",title:item.title,description:item.excerpt,images:[image]}
+  };
 }
 
 export default async function BriefingPage({params}:{params:Promise<{date:string}>}){

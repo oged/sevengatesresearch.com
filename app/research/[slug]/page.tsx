@@ -11,6 +11,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const item = getResearchItem(slug);
   if (!item) return {};
+  const image = item.hero || "/opengraph-image";
   return {
     title: item.title,
     description: item.excerpt,
@@ -18,9 +19,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     openGraph: {
       title: item.title,
       description: item.excerpt,
+      url: `/research/${item.slug}`,
       type: "article",
       publishedTime: item.date,
-      images: item.hero ? [item.hero] : undefined,
+      images: [image],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: item.title,
+      description: item.excerpt,
+      images: [image],
     },
   };
 }

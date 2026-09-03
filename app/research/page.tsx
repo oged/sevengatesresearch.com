@@ -1,9 +1,24 @@
+import type { Metadata } from "next";
 import { ResearchLibrary } from "@/components/ResearchLibrary";
 import { getAllResearch } from "@/lib/research";
 
-export const metadata = {
-  title: "Research Library | Seven Gates Research",
+export const metadata: Metadata = {
+  title: "Research Library",
   description: "Company underwrites, market notes and essays from Seven Gates Research.",
+  alternates: { canonical: "/research" },
+  openGraph: {
+    title: "Research Library | Seven Gates Research",
+    description: "Company underwrites, market notes and essays from Seven Gates Research.",
+    url: "/research",
+    type: "website",
+    images: ["/opengraph-image"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Research Library | Seven Gates Research",
+    description: "Company underwrites, market notes and essays from Seven Gates Research.",
+    images: ["/opengraph-image"],
+  },
 };
 
 export default function ResearchPage() {

@@ -1,7 +1,26 @@
 import type { Metadata } from "next";
 import { formatDate } from "@/components/BriefingCard";
 import { getAllBriefings } from "@/lib/content";
-export const metadata: Metadata = { title: "Daily Brief Archive", description: "The Seven Gates Research Daily Brief archive." };
+
+export const metadata: Metadata = {
+  title: "Daily Brief Archive",
+  description: "Permanent dated editions of the Seven Gates Research Daily Brief, newest first.",
+  alternates: { canonical: "/briefing/archive" },
+  openGraph: {
+    title: "Daily Brief Archive | Seven Gates Research",
+    description: "Permanent dated editions of the Seven Gates Research Daily Brief, newest first.",
+    url: "/briefing/archive",
+    type: "website",
+    images: ["/opengraph-image"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Daily Brief Archive | Seven Gates Research",
+    description: "Permanent dated editions of the Seven Gates Research Daily Brief, newest first.",
+    images: ["/opengraph-image"],
+  },
+};
+
 export default function ArchivePage() {
   const items = getAllBriefings();
   return <section className="archive"><div className="shell">

@@ -1,12 +1,34 @@
+import type { Metadata } from "next";
 import { BriefingCard, formatDate } from "@/components/BriefingCard";
 import { getAllBriefings } from "@/lib/content";
+import { getFeaturedCompanies } from "@/lib/companies";
 import { getAllResearch } from "@/lib/research";
+
+export const metadata: Metadata = {
+  title: { absolute: "Seven Gates Research | Daily Briefs, Company Research & Valuation" },
+  description: "Independent equity and macro research. Nigeria at the centre, the world in view. Daily Briefs, company research and the NGX Valuation Lab.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: "Seven Gates Research | Daily Briefs, Company Research & Valuation",
+    description: "Independent equity and macro research. Nigeria at the centre, the world in view.",
+    url: "/",
+    type: "website",
+    images: ["/opengraph-image"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Seven Gates Research | Daily Briefs, Company Research & Valuation",
+    description: "Independent equity and macro research. Nigeria at the centre, the world in view.",
+    images: ["/opengraph-image"],
+  },
+};
 
 export default function HomePage() {
   const briefings = getAllBriefings();
   const latest = briefings[0];
   const recent = briefings.slice(1, 4);
   const research = getAllResearch().slice(0, 3);
+  const companies = getFeaturedCompanies(["SEPLAT", "GTCO", "VFDGROUP", "UBA", "MTNN"]);
 
   return <>
     <section className="hero"><div className="shell hero-grid">
@@ -30,6 +52,35 @@ export default function HomePage() {
         <p>{item.excerpt}</p>
         <a href={`/research/${item.slug}`}>Read the analysis →</a>
       </article>)}</div> : <div className="empty-state">Research migration is in progress.</div>}
+    </div></section>
+
+    <section className="section coverage-section"><div className="shell">
+      <div className="section-heading"><div><p className="kicker">THE COVERAGE DIRECTORY</p><h2>Follow the company. Test the thesis.</h2></div><a href="/companies">All companies →</a></div>
+      <p className="section-intro">Published coverage, with the latest view in each company file. Values inside reports are dated research snapshots, never live quotes.</p>
+      <div className="company-strip">
+        {companies.map((company) => <article className="company-mini" key={company.slug}>
+          <span>{company.sector}</span>
+          <strong>{company.ticker}</strong>
+          <h3>{company.name}</h3>
+          <p>{company.summary}</p>
+          {company.latest && <small>Research as of {formatDate(company.latest.date)}</small>}
+          <a href={`/companies/${company.slug}`}>Open company file →</a>
+        </article>)}
+      </div>
+    </div></section>
+
+    <section className="section valuation-home"><div className="shell hero-grid">
+      <div>
+        <p className="kicker">THE NGX VALUATION LAB</p>
+        <h2>Bring your own assumptions.</h2>
+        <p className="deck">What has to go right for the price to make sense? Change the inputs and see what happens to value.</p>
+        <a className="button-link" href="/valuation-lab">Open the Valuation Lab →</a>
+      </div>
+      <div className="valuation-steps">
+        <div><strong>01</strong><span>Discounted cash flow</span><p>Growth, reinvestment and the cost of capital.</p></div>
+        <div><strong>02</strong><span>Bear, base & bull</span><p>Compare the cases behind your conviction.</p></div>
+        <div><strong>03</strong><span>Margin of safety</span><p>How much room is there to be wrong?</p></div>
+      </div>
     </div></section>
 
     <section className="section"><div className="shell">
