@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import { marked } from "marked";
+import { renderMarkdown } from "@/lib/markdown";
 
 export type Briefing = {
   date: string;
@@ -36,7 +36,7 @@ function parse(fileName: string): Briefing {
     heroAlt: data.heroAlt ? String(data.heroAlt) : undefined,
     heroCaption: data.heroCaption ? String(data.heroCaption) : undefined,
     draft: Boolean(data.draft),
-    html: marked.parse(content, { async: false }) as string,
+    html: renderMarkdown(content),
   };
 }
 

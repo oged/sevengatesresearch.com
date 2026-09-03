@@ -21,12 +21,15 @@ export const metadata: Metadata = {
 };
 
 export default function ValuationLabPage() {
-  return <section className="archive">
+  return <section className="archive" aria-labelledby="lab-page-title">
     <div className="shell">
       <div className="archive-head valuation-head">
-        <p className="kicker">NGX VALUATION LAB · TOOLS & ASSUMPTIONS</p>
-        <h1>What has to go right?</h1>
-        <p className="deck">Price is observable. Value is an argument. Make the assumptions explicit, then see how much room they leave.</p>
+        <p className="kicker">NGX Valuation Lab &middot; Tools &amp; assumptions</p>
+        <h1 id="lab-page-title">What has to go right?</h1>
+        <p className="deck">
+          Price is observable. Value is an argument. Make the assumptions explicit,
+          then see how much room they leave.
+        </p>
       </div>
       <ValuationLab />
     </div>
