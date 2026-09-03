@@ -1,0 +1,72 @@
+name: Publish Seven Gates Daily Brief
+
+on:
+  schedule:
+    - cron: "55 6 * * *"
+      timezone: "Europe/London"
+  workflow_dispatch:
+    inputs:
+      publish_date:
+        description: "Optional date to publish (YYYY-MM-DD). Blank = today's London date."
+        required: false
+        type: string
+      overwrite:
+        description: "Overwrite an existing dated briefing"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: seven-gates-daily-brief
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out publication
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Generate Daily Brief
+        id: generate
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_DAILY_BRIEF_MODEL: ${{ vars.OPENAI_DAILY_BRIEF_MODEL }}
+          PUBLISH_DATE: ${{ inputs.publish_date }}
+          OVERWRITE: ${{ inputs.overwrite }}
+        run: node scripts/generate-daily-brief.mjs
+
+      - name: Run Seven Gates publication gate
+        if: steps.generate.outputs.skipped != 'true'
+        run: npm run validate
+
+      - name: Commit publication
+        if: steps.generate.outputs.skipped != 'true'
+        env:
+          PUBLISH_DATE: ${{ steps.generate.outputs.publish_date }}
+        run: |
+          if [ -z "$(git status --porcelain -- content/briefings public/images/briefings)" ]; then
+            echo "No publication changes to commit."
+            exit 0
+          fi
+
+          git config user.name "Seven Gates Publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/briefings public/images/briefings
+          git commit -m "Publish Seven Gates Daily Brief ${PUBLISH_DATE}"
+          git push origin HEAD:main
