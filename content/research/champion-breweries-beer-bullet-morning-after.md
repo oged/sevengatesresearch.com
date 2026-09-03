@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/champion-breweries-beer-bullet-morning-after"
 slug: "champion-breweries-beer-bullet-morning-after"
-date: "2026-01-01"
+date: "2026-08-02"
 title: "Champion Breweries: Beer, Bullet and the Morning After"
 excerpt: "A Lokoja Contrarian analysis of Champion Breweries, the EnjoyBev and Bullet transformation, competitive landscape, financing, dilution and valuation."
-readingTime: "9 min"
-kicker: "SEVEN GATES RESEARCH · REPORT"
-researchType: "Report"
-category: "Energy"
+readingTime: "11 min"
+kicker: "SEVEN GATES RESEARCH · NOTE"
+researchType: "Note"
+category: "Consumer goods"
+ticker: "CHAMPION"
 region: "Nigeria"
 ---
 The Uyo brewer bought itself a passport. Revenue has doubled, but the ordinary shareholder has not yet become richer.

@@ -7,10 +7,11 @@ date: "2026-08-28"
 title: "Stanbic IBTC: quality still needs a price"
 excerpt: "Pre-H1 update: a strong fee franchise, provisional ₦175 fair value and a ₦125–₦135 preferred buying zone. Hold / watch pending audited results."
 readingTime: "4 min"
-kicker: "SEVEN GATES RESEARCH · NOTE"
-researchType: "Note"
+kicker: "SEVEN GATES RESEARCH · REPORT"
+researchType: "Report"
 category: "Banking"
-region: "Global"
+ticker: "STANBIC"
+region: "Nigeria"
 ---
 Pre-H1 update · Hold / watch · Reference price ₦156.10, 27 August 2026
 

@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/honyflour-man-must-wack"
 slug: "honyflour-man-must-wack"
-date: "2026-01-01"
+date: "2026-08-02"
 title: "HONYFLOUR: Man Must Wack"
 excerpt: "The contrarian investment case for Honeywell Flour Mills, from Agege bread to cash-flow quality."
-readingTime: "4 min"
-kicker: "SEVEN GATES RESEARCH · REPORT"
-researchType: "Report"
-category: "Research"
+readingTime: "6 min"
+kicker: "SEVEN GATES RESEARCH · NOTE"
+researchType: "Note"
+category: "Consumer goods"
+ticker: "HONYFLOUR"
 region: "Nigeria"
 ---
 Flour sits beneath everything from Agege bread to airborne wedding cakes. The demand is dependable. The shareholder economics still need kneading.

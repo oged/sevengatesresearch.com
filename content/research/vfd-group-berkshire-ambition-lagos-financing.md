@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/vfd-group-berkshire-ambition-lagos-financing"
 slug: "vfd-group-berkshire-ambition-lagos-financing"
-date: "2026-07-31"
+date: "2026-08-02"
 title: "VFD Group: Berkshire Ambition, Lagos Financing"
 excerpt: "Is VFD a compounding machine or merely a rapidly expanding balance sheet?"
-readingTime: "5 min"
+readingTime: "7 min"
 kicker: "SEVEN GATES RESEARCH · NOTE"
 researchType: "Note"
-category: "Hospitality"
+category: "Financials"
+ticker: "VFDGROUP"
 region: "Nigeria"
 ---
 VFD has access, ambition and a widening financial ecosystem. H1 2026 offers the first serious evidence that the enlarged capital base can earn, but the moat still needs proving.

@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/dangote-refinery-ipo-elephant-in-the-room"
 slug: "dangote-refinery-ipo-elephant-in-the-room"
-date: "2026-05-21"
+date: "2026-08-02"
 title: "Dangote Refinery IPO: The Elephant in the Control Room"
 excerpt: "A buy-side valuation of Dangote Refinery before the prospectus: a magnificent industrial asset, serious single-train risk, and a price that must leave room for what remains unknown."
-readingTime: "21 min"
-kicker: "SEVEN GATES RESEARCH · REPORT"
-researchType: "Report"
-category: "Insurance"
+readingTime: "18 min"
+kicker: "SEVEN GATES RESEARCH · NOTE"
+researchType: "Note"
+category: "Energy"
+ticker: "DANGREF"
 region: "Nigeria"
 ---
 A magnificent industrial asset, a complicated minority claim, and the small matter of price.

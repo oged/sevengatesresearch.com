@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/seplat-and-the-privilege-of-dollar-earnings"
 slug: "seplat-and-the-privilege-of-dollar-earnings"
-date: "2026-08-02"
+date: "2026-07-31"
 title: "Seplat and the Privilege of Dollar Earnings"
 excerpt: "A Seplat Energy deep dive covering dollar earnings, MPNU, ANOH, cash flow, capital allocation, governance and risks."
-readingTime: "4 min"
-kicker: "SEVEN GATES RESEARCH · REPORT"
-researchType: "Report"
+readingTime: "14 min"
+kicker: "SEVEN GATES RESEARCH · NOTE"
+researchType: "Note"
 category: "Energy"
+ticker: "SEPLAT"
 region: "Nigeria"
 ---
 The currency hedge is real. So are operating concentration, fiscal terms and the danger of adventurous capital allocation.

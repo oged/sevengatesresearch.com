@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/gtco-the-bank-that-keeps-its-shirt-buttoned"
 slug: "gtco-the-bank-that-keeps-its-shirt-buttoned"
-date: "2026-07-31"
+date: "2026-08-02"
 title: "GTCO: The Bank That Keeps Its Shirt Buttoned"
 excerpt: "GTCO is investible, but no longer obviously cheap. A review of its moat, earnings quality, capital, dividend, dilution and valuation."
-readingTime: "6 min"
-kicker: "SEVEN GATES RESEARCH · REPORT"
-researchType: "Report"
+readingTime: "8 min"
+kicker: "SEVEN GATES RESEARCH · NOTE"
+researchType: "Note"
 category: "Banking"
+ticker: "GTCO"
 region: "Nigeria"
 ---
 Cheap deposits, formidable capital and rare institutional restraint. GTCO is investible, but the market has finally noticed the quality.

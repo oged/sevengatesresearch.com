@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/presco-the-plantation-is-excellent"
 slug: "presco-the-plantation-is-excellent"
-date: "2026-06-30"
+date: "2026-08-10"
 title: "Presco: The Plantation Is Excellent. The Price Has Heard."
 excerpt: "Presco is an excellent integrated palm-oil business with a much stronger balance sheet. At ₦2,070, quality is no longer the undiscovered part of the argument."
-readingTime: "5 min"
+readingTime: "9 min"
 kicker: "SEVEN GATES RESEARCH · NOTE"
 researchType: "Note"
 category: "Agriculture"
+ticker: "PRESCO"
 region: "Nigeria"
 ---
 The business is integrated, scarce and prodigiously profitable. The shares are no longer a secret passed between sensible men beneath a palm tree.

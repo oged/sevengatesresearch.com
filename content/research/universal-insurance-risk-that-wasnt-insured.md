@@ -6,10 +6,11 @@ slug: "universal-insurance-risk-that-wasnt-insured"
 date: "2026-08-28"
 title: "Universal Insurance: The Risk That Wasn’t Insured"
 excerpt: "A rights issue, licence cancellation, suspended shares and a court challenge. Regulatory capital, policyholder risk and an indeterminate shareholder recovery."
-readingTime: "13 min"
+readingTime: "15 min"
 kicker: "SEVEN GATES RESEARCH · REPORT"
 researchType: "Report"
 category: "Insurance"
+ticker: "UNIVINSURE"
 region: "Nigeria"
 ---
 A rights issue at ₦1.20. A licence cancellation weeks later. Shares frozen at ₦0.77. And now, inevitably, everybody has gone to court.

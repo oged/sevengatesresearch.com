@@ -6,10 +6,11 @@ slug: "uba-a-fine-african-franchise"
 date: "2026-08-02"
 title: "UBA: A Fine African Franchise, Carrying More Luggage Than It Admits"
 excerpt: "UBA investment analysis covering its deposit franchise, African network, asset quality, governance, valuation and staged entry ranges."
-readingTime: "7 min"
+readingTime: "8 min"
 kicker: "SEVEN GATES RESEARCH · NOTE"
 researchType: "Note"
 category: "Banking"
+ticker: "UBA"
 region: "Nigeria"
 ---
 Buy in stages, but do not mistake a low price for underlying strength.

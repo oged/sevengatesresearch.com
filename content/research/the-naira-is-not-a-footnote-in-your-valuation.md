@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/the-naira-is-not-a-footnote-in-your-valuation"
 slug: "the-naira-is-not-a-footnote-in-your-valuation"
-date: "2026-01-01"
+date: "2026-08-02"
 title: "The Naira Is Not a Footnote in Your Valuation"
 excerpt: "A 60% gain in Lagos can still leave a dollar investor looking like he attended the wrong party."
-readingTime: "8 min"
+readingTime: "9 min"
 kicker: "SEVEN GATES RESEARCH · ESSAY"
 researchType: "Essay"
-category: "Banking"
+category: "Macro"
+ticker: "MACRO"
 region: "Nigeria"
 ---
 The Lokoja Contrarian2 August 20269 min read

@@ -9,7 +9,8 @@ excerpt: "Nigeria’s economy is growing again, but is 4.43% enough? A 47-year v
 readingTime: "27 min"
 kicker: "SEVEN GATES RESEARCH · ESSAY"
 researchType: "Essay"
-category: "Telecommunications"
+category: "Macro & policy"
+ticker: "MACRO"
 region: "Nigeria"
 hero: "/images/research/nigeria-gdp-growth-2026-poverty-economy/00-editorial-hero-4a4ceb2b.png"
 ---

@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/tantalizers-the-old-man-and-the-sea"
 slug: "tantalizers-the-old-man-and-the-sea"
-date: "2026-01-01"
+date: "2026-08-02"
 title: "Tantalizers: The Old Man, the Sea and a Rather Expensive Plate of Jollof"
 excerpt: "An investor's evaluation of Tantalizers Plc: restaurant recovery, outlet economics, inflation, diversification, dilution and valuation."
-readingTime: "6 min"
-kicker: "SEVEN GATES RESEARCH · REPORT"
-researchType: "Report"
+readingTime: "9 min"
+kicker: "SEVEN GATES RESEARCH · NOTE"
+researchType: "Note"
 category: "Hospitality"
+ticker: "TANTALIZER"
 region: "Nigeria"
 ---
 The restaurants are recovering. The listed company is becoming something stranger, and the market is already pricing the prawns before they reach the jetty.

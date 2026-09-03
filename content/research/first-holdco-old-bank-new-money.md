@@ -3,13 +3,14 @@ draft: false
 legacyImported: true
 legacyUrl: "https://www.sevengatesresearch.com/research/first-holdco-old-bank-new-money"
 slug: "first-holdco-old-bank-new-money"
-date: "2026-08-07"
+date: "2026-08-10"
 title: "First HoldCo: The Old Bank, the New Money and the Shareholder Waiting Room"
 excerpt: "First HoldCo's H1 2026 recovery is real. So are the ownership reshuffle, recapitalisation burden and the long memory of its loan book."
-readingTime: "6 min"
-kicker: "SEVEN GATES RESEARCH · REPORT"
-researchType: "Report"
+readingTime: "11 min"
+kicker: "SEVEN GATES RESEARCH · NOTE"
+researchType: "Note"
 category: "Banking"
+ticker: "FIRSTHOLDCO"
 region: "Nigeria"
 ---
 Nigeria's oldest bank has new capital, new power and remarkably improved profits. It has not, however, acquired a new history.
