@@ -1,0 +1,56 @@
+name: Migrate Seven Gates Live Research
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: seven-gates-live-research-migration
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out publication
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install project dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Install one-off migration parsers
+        run: npm install --no-save cheerio@1.1.2 turndown@7.2.0 turndown-plugin-gfm@1.0.2 --no-audit --no-fund
+
+      - name: Crawl and migrate live Seven Gates research
+        env:
+          LEGACY_BASE_URL: "https://www.sevengatesresearch.com"
+          MIN_RESEARCH_ITEMS: "15"
+          MAX_RESEARCH_PAGES: "120"
+          RESEARCH_OVERWRITE: "true"
+        run: node scripts/migrate-live-research.mjs
+
+      - name: Run full publication build
+        run: npm run build
+
+      - name: Commit research migration
+        run: |
+          if [ -z "$(git status --porcelain -- app/research app/page.tsx app/sitemap.ts app/globals.css components/ResearchLibrary.tsx lib/research.ts content/research public/images/research)" ]; then
+            echo "No research migration changes to commit."
+            exit 0
+          fi
+          git config user.name "Seven Gates Publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app/research app/page.tsx app/sitemap.ts app/globals.css components/ResearchLibrary.tsx lib/research.ts content/research public/images/research
+          git commit -m "Migrate Seven Gates live research library"
+          git push origin HEAD:main
