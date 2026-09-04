@@ -7,7 +7,7 @@
   .subtitle{font:400 22px Arial,sans-serif;fill:#64707B}
   .rank{font:700 26px Georgia,serif;fill:#B08A3E}
   .label{font:700 17px Arial,sans-serif;letter-spacing:1.3px;fill:#B08A3E}
-  .detail{font:400 19px Arial,sans-serif;fill:#0B1F33}
+  .detail{font:400 19px Arial,sans-serif;fill:#0B1F33}\n  .detailLight{font:400 19px Arial,sans-serif;fill:#FFFFFF}
   .metric{font:700 27px Georgia,serif;fill:#0B1F33}
   .metricLight{font:700 27px Georgia,serif;fill:#FFFFFF}
   .source{font:400 14px Arial,sans-serif;fill:#64707B}
@@ -21,28 +21,28 @@
 <text x="62" y="262" class="rank">01</text>
 <rect x="130" y="214" width="1215" height="92" rx="14" fill="#0B1F33"/>
 <text x="162" y="249" class="label">HORMUZ AND GULF SHIPPING</text>
-<text x="162" y="281" class="detail" fill="#FFFFFF">Physical flows and insurance remain the hinge between a war premium and an inflation shock.</text>
+<text x="162" y="281" class="detailLight">Shipping and insurance remain the hinge between a war premium and an inflation shock.</text>
 <rect x="1030" y="229" width="285" height="62" rx="10" fill="#B08A3E"/>
 <text x="1172" y="269" text-anchor="middle" class="metricLight">$95.20/bbl Brent</text>
 
 <text x="62" y="374" class="rank">02</text>
 <rect x="130" y="326" width="1215" height="92" rx="14" fill="#FFFDF7" stroke="#E3D7C2" stroke-width="2"/>
 <text x="162" y="361" class="label">US INFLATION AND THE FED</text>
-<text x="162" y="393" class="detail">Market pricing hardened; Waller made the August inflation report decisive for his vote.</text>
+<text x="162" y="393" class="detail">Market pricing hardened; Waller made the August inflation release decisive.</text>
 <rect x="1030" y="341" width="285" height="62" rx="10" fill="#EDE4D3"/>
 <text x="1172" y="381" text-anchor="middle" class="metric">~60% hike odds</text>
 
 <text x="62" y="486" class="rank">03</text>
 <rect x="130" y="438" width="1215" height="92" rx="14" fill="#FFFDF7" stroke="#E3D7C2" stroke-width="2"/>
 <text x="162" y="473" class="label">NIGERIA’S OIL-PRICE TRANSMISSION</text>
-<text x="162" y="505" class="detail">Export receipts improve, but fuel, freight and imported inputs carry the cost into households.</text>
+<text x="162" y="505" class="detail">Export receipts improve, but fuel and freight carry the cost into households.</text>
 <rect x="1030" y="453" width="285" height="62" rx="10" fill="#EDE4D3"/>
 <text x="1172" y="493" text-anchor="middle" class="metric">4.43% Q2 GDP</text>
 
 <text x="62" y="598" class="rank">04</text>
 <rect x="130" y="550" width="1215" height="92" rx="14" fill="#FFFDF7" stroke="#E3D7C2" stroke-width="2"/>
 <text x="162" y="585" class="label">AI INFRASTRUCTURE VALUATIONS</text>
-<text x="162" y="617" class="detail">Equipment demand is emphatically real. The market’s tolerance for a small miss is rather less so.</text>
+<text x="162" y="617" class="detail">Equipment demand is real. The market’s tolerance for a small miss is not.</text>
 <rect x="1030" y="565" width="285" height="62" rx="10" fill="#EDE4D3"/>
 <text x="1172" y="605" text-anchor="middle" class="metric">$95bn Dell backlog</text>
 
