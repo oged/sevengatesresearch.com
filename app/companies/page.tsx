@@ -24,13 +24,20 @@ export const metadata: Metadata = {
 export default function CompaniesPage() {
   const companies = getCompanyDirectory();
 
-  return <section className="archive">
+  return <section className="archive" aria-labelledby="companies-title">
     <div className="shell">
       <div className="archive-head">
-        <p className="kicker">THE COVERAGE DIRECTORY</p>
-        <h1>Follow the company. Test the thesis.</h1>
-        <p className="deck">Published company coverage, organised around the latest research file. Prices and valuation ranges inside reports are dated snapshots, never live quotes.</p>
+        <p className="kicker">The coverage directory</p>
+        <h1 id="companies-title">Follow the company. Test the thesis.</h1>
+        <p className="deck">
+          Published company coverage, organised around the latest research file. Prices and
+          valuation ranges inside reports are dated snapshots, never live quotes.
+        </p>
       </div>
+
+      <p className="research-count">
+        {companies.length} company file{companies.length === 1 ? "" : "s"}
+      </p>
 
       <div className="company-grid">
         {companies.map((company) => <article className="company-card" key={company.slug}>
@@ -43,9 +50,12 @@ export default function CompaniesPage() {
           {company.latest && <div className="company-latest">
             <span>Latest research</span>
             <strong>{company.latest.title}</strong>
-            <small>{formatDate(company.latest.date)} · {company.latest.readingTime}</small>
+            <small>
+              <time dateTime={company.latest.date}>{formatDate(company.latest.date)}</time>
+              {" \u00b7 "}{company.latest.readingTime} read
+            </small>
           </div>}
-          <a className="company-link" href={`/companies/${company.slug}`}>Open company file →</a>
+          <a className="company-link" href={`/companies/${company.slug}`}>Open company file &rarr;</a>
         </article>)}
       </div>
     </div>

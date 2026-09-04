@@ -23,12 +23,15 @@ export const metadata: Metadata = {
 
 export default function ResearchPage() {
   const items = getAllResearch().map(({ html, hero, heroAlt, heroCaption, legacyUrl, legacyImported, draft, kicker, ...item }) => item);
-  return <section className="archive">
+  return <section className="archive" aria-labelledby="research-title">
     <div className="shell">
       <div className="archive-head">
-        <p className="kicker">RESEARCH · REPORTS · NOTES · ESSAYS</p>
-        <h1>Arguments sorted by the work they do.</h1>
-        <p className="deck">Reports underwrite companies. Notes update an argument. Essays examine markets, institutions and power. Geography is a filter, not a separate corridor.</p>
+        <p className="kicker">Research &middot; Reports &middot; Notes &middot; Essays</p>
+        <h1 id="research-title">Arguments sorted by the work they do.</h1>
+        <p className="deck">
+          Reports underwrite companies. Notes update an argument. Essays examine markets,
+          institutions and power. Geography is a filter, not a separate corridor.
+        </p>
       </div>
       <ResearchLibrary items={items} />
     </div>

@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import { marked } from "marked";
+import { renderMarkdown } from "@/lib/markdown";
 
 export type ResearchItem = {
   slug: string;
@@ -50,7 +50,7 @@ function parse(fileName: string): ResearchItem {
     legacyUrl: data.legacyUrl ? String(data.legacyUrl) : undefined,
     legacyImported: Boolean(data.legacyImported),
     draft: Boolean(data.draft),
-    html: marked.parse(content, { async: false }) as string,
+    html: renderMarkdown(content),
   };
 }
 
