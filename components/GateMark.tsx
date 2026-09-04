@@ -1,58 +1,54 @@
 /**
- * The Seven Gates mark — an Etruscan gateway, per brand/BRAND-GUIDE.md.
+ * The Seven Gates mark, from the supplied brand/mark.svg.
  *
- * The arch ring is cut into seven voussoirs, one per gate. The seventh — the
- * keystone at the apex — is brass: it locks the ring, and pulling any one stone
- * brings the arch down. Behind it the vault recedes to a lit brass core.
- * Travertine jambs, podium, no ornament.
+ * The vault recedes through seven arches — each the brand ink at a rising
+ * opacity — to a lit brass core. The ring above carries seven voussoirs, the
+ * middle one the brass keystone. Travertine jambs, podium below.
  *
- * Stone takes `currentColor`; the keystone and core take --mark-keystone so the
- * brand rule "never re-colour the keystone anything but brass" holds wherever
- * the mark is placed.
- *
- * NOTE: drawn from the written brand description. The canonical files
- * (brand/svg/mark.svg, mark-small.svg) were not supplied; swap them in here.
+ * Geometry is the artwork's, unaltered. Only the stone colour is a token, so
+ * the mark can reverse onto a dark ground the way brand/favicon.svg does:
+ * parchment stone, brass-light keystone. The keystone is never anything but
+ * brass, per the brand guide.
  */
 export function GateMark({ className }: { className?: string }) {
+  const stone = "var(--mark-stone, #1A1F24)";
+  const keystone = "var(--mark-keystone, #A67C3D)";
+
   return (
-    <svg className={className} viewBox="0 0 48 56" fill="none" role="img" aria-label="Seven Gates Research">
-      {/* the vault receding behind the arch */}
-      <g stroke="currentColor" strokeWidth="1.1" opacity="0.55">
-        <path d="M14 50V30a10 10 0 0 1 20 0v20" />
-        <path d="M18.5 50V30a5.5 5.5 0 0 1 11 0v20" />
-      </g>
+    <svg
+      className={className}
+      width="232"
+      height="164"
+      viewBox="2 50 116 82"
+      fill="none"
+      role="img"
+      aria-label="Seven Gates Research"
+    >
+      {/* the vault: seven arches receding, ink at a rising opacity */}
+      <path d="M27 126 L27 100 A33 33 0 0 1 93 100 L93 126 Z" fill={stone} fillOpacity=".08" />
+      <path d="M30 126 L30 100 A30 30 0 0 1 90 100 L90 126" stroke={stone} strokeWidth="1.4" strokeOpacity=".26" />
+      <path d="M33.4 126 L33.4 100 A26.6 26.6 0 0 1 86.6 100 L86.6 126" stroke={stone} strokeWidth="1.4" strokeOpacity=".36" />
+      <path d="M36.8 126 L36.8 100 A23.2 23.2 0 0 1 83.2 100 L83.2 126" stroke={stone} strokeWidth="1.4" strokeOpacity=".46" />
+      <path d="M40.2 126 L40.2 100 A19.8 19.8 0 0 1 79.8 100 L79.8 126" stroke={stone} strokeWidth="1.4" strokeOpacity=".56" />
+      <path d="M43.6 126 L43.6 100 A16.4 16.4 0 0 1 76.4 100 L76.4 126" stroke={stone} strokeWidth="1.4" strokeOpacity=".68" />
+      <path d="M47 126 L47 100 A13 13 0 0 1 73 100 L73 126" stroke={stone} strokeWidth="1.4" strokeOpacity=".84" />
 
-      {/* the lit brass core at the far end of the vault */}
-      <path d="M21.6 50v-6.4a2.4 2.4 0 0 1 4.8 0V50Z" fill="var(--mark-keystone, #C69A52)" />
+      {/* the lit brass core */}
+      <path d="M50 126 L50 100 A10 10 0 0 1 70 100 L70 126 Z" fill={keystone} />
 
-      {/* the arch ring */}
-      <path
-        d="M4 30a20 20 0 0 1 40 0h-6a14 14 0 0 0-28 0Z"
-        stroke="currentColor"
-        strokeWidth="1.4"
-      />
+      {/* the ring: seven voussoirs, the middle one the keystone */}
+      <path d="M10.08 97.21 A50 50 0 0 1 13.81 80.85 L29.52 87.36 A33 33 0 0 0 27.05 98.16 Z" fill={stone} />
+      <path d="M16.23 75.82 A50 50 0 0 1 26.69 62.71 L38.02 75.39 A33 33 0 0 0 31.11 84.04 Z" fill={stone} />
+      <path d="M31.06 59.23 A50 50 0 0 1 46.17 51.95 L50.87 68.29 A33 33 0 0 0 40.90 73.09 Z" fill={stone} />
+      <path d="M51.61 50.71 A50 50 0 0 1 68.39 50.71 L65.54 67.47 A33 33 0 0 0 54.46 67.47 Z" fill={keystone} />
+      <path d="M73.83 51.95 A50 50 0 0 1 88.94 59.23 L79.10 73.09 A33 33 0 0 0 69.13 68.29 Z" fill={stone} />
+      <path d="M93.31 62.71 A50 50 0 0 1 103.77 75.82 L88.89 84.04 A33 33 0 0 0 81.98 75.39 Z" fill={stone} />
+      <path d="M106.19 80.85 A50 50 0 0 1 109.92 97.21 L92.95 98.16 A33 33 0 0 0 90.48 87.36 Z" fill={stone} />
 
-      {/* six radial joints, cutting the ring into seven voussoirs */}
-      <g stroke="currentColor" strokeWidth="1.1">
-        <path d="M5.98 21.32 11.39 23.93" />
-        <path d="M11.53 14.36 15.27 19.05" />
-        <path d="M19.55 10.50 20.89 16.35" />
-        <path d="M28.45 10.50 27.11 16.35" />
-        <path d="M36.47 14.36 32.73 19.05" />
-        <path d="M42.02 21.32 36.61 23.93" />
-      </g>
-
-      {/* the seventh stone: the keystone, at the apex, in brass */}
-      <path
-        d="M19.55 10.50a20 20 0 0 1 8.9 0l-1.34 5.85a14 14 0 0 0-6.22 0Z"
-        fill="var(--mark-keystone, #C69A52)"
-      />
-
-      {/* jambs and podium */}
-      <g stroke="currentColor" strokeWidth="1.4">
-        <path d="M4.7 30v20M43.3 30v20M10 30v20M38 30v20" />
-        <path d="M1.5 50.8h45" strokeWidth="2.4" />
-      </g>
+      {/* travertine jambs, podium */}
+      <rect x="10" y="100" width="17" height="26" fill="#C6BFAE" />
+      <rect x="93" y="100" width="17" height="26" fill="#C6BFAE" />
+      <rect x="2" y="126" width="116" height="6" fill={stone} />
     </svg>
   );
 }

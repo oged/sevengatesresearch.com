@@ -43,11 +43,11 @@
 
   /* Inverted surface — the site header ONLY. Everything else, footer
      included, is light; nothing dark sits behind body copy. */
-  --inv-bg: #443A2D;
+  --inv-bg: #26342B;
   --inv-fg: #FBF8F1;
-  --inv-fg-muted: #DED6C6;
-  --inv-border: #5F5340;
-  --inv-accent: #E3C08A;
+  --inv-fg-muted: #D5DBD2;
+  --inv-border: #3D4F44;
+  --inv-accent: #C69A52;   /* brand brass light — the reversed keystone */
 
   /* Signal */
   --positive: #2F6B4F;
@@ -288,10 +288,10 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 /* Stone takes currentColor; the keystone is always brass. */
 .gate-mark {
   flex: none;
-  width: 36px;
-  height: 42px;
-  color: var(--brand-travertine);
-  --mark-keystone: var(--inv-accent);
+  width: 46px;
+  height: 33px;
+  --mark-stone: #F4F0E8;
+  --mark-keystone: #C69A52;
 }
 
 .site-nav { display: flex; align-items: center; gap: var(--sp-5); }
@@ -887,7 +887,7 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
   .company-file-actions { display: grid; }
   .wordmark strong { font-size: var(--fs-sm); letter-spacing: 0.11em; }
   .wordmark small { letter-spacing: 0.34em; }
-  .gate-mark { width: 30px; height: 35px; }
+  .gate-mark { width: 38px; height: 27px; }
   .prose { font-size: var(--fs-base); }
 }
 
