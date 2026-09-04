@@ -15,15 +15,17 @@
   --brand-brass-light: #C69A52;
   --brand-oxblood: #46160F;
 
-  /* Surfaces */
-  --bg: #FBF8F1;
-  --bg-sunken: #F4F0E8;
-  --bg-raised: #FFFDF8;
+  /* Surfaces. The page is warm parchment rather than white, and sections
+     alternate between --bg and the deeper --bg-sunken. Cards sit on
+     --bg-raised so they lift off the page instead of sinking into it. */
+  --bg: #F6F1E4;
+  --bg-sunken: #EDE5D3;
+  --bg-raised: #FFFDF7;
 
-  /* Text */
-  --fg: #1A1F24;
-  --fg-muted: #46504F;
-  --fg-subtle: #616966;
+  /* Text. Warm neutrals — the previous slate carried a green cast. */
+  --fg: #1F1B15;
+  --fg-muted: #4E4A42;
+  --fg-subtle: #645E53;
 
   /* Accent. --accent is for fills, rules and large type; --accent-text is
      darkened to clear 4.5:1 on --bg for the small uppercase kickers. */
@@ -41,7 +43,8 @@
   --border: #D8D2C4;
   --border-strong: #BDB49F;
 
-  /* Inverted surfaces: header, footer, hero card, lab output */
+  /* Inverted surface — header and footer chrome ONLY. Reading surfaces
+     (articles, essays, briefs) stay light; nothing dark sits behind body copy. */
   --inv-bg: #1A1F24;
   --inv-bg-raised: #232930;
   --inv-fg: #FBF8F1;
@@ -77,60 +80,6 @@
 
   --ring: 2px solid var(--accent);
   --ring-offset: 2px;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-    --bg: #14181C;
-    --bg-sunken: #101418;
-    --bg-raised: #1C2126;
-    --fg: #ECE7DC;
-    --fg-muted: #ADB3B0;
-    --fg-subtle: #8C938F;
-    --accent: #C69A52;
-    --accent-text: #D3AC69;
-    --accent-hover: #E0BE84;
-    --btn-bg: #C69A52;
-    --btn-fg: #14181C;
-    --btn-bg-hover: #E0BE84;
-    --border: #2C333A;
-    --border-strong: #414951;
-    --inv-bg: #1C2126;
-    --inv-bg-raised: #242A31;
-    --inv-fg: #ECE7DC;
-    --inv-fg-muted: #ADB3B0;
-    --inv-border: #384047;
-    --inv-accent: #C69A52;
-    --positive: #7FBFA0;
-    --negative: #E0917E;
-  }
-}
-
-[data-theme="dark"] {
-  color-scheme: dark;
-  --bg: #14181C;
-  --bg-sunken: #101418;
-  --bg-raised: #1C2126;
-  --fg: #ECE7DC;
-  --fg-muted: #ADB3B0;
-  --fg-subtle: #8C938F;
-  --accent: #C69A52;
-  --accent-text: #D3AC69;
-  --accent-hover: #E0BE84;
-  --btn-bg: #C69A52;
-  --btn-fg: #14181C;
-  --btn-bg-hover: #E0BE84;
-  --border: #2C333A;
-  --border-strong: #414951;
-  --inv-bg: #1C2126;
-  --inv-bg-raised: #242A31;
-  --inv-fg: #ECE7DC;
-  --inv-fg-muted: #ADB3B0;
-  --inv-border: #384047;
-  --inv-accent: #C69A52;
-  --positive: #7FBFA0;
-  --negative: #E0917E;
 }
 
 /* ---------- 2. Reset ----------------------------------------------------- */
@@ -410,26 +359,26 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 .hero .deck { font-size: var(--fs-lg); }
 
 .hero-card, .company-latest-panel, .lab-output {
-  background: var(--inv-bg);
-  color: var(--inv-fg);
-  border: 1px solid var(--inv-border);
+  background: var(--bg-raised);
+  color: var(--fg);
+  border: 1px solid var(--border);
   border-top: 4px solid var(--accent);
   padding: var(--sp-6);
 }
 .hero-card h2 { font-size: var(--fs-xl); margin-bottom: var(--sp-3); }
-.hero-card p, .company-latest-panel p { color: var(--inv-fg-muted); }
-.hero-card .kicker, .company-latest-panel .kicker, .valuation-home .kicker { color: var(--inv-accent); }
+.hero-card p, .company-latest-panel p { color: var(--fg-muted); }
+.hero-card .kicker, .company-latest-panel .kicker, .valuation-home .kicker { color: var(--accent-text); }
 .hero-card > a {
   display: inline-block;
   margin-top: var(--sp-4);
-  color: var(--inv-accent);
+  color: var(--accent-text);
   font: 600 var(--fs-xs)/1 var(--font-interface), system-ui, sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
 .company-latest-panel { max-width: 900px; }
-.company-latest-panel .meta { color: var(--inv-fg-muted); }
-.company-latest-panel .meta > span + span::before { background: var(--inv-border); }
+.company-latest-panel .meta { color: var(--fg-subtle); }
+.company-latest-panel .meta > span + span::before { background: var(--border-strong); }
 
 /* Card grids */
 .cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--sp-5); align-items: stretch; }
@@ -569,25 +518,25 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 
 /* Valuation promo */
 .valuation-home {
-  background: var(--inv-bg);
-  color: var(--inv-fg);
+  background: var(--bg-sunken);
+  color: var(--fg);
   border-top: 4px solid var(--accent);
   border-bottom: 4px solid var(--accent);
 }
-.valuation-home .deck { color: var(--inv-fg-muted); }
+.valuation-home .deck { color: var(--fg-muted); }
 .valuation-home .button-link { margin-top: var(--sp-5); }
-.valuation-steps { display: grid; border: 1px solid var(--inv-border); }
+.valuation-steps { display: grid; border: 1px solid var(--border-strong); background: var(--bg-raised); }
 .valuation-steps > div {
   display: grid;
   grid-template-columns: 52px minmax(0, 1fr);
   gap: var(--sp-1) var(--sp-3);
   padding: var(--sp-4) var(--sp-5);
-  border-top: 1px solid var(--inv-border);
+  border-top: 1px solid var(--border);
 }
 .valuation-steps > div:first-child { border-top: 0; }
 .valuation-steps strong {
   grid-row: 1 / 3;
-  color: var(--inv-accent);
+  color: var(--accent-text);
   font: 600 var(--fs-xl)/1 var(--font-display), Georgia, serif;
 }
 .valuation-steps span {
@@ -595,7 +544,7 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
-.valuation-steps p { margin: var(--sp-1) 0 0; color: var(--inv-fg-muted); font-size: var(--fs-sm); }
+.valuation-steps p { margin: var(--sp-1) 0 0; color: var(--fg-muted); font-size: var(--fs-sm); }
 
 /* The seven gates / method grid */
 .creed-section { background: var(--bg-sunken); }
@@ -607,8 +556,8 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 .method-grid p { color: var(--fg-muted); font-size: var(--fs-sm); line-height: 1.6; margin: 0; }
 
 /* Hero card meta + the seven-gates list */
-.hero-card .meta { color: var(--inv-fg-muted); margin-bottom: var(--sp-3); }
-.hero-card .meta > span + span::before { background: var(--inv-border); }
+.hero-card .meta { color: var(--fg-subtle); margin-bottom: var(--sp-3); }
+.hero-card .meta > span + span::before { background: var(--border-strong); }
 .hero-card h3 { font-size: var(--fs-md); margin-bottom: var(--sp-3); }
 
 .gate-list {
@@ -669,8 +618,9 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 .prose table { width: 100%; border-collapse: collapse; font-size: var(--fs-sm); }
 .prose th, .prose td { padding: var(--sp-3); border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
 .prose thead th {
-  background: var(--inv-bg);
-  color: var(--inv-fg);
+  background: var(--bg-sunken);
+  color: var(--fg);
+  border-bottom: 2px solid var(--accent);
   font-family: var(--font-interface), system-ui, sans-serif;
   font-size: var(--fs-xs);
   text-transform: uppercase;
@@ -819,19 +769,17 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
   letter-spacing: 0.06em;
 }
 .lab-field small { font: 400 var(--fs-2xs)/1.4 var(--font-interface), system-ui, sans-serif; text-transform: none; letter-spacing: 0; color: var(--fg-subtle); }
-.lab-output p { color: var(--inv-fg-muted); }
-.lab-output .kicker { color: var(--inv-accent); }
+.lab-output p { color: var(--fg-muted); }
+.lab-output .kicker { color: var(--accent-text); }
 .lab-big-value { font-size: var(--fs-3xl); line-height: 1; font-family: var(--font-editorial), Georgia, serif; margin: var(--sp-3) 0; }
-.lab-stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--inv-border); margin: var(--sp-5) 0; }
-.lab-stat-grid > div { background: var(--inv-bg); padding: var(--sp-3); display: grid; gap: var(--sp-1); }
-.lab-stat-grid span { color: var(--inv-fg-muted); font: 500 var(--fs-2xs)/1.2 var(--font-interface), system-ui, sans-serif; text-transform: uppercase; letter-spacing: 0.06em; }
+.lab-stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--border-strong); margin: var(--sp-5) 0; }
+.lab-stat-grid > div { background: var(--bg-sunken); padding: var(--sp-3); display: grid; gap: var(--sp-1); }
+.lab-stat-grid span { color: var(--fg-subtle); font: 500 var(--fs-2xs)/1.2 var(--font-interface), system-ui, sans-serif; text-transform: uppercase; letter-spacing: 0.06em; }
 .lab-stat-grid strong { font-size: var(--fs-md); }
 .positive { color: var(--positive) !important; }
 .negative { color: var(--negative) !important; }
-.lab-output .positive { color: #89B69C !important; }
-.lab-output .negative { color: #E0917E !important; }
 .lab-fine { font: 400 var(--fs-xs)/1.5 var(--font-interface), system-ui, sans-serif; }
-.lab-error { background: var(--brand-oxblood); color: #fff; padding: var(--sp-4); font: 400 var(--fs-sm)/1.5 var(--font-interface), system-ui, sans-serif; }
+.lab-error { background: #F7E4DF; color: var(--brand-oxblood); border-left: 4px solid var(--brand-oxblood); padding: var(--sp-4); font: 500 var(--fs-sm)/1.5 var(--font-interface), system-ui, sans-serif; }
 
 .lab-table-wrap { margin-top: var(--sp-6); border: 1px solid var(--border); }
 .lab-table { width: 100%; border-collapse: collapse; min-width: 840px; background: var(--bg-raised); font-size: var(--fs-sm); }
@@ -846,7 +794,7 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 }
 .lab-table th, .lab-table td { padding: var(--sp-3); border-top: 1px solid var(--border); text-align: right; }
 .lab-table th:first-child, .lab-table td:first-child { text-align: left; }
-.lab-table thead th { background: var(--inv-bg); color: var(--inv-fg); border-color: var(--inv-border); font-family: var(--font-interface), system-ui, sans-serif; font-size: var(--fs-xs); text-transform: uppercase; letter-spacing: 0.05em; }
+.lab-table thead th { background: var(--bg-sunken); color: var(--fg); border-bottom: 2px solid var(--accent); font-family: var(--font-interface), system-ui, sans-serif; font-size: var(--fs-xs); text-transform: uppercase; letter-spacing: 0.05em; }
 .lab-method { max-width: 860px; margin-top: var(--sp-6); }
 .lab-method h3 { font-size: var(--fs-lg); }
 .lab-method p { color: var(--fg-muted); line-height: 1.7; }
