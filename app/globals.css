@@ -43,8 +43,8 @@
   --border: #D8D2C4;
   --border-strong: #BDB49F;
 
-  /* Inverted surface — header and footer chrome ONLY. Reading surfaces
-     (articles, essays, briefs) stay light; nothing dark sits behind body copy. */
+  /* Inverted surface — the site header ONLY. Everything else, footer
+     included, is light; nothing dark sits behind body copy. */
   --inv-bg: #1A1F24;
   --inv-bg-raised: #232930;
   --inv-fg: #FBF8F1;
@@ -305,24 +305,24 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 .nav-toggle { display: none; }
 
 .site-footer {
-  background: var(--inv-bg);
-  color: var(--inv-fg);
+  background: var(--bg-sunken);
+  color: var(--fg);
   border-top: 3px solid var(--accent);
   padding-block: var(--sp-7);
   margin-top: var(--sp-10);
 }
 .footer-inner { display: flex; justify-content: space-between; gap: var(--sp-6); align-items: flex-end; }
 .site-footer strong { font-family: var(--font-display), Georgia, serif; letter-spacing: 0.04em; }
-.site-footer p { margin: var(--sp-2) 0 0; color: var(--inv-fg-muted); font-size: var(--fs-sm); }
+.site-footer p { margin: var(--sp-2) 0 0; color: var(--fg-muted); font-size: var(--fs-sm); }
 .footer-links { display: flex; gap: var(--sp-2) var(--sp-4); flex-wrap: wrap; max-width: 460px; }
 .footer-links a {
   display: inline-flex; align-items: center; min-height: 32px;
-  color: var(--inv-fg-muted);
+  color: var(--fg-muted);
   font: 500 var(--fs-2xs)/1 var(--font-interface), system-ui, sans-serif;
   text-transform: uppercase; letter-spacing: 0.06em; text-decoration: none;
 }
-.footer-links a:hover { color: var(--inv-accent); }
-.house-rule { color: var(--inv-accent) !important; font-style: italic; }
+.footer-links a:hover { color: var(--accent-text); }
+.house-rule { color: var(--accent-text) !important; font-style: italic; }
 
 /* ---------- 6. Components ------------------------------------------------ */
 
