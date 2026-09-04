@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#1A1F24"/>
-  <path d="M18 50V28C18 16 24 9 32 9s14 7 14 19v22" fill="none" stroke="#C69A52" stroke-width="3"/>
-  <path d="M24 24h16M24 32h16" stroke="#A67C3D" stroke-width="2"/>
-  <text x="32" y="45" text-anchor="middle" font-size="18" font-family="Georgia,serif" fill="#FBF8F1">VII</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Seven Gates Research">
+  <rect width="64" height="64" rx="12" fill="#443A2D"/>
+  <g fill="none" stroke="#E3C08A" stroke-linecap="round">
+    <path d="M13 53V27a19 19 0 0 1 38 0v26" stroke-width="4.5"/>
+    <path d="M13 27h38" stroke-width="4"/>
+    <path d="M22.5 53V27M32 53V27M41.5 53V27" stroke-width="4"/>
+  </g>
 </svg>

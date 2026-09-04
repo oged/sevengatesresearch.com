@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Archivo, Cinzel, EB_Garamond } from "next/font/google";
+import { GateMark } from "@/components/GateMark";
 import { SiteNav } from "@/components/SiteNav";
 import { NAV_LINKS } from "@/lib/nav";
 import "./globals.css";
@@ -44,7 +45,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="site-header">
           <div className="shell header-inner">
             <a className="brand" href="/">
-              <span className="gate-mark" aria-hidden="true">Ⅶ</span>
+              <GateMark className="gate-mark" />
               <span>
                 <strong>SEVEN GATES RESEARCH</strong>
                 <small>Knowledge. Context. Advantage.</small>

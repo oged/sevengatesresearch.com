@@ -9,10 +9,7 @@
 :root {
   color-scheme: light;
 
-  /* Brand constants — these do not change between themes */
-  --brand-ink: #1A1F24;
-  --brand-brass: #A67C3D;
-  --brand-brass-light: #C69A52;
+  /* Brand constant used directly by the lab error state. */
   --brand-oxblood: #46160F;
 
   /* Surfaces. The page is warm parchment rather than white, and sections
@@ -45,12 +42,11 @@
 
   /* Inverted surface — the site header ONLY. Everything else, footer
      included, is light; nothing dark sits behind body copy. */
-  --inv-bg: #1A1F24;
-  --inv-bg-raised: #232930;
+  --inv-bg: #443A2D;
   --inv-fg: #FBF8F1;
-  --inv-fg-muted: #CFC9BC;
-  --inv-border: #3C434A;
-  --inv-accent: #C69A52;
+  --inv-fg-muted: #DED6C6;
+  --inv-border: #5F5340;
+  --inv-accent: #E3C08A;
 
   /* Signal */
   --positive: #2F6B4F;
@@ -279,14 +275,9 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 
 .gate-mark {
   flex: none;
-  width: 40px; height: 48px;
-  border: 1px solid var(--inv-accent);
-  border-radius: 20px 20px 3px 3px;
-  display: grid;
-  place-items: center;
+  width: 34px;
+  height: 41px;
   color: var(--inv-accent);
-  font-family: var(--font-display), Georgia, serif;
-  font-size: var(--fs-sm);
 }
 
 .site-nav { display: flex; align-items: center; gap: var(--sp-5); }
@@ -873,7 +864,7 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
   .company-file-actions { display: grid; }
   .brand small { display: none; }
   .brand strong { font-size: var(--fs-sm); letter-spacing: 0.03em; }
-  .gate-mark { width: 32px; height: 38px; }
+  .gate-mark { width: 28px; height: 34px; }
   .prose { font-size: var(--fs-base); }
 }
 
