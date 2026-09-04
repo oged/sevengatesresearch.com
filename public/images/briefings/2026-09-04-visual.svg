@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+<title id="title">THE SHOCK PATH</title>
+<desc id="desc">A four-stage transmission board showing low Strait of Hormuz traffic, Brent crude at $95.52 a barrel, Nigerian depot petrol prices up to ₦1,290 per litre and NNPC Lagos pump prices at ₦1,299 per litre.</desc>
+<style>
+  .eyebrow{font:700 18px Arial,sans-serif;letter-spacing:3px;fill:#B08A3E}
+  .title{font:700 50px Georgia,serif;fill:#0B1F33}
+  .subtitle{font:400 24px Arial,sans-serif;fill:#64707B}
+  .label{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .labelLight{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .value{font:700 35px Georgia,serif;fill:#0B1F33}
+  .valueLight{font:700 35px Georgia,serif;fill:#FFFFFF}
+  .valueSmall{font:700 26px Georgia,serif;fill:#0B1F33}
+  .detail{font:400 20px Arial,sans-serif;fill:#0B1F33}
+  .detailLight{font:400 20px Arial,sans-serif;fill:#FFFFFF}
+  .rank{font:700 28px Georgia,serif;fill:#B08A3E}
+  .source{font:400 15px Arial,sans-serif;fill:#64707B}
+</style>
+<rect width="1400" height="760" fill="#F5F0E6"/>
+<rect x="0" y="0" width="1400" height="14" fill="#0B1F33"/>
+<text x="55" y="72" class="eyebrow">SEVEN GATES RESEARCH · VISUAL OF THE DAY</text>
+<text x="55" y="142" class="title">THE SHOCK PATH</text>
+<text x="55" y="190" class="subtitle">How Gulf insecurity is moving from the shipping lane to Nigeria’s forecourts</text>
+<rect x="55" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#B08A3E" stroke-width="4"/><text x="79" y="318" class="label">STRAIT OF HORMUZ TRAFFIC</text><text x="79" y="375" class="value">Still low</text><text x="79" y="425" class="detail">Commercial shipping remained</text>
+<text x="79" y="451" class="detail">subdued after renewed US and</text>
+<text x="79" y="477" class="detail">Iranian attacks.</text><path d="M 345 420 L 370 420" stroke="#B08A3E" stroke-width="4"/><path d="M 365 411 L 375 420 L 365 429" fill="none" stroke="#B08A3E" stroke-width="4"/><rect x="380" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="404" y="318" class="label">BRENT CRUDE</text><text x="404" y="375" class="value">$95.52/bbl</text><text x="404" y="425" class="detail">The benchmark was heading for a</text>
+<text x="404" y="451" class="detail">7.6% weekly rise.</text><path d="M 670 420 L 695 420" stroke="#B08A3E" stroke-width="4"/><path d="M 690 411 L 700 420 L 690 429" fill="none" stroke="#B08A3E" stroke-width="4"/><rect x="705" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="729" y="318" class="label">NIGERIA DEPOT PETROL</text><text x="729" y="375" class="value">Up to ₦1,290/litre</text><text x="729" y="425" class="detail">Prices rose across Lagos,</text>
+<text x="729" y="451" class="detail">Calabar, Port Harcourt and</text>
+<text x="729" y="477" class="detail">Warri hubs.</text><path d="M 995 420 L 1020 420" stroke="#B08A3E" stroke-width="4"/><path d="M 1015 411 L 1025 420 L 1015 429" fill="none" stroke="#B08A3E" stroke-width="4"/><rect x="1030" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="1054" y="318" class="label">NNPC LAGOS PUMP PRICE</text><text x="1054" y="375" class="value">₦1,299/litre</text><text x="1054" y="425" class="detail">Reported retail price following</text>
+<text x="1054" y="451" class="detail">repeated refinery and depot</text>
+<text x="1054" y="477" class="detail">adjustments.</text>
+<line x1="55" y1="690" x2="1345" y2="690" stroke="#EDE4D3" stroke-width="2"/>
+<text x="55" y="724" class="source">Sources: Reuters: Oil set for steepest weekly gain since mid-July · Associated Press: Ship traffic remains low after renewed attacks · Vanguard: Depot petrol prices reach ₦1,290 · Legit.ng: NNPC adjusts retail petrol prices. Seven Gates Research, 2026-09-04.</text>
+</svg>
