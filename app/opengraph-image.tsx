@@ -22,21 +22,24 @@ export default function OpenGraphImage() {
         <div style={{
           width: 86,
           height: 104,
-          position: "relative",
           display: "flex",
-          alignItems: "flex-start",
-          justifyContent: "center",
-          gap: 9,
-          padding: "0 13px",
+          flexDirection: "column",
+          justifyContent: "flex-end",
           border: "3px solid #E3C08A",
           borderRadius: "43px 43px 8px 8px",
-          borderTopWidth: 3,
         }}>
-          <div style={{ width: 4, height: 46, background: "#E3C08A" }} />
-          <div style={{ width: 4, height: 46, background: "#E3C08A" }} />
-          <div style={{ width: 4, height: 46, background: "#E3C08A" }} />
-          <div style={{ width: 4, height: 46, background: "#E3C08A" }} />
-          <div style={{ width: 4, height: 46, background: "#E3C08A" }} />
+          <div style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "flex-start",
+            gap: 11,
+            height: 56,
+            borderTop: "3px solid #E3C08A",
+          }}>
+            <div style={{ width: 5, height: 53, background: "#E3C08A" }} />
+            <div style={{ width: 5, height: 53, background: "#E3C08A" }} />
+            <div style={{ width: 5, height: 53, background: "#E3C08A" }} />
+          </div>
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
           <div style={{ color: "#E3C08A", fontSize: 25, letterSpacing: 5 }}>SEVEN GATES RESEARCH</div>

@@ -101,6 +101,12 @@ body {
 
 img, svg, video { max-width: 100%; height: auto; display: block; }
 
+/* A long unbreakable string — a run-together tag list, a bare URL — must wrap
+   rather than push the whole page sideways. */
+:where(p, li, h1, h2, h3, h4, dd, dt, td, th, blockquote, figcaption, .deck) {
+  overflow-wrap: break-word;
+}
+
 a { color: inherit; text-decoration-color: var(--accent); text-underline-offset: 3px; }
 a:hover { text-decoration-color: var(--accent-hover); }
 
