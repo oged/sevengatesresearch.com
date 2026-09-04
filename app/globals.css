@@ -11,6 +11,7 @@
 
   /* Brand constant used directly by the lab error state. */
   --brand-oxblood: #46160F;
+  --brand-travertine: #C6BFAE;
 
   /* Surfaces. The page is warm parchment rather than white, and sections
      alternate between --bg and the deeper --bg-sunken. Cards sit on
@@ -27,14 +28,14 @@
   /* Accent. --accent is for fills, rules and large type; --accent-text is
      darkened to clear 4.5:1 on --bg for the small uppercase kickers. */
   --accent: #A67C3D;
-  --accent-text: #7A5A24;
-  --accent-hover: #5E4419;
+  --accent-text: #7A5A2E;   /* brand link colour */
+  --accent-hover: #46160F;  /* brand link hover: oxblood */
 
   /* Buttons carry small uppercase type, so the fill has to clear 4.5:1
      against the label rather than just look like the brand brass. */
-  --btn-bg: #7A5A24;
+  --btn-bg: #7A5A2E;
   --btn-fg: #FFFFFF;
-  --btn-bg-hover: #5E4419;
+  --btn-bg-hover: #46160F;
 
   /* Lines */
   --border: #D8D2C4;
@@ -264,26 +265,33 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 
 .brand { display: flex; align-items: center; gap: var(--sp-3); text-decoration: none; min-width: 0; }
 .brand > span:last-child { min-width: 0; }
-.brand strong {
+.wordmark { display: block; min-width: 0; }
+.wordmark strong {
   display: block;
   font-family: var(--font-display), Georgia, serif;
-  letter-spacing: 0.045em;
+  font-weight: 600;
   font-size: var(--fs-md);
-  line-height: 1.1;
+  line-height: 1.05;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
-.brand small {
+.wordmark small {
   display: block;
   color: var(--inv-accent);
-  font: 500 var(--fs-2xs)/1.3 var(--font-interface), system-ui, sans-serif;
-  letter-spacing: 0.06em;
-  margin-top: 3px;
+  font: 500 var(--fs-2xs)/1 var(--font-interface), system-ui, sans-serif;
+  letter-spacing: 0.44em;
+  text-transform: uppercase;
+  margin-top: 5px;
 }
+.site-footer .wordmark small { color: var(--accent-text); }
 
+/* Stone takes currentColor; the keystone is always brass. */
 .gate-mark {
   flex: none;
-  width: 34px;
-  height: 41px;
-  color: var(--inv-accent);
+  width: 36px;
+  height: 42px;
+  color: var(--brand-travertine);
+  --mark-keystone: var(--inv-accent);
 }
 
 .site-nav { display: flex; align-items: center; gap: var(--sp-5); }
@@ -566,17 +574,26 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
 }
 .gate-list li {
   display: grid;
-  grid-template-columns: 2.75rem minmax(0, 1fr);
+  grid-template-columns: 2.75rem minmax(0, 1fr) auto;
   gap: var(--sp-3);
   align-items: baseline;
   padding-block: var(--sp-3);
   border-bottom: 1px solid var(--border);
   font-size: var(--fs-sm);
 }
-.gate-list span {
+.gate-list li > span:first-child {
   color: var(--accent-text);
-  font: 600 var(--fs-xs)/1.4 var(--font-interface), system-ui, sans-serif;
+  font: 600 var(--fs-sm)/1.4 var(--font-display), Georgia, serif;
   letter-spacing: 0.08em;
+}
+/* The seventh stone locks the ring — the brand's central idea, so it is marked. */
+.gate-list li.is-keystone { border-top: 2px solid var(--accent); }
+.gate-list li.is-keystone em {
+  color: var(--accent-text);
+  font: 500 var(--fs-2xs)/1 var(--font-interface), system-ui, sans-serif;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-style: normal;
 }
 
 /* ---------- 7. Article & prose ------------------------------------------- */
@@ -868,9 +885,9 @@ h3 { font-size: var(--fs-lg); line-height: 1.2; margin-bottom: var(--sp-2); }
   .article-head h1 { max-width: none; }
   .lab-jump { display: grid; grid-template-columns: 1fr; }
   .company-file-actions { display: grid; }
-  .brand small { display: none; }
-  .brand strong { font-size: var(--fs-sm); letter-spacing: 0.03em; }
-  .gate-mark { width: 28px; height: 34px; }
+  .wordmark strong { font-size: var(--fs-sm); letter-spacing: 0.11em; }
+  .wordmark small { letter-spacing: 0.34em; }
+  .gate-mark { width: 30px; height: 35px; }
   .prose { font-size: var(--fs-base); }
 }
 

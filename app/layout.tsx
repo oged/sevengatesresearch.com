@@ -5,8 +5,8 @@ import { SiteNav } from "@/components/SiteNav";
 import { NAV_LINKS } from "@/lib/nav";
 import "./globals.css";
 
-const cinzel = Cinzel({ subsets: ["latin"], weight: ["600"], variable: "--font-display" });
-const garamond = EB_Garamond({ subsets: ["latin"], weight: ["400","500","600"], variable: "--font-editorial" });
+const cinzel = Cinzel({ subsets: ["latin"], weight: ["400", "600"], variable: "--font-display" });
+const garamond = EB_Garamond({ subsets: ["latin"], weight: ["400", "500", "600"], style: ["normal", "italic"], variable: "--font-editorial" });
 const archivo = Archivo({ subsets: ["latin"], weight: ["400","500","600"], variable: "--font-interface" });
 
 export const metadata: Metadata = {
@@ -46,9 +46,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="shell header-inner">
             <a className="brand" href="/">
               <GateMark className="gate-mark" />
-              <span>
-                <strong>SEVEN GATES RESEARCH</strong>
-                <small>Knowledge. Context. Advantage.</small>
+              <span className="wordmark">
+                <strong>Seven Gates</strong>
+                <small>Research</small>
               </span>
             </a>
             <SiteNav />
@@ -60,7 +60,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer className="site-footer">
           <div className="shell footer-inner">
             <div>
-              <strong>SEVEN GATES RESEARCH</strong>
+              <span className="wordmark">
+                <strong>Seven Gates</strong>
+                <small>Research</small>
+              </span>
               <p>Independent research on companies, markets and power.</p>
             </div>
             <nav className="footer-links" aria-label="Footer">

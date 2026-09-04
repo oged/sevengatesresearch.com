@@ -23,6 +23,8 @@ export const metadata: Metadata = {
   },
 };
 
+const ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII"];
+
 const GATES = [
   "Ownership and governance",
   "Business economics",
@@ -155,10 +157,14 @@ export default function HomePage() {
           <h2 id="creed-title">Judgement before ornament.</h2>
           <p className="deck">Every company passes through the same seven gates before it earns a view.</p>
           <ol className="gate-list">
-            {GATES.map((gate, index) => <li key={gate}>
-              <span aria-hidden="true">{String(index + 1).padStart(2, "0")}</span>
-              {gate}
-            </li>)}
+            {GATES.map((gate, index) => {
+              const keystone = index === GATES.length - 1;
+              return <li key={gate} className={keystone ? "is-keystone" : undefined}>
+                <span aria-hidden="true">{ROMAN[index]}</span>
+                <span>{gate}</span>
+                {keystone && <em>The keystone</em>}
+              </li>;
+            })}
           </ol>
         </div>
         <div className="hero-card">

@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Seven Gates Research">
   <rect width="64" height="64" rx="12" fill="#443A2D"/>
-  <g fill="none" stroke="#E3C08A" stroke-linecap="round">
-    <path d="M13 53V27a19 19 0 0 1 38 0v26" stroke-width="4.5"/>
-    <path d="M13 27h38" stroke-width="4"/>
-    <path d="M22.5 53V27M32 53V27M41.5 53V27" stroke-width="4"/>
+  <g fill="none" stroke="#C6BFAE" stroke-width="3">
+    <path d="M12 34a20 20 0 0 1 40 0h-7a13 13 0 0 0-26 0Z"/>
+    <path d="M12.8 34v18M51.2 34v18M19 34v18M45 34v18"/>
+    <path d="M9 52.6h46" stroke-width="4"/>
   </g>
+  <path d="M25.6 15.4a20 20 0 0 1 12.8 0l-2.1 6.3a13 13 0 0 0-8.6 0Z" fill="#C69A52"/>
+  <path d="M28.6 52.6v-8a3.4 3.4 0 0 1 6.8 0v8Z" fill="#C69A52"/>
 </svg>
