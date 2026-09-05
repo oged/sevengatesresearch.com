@@ -10,9 +10,9 @@ researchType: "Essay"
 category: "Technology"
 ticker: "UBER"
 region: "Global"
-hero: "/images/research/uber-nigeria-go-slow/hero-uber-nigeria-exit.svg"
-heroAlt: "Seven Gates Research signal board on Uber's 2 September 2026 Nigeria exit, marking 3,300 global layoffs on the same day, more than $10 billion committed to autonomous mobility, and a $75.24 close for UBER against a $101.99 fifty-two-week high."
-heroCaption: "Seven Gates factual signal board on the 2 September 2026 pivot. Sources are linked below."
+hero: "/images/research/uber-nigeria-go-slow/hero-uber-share-price-arc.svg"
+heroAlt: "Line chart of Uber's share price from its May 2019 IPO at $45.00 through the pandemic dip, 2021 rebound, 2022 tech drawdown, 2024 to 2026 rebuild, a $101.99 fifty-two-week high and a $75.24 close on 1 September 2026, the session before Uber's Nigeria exit and 3,300-person restructuring."
+heroCaption: "UBER share price arc from May 2019 IPO to the 1 September 2026 close. Anchor points are exact; intermediate line is illustrative direction only. Sources listed at the foot of the essay."
 ---
 
 ## At a glance
@@ -109,6 +109,8 @@ So we reconstructed them.
 
 The Seven Gates shadow model uses Uber's early trip and distance disclosures, reported rider and driver milestones, historical fares, service fees, later driver economics and market-growth evidence. It is not Uber's reported Nigerian P&L.
 
+![Line chart of Uber Nigeria's estimated nominal platform revenue in Nigerian naira from 2014 to 2025, rising from near zero to approximately 12.6 billion naira with a visible pandemic dip in 2020 and rapid acceleration from 2022.](/images/research/uber-nigeria-go-slow/figure-1-nigeria-revenue.svg)
+
 On that reconstruction, Uber Nigeria may have reached roughly ₦60 billion of gross bookings and ₦12.5 billion of platform revenue in 2025, with a pre-exit 2026 annualised trajectory closer to ₦75 billion and ₦16 billion respectively.
 
 The exact figures will be wrong. The order of magnitude is what matters.
@@ -189,6 +191,8 @@ A driver can be active on Uber, Bolt and inDrive. Each platform counts a driver.
 
 A 2023 Oliver Wyman / Bolt survey found 32 per cent of Nigerian Bolt drivers used multiple ride-hailing apps. An earlier Nigerian study found enough overlap and secondary employment that about 21,000 claimed digital-taxi jobs across major platforms translated into an estimated 7,388 net new jobs after adjusting for pluriactivity and duplication.
 
+![Two-bar chart comparing approximately 21,000 headline platform driver positions in Nigerian ride-hailing to 7,388 estimated net new jobs after adjusting for multi-app overlap and secondary work.](/images/research/uber-nigeria-go-slow/figure-2-driver-overlap.svg)
+
 If Uber had 12,000 active drivers, 12,000 people did not become unemployed on 2 September. Many were already on Bolt, inDrive or Rida.
 
 What they lost was something harder to count: an outside option.
@@ -224,6 +228,8 @@ This is not a company running out of petrol.
 Uber generated about $52.0 billion of revenue, $193.5 billion of gross bookings and $9.76 billion of free cash flow in 2025. In the second quarter of 2026 it completed 3.9 billion trips, generated $14.2 billion of revenue and pushed trailing twelve-month free cash flow above $10 billion.
 
 The stock tells a similarly complicated story. Uber went public at $45 in 2019. It closed on 1 September 2026 at $75.24, below its $101.99 52-week high. This was not a distressed company retreating to California with creditors behind it.
+
+![Three-bar chart of Uber's share-price anchor points: the May 2019 IPO reference of $45.00, the $101.99 fifty-two-week high and the $75.24 close on 1 September 2026.](/images/research/uber-nigeria-go-slow/figure-3-share-price-points.svg)
 
 And here comes the exquisite reversal.
 
