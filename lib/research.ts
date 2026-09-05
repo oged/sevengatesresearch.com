@@ -33,6 +33,18 @@ function getFiles() {
 function parse(fileName: string): ResearchItem {
   const raw = fs.readFileSync(path.join(dir, fileName), "utf8");
   const { data, content } = matter(raw);
+  const includes = Array.isArray(data.bodyIncludes)
+    ? data.bodyIncludes.map((entry: unknown) => String(entry))
+    : [];
+  const includedContent = includes.map((entry: string) => {
+    const includePath = path.join(dir, entry);
+    if (!fs.existsSync(includePath)) {
+      throw new Error(`Missing research include: ${entry}`);
+    }
+    return fs.readFileSync(includePath, "utf8");
+  });
+  const body = [content, ...includedContent].filter(Boolean).join("\n\n");
+
   return {
     slug: String(data.slug || fileName.replace(/\.md$/, "")),
     date: String(data.date || "2026-01-01"),
@@ -50,7 +62,7 @@ function parse(fileName: string): ResearchItem {
     legacyUrl: data.legacyUrl ? String(data.legacyUrl) : undefined,
     legacyImported: Boolean(data.legacyImported),
     draft: Boolean(data.draft),
-    html: renderMarkdown(content),
+    html: renderMarkdown(body),
   };
 }
 
