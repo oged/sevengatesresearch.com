@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+<title id="title">Today’s signal board</title>
+<desc id="desc">Signal board showing oil’s weekly gain, the implied probability of a September Federal Reserve increase and the maximum size of the Dangote Refinery IPO.</desc>
+<style>
+  .eyebrow{font:700 18px Arial,sans-serif;letter-spacing:3px;fill:#B08A3E}
+  .title{font:700 50px Georgia,serif;fill:#0B1F33}
+  .subtitle{font:400 24px Arial,sans-serif;fill:#64707B}
+  .label{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .labelLight{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .value{font:700 35px Georgia,serif;fill:#0B1F33}
+  .valueLight{font:700 35px Georgia,serif;fill:#FFFFFF}
+  .valueSmall{font:700 26px Georgia,serif;fill:#0B1F33}
+  .detail{font:400 20px Arial,sans-serif;fill:#0B1F33}
+  .detailLight{font:400 20px Arial,sans-serif;fill:#FFFFFF}
+  .rank{font:700 28px Georgia,serif;fill:#B08A3E}
+  .source{font:400 15px Arial,sans-serif;fill:#64707B}
+</style>
+<rect width="1400" height="760" fill="#F5F0E6"/>
+<rect x="0" y="0" width="1400" height="14" fill="#0B1F33"/>
+<text x="55" y="72" class="eyebrow">SEVEN GATES RESEARCH · VISUAL OF THE DAY</text>
+<text x="55" y="142" class="title">Today’s signal board</text>
+<text x="55" y="190" class="subtitle">Three developments transmitting geopolitical and corporate power into prices and capital</text>
+<text x="55" y="220" class="subtitle">markets</text>
+<rect x="55" y="250" width="390" height="330" rx="18" fill="#0B1F33" stroke="#0B1F33" stroke-width="2"/><text x="81" y="305" class="labelLight">OIL SHOCK</text><text x="81" y="385" class="valueLight">&gt;6% weekly gain</text><text x="81" y="440" class="detailLight">Crude rose as US-Iran military</text>
+<text x="81" y="467" class="detailLight">exchanges resumed and Hormuz</text>
+<text x="81" y="494" class="detailLight">shipping remained uncertain.</text><rect x="81" y="535" width="338" height="5" rx="2" fill="#B08A3E"/><rect x="473" y="250" width="390" height="330" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="499" y="305" class="label">US RATE RISK</text><text x="499" y="385" class="value">58.4%</text><text x="499" y="440" class="detail">Market-implied probability of a</text>
+<text x="499" y="467" class="detail">25-basis-point Federal Reserve</text>
+<text x="499" y="494" class="detail">increase after the August jobs</text><rect x="499" y="535" width="338" height="5" rx="2" fill="#B08A3E"/><rect x="891" y="250" width="390" height="330" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="917" y="305" class="label">NIGERIA’S MARKET TEST</text><text x="917" y="385" class="value">₦2.15tn</text><text x="917" y="440" class="detail">Potential proceeds from 4.1</text>
+<text x="917" y="467" class="detail">billion Dangote Refinery shares</text>
+<text x="917" y="494" class="detail">offered at ₦525 each.</text><rect x="917" y="535" width="338" height="5" rx="2" fill="#B08A3E"/>
+<line x1="55" y1="690" x2="1345" y2="690" stroke="#EDE4D3" stroke-width="2"/>
+<text x="55" y="724" class="source">Sources: US Central Command · US Maritime Administration · Reuters via MarketScreener · US Bureau of Labor Statistics. Seven Gates Research, 2026-09-05.</text>
+</svg>
