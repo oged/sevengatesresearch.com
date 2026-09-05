@@ -9,7 +9,7 @@ kicker: "SEVEN GATES RESEARCH · THEMATIC ESSAY"
 researchType: "Essay"
 category: "Markets & power"
 region: "Nigeria"
-hero: "/images/research/republic-of-30-percent-nigeria-ponzi-schemes/hero-final.png?v=20260906a"
+hero: "/images/research/republic-of-30-percent-nigeria-ponzi-schemes/hero-final.png?v=20260906b"
 heroAlt: "Seven Gates editorial illustration of a queue outside a fictional investment office promising 30 percent monthly returns."
 heroCaption: "Seven Gates editorial illustration. Fictional scene, not documentary evidence."
 bodyIncludes:
