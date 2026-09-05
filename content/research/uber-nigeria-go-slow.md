@@ -1,4 +1,4 @@
-—--
+---
 draft: false
 slug: "uber-nigeria-go-slow"
 date: "2026-09-05"
@@ -416,4 +416,3 @@ This essay does not change the standing Seven Gates rating on NYSE: UBER. It is 
 - [Reuters / technology press coverage of Travis Kalanick, Atoms and Pronto](https://www.reuters.com/technology/kalanick-atoms-raises-17-billion-a16z-2026-07-15/)
 - Aristotle, *Politics*, Book I, on self-acting tools.
 - Fela Kuti, *Go Slow*, historical and cultural reference.
-
