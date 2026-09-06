@@ -2,7 +2,7 @@
 draft: false
 slug: "uber-nigeria-go-slow"
 date: "2026-09-05"
-title: "Go Slow"
+title: "Uber Nigeria: The Cheapest Drivers Were Still Too Expensive"
 excerpt: "Uber left Lagos on the same day it cut 3,300 employees. Months earlier it had committed more than $10 billion to autonomous vehicles. Not the same event. The same capital-allocation problem."
 readingTime: "18 min"
 kicker: "SEVEN GATES RESEARCH · LOKOJA CONTRARIAN"
