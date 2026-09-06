@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+<title id="title">Today&apos;s risk ladder</title>
+<desc id="desc">Risk ladder ranking four developments: US strikes on three Iranian tankers with Brent at $95.29, the US envoys&apos; visit to Kyiv, AGOA&apos;s extension to 2028, and Nigeria&apos;s $2.86 billion of syndicated bank loans.</desc>
+<style>
+  .eyebrow{font:700 18px Arial,sans-serif;letter-spacing:3px;fill:#B08A3E}
+  .title{font:700 50px Georgia,serif;fill:#0B1F33}
+  .subtitle{font:400 24px Arial,sans-serif;fill:#64707B}
+  .label{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .labelLight{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .value{font:700 35px Georgia,serif;fill:#0B1F33}
+  .valueLight{font:700 35px Georgia,serif;fill:#FFFFFF}
+  .valueSmall{font:700 26px Georgia,serif;fill:#0B1F33}
+  .detail{font:400 20px Arial,sans-serif;fill:#0B1F33}
+  .detailLight{font:400 20px Arial,sans-serif;fill:#FFFFFF}
+  .rank{font:700 28px Georgia,serif;fill:#B08A3E}
+  .source{font:400 15px Arial,sans-serif;fill:#64707B}
+</style>
+<rect width="1400" height="760" fill="#F5F0E6"/>
+<rect x="0" y="0" width="1400" height="14" fill="#0B1F33"/>
+<text x="55" y="72" class="eyebrow">SEVEN GATES RESEARCH · VISUAL OF THE DAY</text>
+<text x="55" y="142" class="title">Today&apos;s risk ladder</text>
+<text x="55" y="190" class="subtitle">Four developments ranked by how directly they can reprice Nigerian assets this week</text>
+<text x="70" y="296" class="rank">01</text><rect x="150" y="260" width="930" height="72" rx="12" fill="#0B1F33" stroke="#0B1F33" stroke-width="2"/><text x="178" y="291" class="labelLight">IRAN&apos;S OIL FLEET UNDER FIRE</text><text x="178" y="319" class="detailLight">Three IRGC tankers disabled or destroyed after missiles at US warships.</text><text x="1108" y="307" class="valueSmall">$95.29 Brent</text><text x="70" y="391" class="rank">02</text><rect x="150" y="355" width="785" height="72" rx="12" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="178" y="386" class="label">ENVOYS IN KYIV</text><text x="178" y="414" class="detail">Putin talks ran 3h 10m; strikes paused on two capitals only.</text><text x="963" y="402" class="valueSmall">3h 10m</text><text x="70" y="486" class="rank">03</text><rect x="150" y="450" width="640" height="72" rx="12" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="178" y="481" class="label">AGOA EXTENDED</text><text x="178" y="509" class="detail">Duty-free access restored for 32 countries incl. Nigeria.</text><text x="818" y="497" class="valueSmall">To Dec 2028</text><text x="70" y="581" class="rank">04</text><rect x="150" y="545" width="495" height="72" rx="12" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="178" y="576" class="label">COMMERCIAL DOLLAR DEBT</text><text x="178" y="604" class="detail">Federal syndicated loans, from $133.66m.</text><text x="673" y="592" class="valueSmall">$2.86bn</text>
+<line x1="55" y1="690" x2="1345" y2="690" stroke="#EDE4D3" stroke-width="2"/>
+<text x="55" y="724" class="source">Sources: US Central Command · PBS NewsHour · Reuters via Business Recorder · Kyiv Post. Seven Gates Research, 2026-09-06.</text>
+</svg>
