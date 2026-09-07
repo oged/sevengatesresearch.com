@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+<title id="title">Today’s transmission board</title>
+<desc id="desc">A four-item factual board linking the Hormuz conflict, US rate expectations, Dangote’s share offer and Nvidia’s Hugging Face acquisition to their market transmission channels.</desc>
+<style>
+  .eyebrow{font:700 18px Arial,sans-serif;letter-spacing:3px;fill:#B08A3E}
+  .title{font:700 50px Georgia,serif;fill:#0B1F33}
+  .subtitle{font:400 24px Arial,sans-serif;fill:#64707B}
+  .label{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .labelLight{font:700 17px Arial,sans-serif;letter-spacing:1.5px;fill:#B08A3E}
+  .value{font:700 35px Georgia,serif;fill:#0B1F33}
+  .valueLight{font:700 35px Georgia,serif;fill:#FFFFFF}
+  .valueSmall{font:700 26px Georgia,serif;fill:#0B1F33}
+  .detail{font:400 20px Arial,sans-serif;fill:#0B1F33}
+  .detailLight{font:400 20px Arial,sans-serif;fill:#FFFFFF}
+  .rank{font:700 28px Georgia,serif;fill:#B08A3E}
+  .source{font:400 15px Arial,sans-serif;fill:#64707B}
+</style>
+<rect width="1400" height="760" fill="#F5F0E6"/>
+<rect x="0" y="0" width="1400" height="14" fill="#0B1F33"/>
+<text x="55" y="72" class="eyebrow">SEVEN GATES RESEARCH · VISUAL OF THE DAY</text>
+<text x="55" y="142" class="title">Today’s transmission board</text>
+<text x="55" y="190" class="subtitle">How the principal shocks move from events into prices, policy and Nigerian assets</text>
+<rect x="55" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#B08A3E" stroke-width="4"/><text x="79" y="318" class="label">HORMUZ TO INFLATION</text><text x="79" y="375" class="value">Brent $97.48/bbl</text><text x="79" y="425" class="detail">Higher energy and freight costs</text>
+<text x="79" y="451" class="detail">reinforce global inflation</text>
+<text x="79" y="477" class="detail">pressure; Brent gained 7.8%</text><path d="M 345 420 L 370 420" stroke="#B08A3E" stroke-width="4"/><path d="M 365 411 L 375 420 L 365 429" fill="none" stroke="#B08A3E" stroke-width="4"/><rect x="380" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="404" y="318" class="label">JOBS TO DOLLAR RATES</text><text x="404" y="375" class="value">58% hike probability</text><text x="404" y="425" class="detail">Strong August payrolls</text>
+<text x="404" y="451" class="detail">increased market expectations</text>
+<text x="404" y="477" class="detail">of a Federal Reserve rate rise</text><path d="M 670 420 L 695 420" stroke="#B08A3E" stroke-width="4"/><path d="M 690 411 L 700 420 L 690 429" fill="none" stroke="#B08A3E" stroke-width="4"/><rect x="705" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="729" y="318" class="label">REFINERY TO NGX LIQUIDITY</text><text x="729" y="375" class="value">Up to ₦2.15tn</text><text x="729" y="425" class="detail">The reported Dangote offer</text>
+<text x="729" y="451" class="detail">could redirect substantial</text>
+<text x="729" y="477" class="detail">domestic capital from existing</text><path d="M 995 420 L 1020 420" stroke="#B08A3E" stroke-width="4"/><path d="M 1015 411 L 1025 420 L 1015 429" fill="none" stroke="#B08A3E" stroke-width="4"/><rect x="1030" y="270" width="280" height="300" rx="18" fill="#FFFFFF" stroke="#EDE4D3" stroke-width="2"/><text x="1054" y="318" class="label">CHIPS TO MODEL DISTRIBUTION</text><text x="1054" y="375" class="value">$12.93bn acquisition</text><text x="1054" y="425" class="detail">Nvidia’s agreed purchase of</text>
+<text x="1054" y="451" class="detail">Hugging Face extends its</text>
+<text x="1054" y="477" class="detail">position from compute hardware</text>
+<line x1="55" y1="690" x2="1345" y2="690" stroke="#EDE4D3" stroke-width="2"/>
+<text x="55" y="724" class="source">Sources: Reuters via MarketScreener UK · US Bureau of Labor Statistics · OPEC · Proshare. Seven Gates Research, 2026-09-07.</text>
+</svg>
