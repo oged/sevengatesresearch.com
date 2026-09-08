@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">The second invoice</title>
+  <desc id="desc">A factual transmission board linking Gulf conflict to Brent crude, Federal Reserve expectations, US Treasury yields and Nigerian costs.</desc>
+  <rect width="1600" height="900" fill="#f3eddf"/>
+  <rect x="38" y="38" width="1524" height="824" rx="8" fill="none" stroke="#1a1f24" stroke-width="4"/>
+  <path d="M38 150H1562" stroke="#a67c3d" stroke-width="7"/>
+  <text x="92" y="104" fill="#1a1f24" font-family="Georgia, serif" font-size="50" font-weight="700">THE SECOND INVOICE</text>
+  <text x="1508" y="102" text-anchor="end" fill="#6d665b" font-family="Arial, sans-serif" font-size="22" letter-spacing="3">8 SEPTEMBER 2026</text>
+
+  <g transform="translate(92 214)">
+    <rect width="318" height="390" fill="#fffdf8" stroke="#c6bfae" stroke-width="2"/>
+    <text x="28" y="52" fill="#a67c3d" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">01  PHYSICAL RISK</text>
+    <text x="28" y="126" fill="#1a1f24" font-family="Georgia, serif" font-size="37" font-weight="700">Gulf conflict</text>
+    <text x="28" y="178" fill="#555b5f" font-family="Arial, sans-serif" font-size="24">Energy infrastructure</text>
+    <text x="28" y="211" fill="#555b5f" font-family="Arial, sans-serif" font-size="24">remains vulnerable</text>
+    <circle cx="159" cy="300" r="47" fill="#8b2e2e"/>
+    <path d="M139 300h40M159 280v40" stroke="#fffdf8" stroke-width="8"/>
+  </g>
+  <path d="M421 409h54" stroke="#a67c3d" stroke-width="7"/><path d="m463 391 20 18-20 18" fill="none" stroke="#a67c3d" stroke-width="7"/>
+
+  <g transform="translate(486 214)">
+    <rect width="318" height="390" fill="#fffdf8" stroke="#c6bfae" stroke-width="2"/>
+    <text x="28" y="52" fill="#a67c3d" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">02  ENERGY</text>
+    <text x="28" y="131" fill="#1a1f24" font-family="Georgia, serif" font-size="58" font-weight="700">$97.34</text>
+    <text x="28" y="177" fill="#555b5f" font-family="Arial, sans-serif" font-size="25">Brent per barrel</text>
+    <rect x="28" y="247" width="262" height="25" rx="12" fill="#ded7c8"/>
+    <rect x="28" y="247" width="238" height="25" rx="12" fill="#8b2e2e"/>
+    <text x="28" y="326" fill="#555b5f" font-family="Arial, sans-serif" font-size="22">Third daily rise</text>
+  </g>
+  <path d="M815 409h54" stroke="#a67c3d" stroke-width="7"/><path d="m857 391 20 18-20 18" fill="none" stroke="#a67c3d" stroke-width="7"/>
+
+  <g transform="translate(880 214)">
+    <rect width="318" height="390" fill="#fffdf8" stroke="#c6bfae" stroke-width="2"/>
+    <text x="28" y="52" fill="#a67c3d" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">03  MONEY</text>
+    <text x="28" y="131" fill="#1a1f24" font-family="Georgia, serif" font-size="58" font-weight="700">58%</text>
+    <text x="28" y="177" fill="#555b5f" font-family="Arial, sans-serif" font-size="24">Fed increase odds</text>
+    <text x="28" y="246" fill="#1a1f24" font-family="Georgia, serif" font-size="46" font-weight="700">4.788%</text>
+    <text x="28" y="287" fill="#555b5f" font-family="Arial, sans-serif" font-size="24">US ten-year yield</text>
+    <text x="28" y="340" fill="#555b5f" font-family="Arial, sans-serif" font-size="20">Dated market readings</text>
+  </g>
+  <path d="M1209 409h54" stroke="#a67c3d" stroke-width="7"/><path d="m1251 391 20 18-20 18" fill="none" stroke="#a67c3d" stroke-width="7"/>
+
+  <g transform="translate(1274 214)">
+    <rect width="234" height="390" fill="#1a1f24" stroke="#1a1f24" stroke-width="2"/>
+    <text x="24" y="52" fill="#d4b06a" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">04  NIGERIA</text>
+    <text x="24" y="126" fill="#fffdf8" font-family="Georgia, serif" font-size="34" font-weight="700">THE COST</text>
+    <text x="24" y="177" fill="#d7d2c8" font-family="Arial, sans-serif" font-size="23">Fuel</text>
+    <path d="M24 192H204" stroke="#555b5f"/>
+    <text x="24" y="234" fill="#d7d2c8" font-family="Arial, sans-serif" font-size="23">Freight</text>
+    <path d="M24 249H204" stroke="#555b5f"/>
+    <text x="24" y="291" fill="#d7d2c8" font-family="Arial, sans-serif" font-size="23">Insurance</text>
+    <path d="M24 306H204" stroke="#555b5f"/>
+    <text x="24" y="348" fill="#d7d2c8" font-family="Arial, sans-serif" font-size="23">Funding</text>
+  </g>
+
+  <text x="92" y="682" fill="#1a1f24" font-family="Georgia, serif" font-size="35" font-weight="700">A barrel problem becomes a cost-of-money problem.</text>
+  <text x="92" y="730" fill="#555b5f" font-family="Arial, sans-serif" font-size="23">Higher export receipts help Nigeria. Higher landed costs and dollar yields arrive with them.</text>
+  <path d="M92 778H1508" stroke="#c6bfae" stroke-width="2"/>
+  <text x="92" y="819" fill="#6d665b" font-family="Arial, sans-serif" font-size="18">Sources: Reuters global markets and oil reports, 8 September 2026. Market readings may change.</text>
+  <text x="1508" y="819" text-anchor="end" fill="#a67c3d" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">SEVEN GATES RESEARCH</text>
+</svg>
