@@ -72,6 +72,15 @@ export default function HomePage() {
       </div>
     </section>
 
+    {latest?.marketLens && <section className="section" aria-labelledby="market-lens-title">
+      <div className="shell">
+        <p className="kicker">Market lens / {formatDate(latest.date)}</p>
+        <h2 id="market-lens-title">What today's news changes</h2>
+        <p className="section-intro">{latest.marketLens}</p>
+        <a href={`/briefing/${latest.date}`}>Read the evidence and implications &rarr;</a>
+      </div>
+    </section>}
+
     <section className="section" aria-labelledby="latest-research-title">
       <div className="shell">
         <div className="section-heading">
