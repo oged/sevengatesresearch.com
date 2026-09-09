@@ -12,6 +12,7 @@ export type Briefing = {
   hero?: string;
   heroAlt?: string;
   heroCaption?: string;
+  marketLens?: string;
   draft?: boolean;
   html: string;
 };
@@ -35,6 +36,7 @@ function parse(fileName: string): Briefing {
     hero: data.hero ? String(data.hero) : undefined,
     heroAlt: data.heroAlt ? String(data.heroAlt) : undefined,
     heroCaption: data.heroCaption ? String(data.heroCaption) : undefined,
+    marketLens: data.marketLens ? String(data.marketLens) : undefined,
     draft: Boolean(data.draft),
     html: renderMarkdown(content),
   };

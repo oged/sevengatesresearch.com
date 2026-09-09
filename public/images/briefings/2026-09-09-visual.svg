@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">A bigger market, or the same money?</title>
+  <desc id="desc">Three possible sources of IPO funding have different effects. New domestic savings broaden participation, foreign inflows add capital, and selling existing shares rotates liquidity. This explanatory diagram does not measure actual flows.</desc>
+  <rect width="800" height="760" fill="#F6F1E4"/>
+  <rect width="800" height="166" fill="#1A1F24"/>
+  <g font-family="Arial, sans-serif">
+    <text x="36" y="43" fill="#C69A52" font-size="19" letter-spacing="2">SEVEN GATES / 9 SEPTEMBER 2026</text>
+    <text x="36" y="96" fill="#F6F1E4" font-size="38" font-family="Georgia, serif">A bigger market,</text>
+    <text x="36" y="140" fill="#F6F1E4" font-size="38" font-family="Georgia, serif">or the same money?</text>
+    <text x="36" y="211" fill="#4E4A42" font-size="25">IPO FUNDING: THREE POSSIBLE PATHS</text>
+    <g fill="#FFFDF7" stroke="#D8D2C4"><rect x="36" y="240" width="728" height="122"/><rect x="36" y="386" width="728" height="122"/><rect x="36" y="532" width="728" height="122"/></g>
+    <g fill="#A67C3D"><rect x="36" y="240" width="6" height="122"/><rect x="36" y="386" width="6" height="122"/><rect x="36" y="532" width="6" height="122"/></g>
+    <g fill="#1A1F24" font-size="31"><text x="62" y="287">New domestic savings</text><text x="62" y="433">Foreign inflows</text><text x="62" y="579">Sales of existing shares</text></g>
+    <g fill="#4E4A42" font-size="28"><text x="62" y="332">→ Broader participation</text><text x="62" y="478">→ Additional capital</text><text x="62" y="624">→ Liquidity rotation</text></g>
+    <text x="36" y="699" fill="#4E4A42" font-size="22">Mechanisms, not measured flows. No scale implied.</text>
+    <text x="36" y="731" fill="#4E4A42" font-size="20">Context: NAN, 8 Sep 2026. Analysis: Seven Gates Research.</text>
+  </g>
+</svg>
