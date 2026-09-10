@@ -10,7 +10,7 @@ researchType: "Report"
 category: "Energy"
 ticker: "DANGREF"
 region: "Nigeria"
-hero: "/images/research/dangote-refinery-ipo-three-valuations/hero-three-valuations.svg"
+hero: "/images/research/dangote-refinery-ipo-three-valuations/hero-three-valuations.png"
 heroAlt: "A refinery control room at night with three valuation cards, coffee and a refinery skyline."
 heroCaption: "Three valuations before shift change. When the facts change, change the model. Seven Gates editorial illustration."
 ---
