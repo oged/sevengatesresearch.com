@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Disclaimer } from "@/components/Disclaimer";
+import { ShareMenu } from "@/components/ShareMenu";
 import { getCompanyDirectory } from "@/lib/companies";
 import { formatDate } from "@/components/BriefingCard";
 import { getAllResearch, getRelatedResearch, getResearchItem } from "@/lib/research";
@@ -56,6 +57,7 @@ export default async function ResearchArticlePage({ params }: { params: Promise<
         <span>{item.category}</span>
         {item.ticker && <span>{item.ticker}</span>}
       </div>
+      <ShareMenu title={item.title} excerpt={item.excerpt} path={`/research/${item.slug}`} />
     </header>
 
     {item.hero && <figure className="article-hero">
