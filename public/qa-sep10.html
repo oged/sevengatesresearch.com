@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seven Gates 10 September responsive QA</title>
+  <style>
+    body { margin: 0; padding: 20px; background: #d8d2c4; color: #1a1f24; font: 15px Arial, sans-serif; }
+    h1 { margin: 0 0 16px; }
+    .grid { display: grid; grid-template-columns: minmax(700px, 1fr) 390px; gap: 20px; align-items: start; }
+    iframe { width: 100%; height: 2600px; border: 2px solid #1a1f24; background: white; }
+    @media (max-width: 1150px) { .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <h1>10 September article QA: desktop and 390px mobile</h1>
+  <div class="grid">
+    <iframe title="Desktop article" src="/briefing/2026-09-10"></iframe>
+    <iframe title="Mobile article" src="/briefing/2026-09-10"></iframe>
+  </div>
+</body>
+</html>
