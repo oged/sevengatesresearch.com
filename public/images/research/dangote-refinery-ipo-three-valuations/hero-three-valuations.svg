@@ -1,38 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-<title id="title">Three Dangote Refinery IPO valuations before shift change</title>
-<desc id="desc">Editorial illustration of a refinery control room at night with coffee cups, three valuation cards and a distant refinery skyline.</desc>
-<rect width="1200" height="630" fill="#FBF8F1"/>
-<rect x="0" y="0" width="1200" height="92" fill="#1A1F24"/>
-<text x="58" y="58" font-family="Georgia,serif" font-size="30" fill="#E0B268">THREE VALUATIONS BEFORE SHIFT CHANGE</text>
-<rect x="55" y="135" width="690" height="360" rx="8" fill="#1A1F24"/>
-<rect x="78" y="158" width="205" height="135" rx="6" fill="#F4F0E8"/>
-<text x="96" y="193" font-family="Arial,sans-serif" font-size="15" fill="#46504F">AUGUST</text>
-<text x="96" y="246" font-family="Georgia,serif" font-size="42" fill="#46160F">₦178</text>
-<text x="96" y="273" font-family="Arial,sans-serif" font-size="12" fill="#46504F">before the prospectus</text>
-<rect x="305" y="158" width="205" height="135" rx="6" fill="#F4F0E8"/>
-<text x="323" y="193" font-family="Arial,sans-serif" font-size="15" fill="#46504F">FIRST READ</text>
-<text x="323" y="246" font-family="Georgia,serif" font-size="42" fill="#A67C3D">₦460</text>
-<text x="323" y="273" font-family="Arial,sans-serif" font-size="12" fill="#46504F">the audited numbers arrived</text>
-<rect x="532" y="158" width="190" height="135" rx="6" fill="#F4F0E8"/>
-<text x="550" y="193" font-family="Arial,sans-serif" font-size="15" fill="#46504F">THROUGH-CYCLE</text>
-<text x="550" y="246" font-family="Georgia,serif" font-size="42" fill="#1A1F24">₦405</text>
-<text x="550" y="273" font-family="Arial,sans-serif" font-size="12" fill="#46504F">margin discipline returns</text>
-<path d="M100 395 C210 350, 300 410, 390 355 S560 410, 690 345" fill="none" stroke="#C69A52" stroke-width="5"/>
-<line x1="96" y1="430" x2="690" y2="430" stroke="#C6BFAE" stroke-width="1"/>
-<text x="96" y="462" font-family="Arial,sans-serif" font-size="13" fill="#F4F0E8">207 pages · footnotes · crack spreads · caffeine · one control-room shift</text>
-<g transform="translate(780,145)">
-  <rect x="0" y="270" width="360" height="80" fill="#59615f"/>
-  <rect x="22" y="180" width="70" height="90" fill="#46504F"/><rect x="104" y="140" width="92" height="130" fill="#46504F"/><rect x="212" y="200" width="65" height="70" fill="#46504F"/><rect x="288" y="155" width="52" height="115" fill="#46504F"/>
-  <path d="M40 180 L40 82 M55 180 L55 65 M138 140 L138 45 M164 140 L164 72 M316 155 L316 54" stroke="#1A1F24" stroke-width="11"/>
-  <path d="M55 65 C78 32, 93 35, 110 18" fill="none" stroke="#C6BFAE" stroke-width="10" opacity=".7"/>
-  <path d="M164 72 C190 35, 212 40, 235 22" fill="none" stroke="#C6BFAE" stroke-width="10" opacity=".55"/>
-  <circle cx="302" cy="60" r="34" fill="#C69A52" opacity=".75"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Dangote Refinery IPO valuation: the elephant in the research room</title>
+<desc id="desc">Seven Gates editorial illustration of an elephant in a refinery control room, three valuation cards, analysts, coffee, crack-spread notes and the Keynes quote.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8ecd0"/><stop offset="1" stop-color="#e6c98f"/></linearGradient>
+  <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#30363a"/><stop offset="1" stop-color="#171c20"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1600" height="900" fill="#FBF8F1"/>
+<rect x="0" y="0" width="1600" height="520" fill="url(#sky)"/>
+<!-- refinery skyline -->
+<g opacity=".95">
+  <rect x="865" y="250" width="620" height="255" fill="#d7c09a"/>
+  <g fill="#46504F">
+    <rect x="910" y="260" width="54" height="245"/><rect x="985" y="210" width="62" height="295"/><rect x="1070" y="295" width="76" height="210"/><rect x="1170" y="235" width="65" height="270"/><rect x="1260" y="315" width="82" height="190"/><rect x="1370" y="270" width="58" height="235"/>
+  </g>
+  <g stroke="#1A1F24" stroke-width="10">
+    <path d="M936 260V120M1015 210V90M1106 295V155M1200 235V75M1299 315V170M1399 270V130"/>
+  </g>
+  <g stroke="#A67C3D" stroke-width="5"><path d="M880 430H1490"/><path d="M900 390H1465"/><path d="M940 350H1430"/></g>
+  <g fill="#C69A52"><circle cx="936" cy="122" r="8"/><circle cx="1015" cy="92" r="8"/><circle cx="1106" cy="157" r="8"/><circle cx="1200" cy="77" r="8"/><circle cx="1299" cy="172" r="8"/><circle cx="1399" cy="132" r="8"/></g>
 </g>
-<g transform="translate(790,510)">
-  <rect x="0" y="0" width="72" height="42" rx="5" fill="#A67C3D"/>
-  <rect x="72" y="10" width="18" height="22" rx="9" fill="none" stroke="#A67C3D" stroke-width="6"/>
-  <path d="M18 -3 C10 -18, 28 -21, 20 -37 M42 -3 C34 -18, 53 -22, 45 -38" fill="none" stroke="#C6BFAE" stroke-width="4"/>
+<!-- left headline block -->
+<g transform="translate(68,58)">
+  <path d="M0 28 h24 v52 h-24 z M4 28 q8-18 16 0" fill="none" stroke="#A67C3D" stroke-width="4"/>
+  <text x="42" y="26" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#1A1F24">SEVEN GATES</text>
+  <text x="42" y="51" font-family="Arial,sans-serif" font-size="12" letter-spacing="5" fill="#1A1F24">RESEARCH</text>
+  <line x1="0" y1="72" x2="150" y2="72" stroke="#A67C3D" stroke-width="4"/>
+  <text x="0" y="122" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#1A1F24">SAME</text>
+  <text x="0" y="164" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#1A1F24">FUEL.</text>
+  <text x="0" y="206" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#1A1F24">A BRIGHTER</text>
+  <text x="0" y="248" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#1A1F24">TOMORROW?</text>
+  <line x1="0" y1="270" x2="55" y2="270" stroke="#A67C3D" stroke-width="4"/>
+  <text x="0" y="309" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#46504F">DANGOTE REFINERY</text>
+  <text x="0" y="338" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#46504F">A LARGER NIGERIA</text>
+  <text x="0" y="367" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#46504F">A BRIGHTER STORY</text>
 </g>
-<text x="58" y="575" font-family="Georgia,serif" font-size="21" fill="#1A1F24">When the facts change, change the model. Keep the capital tighter.</text>
-<text x="58" y="607" font-family="Arial,sans-serif" font-size="12" fill="#46504F">Seven Gates Research · Dangote Refinery IPO · September 2026</text>
+<!-- elephant -->
+<g transform="translate(330,74)" filter="url(#shadow)">
+  <ellipse cx="340" cy="228" rx="285" ry="210" fill="#6F7370" stroke="#1A1F24" stroke-width="7"/>
+  <ellipse cx="145" cy="196" rx="118" ry="145" fill="#7E817E" stroke="#1A1F24" stroke-width="6"/>
+  <ellipse cx="535" cy="196" rx="118" ry="145" fill="#7E817E" stroke="#1A1F24" stroke-width="6"/>
+  <ellipse cx="340" cy="205" rx="165" ry="180" fill="#858884" stroke="#1A1F24" stroke-width="6"/>
+  <circle cx="292" cy="176" r="10" fill="#14191d"/><circle cx="388" cy="176" r="10" fill="#14191d"/>
+  <path d="M315 225 C300 320 310 410 348 455 C380 440 396 420 395 390 C387 330 367 280 365 225Z" fill="#80837f" stroke="#1A1F24" stroke-width="6"/>
+  <path d="M277 220 C250 250 240 295 255 330 C278 308 294 274 300 238" fill="none" stroke="#F3E7C9" stroke-width="20" stroke-linecap="round"/>
+  <path d="M404 220 C432 250 440 292 425 330 C402 308 386 274 380 238" fill="none" stroke="#F3E7C9" stroke-width="20" stroke-linecap="round"/>
+  <path d="M205 405 Q340 470 475 405" fill="none" stroke="#1A1F24" stroke-width="10"/>
+  <rect x="128" y="410" width="424" height="92" rx="38" fill="#242A2E"/>
+  <rect x="281" y="351" width="112" height="82" rx="9" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="337" y="381" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#1A1F24">BIG</text>
+  <text x="337" y="403" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#1A1F24">THINGS</text>
+  <text x="337" y="425" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#1A1F24">TAKE TIME</text>
+</g>
+<!-- quote panel -->
+<g transform="translate(1240,55)">
+  <text x="0" y="40" font-family="Georgia,serif" font-style="italic" font-size="28" fill="#1A1F24">“When the facts change,</text>
+  <text x="35" y="78" font-family="Georgia,serif" font-style="italic" font-size="28" fill="#1A1F24">I change my mind.</text>
+  <text x="46" y="116" font-family="Georgia,serif" font-style="italic" font-size="28" fill="#1A1F24">What do you do, sir?”</text>
+  <line x1="130" y1="142" x2="210" y2="142" stroke="#A67C3D" stroke-width="4"/>
+</g>
+<!-- analyst note -->
+<g transform="translate(1275,215)">
+  <rect width="245" height="250" rx="5" fill="#F4F0E8" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="20" y="38" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1A1F24">RESEARCH CHECKLIST</text>
+  <g font-family="Arial,sans-serif" font-size="17" fill="#1A1F24">
+    <text x="24" y="76">☑ Refinery economics</text><text x="24" y="108">☑ Crack spreads</text><text x="24" y="140">☑ 207 pages (read)</text><text x="24" y="172">☐ Valuation ranges</text><text x="24" y="204">☐ Investor appetite</text>
+  </g>
+  <text x="75" y="232" font-family="Georgia,serif" font-style="italic" font-size="16" fill="#46504F">Same questions. Better answers.</text>
+</g>
+<!-- console / desk -->
+<rect y="520" width="1600" height="380" fill="url(#desk)"/>
+<rect x="365" y="500" width="840" height="148" rx="12" fill="#20262a" stroke="#59615F" stroke-width="4"/>
+<g fill="#0E1417" stroke="#59615F" stroke-width="3">
+  <rect x="395" y="525" width="225" height="92" rx="5"/><rect x="650" y="525" width="225" height="92" rx="5"/><rect x="905" y="525" width="265" height="92" rx="5"/>
+</g>
+<polyline points="420,590 455,575 490,582 525,550 558,565 596,540" fill="none" stroke="#C69A52" stroke-width="4"/>
+<polyline points="930,592 968,565 1003,578 1040,548 1080,558 1128,530" fill="none" stroke="#6F9E77" stroke-width="4"/>
+<!-- valuation cards -->
+<g filter="url(#shadow)">
+  <rect x="480" y="556" width="235" height="155" rx="8" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="3"/>
+  <rect x="730" y="556" width="235" height="155" rx="8" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="3"/>
+  <rect x="980" y="556" width="235" height="155" rx="8" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="3"/>
+  <text x="598" y="615" text-anchor="middle" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#1A1F24">₦405</text>
+  <text x="598" y="650" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#1A1F24">Fair Value</text>
+  <text x="848" y="615" text-anchor="middle" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#1A1F24">₦525</text>
+  <text x="848" y="650" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#1A1F24">IPO Price</text>
+  <text x="1098" y="615" text-anchor="middle" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#1A1F24">≤₦375</text>
+  <text x="1098" y="650" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#1A1F24">Preferred Entry</text>
+</g>
+<!-- analysts -->
+<g fill="#1A1F24">
+  <circle cx="225" cy="610" r="52"/><path d="M145 750 Q225 650 305 750 L325 900 H125Z"/>
+  <circle cx="1325" cy="610" r="52"/><path d="M1245 750 Q1325 650 1405 750 L1435 900 H1215Z"/>
+  <circle cx="1490" cy="620" r="48"/><path d="M1430 760 Q1490 680 1555 760 L1590 900 H1395Z"/>
+</g>
+<!-- caffeine + papers -->
+<g transform="translate(70,705)">
+  <rect x="0" y="85" width="290" height="18" fill="#E8E0D3"/><rect x="15" y="64" width="275" height="18" fill="#F4F0E8"/><rect x="28" y="43" width="262" height="18" fill="#E8E0D3"/>
+  <text x="45" y="58" font-family="Arial,sans-serif" font-size="15" fill="#1A1F24">MODEL · SCENARIOS · SENSITIVITIES</text>
+  <text x="42" y="79" font-family="Arial,sans-serif" font-size="15" fill="#1A1F24">FOOTNOTES · CRACK SPREADS</text>
+  <text x="42" y="100" font-family="Arial,sans-serif" font-size="15" fill="#1A1F24">207 PAGES LATER...</text>
+  <rect x="300" y="18" width="88" height="108" rx="10" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <path d="M388 45 q40 8 20 44 q-10 16-20 12" fill="none" stroke="#1A1F24" stroke-width="7"/>
+  <text x="344" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#1A1F24">GOOD IDEAS</text><text x="344" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#1A1F24">NEED BETTER</text><text x="344" y="101" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#1A1F24">CAFFEINE</text>
+  <path d="M325 9 C315 -8 333 -13 326 -28 M350 9 C340 -8 360 -14 352 -30" fill="none" stroke="#C6BFAE" stroke-width="4"/>
+</g>
+<!-- bottom note -->
+<g transform="translate(520,748)">
+  <rect width="650" height="112" rx="6" fill="#F4F0E8" transform="rotate(-1 325 56)"/>
+  <text x="32" y="38" font-family="Georgia,serif" font-size="22" font-style="italic" fill="#1A1F24">Facts + discipline = better answers.</text>
+  <text x="32" y="70" font-family="Arial,sans-serif" font-size="16" fill="#46504F">☑ crack spreads   ☑ demand outlook   ☑ 207 pages   ☑ ask again: what if?</text>
+  <text x="32" y="96" font-family="Arial,sans-serif" font-size="15" fill="#A67C3D">Caffeine supplied the chemistry. The prospectus supplied the argument.</text>
+</g>
 </svg>
