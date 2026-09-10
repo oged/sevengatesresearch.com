@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Three Dangote Refinery IPO valuations before shift change</title>
+<desc id="desc">Editorial illustration of a refinery control room at night with coffee cups, three valuation cards and a distant refinery skyline.</desc>
+<rect width="1200" height="630" fill="#FBF8F1"/>
+<rect x="0" y="0" width="1200" height="92" fill="#1A1F24"/>
+<text x="58" y="58" font-family="Georgia,serif" font-size="30" fill="#E0B268">THREE VALUATIONS BEFORE SHIFT CHANGE</text>
+<rect x="55" y="135" width="690" height="360" rx="8" fill="#1A1F24"/>
+<rect x="78" y="158" width="205" height="135" rx="6" fill="#F4F0E8"/>
+<text x="96" y="193" font-family="Arial,sans-serif" font-size="15" fill="#46504F">AUGUST</text>
+<text x="96" y="246" font-family="Georgia,serif" font-size="42" fill="#46160F">₦178</text>
+<text x="96" y="273" font-family="Arial,sans-serif" font-size="12" fill="#46504F">before the prospectus</text>
+<rect x="305" y="158" width="205" height="135" rx="6" fill="#F4F0E8"/>
+<text x="323" y="193" font-family="Arial,sans-serif" font-size="15" fill="#46504F">FIRST READ</text>
+<text x="323" y="246" font-family="Georgia,serif" font-size="42" fill="#A67C3D">₦460</text>
+<text x="323" y="273" font-family="Arial,sans-serif" font-size="12" fill="#46504F">the audited numbers arrived</text>
+<rect x="532" y="158" width="190" height="135" rx="6" fill="#F4F0E8"/>
+<text x="550" y="193" font-family="Arial,sans-serif" font-size="15" fill="#46504F">THROUGH-CYCLE</text>
+<text x="550" y="246" font-family="Georgia,serif" font-size="42" fill="#1A1F24">₦405</text>
+<text x="550" y="273" font-family="Arial,sans-serif" font-size="12" fill="#46504F">margin discipline returns</text>
+<path d="M100 395 C210 350, 300 410, 390 355 S560 410, 690 345" fill="none" stroke="#C69A52" stroke-width="5"/>
+<line x1="96" y1="430" x2="690" y2="430" stroke="#C6BFAE" stroke-width="1"/>
+<text x="96" y="462" font-family="Arial,sans-serif" font-size="13" fill="#F4F0E8">207 pages · footnotes · crack spreads · caffeine · one control-room shift</text>
+<g transform="translate(780,145)">
+  <rect x="0" y="270" width="360" height="80" fill="#59615f"/>
+  <rect x="22" y="180" width="70" height="90" fill="#46504F"/><rect x="104" y="140" width="92" height="130" fill="#46504F"/><rect x="212" y="200" width="65" height="70" fill="#46504F"/><rect x="288" y="155" width="52" height="115" fill="#46504F"/>
+  <path d="M40 180 L40 82 M55 180 L55 65 M138 140 L138 45 M164 140 L164 72 M316 155 L316 54" stroke="#1A1F24" stroke-width="11"/>
+  <path d="M55 65 C78 32, 93 35, 110 18" fill="none" stroke="#C6BFAE" stroke-width="10" opacity=".7"/>
+  <path d="M164 72 C190 35, 212 40, 235 22" fill="none" stroke="#C6BFAE" stroke-width="10" opacity=".55"/>
+  <circle cx="302" cy="60" r="34" fill="#C69A52" opacity=".75"/>
+</g>
+<g transform="translate(790,510)">
+  <rect x="0" y="0" width="72" height="42" rx="5" fill="#A67C3D"/>
+  <rect x="72" y="10" width="18" height="22" rx="9" fill="none" stroke="#A67C3D" stroke-width="6"/>
+  <path d="M18 -3 C10 -18, 28 -21, 20 -37 M42 -3 C34 -18, 53 -22, 45 -38" fill="none" stroke="#C6BFAE" stroke-width="4"/>
+</g>
+<text x="58" y="575" font-family="Georgia,serif" font-size="21" fill="#1A1F24">When the facts change, change the model. Keep the capital tighter.</text>
+<text x="58" y="607" font-family="Arial,sans-serif" font-size="12" fill="#46504F">Seven Gates Research · Dangote Refinery IPO · September 2026</text>
+</svg>
