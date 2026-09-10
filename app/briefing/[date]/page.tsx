@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Disclaimer } from "@/components/Disclaimer";
+import { ShareMenu } from "@/components/ShareMenu";
 import { formatDate } from "@/components/BriefingCard";
 import { getAllBriefings, getBriefing, getEarlierBriefings } from "@/lib/content";
 
@@ -34,6 +35,7 @@ export default async function BriefingPage({ params }: { params: Promise<{ date:
         <span>{item.readingTime} read</span>
         <span>Seven Gates Research</span>
       </div>
+      <ShareMenu title={item.title} excerpt={item.excerpt} path={`/briefing/${item.date}`} />
     </header>
 
     {item.hero && <figure className="article-hero">
