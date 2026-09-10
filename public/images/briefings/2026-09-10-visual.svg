@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">A $101 barrel, two Nigerian invoices</title>
+  <desc id="desc">Gulf disruption led to a Brent settlement of 101 dollars and 21 cents on 9 September. The mechanism can create an export receipt tailwind and a cost headwind through feedstock, freight and insurance. The diagram does not estimate the net effect.</desc>
+  <rect width="800" height="760" fill="#F6F1E4"/>
+  <rect width="800" height="166" fill="#1A1F24"/>
+  <g font-family="Arial, sans-serif">
+    <text x="36" y="43" fill="#C69A52" font-size="19" letter-spacing="2">SEVEN GATES / 10 SEPTEMBER 2026</text>
+    <text x="36" y="96" fill="#F6F1E4" font-size="38" font-family="Georgia, serif">A $101 barrel,</text>
+    <text x="36" y="140" fill="#F6F1E4" font-size="38" font-family="Georgia, serif">two Nigerian invoices</text>
+
+    <rect x="194" y="207" width="412" height="112" rx="2" fill="#FFFDF7" stroke="#D8D2C4"/>
+    <text x="400" y="244" text-anchor="middle" fill="#4E4A42" font-size="19" letter-spacing="1.4">GULF SHIPPING DISRUPTION</text>
+    <text x="400" y="290" text-anchor="middle" fill="#1A1F24" font-size="34" font-family="Georgia, serif">Brent: $101.21</text>
+    <path d="M400 319 V371 M400 371 H218 V405 M400 371 H582 V405" fill="none" stroke="#A67C3D" stroke-width="5"/>
+
+    <rect x="36" y="405" width="348" height="215" fill="#FFFDF7" stroke="#D8D2C4"/>
+    <rect x="416" y="405" width="348" height="215" fill="#FFFDF7" stroke="#D8D2C4"/>
+    <rect x="36" y="405" width="348" height="7" fill="#A67C3D"/>
+    <rect x="416" y="405" width="348" height="7" fill="#A67C3D"/>
+
+    <text x="60" y="456" fill="#1A1F24" font-size="28" font-family="Georgia, serif">Export receipt</text>
+    <text x="60" y="491" fill="#1A1F24" font-size="28" font-family="Georgia, serif">tailwind</text>
+    <text x="60" y="538" fill="#4E4A42" font-size="22">Price × production × liftings</text>
+    <text x="60" y="575" fill="#4E4A42" font-size="22">→ fiscal and FX support</text>
+
+    <text x="440" y="456" fill="#1A1F24" font-size="28" font-family="Georgia, serif">Cost headwind</text>
+    <text x="440" y="510" fill="#4E4A42" font-size="22">Feedstock + freight</text>
+    <text x="440" y="544" fill="#4E4A42" font-size="22">+ insurance</text>
+    <text x="440" y="581" fill="#4E4A42" font-size="22">→ transport and inflation</text>
+
+    <text x="36" y="677" fill="#4E4A42" font-size="22">Mechanism, not a net-impact estimate. No scale implied.</text>
+    <text x="36" y="711" fill="#4E4A42" font-size="20">Price: Brent settlement, 9 Sep 2026. Source: Reuters.</text>
+    <text x="36" y="739" fill="#4E4A42" font-size="20">Analysis: Seven Gates Research.</text>
+  </g>
+</svg>
