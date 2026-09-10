@@ -35,6 +35,7 @@ heroCaption: "Three valuations before shift change. When the facts change, chang
 | Normalised P/E | **₦413** |
 | Peer-adjusted SOTP | **₦453** |
 | **Seven Gates fair value** | **₦405** |
+| **Seven Gates implied market capitalisation** | **~$36.9bn** |
 | **Preferred entry** | **≤₦375** |
 | **View at ₦525** | **WAIT** |
 
