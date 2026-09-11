@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">The barrel enters the discount rate</title>
+  <desc id="desc">Brent was 109 dollars and 97 cents a barrel early on 11 September, up nearly 13 percent for the week. US 10-year and 30-year Treasury yields reached 4.9708 and 5.3803 percent. The diagram shows the directional transmission from oil through inflation expectations and bond yields to global financing conditions.</desc>
+  <rect width="800" height="760" fill="#F6F1E4"/>
+  <rect width="800" height="166" fill="#1A1F24"/>
+  <g font-family="Arial, sans-serif">
+    <text x="36" y="43" fill="#C69A52" font-size="19" letter-spacing="2">SEVEN GATES / 11 SEPTEMBER 2026</text>
+    <text x="36" y="96" fill="#F6F1E4" font-size="38" font-family="Georgia, serif">The barrel enters</text>
+    <text x="36" y="140" fill="#F6F1E4" font-size="38" font-family="Georgia, serif">the discount rate</text>
+
+    <rect x="36" y="205" width="728" height="112" fill="#FFFDF7" stroke="#D8D2C4"/>
+    <rect x="36" y="205" width="7" height="112" fill="#A67C3D"/>
+    <text x="66" y="244" fill="#4E4A42" font-size="19" letter-spacing="1.3">BRENT / EARLY 11 SEPTEMBER</text>
+    <text x="66" y="291" fill="#1A1F24" font-size="36" font-family="Georgia, serif">$109.97</text>
+    <text x="735" y="291" text-anchor="end" fill="#1A1F24" font-size="28">nearly +13% this week</text>
+
+    <path d="M400 317 V369" fill="none" stroke="#A67C3D" stroke-width="5"/>
+    <polygon points="400,382 390,364 410,364" fill="#A67C3D"/>
+    <text x="400" y="356" text-anchor="middle" fill="#4E4A42" font-size="18">inflation expectations</text>
+
+    <rect x="36" y="382" width="348" height="136" fill="#FFFDF7" stroke="#D8D2C4"/>
+    <rect x="416" y="382" width="348" height="136" fill="#FFFDF7" stroke="#D8D2C4"/>
+    <text x="60" y="426" fill="#4E4A42" font-size="19" letter-spacing="1.2">US 10-YEAR YIELD</text>
+    <text x="60" y="486" fill="#1A1F24" font-size="43" font-family="Georgia, serif">4.9708%</text>
+    <text x="440" y="426" fill="#4E4A42" font-size="19" letter-spacing="1.2">US 30-YEAR YIELD</text>
+    <text x="440" y="486" fill="#1A1F24" font-size="43" font-family="Georgia, serif">5.3803%</text>
+
+    <path d="M400 518 V570" fill="none" stroke="#A67C3D" stroke-width="5"/>
+    <polygon points="400,583 390,565 410,565" fill="#A67C3D"/>
+
+    <rect x="36" y="583" width="728" height="99" fill="#1A1F24"/>
+    <text x="60" y="622" fill="#C69A52" font-size="18" letter-spacing="1.4">GLOBAL DISCOUNT RATE</text>
+    <text x="60" y="659" fill="#F6F1E4" font-size="24">Sovereign funding  •  currencies  •  company valuations</text>
+
+    <text x="36" y="719" fill="#4E4A42" font-size="20">Observed data, not a forecast. Directional mechanism only.</text>
+    <text x="36" y="747" fill="#4E4A42" font-size="20">Source: Reuters, 11 Sep 2026. Analysis: Seven Gates Research.</text>
+  </g>
+</svg>
