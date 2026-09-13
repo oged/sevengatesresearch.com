@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">Three exits, three constraints</title>
+  <desc id="desc">A factual status board for the Strait of Hormuz, Saudi Arabia's East-West pipeline, and Bab el-Mandeb beside Perim island as of 13 September 2026.</desc>
+  <rect width="800" height="760" fill="#F4ECDD"/>
+  <rect x="26" y="26" width="748" height="708" rx="2" fill="#F8F1E5" stroke="#132A35" stroke-width="4"/>
+  <rect x="26" y="26" width="748" height="152" fill="#132A35"/>
+  <text x="60" y="76" fill="#C7A767" font-family="Georgia, serif" font-size="17" letter-spacing="3">ROUTE EXPOSURE</text>
+  <text x="60" y="122" fill="#F8F1E5" font-family="Georgia, serif" font-size="38" font-weight="700">Three exits. Three constraints.</text>
+  <text x="60" y="153" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="16">Status snapshot · 13 September 2026</text>
+
+  <line x1="68" y1="232" x2="732" y2="232" stroke="#C7A767" stroke-width="2"/>
+  <circle cx="82" cy="282" r="8" fill="#A64036"/>
+  <text x="108" y="275" fill="#132A35" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">STRAIT OF HORMUZ</text>
+  <text x="108" y="309" fill="#A64036" font-family="Arial, sans-serif" font-size="21" font-weight="700">LARGELY SHUT BY WAR</text>
+  <text x="542" y="290" text-anchor="middle" fill="#132A35" font-family="Georgia, serif" font-size="38" font-weight="700">~1/5</text>
+  <text x="542" y="316" text-anchor="middle" fill="#5B6263" font-family="Arial, sans-serif" font-size="14">of global oil supply</text>
+  <text x="542" y="336" text-anchor="middle" fill="#5B6263" font-family="Arial, sans-serif" font-size="14">before the war</text>
+
+  <line x1="68" y1="380" x2="732" y2="380" stroke="#D5C9B6" stroke-width="2"/>
+  <circle cx="82" cy="430" r="8" fill="#A64036"/>
+  <text x="108" y="423" fill="#132A35" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">SAUDI EAST-WEST PIPELINE</text>
+  <text x="108" y="457" fill="#A64036" font-family="Arial, sans-serif" font-size="21" font-weight="700">TEMPORARILY CLOSED</text>
+  <text x="542" y="438" text-anchor="middle" fill="#132A35" font-family="Georgia, serif" font-size="35" font-weight="700">4 to 5m bpd</text>
+  <text x="542" y="466" text-anchor="middle" fill="#5B6263" font-family="Arial, sans-serif" font-size="14">reported recent flow</text>
+
+  <line x1="68" y1="528" x2="732" y2="528" stroke="#D5C9B6" stroke-width="2"/>
+  <circle cx="82" cy="578" r="8" fill="#A64036"/>
+  <text x="108" y="571" fill="#132A35" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">BAB EL-MANDEB · PERIM</text>
+  <text x="108" y="605" fill="#A64036" font-family="Arial, sans-serif" font-size="21" font-weight="700">ISLAND SEIZED</text>
+  <text x="542" y="580" text-anchor="middle" fill="#132A35" font-family="Georgia, serif" font-size="31" font-weight="700">7% oil · 12% trade</text>
+  <text x="542" y="608" text-anchor="middle" fill="#5B6263" font-family="Arial, sans-serif" font-size="14">exposure if passage closes</text>
+
+  <rect x="60" y="656" width="680" height="48" fill="#E9DECB"/>
+  <text x="400" y="677" text-anchor="middle" fill="#132A35" font-family="Arial, sans-serif" font-size="13" font-weight="700">ROUTE STATUS, NOT ADDITIVE CAPACITY</text>
+  <text x="400" y="695" text-anchor="middle" fill="#5B6263" font-family="Arial, sans-serif" font-size="12">Reported conditions and pre-war exposure figures · sources in Brief item 1</text>
+</svg>
