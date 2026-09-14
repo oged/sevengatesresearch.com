@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">Saudi Arabia's oil buffer is measured in days</title>
+  <desc id="desc">A factual flow diagram showing Saudi oil production at 10.9 million barrels a day in February and 6.2 million in August, the four-million-barrel-a-day East-West pipeline offline, five to seven days of Yanbu stock cover, and Brent at 107.51 dollars early on 14 September.</desc>
+  <rect width="800" height="760" fill="#F4ECDD"/>
+  <rect x="26" y="26" width="748" height="708" fill="#F8F1E5" stroke="#132A35" stroke-width="4"/>
+  <rect x="26" y="26" width="748" height="150" fill="#132A35"/>
+  <text x="60" y="74" fill="#C7A767" font-family="Georgia, serif" font-size="17" letter-spacing="3">THE SAUDI EXPORT CLOCK</text>
+  <text x="60" y="117" fill="#F8F1E5" font-family="Georgia, serif" font-size="34" font-weight="700">Six months of bypass.</text>
+  <text x="60" y="151" fill="#F8F1E5" font-family="Georgia, serif" font-size="34" font-weight="700">Days of stock.</text>
+
+  <text x="60" y="222" fill="#132A35" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">SAUDI CRUDE PRODUCTION</text>
+  <text x="60" y="252" fill="#5B6263" font-family="Arial, sans-serif" font-size="14">million barrels a day</text>
+  <text x="60" y="296" fill="#132A35" font-family="Arial, sans-serif" font-size="14" font-weight="700">FEB 2026</text>
+  <rect x="160" y="274" width="500" height="30" fill="#D8C8A9"/>
+  <text x="680" y="297" fill="#132A35" font-family="Georgia, serif" font-size="27" font-weight="700">10.9</text>
+  <text x="60" y="348" fill="#132A35" font-family="Arial, sans-serif" font-size="14" font-weight="700">AUG 2026</text>
+  <rect x="160" y="326" width="284" height="30" fill="#A64036"/>
+  <text x="464" y="349" fill="#A64036" font-family="Georgia, serif" font-size="27" font-weight="700">6.2</text>
+  <text x="603" y="348" fill="#A64036" font-family="Arial, sans-serif" font-size="15" font-weight="700">DOWN 43%</text>
+
+  <line x1="60" y1="392" x2="740" y2="392" stroke="#C7A767" stroke-width="2"/>
+  <circle cx="82" cy="443" r="9" fill="#A64036"/>
+  <text x="108" y="433" fill="#132A35" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">EAST-WEST PIPELINE</text>
+  <text x="108" y="465" fill="#A64036" font-family="Arial, sans-serif" font-size="23" font-weight="700">OFFLINE AFTER ATTACK</text>
+  <text x="610" y="442" text-anchor="middle" fill="#132A35" font-family="Georgia, serif" font-size="32" font-weight="700">~4m bpd</text>
+  <text x="610" y="466" text-anchor="middle" fill="#5B6263" font-family="Arial, sans-serif" font-size="13">recent bypass flow</text>
+
+  <rect x="60" y="514" width="680" height="103" fill="#132A35"/>
+  <text x="88" y="548" fill="#C7A767" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">YANBU EXPORT-STOCK COVER</text>
+  <text x="88" y="594" fill="#F8F1E5" font-family="Georgia, serif" font-size="42" font-weight="700">5 to 7 days</text>
+  <text x="653" y="566" text-anchor="end" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="13">without fresh</text>
+  <text x="653" y="586" text-anchor="end" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="13">pipeline supply</text>
+
+  <rect x="60" y="642" width="680" height="61" fill="#E9DECB"/>
+  <text x="82" y="668" fill="#132A35" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">BRENT · 14 SEP, 23:13 GMT</text>
+  <text x="707" y="685" text-anchor="end" fill="#132A35" font-family="Georgia, serif" font-size="32" font-weight="700">$107.51</text>
+  <text x="82" y="691" fill="#5B6263" font-family="Arial, sans-serif" font-size="12">Distinct measures. Not an additive supply estimate.</text>
+</svg>
