@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">NGX Group as the shovel seller at Nigeria's capital-market gold rush</title>
+  <desc id="desc">Editorial illustration of a Nigerian market merchant behind a row of brass shovels labelled listings, trading, data, indices, clearing and settlement, while prospectors dig toward IPO and Frontier Market signs in the distance.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#13202c"/><stop offset="0.58" stop-color="#7f4c28"/><stop offset="1" stop-color="#d5a15d"/></linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6f5134"/><stop offset="1" stop-color="#241b17"/></linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E0B268"/><stop offset="0.48" stop-color="#A67C3D"/><stop offset="1" stop-color="#6c4b22"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity=".28"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="#FBF8F1"/>
+  <rect x="24" y="24" width="1552" height="852" rx="6" fill="url(#sky)" stroke="#A67C3D" stroke-width="3"/>
+  <circle cx="1310" cy="225" r="78" fill="#f6d38f" opacity=".9"/>
+  <path d="M24 590 C260 510 440 550 650 500 C890 445 1070 500 1250 455 C1400 420 1510 440 1576 455 L1576 876 L24 876 Z" fill="url(#ground)"/>
+
+  <!-- Lagos-style skyline -->
+  <g opacity=".72" fill="#1A1F24">
+    <rect x="905" y="265" width="62" height="235"/><rect x="978" y="320" width="48" height="180"/><rect x="1040" y="240" width="82" height="260"/><rect x="1135" y="350" width="54" height="150"/><rect x="1205" y="298" width="65" height="202"/><rect x="1280" y="345" width="44" height="155"/>
+    <path d="M1040 240 L1081 190 L1122 240 Z"/><rect x="1080" y="160" width="4" height="42"/>
+  </g>
+  <g stroke="#C69A52" stroke-width="3" opacity=".65">
+    <line x1="922" y1="285" x2="950" y2="285"/><line x1="922" y1="310" x2="950" y2="310"/><line x1="1058" y1="280" x2="1102" y2="280"/><line x1="1058" y1="312" x2="1102" y2="312"/>
+  </g>
+
+  <!-- Prospectors -->
+  <g fill="#1A1F24" stroke="#1A1F24" stroke-width="10" stroke-linecap="round">
+    <circle cx="1185" cy="595" r="26"/><line x1="1185" y1="625" x2="1158" y2="700"/><line x1="1175" y1="651" x2="1125" y2="676"/><line x1="1163" y1="695" x2="1125" y2="750"/><line x1="1164" y1="695" x2="1200" y2="752"/>
+    <circle cx="1360" cy="580" r="24"/><line x1="1360" y1="610" x2="1390" y2="685"/><line x1="1370" y1="637" x2="1430" y2="665"/><line x1="1390" y1="684" x2="1360" y2="742"/><line x1="1390" y1="684" x2="1435" y2="734"/>
+    <circle cx="1500" cy="615" r="22"/><line x1="1500" y1="642" x2="1478" y2="710"/><line x1="1492" y1="663" x2="1440" y2="686"/><line x1="1478" y1="710" x2="1450" y2="760"/><line x1="1478" y1="710" x2="1512" y2="757"/>
+  </g>
+  <g stroke="#A67C3D" stroke-width="9" stroke-linecap="round"><line x1="1125" y1="676" x2="1088" y2="738"/><line x1="1430" y1="665" x2="1460" y2="730"/><line x1="1440" y1="686" x2="1405" y2="750"/></g>
+
+  <!-- Direction signs -->
+  <g filter="url(#shadow)" font-family="Arial, sans-serif" font-weight="700" letter-spacing="2">
+    <rect x="1260" y="365" width="245" height="62" rx="4" fill="#E0B268"/><text x="1382" y="404" text-anchor="middle" font-size="25" fill="#1A1F24">DANGOTE IPO</text>
+    <rect x="1295" y="440" width="210" height="62" rx="4" fill="#F4F0E8"/><text x="1400" y="479" text-anchor="middle" font-size="23" fill="#1A1F24">FTSE FRONTIER</text>
+  </g>
+
+  <!-- Merchant stall -->
+  <g filter="url(#shadow)">
+    <rect x="92" y="570" width="820" height="220" rx="8" fill="#352719" stroke="#A67C3D" stroke-width="4"/>
+    <rect x="110" y="745" width="785" height="70" fill="#1A1F24"/>
+    <text x="502" y="790" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#F4F0E8" letter-spacing="4">NGX MARKET INFRASTRUCTURE</text>
+  </g>
+
+  <!-- Stylised Nigerian woman -->
+  <g filter="url(#shadow)">
+    <circle cx="505" cy="350" r="86" fill="#5a3426"/>
+    <path d="M415 323 C405 235 470 195 525 213 C600 201 626 270 603 338 C560 286 487 270 415 323Z" fill="#1f4b36" stroke="#C69A52" stroke-width="6"/>
+    <path d="M438 249 C465 206 538 198 585 242 C555 236 535 251 505 247 C478 243 463 253 438 249Z" fill="#A67C3D" opacity=".9"/>
+    <path d="M420 426 C448 402 565 403 600 435 L672 620 L340 620 Z" fill="#183c2c"/>
+    <path d="M410 461 L595 461 L620 616 L385 616 Z" fill="#1A1F24"/>
+    <text x="505" y="525" text-anchor="middle" font-family="Arial,sans-serif" font-size="54" font-weight="800" fill="#F4F0E8">NGX</text>
+    <text x="505" y="558" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" letter-spacing="3" fill="#C69A52">THE SHOVEL SELLER</text>
+    <circle cx="475" cy="345" r="5" fill="#1A1F24"/><circle cx="540" cy="345" r="5" fill="#1A1F24"/>
+    <path d="M490 383 Q510 397 535 380" fill="none" stroke="#20120f" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Shovels -->
+  <g font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle">
+    <g transform="translate(205,520)"><rect x="-8" y="0" width="16" height="170" rx="8" fill="#b98246"/><path d="M-44 0 Q0 -58 44 0 L28 64 Q0 85 -28 64Z" fill="url(#brass)" stroke="#E0B268" stroke-width="3"/><text x="0" y="114" fill="#F4F0E8">LISTINGS</text></g>
+    <g transform="translate(315,500)"><rect x="-8" y="0" width="16" height="190" rx="8" fill="#b98246"/><path d="M-44 0 Q0 -58 44 0 L28 64 Q0 85 -28 64Z" fill="url(#brass)" stroke="#E0B268" stroke-width="3"/><text x="0" y="134" fill="#F4F0E8">TRADING</text></g>
+    <g transform="translate(425,495)"><rect x="-8" y="0" width="16" height="195" rx="8" fill="#b98246"/><path d="M-44 0 Q0 -58 44 0 L28 64 Q0 85 -28 64Z" fill="url(#brass)" stroke="#E0B268" stroke-width="3"/><text x="0" y="139" fill="#F4F0E8">DATA</text></g>
+    <g transform="translate(535,492)"><rect x="-8" y="0" width="16" height="198" rx="8" fill="#b98246"/><path d="M-44 0 Q0 -58 44 0 L28 64 Q0 85 -28 64Z" fill="url(#brass)" stroke="#E0B268" stroke-width="3"/><text x="0" y="142" fill="#F4F0E8">INDICES</text></g>
+    <g transform="translate(645,500)"><rect x="-8" y="0" width="16" height="190" rx="8" fill="#b98246"/><path d="M-44 0 Q0 -58 44 0 L28 64 Q0 85 -28 64Z" fill="url(#brass)" stroke="#E0B268" stroke-width="3"/><text x="0" y="134" fill="#F4F0E8">CLEARING</text></g>
+    <g transform="translate(755,520)"><rect x="-8" y="0" width="16" height="170" rx="8" fill="#b98246"/><path d="M-44 0 Q0 -58 44 0 L28 64 Q0 85 -28 64Z" fill="url(#brass)" stroke="#E0B268" stroke-width="3"/><text x="0" y="114" fill="#F4F0E8">SETTLEMENT</text></g>
+  </g>
+
+  <g font-family="Georgia,serif" fill="#FBF8F1">
+    <text x="95" y="100" font-size="28" letter-spacing="5">SEVEN GATES RESEARCH</text>
+    <text x="95" y="144" font-size="21" fill="#E0B268" font-style="italic">The exchange does not need to find the gold. It needs the miners to keep digging.</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="19" fill="#F4F0E8" opacity=".9"><text x="1170" y="840">AI-GENERATED EDITORIAL ILLUSTRATION · 14 SEP 2026</text></g>
+</svg>
