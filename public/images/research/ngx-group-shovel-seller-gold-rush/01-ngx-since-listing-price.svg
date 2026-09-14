@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">NGX Group share price since listing</title><desc id="d">Selected verified closing prices from October 2021 listing through September 14 2026, with a September 2026 daily inset.</desc>
+<rect width="1600" height="900" fill="#FBF8F1"/><rect x="38" y="38" width="1524" height="824" rx="8" fill="none" stroke="#1A1F24" stroke-width="3"/>
+<text x="88" y="105" font-family="Arial,sans-serif" font-size="20" fill="#A67C3D" font-weight="700" letter-spacing="3">FIGURE 1 · SHARE-PRICE HISTORY</text>
+<text x="88" y="160" font-family="Georgia,serif" font-size="42" fill="#1A1F24" font-weight="700">The market has already discovered the shovel shop.</text>
+<text x="88" y="198" font-family="Arial,sans-serif" font-size="20" fill="#46504F">NGX Group selected verified closes since listing · NGN/share · price only, not total return</text>
+<!-- grid -->
+<g stroke="#C6BFAE" stroke-width="1"><line x1="120" y1="650" x2="1120" y2="650"/><line x1="120" y1="525" x2="1120" y2="525"/><line x1="120" y1="400" x2="1120" y2="400"/><line x1="120" y1="275" x2="1120" y2="275"/></g>
+<g font-family="Arial,sans-serif" font-size="18" fill="#46504F"><text x="78" y="656">₦0</text><text x="68" y="531">₦50</text><text x="58" y="406">₦100</text><text x="58" y="281">₦150</text></g>
+<!-- annual/anchor observations; x spacing follows time -->
+<polyline points="140,610 185,618 370,609 560,611 750,604 940,521 1080,275" fill="none" stroke="#1A1F24" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<g fill="#A67C3D" stroke="#FBF8F1" stroke-width="4"><circle cx="140" cy="610" r="10"/><circle cx="185" cy="618" r="10"/><circle cx="370" cy="609" r="10"/><circle cx="560" cy="611" r="10"/><circle cx="750" cy="604" r="10"/><circle cx="940" cy="521" r="10"/><circle cx="1080" cy="275" r="12"/></g>
+<g font-family="Arial,sans-serif" font-size="18" fill="#1A1F24" text-anchor="middle"><text x="140" y="690">Oct ’21</text><text x="370" y="690">Dec ’22</text><text x="560" y="690">Dec ’23</text><text x="750" y="690">Dec ’24</text><text x="940" y="690">Dec ’25</text><text x="1080" y="690">14 Sep ’26</text></g>
+<g font-family="Arial,sans-serif" font-size="19" font-weight="700"><text x="140" y="585" fill="#1A1F24" text-anchor="middle">₦16.15</text><text x="940" y="493" fill="#1A1F24" text-anchor="middle">₦51.49</text><rect x="1000" y="220" width="160" height="52" rx="5" fill="#A67C3D"/><text x="1080" y="254" fill="#FBF8F1" text-anchor="middle">₦149.90</text></g>
+<!-- Recent daily inset -->
+<rect x="1180" y="245" width="320" height="405" rx="8" fill="#F4F0E8" stroke="#C6BFAE"/>
+<text x="1210" y="285" font-family="Arial,sans-serif" font-size="18" fill="#A67C3D" font-weight="700" letter-spacing="2">ONE WEEK, VERY LITTLE SHYNESS</text>
+<text x="1210" y="320" font-family="Georgia,serif" font-size="28" fill="#1A1F24" font-weight="700">₦130.10 → ₦149.90</text>
+<text x="1210" y="350" font-family="Arial,sans-serif" font-size="18" fill="#46504F">7–14 September 2026 · +15.2%</text>
+<g stroke="#C6BFAE" stroke-width="1"><line x1="1225" y1="570" x2="1460" y2="570"/><line x1="1225" y1="495" x2="1460" y2="495"/><line x1="1225" y1="420" x2="1460" y2="420"/></g>
+<polyline points="1230,558 1268,545 1306,540 1344,518 1382,430 1420,365 1458,352" fill="none" stroke="#A67C3D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#1A1F24"><circle cx="1230" cy="558" r="6"/><circle cx="1268" cy="545" r="6"/><circle cx="1306" cy="540" r="6"/><circle cx="1344" cy="518" r="6"/><circle cx="1382" cy="430" r="6"/><circle cx="1420" cy="365" r="6"/><circle cx="1458" cy="352" r="6"/></g>
+<g font-family="Arial,sans-serif" font-size="14" fill="#46504F" text-anchor="middle"><text x="1230" y="600">7</text><text x="1268" y="600">8</text><text x="1306" y="600">9</text><text x="1344" y="600">10</text><text x="1382" y="600">11</text><text x="1458" y="600">14</text></g>
+<text x="120" y="755" font-family="Georgia,serif" font-size="24" fill="#1A1F24" font-style="italic">The investor at ₦16 was paid to discover whether the transformation worked. At ₦150, discovery has become expectation.</text>
+<text x="88" y="812" font-family="Arial,sans-serif" font-size="15" fill="#46504F">Sources: NGX Group listing announcement; StockAnalysis annual closing-price history; Investing.com daily history; Seven Gates calculations. Selected verified observations only.</text>
+<text x="88" y="837" font-family="Arial,sans-serif" font-size="15" fill="#46504F">Data note: NGX listed 15 Oct 2021, so the required five-year figure is labelled “Since listing”. Cash dividends are excluded. No prices are interpolated.</text>
+</svg>
