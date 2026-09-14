@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="t d">
+<title id="t">NGX valuation at September 14 2026</title><desc id="d">Current share price compared with Seven Gates bear, base and bull valuation ranges, plus current CAPE range.</desc>
+<rect width="1600" height="820" fill="#FBF8F1"/><rect x="38" y="38" width="1524" height="744" rx="8" fill="none" stroke="#1A1F24" stroke-width="3"/>
+<text x="88" y="105" font-family="Arial,sans-serif" font-size="20" fill="#A67C3D" font-weight="700" letter-spacing="3">FIGURE 3 · VALUATION</text>
+<text x="88" y="160" font-family="Georgia,serif" font-size="42" fill="#1A1F24" font-weight="700">At ₦149.90, the share price has walked into the bull case.</text>
+<text x="88" y="198" font-family="Arial,sans-serif" font-size="20" fill="#46504F">Seven Gates SOTP per share · range reflects exchange-reported and pro-forma bonus-adjusted share counts</text>
+<!-- scale -->
+<line x1="170" y1="505" x2="1110" y2="505" stroke="#1A1F24" stroke-width="3"/>
+<g stroke="#C6BFAE" stroke-width="2"><line x1="170" y1="490" x2="170" y2="520"/><line x1="405" y1="490" x2="405" y2="520"/><line x1="640" y1="490" x2="640" y2="520"/><line x1="875" y1="490" x2="875" y2="520"/><line x1="1110" y1="490" x2="1110" y2="520"/></g>
+<g font-family="Arial,sans-serif" font-size="17" fill="#46504F" text-anchor="middle"><text x="170" y="550">₦60</text><text x="405" y="550">₦90</text><text x="640" y="550">₦120</text><text x="875" y="550">₦150</text><text x="1110" y="550">₦180</text></g>
+<!-- bear/base/bull zones -->
+<rect x="303" y="360" width="70" height="72" rx="6" fill="#8f3b32" opacity=".88"/><text x="338" y="345" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#8f3b32" text-anchor="middle">BEAR</text><text x="338" y="402" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#FBF8F1" text-anchor="middle">77–86</text>
+<rect x="522" y="360" width="118" height="72" rx="6" fill="#A67C3D" opacity=".92"/><text x="581" y="345" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#A67C3D" text-anchor="middle">BASE</text><text x="581" y="402" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#FBF8F1" text-anchor="middle">105–120</text>
+<rect x="875" y="360" width="149" height="72" rx="6" fill="#2e6b4f" opacity=".9"/><text x="950" y="345" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#2e6b4f" text-anchor="middle">BULL</text><text x="950" y="402" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#FBF8F1" text-anchor="middle">150–169</text>
+<!-- current price marker -->
+<line x1="874" y1="285" x2="874" y2="515" stroke="#1A1F24" stroke-width="5"/><circle cx="874" cy="285" r="10" fill="#1A1F24"/><rect x="766" y="235" width="216" height="52" rx="5" fill="#1A1F24"/><text x="874" y="269" font-family="Arial,sans-serif" font-size="22" fill="#FBF8F1" font-weight="700" text-anchor="middle">CURRENT ₦149.90</text>
+<!-- CAPE panel -->
+<rect x="1190" y="260" width="300" height="330" rx="8" fill="#F4F0E8" stroke="#C6BFAE"/>
+<text x="1220" y="305" font-family="Arial,sans-serif" font-size="18" fill="#A67C3D" font-weight="700" letter-spacing="2">THE CAPE PROBLEM</text>
+<text x="1340" y="383" font-family="Georgia,serif" font-size="72" fill="#1A1F24" font-weight="700" text-anchor="middle">~47x</text>
+<text x="1340" y="420" font-family="Arial,sans-serif" font-size="18" fill="#46504F" text-anchor="middle">headline reconstructed CAPE</text>
+<line x1="1230" y1="447" x2="1450" y2="447" stroke="#C6BFAE"/>
+<text x="1340" y="482" font-family="Arial,sans-serif" font-size="17" fill="#1A1F24" text-anchor="middle">Range: ~45x–50x</text>
+<text x="1340" y="516" font-family="Arial,sans-serif" font-size="17" fill="#1A1F24" text-anchor="middle">TTM P/E: ~26.5x</text>
+<text x="1340" y="552" font-family="Georgia,serif" font-size="18" fill="#46504F" font-style="italic" text-anchor="middle">The price says the boom</text><text x="1340" y="577" font-family="Georgia,serif" font-size="18" fill="#46504F" font-style="italic" text-anchor="middle">has become the business.</text>
+<text x="88" y="660" font-family="Georgia,serif" font-size="24" fill="#1A1F24" font-style="italic">A week ago the valuation was demanding. Today it is asking for evidence.</text>
+<text x="88" y="718" font-family="Arial,sans-serif" font-size="15" fill="#46504F">Source: NGX Group financials; NGX/Investing.com share-price data; Seven Gates SOTP and reconstructed CAPE. Valuation date: 14 Sep 2026.</text>
+<text x="88" y="743" font-family="Arial,sans-serif" font-size="15" fill="#46504F">CAPE uses 2016–2025 real earnings and is a Seven Gates reconstruction, not a vendor-supplied Shiller CAPE. TTM P/E is indicative.</text>
+</svg>
