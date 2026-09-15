@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">The oil shock has crossed 5%</title>
+  <desc id="desc">A four-stage factual market diagram showing Brent crude near 107 dollars, the U.S. ten-year Treasury yield above 5 percent, a 93 percent implied probability of a Federal Reserve rate increase, and the dollar index at 99.55 early on 15 September 2026.</desc>
+  <rect width="800" height="760" fill="#F4ECDD"/>
+  <rect x="26" y="26" width="748" height="708" fill="#F8F1E5" stroke="#132A35" stroke-width="4"/>
+  <rect x="26" y="26" width="748" height="150" fill="#132A35"/>
+  <text x="60" y="74" fill="#C7A767" font-family="Georgia, serif" font-size="17" letter-spacing="3">THE TRANSMISSION</text>
+  <text x="60" y="118" fill="#F8F1E5" font-family="Georgia, serif" font-size="35" font-weight="700">$107 oil. 5% money.</text>
+  <text x="60" y="151" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="15">Four market observations · early 15 September 2026</text>
+
+  <rect x="60" y="214" width="295" height="140" fill="#E9DECB" stroke="#C7A767" stroke-width="2"/>
+  <text x="84" y="248" fill="#5B6263" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">ENERGY</text>
+  <text x="84" y="300" fill="#132A35" font-family="Georgia, serif" font-size="42" font-weight="700">~$107</text>
+  <text x="84" y="328" fill="#5B6263" font-family="Arial, sans-serif" font-size="15">Brent crude per barrel</text>
+
+  <path d="M368 284 H414" stroke="#C7A767" stroke-width="4"/>
+  <path d="M414 284 l-12 -9 v18 z" fill="#C7A767"/>
+
+  <rect x="427" y="214" width="313" height="140" fill="#132A35"/>
+  <text x="451" y="248" fill="#C7A767" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">DISCOUNT RATE</text>
+  <text x="451" y="300" fill="#F8F1E5" font-family="Georgia, serif" font-size="42" font-weight="700">ABOVE 5%</text>
+  <text x="451" y="328" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="15">U.S. ten-year Treasury yield</text>
+
+  <path d="M584 366 V400" stroke="#C7A767" stroke-width="4"/>
+  <path d="M584 406 l-9 -12 h18 z" fill="#C7A767"/>
+
+  <rect x="427" y="418" width="313" height="140" fill="#E9DECB" stroke="#C7A767" stroke-width="2"/>
+  <text x="451" y="452" fill="#5B6263" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">POLICY EXPECTATION</text>
+  <text x="451" y="504" fill="#132A35" font-family="Georgia, serif" font-size="42" font-weight="700">93%</text>
+  <text x="451" y="532" fill="#5B6263" font-family="Arial, sans-serif" font-size="15">implied Fed increase probability</text>
+
+  <path d="M414 488 H368" stroke="#C7A767" stroke-width="4"/>
+  <path d="M368 488 l12 -9 v18 z" fill="#C7A767"/>
+
+  <rect x="60" y="418" width="295" height="140" fill="#132A35"/>
+  <text x="84" y="452" fill="#C7A767" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">DOLLAR</text>
+  <text x="84" y="504" fill="#F8F1E5" font-family="Georgia, serif" font-size="42" font-weight="700">99.55</text>
+  <text x="84" y="532" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="15">U.S. dollar index</text>
+
+  <rect x="60" y="600" width="680" height="102" fill="#D8C8A9"/>
+  <text x="84" y="633" fill="#132A35" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">NIGERIA TRANSMISSION</text>
+  <text x="84" y="666" fill="#132A35" font-family="Georgia, serif" font-size="21" font-weight="700">Higher delivered oil revenue</text>
+  <text x="392" y="666" fill="#A64036" font-family="Georgia, serif" font-size="21" font-weight="700">Higher import and funding hurdle</text>
+  <text x="84" y="690" fill="#5B6263" font-family="Arial, sans-serif" font-size="12">Dated observations. Arrows show a transmission thesis, not measured causality.</text>
+</svg>
