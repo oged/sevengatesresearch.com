@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">The cargo barrel is 122 dollars</title>
+  <desc id="desc">A factual comparison showing Brent futures near 108 dollars, dated Brent physical cargoes around 122 dollars, a calculated 14-dollar or approximately 13-percent delivery premium, and Gulf dark shipments at 7 to 9 million barrels per day, 30 to 40 percent of pre-war volumes.</desc>
+  <rect width="800" height="760" fill="#F4ECDD"/>
+  <rect x="26" y="26" width="748" height="708" fill="#F8F1E5" stroke="#132A35" stroke-width="4"/>
+  <rect x="26" y="26" width="748" height="152" fill="#132A35"/>
+  <text x="60" y="73" fill="#C7A767" font-family="Georgia, serif" font-size="17" letter-spacing="3">PAPER BARREL · CARGO BARREL</text>
+  <text x="60" y="119" fill="#F8F1E5" font-family="Georgia, serif" font-size="36" font-weight="700">The delivery gap is $14.</text>
+  <text x="60" y="151" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="15">European market observations · 15 September 2026</text>
+
+  <rect x="60" y="218" width="292" height="170" fill="#E9DECB" stroke="#C7A767" stroke-width="2"/>
+  <text x="86" y="255" fill="#5B6263" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">BRENT FUTURES</text>
+  <text x="86" y="326" fill="#132A35" font-family="Georgia, serif" font-size="58" font-weight="700">~$108</text>
+  <text x="86" y="360" fill="#5B6263" font-family="Arial, sans-serif" font-size="15">financial benchmark</text>
+
+  <path d="M370 303 H412" stroke="#C7A767" stroke-width="4"/>
+  <path d="M420 303 l-13 -10 v20 z" fill="#C7A767"/>
+
+  <rect x="438" y="218" width="302" height="170" fill="#132A35"/>
+  <text x="464" y="255" fill="#C7A767" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">DATED BRENT</text>
+  <text x="464" y="326" fill="#F8F1E5" font-family="Georgia, serif" font-size="58" font-weight="700">~$122</text>
+  <text x="464" y="360" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="15">physical cargo benchmark</text>
+
+  <rect x="60" y="424" width="680" height="101" fill="#D8C8A9"/>
+  <text x="86" y="458" fill="#132A35" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">IMPLIED DELIVERY PREMIUM</text>
+  <text x="86" y="504" fill="#132A35" font-family="Georgia, serif" font-size="36" font-weight="700">+$14 per barrel</text>
+  <text x="704" y="503" text-anchor="end" fill="#A64036" font-family="Georgia, serif" font-size="34" font-weight="700">≈13%</text>
+
+  <rect x="60" y="562" width="680" height="140" fill="#132A35"/>
+  <text x="86" y="598" fill="#C7A767" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">GULF EXPORT WORKAROUND</text>
+  <text x="86" y="650" fill="#F8F1E5" font-family="Georgia, serif" font-size="40" font-weight="700">7m to 9m bpd</text>
+  <text x="704" y="632" text-anchor="end" fill="#F8F1E5" font-family="Georgia, serif" font-size="25" font-weight="700">30% to 40%</text>
+  <text x="704" y="658" text-anchor="end" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="14">of pre-war volumes</text>
+  <text x="86" y="683" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="12">Dark shipments through Hormuz · trade-source estimate</text>
+</svg>
