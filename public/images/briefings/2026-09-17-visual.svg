@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">The Federal Reserve's projected rate path moved higher</title>
+  <desc id="desc">A factual comparison of June and September 2026 Federal Reserve median projections. The 2026 federal funds rate rose from 3.8 to 4.1 percent, the 2027 rate rose from 3.6 to 4.1 percent, 2026 PCE inflation rose from 3.6 to 3.7 percent, and 2026 unemployment fell from 4.3 to 4.1 percent.</desc>
+  <rect width="800" height="760" fill="#F4ECDD"/>
+  <rect x="26" y="26" width="748" height="708" fill="#F8F1E5" stroke="#132A35" stroke-width="4"/>
+  <rect x="26" y="26" width="748" height="154" fill="#132A35"/>
+  <text x="60" y="72" fill="#C7A767" font-family="Georgia, serif" font-size="17" letter-spacing="3">JUNE DOTS · SEPTEMBER DOTS</text>
+  <text x="60" y="119" fill="#F8F1E5" font-family="Georgia, serif" font-size="36" font-weight="700">The rate path moved up.</text>
+  <text x="60" y="151" fill="#D8D0C2" font-family="Arial, sans-serif" font-size="15">Federal Reserve median projections · percentage points</text>
+
+  <text x="60" y="220" fill="#5B6263" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">VARIABLE</text>
+  <text x="508" y="220" text-anchor="end" fill="#5B6263" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">JUNE</text>
+  <text x="650" y="220" text-anchor="end" fill="#5B6263" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">SEPT.</text>
+  <text x="728" y="220" text-anchor="end" fill="#5B6263" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">CHANGE</text>
+
+  <rect x="58" y="240" width="684" height="102" fill="#E9DECB"/>
+  <text x="82" y="280" fill="#132A35" font-family="Arial, sans-serif" font-size="15" font-weight="700">2026 FED FUNDS RATE</text>
+  <text x="508" y="315" text-anchor="end" fill="#132A35" font-family="Georgia, serif" font-size="34" font-weight="700">3.8%</text>
+  <path d="M535 302 H566" stroke="#C7A767" stroke-width="4"/><path d="M575 302 l-13 -10 v20 z" fill="#C7A767"/>
+  <text x="650" y="315" text-anchor="end" fill="#132A35" font-family="Georgia, serif" font-size="34" font-weight="700">4.1%</text>
+  <text x="718" y="311" text-anchor="end" fill="#A64036" font-family="Arial, sans-serif" font-size="18" font-weight="700">+0.3</text>
+
+  <rect x="58" y="354" width="684" height="102" fill="#132A35"/>
+  <text x="82" y="394" fill="#C7A767" font-family="Arial, sans-serif" font-size="15" font-weight="700">2027 FED FUNDS RATE</text>
+  <text x="508" y="429" text-anchor="end" fill="#F8F1E5" font-family="Georgia, serif" font-size="34" font-weight="700">3.6%</text>
+  <path d="M535 416 H566" stroke="#C7A767" stroke-width="4"/><path d="M575 416 l-13 -10 v20 z" fill="#C7A767"/>
+  <text x="650" y="429" text-anchor="end" fill="#F8F1E5" font-family="Georgia, serif" font-size="34" font-weight="700">4.1%</text>
+  <text x="718" y="425" text-anchor="end" fill="#D9786F" font-family="Arial, sans-serif" font-size="18" font-weight="700">+0.5</text>
+
+  <rect x="58" y="468" width="684" height="102" fill="#E9DECB"/>
+  <text x="82" y="508" fill="#132A35" font-family="Arial, sans-serif" font-size="15" font-weight="700">2026 PCE INFLATION</text>
+  <text x="508" y="543" text-anchor="end" fill="#132A35" font-family="Georgia, serif" font-size="34" font-weight="700">3.6%</text>
+  <path d="M535 530 H566" stroke="#C7A767" stroke-width="4"/><path d="M575 530 l-13 -10 v20 z" fill="#C7A767"/>
+  <text x="650" y="543" text-anchor="end" fill="#132A35" font-family="Georgia, serif" font-size="34" font-weight="700">3.7%</text>
+  <text x="718" y="539" text-anchor="end" fill="#A64036" font-family="Arial, sans-serif" font-size="18" font-weight="700">+0.1</text>
+
+  <rect x="58" y="582" width="684" height="102" fill="#132A35"/>
+  <text x="82" y="622" fill="#C7A767" font-family="Arial, sans-serif" font-size="15" font-weight="700">2026 UNEMPLOYMENT</text>
+  <text x="508" y="657" text-anchor="end" fill="#F8F1E5" font-family="Georgia, serif" font-size="34" font-weight="700">4.3%</text>
+  <path d="M535 644 H566" stroke="#C7A767" stroke-width="4"/><path d="M575 644 l-13 -10 v20 z" fill="#C7A767"/>
+  <text x="650" y="657" text-anchor="end" fill="#F8F1E5" font-family="Georgia, serif" font-size="34" font-weight="700">4.1%</text>
+  <text x="718" y="653" text-anchor="end" fill="#4F866E" font-family="Arial, sans-serif" font-size="18" font-weight="700">-0.2</text>
+
+  <text x="58" y="711" fill="#5B6263" font-family="Arial, sans-serif" font-size="12">Source: Federal Reserve Summary of Economic Projections, June and September 2026.</text>
+</svg>
