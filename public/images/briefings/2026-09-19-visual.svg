@@ -9,12 +9,12 @@
   <text x="54" y="156" font-size="20">Indicative price observations, 18 September 2026</text>
   <line x1="54" x2="746" y1="183" y2="183" stroke="#B19A6C"/>
 
-  <rect x="54" y="224" width="544" height="104" fill="#FFFFFF" stroke="#CDC3B0"/>
+  <rect x="54" y="224" width="574" height="104" fill="#FFFFFF" stroke="#CDC3B0"/>
   <text x="78" y="262" font-size="18" letter-spacing="1">BRENT</text>
   <text x="78" y="297" font-size="18" fill="#655D50">Global futures benchmark</text>
   <text x="722" y="293" text-anchor="end" font-size="43" font-family="Georgia, serif">$103.18</text>
 
-  <rect x="54" y="350" width="589" height="104" fill="#FFFFFF" stroke="#CDC3B0"/>
+  <rect x="54" y="350" width="612" height="104" fill="#FFFFFF" stroke="#CDC3B0"/>
   <text x="78" y="388" font-size="18" letter-spacing="1">URALS</text>
   <text x="78" y="423" font-size="18" fill="#655D50">Russian export grade</text>
   <text x="722" y="419" text-anchor="end" font-size="43" font-family="Georgia, serif">~$110</text>
