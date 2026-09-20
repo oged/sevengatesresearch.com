@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+<title id="title">Europe's AI bargain</title>
+<desc id="desc">Three factual cards show the IMF's estimated European AI bargain: about one percent productivity growth over five years, about sixty percent of workers in advanced European economies highly exposed to AI, and data centres using about three percent of European electricity.</desc>
+<rect width="800" height="760" fill="#172521"/>
+<rect x="20" y="20" width="760" height="720" rx="3" fill="#F4F0E6"/>
+<g font-family="Arial, sans-serif" fill="#172521">
+  <text x="54" y="66" font-size="16" letter-spacing="3" fill="#8A7042">SEVEN GATES / AI TRANSMISSION</text>
+  <text x="54" y="119" font-family="Georgia, serif" font-size="42">Europe's AI bargain</text>
+  <text x="54" y="156" font-size="20">Three different measures. One policy trade-off.</text>
+  <line x1="54" x2="746" y1="183" y2="183" stroke="#B19A6C"/>
+
+  <rect x="54" y="224" width="210" height="312" fill="#FFFFFF" stroke="#CDC3B0"/>
+  <text x="79" y="272" font-size="15" letter-spacing="2" fill="#8A7042">PRODUCTIVITY</text>
+  <text x="79" y="350" font-family="Georgia, serif" font-size="56">~1%</text>
+  <text x="79" y="395" font-size="18">estimated lift</text>
+  <text x="79" y="424" font-size="18">over five years</text>
+  <line x1="79" x2="239" y1="461" y2="461" stroke="#CDC3B0"/>
+  <text x="79" y="498" font-size="16" fill="#655D50">Useful growth.</text>
+
+  <rect x="295" y="224" width="210" height="312" fill="#E8E0D0" stroke="#B19A6C"/>
+  <text x="320" y="272" font-size="15" letter-spacing="2" fill="#8A7042">LABOUR</text>
+  <text x="320" y="350" font-family="Georgia, serif" font-size="56">~60%</text>
+  <text x="320" y="395" font-size="18">of workers highly</text>
+  <text x="320" y="424" font-size="18">exposed to AI</text>
+  <line x1="320" x2="480" y1="461" y2="461" stroke="#B19A6C"/>
+  <text x="320" y="498" font-size="16" fill="#655D50">Broad disruption.</text>
+
+  <rect x="536" y="224" width="210" height="312" fill="#FFFFFF" stroke="#CDC3B0"/>
+  <text x="561" y="272" font-size="15" letter-spacing="2" fill="#8A7042">ELECTRICITY</text>
+  <text x="561" y="350" font-family="Georgia, serif" font-size="56">~3%</text>
+  <text x="561" y="395" font-size="18">used by European</text>
+  <text x="561" y="424" font-size="18">data centres</text>
+  <line x1="561" x2="721" y1="461" y2="461" stroke="#CDC3B0"/>
+  <text x="561" y="498" font-size="16" fill="#655D50">A physical bill.</text>
+
+  <text x="54" y="587" font-size="21" font-weight="bold">The gain is aggregate. The exposure is personal.</text>
+  <text x="54" y="621" font-size="17">Measures and denominators differ; the cards are not a common scale.</text>
+  <text x="54" y="650" font-size="17">Infrastructure decides where the productivity dividend can land.</text>
+  <text x="54" y="696" font-size="14" fill="#655D50">Source: IMF background note for EU finance ministers, reported by Reuters, 19 Sep 2026.</text>
+</g>
+</svg>
