@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">The Strait’s two ledgers</title>
+  <desc id="desc">Three factual cards show 12 trackable commodity vessel transits over the weekend, 34 million barrels carried by 13 crude tankers exiting in the week of 13 September, and 17.1 million barrels per day of estimated total Middle East oil flows over the latest ten days.</desc>
+  <rect width="800" height="760" fill="#F4F0E6"/>
+  <rect x="28" y="28" width="744" height="704" rx="8" fill="none" stroke="#172521" stroke-width="2"/>
+  <text x="64" y="82" fill="#8A7042" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.4">THE STRAIT’S TWO LEDGERS</text>
+  <text x="64" y="128" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Hormuz is dark, not empty</text>
+  <text x="64" y="161" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="17">Visible traffic has fallen faster than reconstructed oil flows.</text>
+
+  <g transform="translate(64 205)">
+    <rect width="672" height="126" rx="5" fill="#172521"/>
+    <text x="26" y="48" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.7">VISIBLE WEEKEND TRANSITS</text>
+    <text x="26" y="99" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">12</text>
+    <text x="143" y="98" fill="#F4F0E6" font-family="Arial, Helvetica, sans-serif" font-size="18">trackable commodity vessels</text>
+    <text x="502" y="98" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="15">35 prior weekend</text>
+  </g>
+
+  <g transform="translate(64 351)">
+    <rect width="672" height="126" rx="5" fill="#E7E0D2" stroke="#B19A6C" stroke-width="1.5"/>
+    <text x="26" y="45" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.7">RECONSTRUCTED CRUDE CARGOES</text>
+    <text x="26" y="99" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">34m</text>
+    <text x="156" y="98" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="18">barrels on 13 exiting tankers</text>
+    <text x="499" y="98" fill="#6B746F" font-family="Arial, Helvetica, sans-serif" font-size="15">week of 13 Sep</text>
+  </g>
+
+  <g transform="translate(64 497)">
+    <rect width="672" height="126" rx="5" fill="#E7E0D2" stroke="#B19A6C" stroke-width="1.5"/>
+    <text x="26" y="45" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.7">ESTIMATED TOTAL MIDDLE EAST FLOW</text>
+    <text x="26" y="99" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">17.1m</text>
+    <text x="190" y="98" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="18">barrels a day</text>
+    <text x="443" y="98" fill="#6B746F" font-family="Arial, Helvetica, sans-serif" font-size="15">latest 10-day average</text>
+  </g>
+
+  <line x1="64" y1="657" x2="736" y2="657" stroke="#B19A6C" stroke-width="1"/>
+  <text x="64" y="684" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="13">Different periods and methods. Trackable vessels exclude ships operating without AIS.</text>
+  <text x="64" y="708" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="12">KPLER AND JPMORGAN DATA REPORTED BY REUTERS · 21 SEP 2026</text>
+</svg>
