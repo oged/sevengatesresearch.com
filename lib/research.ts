@@ -17,6 +17,8 @@ export type ResearchItem = {
   hero?: string;
   heroAlt?: string;
   heroCaption?: string;
+  seoTitle?: string;
+  ogImage?: string;
   legacyUrl?: string;
   legacyImported?: boolean;
   draft?: boolean;
@@ -59,6 +61,8 @@ function parse(fileName: string): ResearchItem {
     hero: data.hero ? String(data.hero) : undefined,
     heroAlt: data.heroAlt ? String(data.heroAlt) : undefined,
     heroCaption: data.heroCaption ? String(data.heroCaption) : undefined,
+    seoTitle: data.seoTitle ? String(data.seoTitle) : undefined,
+    ogImage: data.ogImage ? String(data.ogImage) : undefined,
     legacyUrl: data.legacyUrl ? String(data.legacyUrl) : undefined,
     legacyImported: Boolean(data.legacyImported),
     draft: Boolean(data.draft),
