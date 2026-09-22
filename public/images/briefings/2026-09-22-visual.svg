@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">One barrel, three political prices</title>
+  <desc id="desc">Three separate factual cards show Nigeria petrol rising from about 1,200 to 1,400 naira per litre in one month, US approval of President Trump’s handling of the cost of living at 17 percent, and Brent crude at 100 dollars and 22 cents after a fall of more than 3 percent.</desc>
+  <rect width="800" height="760" fill="#172521"/>
+  <rect x="24" y="24" width="752" height="712" rx="5" fill="#F4F0E6"/>
+  <text x="58" y="72" fill="#8A7042" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">OIL’S POLITICAL TRANSMISSION</text>
+  <text x="58" y="121" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">One barrel, three political prices</text>
+  <text x="58" y="155" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="17">Different measures. One cost-of-living channel.</text>
+
+  <g transform="translate(58 205)">
+    <rect width="684" height="132" rx="4" fill="#E7E0D2" stroke="#B19A6C" stroke-width="1.5"/>
+    <text x="24" y="40" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">NIGERIA · RETAIL PETROL</text>
+    <text x="24" y="98" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">₦1,200</text>
+    <text x="207" y="95" fill="#8A7042" font-family="Arial, Helvetica, sans-serif" font-size="28">→</text>
+    <text x="261" y="98" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">₦1,400</text>
+    <text x="503" y="96" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="16">per litre · one month</text>
+  </g>
+
+  <g transform="translate(58 357)">
+    <rect width="684" height="132" rx="4" fill="#172521"/>
+    <text x="24" y="40" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">UNITED STATES · COST-OF-LIVING APPROVAL</text>
+    <text x="24" y="102" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700">17%</text>
+    <text x="166" y="96" fill="#F4F0E6" font-family="Arial, Helvetica, sans-serif" font-size="18">approve of President Trump’s handling</text>
+    <text x="537" y="96" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="15">Reuters/Ipsos</text>
+  </g>
+
+  <g transform="translate(58 509)">
+    <rect width="684" height="112" rx="4" fill="#E7E0D2" stroke="#B19A6C" stroke-width="1.5"/>
+    <text x="24" y="37" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">GLOBAL MARKET · BRENT</text>
+    <text x="24" y="91" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700">$100.22</text>
+    <text x="234" y="87" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="18">a barrel after a fall of more than 3%</text>
+  </g>
+
+  <line x1="58" y1="657" x2="742" y2="657" stroke="#B19A6C"/>
+  <text x="58" y="685" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="13">Separate countries, periods and denominators. Cards are not a common scale.</text>
+  <text x="58" y="709" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="12">REUTERS REPORTING AND REUTERS/IPSOS POLLING · 21–22 SEP 2026</text>
+</svg>
