@@ -2,10 +2,10 @@
 draft: false
 slug: "the-brake-the-accelerator-and-the-rat"
 date: "2026-09-18"
-title: "The Brake, the Accelerator and the Rat"
-excerpt: "How Taylor, McCallum, two strategic straits and one very Nigerian monetary-policy problem tell us whether 26.5% is actually tight."
+title: "At 26.5%, Nigeria's CBN Is on the Brake. Who Is on the Accelerator?"
+excerpt: "How Taylor, McCallum, two strategic straits and one very Nigerian monetary-policy problem tell us whether the CBN's 26.5% MPR is actually tight."
 readingTime: "22 min"
-kicker: "SEVEN GATES RESEARCH · MACRO / MONETARY POLICY"
+kicker: "SEVEN GATES RESEARCH · THE BRAKE, THE ACCELERATOR AND THE RAT"
 researchType: "Essay"
 category: "Macro"
 ticker: "MACRO"
