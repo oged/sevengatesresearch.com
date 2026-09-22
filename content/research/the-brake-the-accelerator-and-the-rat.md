@@ -18,17 +18,33 @@ ogImage: "/images/research/the-brake-the-accelerator-and-the-rat/00-hero-social-
 ---
 By The Lokoja Contrarian · 18 September 2026 · Seven Gates Research
 
-Seven Gates has spent **weeks** thinking about the Taylor rule.
+**Seven Gates has spent weeks thinking about the Taylor rule.**
 
-There have been equations. There have been arguments about r\*. There has been an attempt to estimate an interest rate that cannot actually be observed, which went about as well as that sentence suggests. At one point Kasali, my entirely imaginary mechanic, became responsible for explaining potential GDP.
+This has involved equations, arguments about r\*, and an attempt to estimate an interest rate that cannot actually be observed, which went about as well as that sentence suggests.
 
-Then Iran's parliamentary speaker joined the research team.
+Nassim Nicholas Taleb once offered some useful advice for precisely this sort of behaviour:
+
+> "If you hear a 'prominent' economist using the word 'equilibrium,' or 'normal distribution,' do not argue with him; just ignore him, or try to put a rat down his shirt."
+>
+> Nassim Nicholas Taleb, *The Black Swan*
+
+**This presents an immediate problem.**
+
+We are about to spend several thousand words discussing an equilibrium real interest rate.
+
+Readers who have brought rodents may therefore wish to keep them nearby.
+
+**We had nevertheless persisted. For weeks.**
+
+There had been Taylor rules. There had been arguments about r\*. At one point Kasali, my entirely imaginary mechanic, became responsible for explaining potential GDP.
+
+**Then Iran's parliamentary speaker joined the research team.**
 
 Not formally, obviously.
 
-Mohammad Bagher Ghalibaf appeared on X with something he called the **"Straits Taylor Rule"**, having taken one of monetary economics' most famous equations and added the Strait of Hormuz and Bab el-Mandeb:
+Mohammad Bagher Ghalibaf appeared on X with something he called the **"Straits Taylor Rule"**, having taken one of monetary economics' most famous equations and added the Strait of Hormuz and Bab el-Mandeb.
 
-<div class="sgr-eq" style="margin:1.6em 0;padding:1em 1.25em;background:var(--bg-sunken);border-left:3px solid var(--accent);text-align:center;overflow-x:auto;white-space:nowrap;font-size:1.08em;line-height:1.9"><i>i</i> = <i>r</i>* + <i>π</i>* + 1.5(<i>π</i> − <i>π</i>*) + 0.5(<i>y</i> − <i>y</i>*) + <i>α</i>(SOH − SOH*) + <i>β</i>(BEM − BEM*)<br><i>α</i>, <i>β</i> &gt; 0</div>
+<figure class="sgr-figure" style="max-width:560px;margin-left:auto;margin-right:auto"><img src="/images/research/the-brake-the-accelerator-and-the-rat/01-ghalibaf-straits-taylor-rule-post.jpg" width="898" height="874" loading="lazy" alt="Screenshot of a post by MB Ghalibaf (@mb_ghalibaf) headed Straits Taylor Rule: i = r* + π* + 1.5(π−π*) + 0.5(y−y*) + α(SOH−SOH*) + β(BEM−BEM*), α,β &gt; 0. Let's see if a hike could open SOH or produce a single barrel :) You can't 25bp a chokepoint and r* isn't neutral. It's SOH risk premium, and We set it. Stay unanchored!"><figcaption><strong>Figure 1.</strong> Geopolitics discovers the Taylor rule. Screenshot supplied to Seven Gates of Mohammad Bagher Ghalibaf's September 2026 post. The Hormuz and Bab el-Mandeb terms are satire, not a recognised monetary-policy rule.</figcaption></figure>
 
 Economists have spent three decades arguing about the correct value of r\*. Ghalibaf apparently decided the equation's real problem was insufficient shipping.
 
@@ -39,8 +55,6 @@ He then asked whether a rate increase could "open SOH or produce a single barrel
 This is, regrettably, very funny.
 
 It is also a much better introduction to monetary economics than it has any right to be.
-
-<figure class="sgr-figure" style="max-width:560px;margin-left:auto;margin-right:auto"><img src="/images/research/the-brake-the-accelerator-and-the-rat/01-ghalibaf-straits-taylor-rule-post.jpg" width="898" height="874" loading="lazy" alt="Screenshot of a post by MB Ghalibaf (@mb_ghalibaf) headed Straits Taylor Rule: i = r* + π* + 1.5(π−π*) + 0.5(y−y*) + α(SOH−SOH*) + β(BEM−BEM*), α,β &gt; 0. Let's see if a hike could open SOH or produce a single barrel :) You can't 25bp a chokepoint and r* isn't neutral. It's SOH risk premium, and We set it. Stay unanchored!"><figcaption><strong>Figure 1.</strong> Geopolitics discovers the Taylor rule. Screenshot supplied to Seven Gates of Mohammad Bagher Ghalibaf's September 2026 post. The Hormuz and Bab el-Mandeb terms are satire, not a recognised monetary-policy rule.</figcaption></figure>
 
 Because underneath the geopolitical trolling sits a serious problem.
 
@@ -72,9 +86,9 @@ Because the same shock may simultaneously do this:
 
 Now the equation is arguing with itself.
 
-Inflation says tighten.
+Inflation says **tighten**.
 
-Output says ease.
+Output says **ease**.
 
 The tanker, meanwhile, remains unimpressed by both.
 
@@ -88,7 +102,7 @@ The tanker has already done enough.
 
 ## 2. And r\* has been kidnapped
 
-Ghalibaf's other line is even more useful: "r\* isn't neutral. It's SOH risk premium, and We set it."
+Ghalibaf's other line is even more useful: **"r\* isn't neutral. It's SOH risk premium, and We set it."**
 
 Excellent politics. Rather less excellent monetary economics.
 
@@ -116,11 +130,11 @@ Kasali's overdraft becomes more expensive.
 
 The container does not become cheaper.
 
-This is the instrument-target mismatch.
+This is the **instrument-target mismatch**.
 
 But stopping there would be too easy, and wrong.
 
-Because monetary policy may be unable to prevent the original shock while remaining extremely important in determining what happens after it.
+Because monetary policy may be unable to prevent the original shock while remaining extremely important in determining what happens **after** it.
 
 <div class="sgr-eq" style="margin:1.6em 0;padding:1em 1.25em;background:var(--bg-sunken);border-left:3px solid var(--accent);text-align:center;overflow-x:auto;white-space:nowrap;font-size:1.02em;line-height:1.9">MPR ↑ → FX pressure ↓ → imported inflation ↓<br>MPR ↑ → inflation expectations ↓ → second-round effects ↓<br>MPR ↑ → aggregate demand ↓ → pricing power ↓</div>
 
@@ -128,7 +142,7 @@ And that gives us a much better question than whether a central banker can reope
 
 They cannot.
 
-> **How much of the inflation process remains controllable by monetary policy after the original shock has occurred?**
+> How much of the inflation process remains controllable by monetary policy after the original shock has occurred?
 
 Now we are doing economics.
 
@@ -136,43 +150,33 @@ Now we are doing economics.
 
 <div class="sgr-eq" style="margin:1.6em 0;padding:1em 1.25em;background:var(--bg-sunken);border-left:3px solid var(--accent);text-align:center;overflow-x:auto;white-space:nowrap;font-size:1.02em;letter-spacing:0.04em">ORIGIN → PROPAGATION → ACCOMMODATION → PERSISTENCE</div>
 
-A fuel or shipping shock can originate inflation. Naira depreciation can propagate it. Excess liquidity and nominal-demand growth can accommodate it. Unanchored expectations can perpetuate it.
+A fuel or shipping shock can **originate** inflation. Naira depreciation can **propagate** it. Excess liquidity and nominal-demand growth can **accommodate** it. Unanchored expectations can **perpetuate** it.
 
 Monetary policy may be virtually powerless over the first event while retaining considerable influence over the next three.
 
 That distinction is the bridge into the paper we were already writing.
 
-Taylor asks whether the price of money is sufficiently restrictive.
+Taylor asks whether the **price of money** is sufficiently restrictive.
 
 McCallum asks whether monetary quantities are consistent with the desired nominal path.
 
 And Nigeria gives us the awkward possibility that the gauges disagree:
 
-**What if the price of money says TIGHT while quantities say NOT QUITE?**
+> **What if the price of money says TIGHT while quantities say NOT QUITE?**
 
-At which point we can return to the opening we had before Ghalibaf wandered into the paper.
-
-> "If you hear a 'prominent' economist using the word 'equilibrium,' or 'normal distribution,' do not argue with him; just ignore him, or try to put a rat down his shirt."
->
-> Nassim Nicholas Taleb, *The Black Swan*
-
-This presents an immediate problem.
-
-We are about to spend several thousand words discussing an equilibrium real interest rate.
-
-Readers who have brought rodents may therefore wish to keep them nearby.
+The rat has already warned us what happens when economists become too fond of equilibrium.
 
 The rest of us have a more practical problem.
 
-Nigeria's Monetary Policy Rate is 26.5%. Headline inflation was 15.39% in August 2026. Prices are still rising, merely more slowly than before. Meanwhile, the Cash Reserve Requirement for deposit money banks is 45%.
+Nigeria's Monetary Policy Rate is **26.5%**. Headline inflation was **15.39%** in August 2026. Prices are still rising, merely more slowly than before. Meanwhile, the Cash Reserve Requirement for deposit money banks is **45%**.
 
-Is 26.5% therefore high? Obviously. Is it too high? Ah. That is a completely different question.
+Is 26.5% therefore high? Obviously. Is it **too** high? Ah. That is a completely different question.
 
 To answer it properly, we need to meet two economists, several equations, one interest rate that nobody can actually observe, another variable nobody can observe either, and eventually a problem peculiar enough to Nigeria that a perfectly respectable monetary-policy rule requires us to open the bonnet.
 
 Fortunately, I know a mechanic. His name is Kasali.
 
-<div class="sgr-glance" style="margin:2.2em 0;padding:1.4em 1.5em;background:var(--bg-sunken);border:1px solid var(--border);border-top:4px solid var(--accent)"><p style="margin:0 0 0.7em;font-family:var(--font-interface),system-ui,sans-serif;font-size:var(--fs-xs);font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent-text)">At a glance</p><p style="margin:0"><strong>Fact:</strong> MPR 26.5%; DMB CRR 45%; August headline inflation 15.39%. <strong>Scenario:</strong> with a 7.5% inflation anchor and a zero output gap, a simple Taylor rule gives 19.34% + r*. At r* = 1.2%, that is 20.54%, but our identification work does not support publishing 1.2% as an estimated current Nigerian r*. The honest conclusion is a range, not a magic decimal. Ghalibaf's joke adds the missing first question: what caused the inflation, and which part of its subsequent propagation can monetary policy actually touch? McCallum then supplies the quantity-side test.</p></div>
+<div class="sgr-glance" style="margin:2.2em 0;padding:1.4em 1.5em;background:var(--bg-sunken);border:1px solid var(--border);border-top:4px solid var(--accent)"><p style="margin:0 0 0.7em;font-family:var(--font-interface),system-ui,sans-serif;font-size:var(--fs-xs);font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent-text)">At a glance</p><p style="margin:0"><strong>Fact:</strong> MPR <strong>26.5%</strong>; DMB CRR <strong>45%</strong>; August headline inflation <strong>15.39%</strong>. <strong>Scenario:</strong> with a 7.5% inflation anchor and a zero output gap, a simple Taylor rule gives <strong>19.34% + r*</strong>. At r* = 1.2%, that is <strong>20.54%</strong>, but our identification work does not support publishing 1.2% as an estimated current Nigerian r*. The honest conclusion is a range, not a magic decimal. Ghalibaf's joke adds the missing first question: what caused the inflation, and which part of its subsequent propagation can monetary policy actually touch? McCallum then supplies the quantity-side test.</p></div>
 
 ## 5. Taylor gives economics a speed limit
 
@@ -182,17 +186,17 @@ John Taylor's famous 1993 rule is one of those economic ideas that manages the u
 
 Do not flee. There are only five moving parts.
 
-*i* is the interest rate the rule thinks the central bank should set. *π* is inflation. *π\** is where we would prefer inflation to be. *ỹ* is the output gap, which measures whether the economy is running above or below sustainable capacity. And *r\**, pronounced 'r-star', is the equilibrium real interest rate.
+***i*** is the interest rate the rule thinks the central bank should set. ***π*** is inflation. ***π\**** is where we would prefer inflation to be. ***ỹ*** is the output gap, which measures whether the economy is running above or below sustainable capacity. And ***r\****, pronounced 'r-star', is the equilibrium real interest rate.
 
 <div class="sgr-eq" style="margin:1.6em 0;padding:1em 1.25em;background:var(--bg-sunken);border-left:3px solid var(--accent);text-align:center;overflow-x:auto;white-space:nowrap;font-size:1.08em"><i>i<sub>t</sub></i> = <i>r</i>*<sub><i>t</i></sub> + <i>π<sub>t</sub></i> + 0.5(<i>π<sub>t</sub></i> − <i>π</i>*<sub><i>t</i></sub>) + 0.5 <i>ỹ<sub>t</sub></i></div>
 
-The clever part is what happens when inflation rises. Suppose inflation increases by one percentage point while everything else stays put. The nominal rate rises by the one point needed merely to keep the real interest rate unchanged plus another half point from the inflation-gap term.
+The clever part is what happens when inflation rises. Suppose inflation increases by one percentage point while everything else stays put. The nominal rate rises by the one point needed merely to keep the real interest rate unchanged **plus another half point** from the inflation-gap term.
 
-So the policy rate rises by 1.5 percentage points. The central bank is not merely chasing inflation up the stairs. It is trying to get ahead of it. Economists call this the Taylor principle. Normal people might call it applying the brake harder when the car starts going faster. Both are acceptable. Only one requires a PhD.
+So the policy rate rises by 1.5 percentage points. The central bank is not merely chasing inflation up the stairs. It is trying to get ahead of it. Economists call this the **Taylor principle**. Normal people might call it applying the brake harder when the car starts going faster. Both are acceptable. Only one requires a PhD.
 
 ## 6. Let us put Nigeria into the machine
 
-Nigeria's August 2026 headline inflation rate was 15.39%. The July MPC retained the MPR at 26.5%. For a transparent illustration, suppose we use a 7.5% inflation anchor, temporarily set the output gap to zero, and plug in r\* = 1.2%.
+Nigeria's August 2026 headline inflation rate was **15.39%**. The July MPC retained the MPR at **26.5%**. For a transparent illustration, suppose we use a 7.5% inflation anchor, temporarily set the output gap to zero, and plug in r\* = 1.2%.
 
 <div class="sgr-eq" style="margin:1.6em 0;padding:1em 1.25em;background:var(--bg-sunken);border-left:3px solid var(--accent);text-align:center;overflow-x:auto;white-space:nowrap;font-size:1.08em;line-height:1.9"><i>i</i>* = 1.2 + 15.39 + 0.5(15.39 − 7.5) + 0.5(0)<br><i>i</i>* = 20.535% ≈ 20.54%</div>
 
@@ -200,9 +204,9 @@ Define the Taylor deviation:
 
 <div class="sgr-eq" style="margin:1.6em 0;padding:1em 1.25em;background:var(--bg-sunken);border-left:3px solid var(--accent);text-align:center;overflow-x:auto;white-space:nowrap;font-size:1.08em;line-height:1.9">TD<sub><i>t</i></sub> = <i>i<sub>t</sub></i> − <i>i<sub>t</sub></i><sup>Taylor</sup><br>TD = 26.50 − 20.54 ≈ +5.96 percentage points</div>
 
-On that scenario, Nigeria's policy rate sits almost six percentage points above the Taylor benchmark. That sounds dramatic. It is also where we need to become suspicious of ourselves.
+On that **scenario**, Nigeria's policy rate sits almost six percentage points above the Taylor benchmark. That sounds dramatic. It is also where we need to become suspicious of ourselves.
 
-<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/02-taylor-implied-mpr-by-assumed-r-star.png" width="2160" height="1344" loading="lazy" alt="Figure 2 line chart: Taylor-implied MPR rises from 19.34% at an assumed r* of 0% to 25.34% at r* of 6%, still below the actual 26.5% MPR shown as a dashed line."><figcaption><strong>Figure 2.</strong> A higher r* can almost close the apparent Taylor gap. At r* = 0%, Taylor gives 19.34%; at r* = 6%, it gives 25.34%. Source: NBS; CBN; Seven Gates calculations. Scenario, not an estimate of r*. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/02-taylor-implied-mpr-by-assumed-r-star.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
+<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/02-taylor-implied-mpr-by-assumed-r-star-v2.png" width="2160" height="1344" loading="lazy" alt="Figure 2 line chart: Taylor-implied MPR rises from 19.34% at an assumed r* of 0% to 25.34% at r* of 6%, still below the actual 26.5% MPR shown as a dashed line. An open marker shows the illustrative r* of 1.2%, which gives 20.54%."><figcaption><strong>Figure 2.</strong> A higher r* can almost close the apparent Taylor gap. At r* = 0%, Taylor gives 19.34%; at r* = 6%, it gives 25.34%. Source: NBS; CBN; Seven Gates calculations. Scenario, not an estimate of r*. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/02-taylor-implied-mpr-by-assumed-r-star-v2.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
 
 ## 7. Please do not telephone the CBN yet
 
@@ -230,7 +234,7 @@ The easiest way for Kasali, my mechanic, to understand this is to ask him what t
 
 The responsible response is therefore not to pick 1.2% because it makes the equation look tidy. It is to show the sensitivity.
 
-<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/03-r-star-identification-diagnostic.png" width="2160" height="1344" loading="lazy" alt="Figure 3 line chart: resulting fitted r* tracks the initial r* assumption almost exactly, from 2% to 6%."><figcaption><strong>Figure 3.</strong> Our r* model mostly gave us back the number we fed it. If the answer follows the starting assumption while the fit barely changes, the model has not earned a precise r*. Source: Seven Gates Research Nigeria r-star identification work. Diagnostic summary of tested state-space specifications; an identification check, not a current r* estimate. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/03-r-star-identification-diagnostic.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
+<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/03-r-star-identification-diagnostic-v2.png" width="2160" height="1344" loading="lazy" alt="Figure 3 line chart: resulting fitted r* tracks the initial r* assumption almost exactly, from 2% to 6%."><figcaption><strong>Figure 3.</strong> Our r* model mostly gave us back the number we fed it. If the answer follows the starting assumption while the fit barely changes, the model has not earned a precise r*. Source: Seven Gates Research Nigeria r-star identification work. Diagnostic summary of tested state-space specifications; an identification check, not a current r* estimate. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/03-r-star-identification-diagnostic-v2.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
 
 ## 9. What if r\* is wrong?
 
@@ -244,7 +248,7 @@ Allow the output gap to move as well and the range widens further. In our scenar
 
 That range is not a probability distribution. We imposed the assumptions. It tells us something narrower and more useful: the Taylor conclusion is extremely sensitive to what you believe about neutral rates and spare capacity.
 
-<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/04-taylor-scenario-matrix-r-star-output-gap.png" width="2160" height="1478" loading="lazy" alt="Figure 4 scenario matrix: Taylor-implied MPR for assumed r* from 0% to 6% and output gap from minus 4% to plus 2%, ranging from 17.3% to 26.3%; only the r* 6% cells with output gaps of plus 1% and plus 2% (25.8% and 26.3%) reach 25.5% or above."><figcaption><strong>Figure 4.</strong> The Taylor answer depends heavily on two things we cannot observe. The scenario range is about 17.3% to 26.3%. A single Taylor number would imply more certainty than the inputs deserve. Source: Seven Gates calculations. Inflation 15.39%; inflation anchor 7.5%. Brass-bordered cells are scenarios at or above 25.5%, not probabilities. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/04-taylor-scenario-matrix-r-star-output-gap.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
+<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/04-taylor-scenario-matrix-r-star-output-gap-v2.png" width="2160" height="1478" loading="lazy" alt="Figure 4 scenario matrix: Taylor-implied MPR for assumed r* from 0% to 6% and output gap from minus 4% to plus 2%, ranging from 17.3% to 26.3%; only the r* 6% cells with output gaps of plus 1% and plus 2% (25.8% and 26.3%) reach 25.5% or above."><figcaption><strong>Figure 4.</strong> The Taylor answer depends heavily on two things we cannot observe. The scenario range is about 17.3% to 26.3%. A single Taylor number would imply more certainty than the inputs deserve. Source: Seven Gates calculations. Inflation 15.39%; inflation anchor 7.5%. Brass-bordered cells are scenarios at or above 25.5%, not probabilities. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/04-taylor-scenario-matrix-r-star-output-gap-v2.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
 
 ## 10. And then there is the output gap
 
@@ -296,7 +300,7 @@ Abstract equations become much friendlier once money is involved.
 
 The CBN reported that Nigeria's monetary base rose from **₦32.67 trillion in December 2024 to ₦36.64 trillion by October 2025**. That is growth of **12.15%**.
 
-<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/05-nigeria-monetary-base-dec-2024-oct-2025.png" width="2160" height="1344" loading="lazy" alt="Figure 5 bar chart: Nigeria's monetary base was ₦32.67 trillion in December 2024 and ₦36.64 trillion in October 2025, an increase of 12.15%."><figcaption><strong>Figure 5.</strong> The monetary base grew 12.15% while rates were very high. A high policy rate does not, by itself, tell us what monetary quantities are doing. Source: CBN, November 2025 MPC member statements / communiqué. Percentage change is a Seven Gates calculation from reported endpoints. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/05-nigeria-monetary-base-dec-2024-oct-2025.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
+<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/05-nigeria-monetary-base-dec-2024-oct-2025-v2.png" width="2160" height="1344" loading="lazy" alt="Figure 5 bar chart: Nigeria's monetary base was ₦32.67 trillion in December 2024 and ₦36.64 trillion in October 2025, an increase of 12.15%."><figcaption><strong>Figure 5.</strong> The monetary base grew 12.15% while rates were very high. A high policy rate does not, by itself, tell us what monetary quantities are doing. Source: CBN, November 2025 MPC member statements / communiqué. Percentage change is a Seven Gates calculation from reported endpoints. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/05-nigeria-monetary-base-dec-2024-oct-2025-v2.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
 
 Now define our McCallum deviation:
 
@@ -336,7 +340,7 @@ There is a useful historical reason to take quantities seriously. In 2006, the C
 
 The CBN reported broad-money growth of **30.6%** against a **27.8%** target, while reserve money ended December at **₦974.9 billion** against an **₦820 billion** target.
 
-<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/06-2006-quantity-targets-versus-outcomes.png" width="2160" height="1384" loading="lazy" alt="Figure 6, two bar panels: 2006 broad money growth was 30.6% against a 27.8% target; reserve money was ₦974.9 billion against an ₦820 billion target."><figcaption><strong>Figure 6.</strong> In 2006, both major quantity outcomes overshot their targets. The institutional lesson is old: the announced policy price and realised monetary quantities are not the same object. Source: Central Bank of Nigeria, Conduct of Monetary Policy. Panels use separate units and scales; compare target with actual within each panel only. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/06-2006-quantity-targets-versus-outcomes.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
+<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/06-2006-quantity-targets-versus-outcomes-v2.png" width="2160" height="1384" loading="lazy" alt="Figure 6, two bar panels: 2006 broad money growth was 30.6% against a 27.8% target; reserve money was ₦974.9 billion against an ₦820 billion target."><figcaption><strong>Figure 6.</strong> In 2006, both major quantity outcomes overshot their targets. The institutional lesson is old: the announced policy price and realised monetary quantities are not the same object. Source: Central Bank of Nigeria, Conduct of Monetary Policy. Panels use separate units and scales; compare target with actual within each panel only. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/06-2006-quantity-targets-versus-outcomes-v2.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
 
 The historical point is not that 2006 equals 2026. It plainly does not. The point is institutional: Nigerian monetary policy has long had to manage both the price and the quantity of liquidity.
 
@@ -366,7 +370,7 @@ We deliberately resisted calling it another 'wedge'. Economics already contains 
 
 If RQD is positive, the interest-rate signal is tighter than the quantity signal. If negative, quantities are tighter than the rate signal suggests. Around zero, the two gauges broadly agree.
 
-<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/07-rate-quantity-divergence-map.png" width="2160" height="1344" loading="lazy" alt="Figure 7 conceptual four-quadrant map: rate signal on the vertical axis and quantity signal on the horizontal axis. Tight rate with loose quantity is labelled Brake plus Accelerator; tight and tight is Both Tight; loose and loose is Both Loose; loose rate with tight quantity is Quantity Tighter Than Rate."><figcaption><strong>Figure 7.</strong> The interesting case is a tight rate sitting beside loose quantities. A high MPR can coexist with a quantity signal that points somewhere else; that disagreement is what RQD is designed to measure. Source: Seven Gates Research framework. Conceptual classification only. No quadrant is assigned to current Nigeria until the historical McCallum series is completed. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/07-rate-quantity-divergence-map.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
+<figure class="sgr-figure"><img src="/images/research/the-brake-the-accelerator-and-the-rat/07-rate-quantity-divergence-map-v2.png" width="2160" height="1344" loading="lazy" alt="Figure 7 conceptual four-quadrant map: rate signal on the vertical axis and quantity signal on the horizontal axis. Tight rate with loose quantity is labelled Brake plus Accelerator; tight and tight is Both Tight; loose and loose is Both Loose; loose rate with tight quantity is Quantity Tighter Than Rate."><figcaption><strong>Figure 7.</strong> The interesting case is a tight rate sitting beside loose quantities. A high MPR can coexist with a quantity signal that points somewhere else; that disagreement is what RQD is designed to measure. Source: Seven Gates Research framework. Conceptual classification only. No quadrant is assigned to current Nigeria until the historical McCallum series is completed. <a class="sgr-chart-link" href="/images/research/the-brake-the-accelerator-and-the-rat/07-rate-quantity-divergence-map-v2.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
 
 The interesting quadrant is a very high policy rate while monetary quantities behave more loosely than the quantity rule prescribes.
 
@@ -400,9 +404,9 @@ The 15.39% number deserves respect, but not worship.
 
 Falling inflation does not mean falling prices.
 
-If garri rises from ₦1,000 to ₦1,500 and then to ₦1,650, inflation has slowed dramatically. Kasali still needs ₦650 more than he did at the beginning.
+If garri rises from **₦1,000 to ₦1,500** and then to **₦1,650**, inflation has slowed dramatically. Kasali still needs ₦650 more than he did at the beginning.
 
-A household experiences the price level, not merely the rate at which that level is changing.
+A household experiences the **price level**, not merely the rate at which that level is changing.
 
 It also matters for Taylor. Should policy react to headline inflation? Core? Expected inflation? A forecast? A smoothed measure? Different answers produce different prescriptions.
 
@@ -424,7 +428,7 @@ But asking interest rates to solve every Nigerian price shock is rather like ask
 
 He is technically competent. It is simply not his department.
 
-The rule is a diagnostic instrument. It is not the Governor.
+The rule is a **diagnostic instrument**. It is not the Governor.
 
 ## 21. The strongest objection
 
@@ -446,7 +450,7 @@ If Rate-Quantity Divergence genuinely contains information about Nigerian moneta
 
 Does divergence help explain subsequent inflation? Naira depreciation? Nominal spending? Credit growth?
 
-More importantly, does it add information after we already know the policy rate or Taylor deviation?
+More importantly, does it add information **after** we already know the policy rate or Taylor deviation?
 
 Because if RQD does nothing that TD does not already do, we have invented an elegant index with limited incremental value. There are enough of those in finance already.
 
@@ -464,7 +468,7 @@ That is less exciting than a 600-basis-point verdict. It is also much harder to 
 
 And even that leaves our larger question unanswered.
 
-If the rate says tight, what do the quantities say?
+If the rate says **tight**, what do the quantities say?
 
 ## 24. Two economists are better than one, which is admittedly a low bar
 
@@ -484,7 +488,7 @@ A single interest rate cannot summarise all of it.
 
 ## 25. The thing we actually learned
 
-We began with a seemingly simple question: Is Nigeria's 26.5% policy rate too high?
+We began with a seemingly simple question: **Is Nigeria's 26.5% policy rate too high?**
 
 Taylor gave us an equation.
 
@@ -506,7 +510,7 @@ This leaves us somewhere more useful than where we began.
 
 That is a harder question. It is also a better one.
 
-A 26.5% policy rate may indeed represent extremely tight monetary policy. Or it may represent an extremely tight price signal operating inside a monetary system whose quantities, reserve architecture, fiscal flows and foreign-exchange channels tell a more complicated story.
+A 26.5% policy rate may indeed represent extremely tight monetary policy. Or it may represent an extremely tight **price signal** operating inside a monetary system whose quantities, reserve architecture, fiscal flows and foreign-exchange channels tell a more complicated story.
 
 Taylor lets us inspect the brake. McCallum makes us look under the bonnet. Rate-Quantity Divergence asks whether they are connected to the same car.
 
@@ -524,7 +528,7 @@ The rat can go home.
 | Nigeria complication | FX pass-through; supply shocks; r\* identification | CRR; reserve composition; unstable velocity |
 | Status here | Scenario analysis with explicit assumptions | Framework; historical series not yet published as a finding |
 
-<div class="sgr-note" style="margin:2.2em 0;padding:1.4em 1.5em;background:var(--bg-sunken);border:1px solid var(--border);border-top:4px solid var(--accent)"><p style="margin:0 0 0.7em;font-family:var(--font-interface),system-ui,sans-serif;font-size:var(--fs-xs);font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent-text)">Research note</p><p>This article deliberately separates <strong>fact, scenario, estimate and unfinished research</strong>. The 7.5% inflation anchor is an illustrative assumption. The 20.54% Taylor number is what the rule produces if r* = 1.2% and the output gap is zero; it is not presented as the identified Nigerian policy rate. Our state-space work does not support a precise current r* estimate under the tested specification. The historical McCallum and RQD series remain work in progress and are therefore explained conceptually rather than plotted as if complete.</p><p style="margin:0">The Ghalibaf detour is used as a mechanism test, not as evidence for a new Taylor coefficient. The central analytical distinction is between the origin of an inflation shock and its subsequent propagation, accommodation and persistence. The r-star exercise uses a matched historical estimation sample ending in Q4 2024. No September 2026 r-star or output-gap point estimate is claimed.</p></div>
+<div class="sgr-note" style="margin:2.2em 0;padding:1.4em 1.5em;background:var(--bg-sunken);border:1px solid var(--border);border-top:4px solid var(--accent)"><p style="margin:0 0 0.7em;font-family:var(--font-interface),system-ui,sans-serif;font-size:var(--fs-xs);font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent-text)">Research note</p><p>This article deliberately separates <strong>fact, scenario, estimate and unfinished research</strong>. The 7.5% inflation anchor is an illustrative assumption. The 20.54% Taylor number is what the rule produces if r* = 1.2% and the output gap is zero; it is not presented as the identified Nigerian policy rate. Our state-space work does not support a precise current r* estimate under the tested specification. The historical McCallum and RQD series remain work in progress and are therefore explained conceptually rather than plotted as if complete.</p><p style="margin:0">The Ghalibaf detour is used as a mechanism test, not as evidence for a new Taylor coefficient. The central analytical distinction is between the <strong>origin</strong> of an inflation shock and its subsequent <strong>propagation, accommodation and persistence</strong>. The r-star exercise uses a matched historical estimation sample ending in Q4 2024. No September 2026 r-star or output-gap point estimate is claimed.</p></div>
 
 ## Selected sources
 
@@ -539,4 +543,4 @@ The rat can go home.
 - Nassim Nicholas Taleb, *The Black Swan: The Impact of the Highly Improbable* (2007).
 - Contemporary reporting on Mohammad Bagher Ghalibaf's September 2026 'Straits Taylor Rule'; screenshot reproduced as supplied.
 
-*Disclaimer. This publication is for research and educational purposes only. It is not an official monetary-policy recommendation and does not constitute financial, investment, legal or tax advice. Model outputs are conditional on assumptions and data vintages and may be materially wrong. Current policy decisions require information, mandates and judgement beyond the simplified rules discussed here.*
+***Disclaimer.** This publication is for research and educational purposes only. It is not an official monetary-policy recommendation and does not constitute financial, investment, legal or tax advice. Model outputs are conditional on assumptions and data vintages and may be materially wrong. Current policy decisions require information, mandates and judgement beyond the simplified rules discussed here.*
