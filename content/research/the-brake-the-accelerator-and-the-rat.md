@@ -13,6 +13,8 @@ region: "Nigeria"
 hero: "/images/research/the-brake-the-accelerator-and-the-rat/00-hero-kasali-brake-accelerator-rat.webp"
 heroAlt: "Editorial illustration: Kasali, a Lagos mechanic in overalls, studies an open car engine labelled The Economy, with a brake pedal marked Higher Rates, an accelerator marked Liquidity, rate and quantity gauges on the bulkhead and a rat perched on a lever marked Equilibrium."
 heroCaption: "EDITORIAL ILLUSTRATION | AI-generated concept. No financial data are depicted."
+seoTitle: "Nigeria's 26.5% MPR: Is the CBN Really Tight? | Seven Gates"
+ogImage: "/images/research/the-brake-the-accelerator-and-the-rat/00-hero-social-1200x630.jpg"
 ---
 By The Lokoja Contrarian · 18 September 2026 · Seven Gates Research
 
