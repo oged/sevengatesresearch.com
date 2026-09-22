@@ -14,9 +14,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const item = getResearchItem(slug);
   if (!item) return {};
-  const image = item.hero || "/opengraph-image";
+  const image = item.ogImage || item.hero || "/opengraph-image";
   return {
-    title: item.title,
+    title: item.seoTitle ? { absolute: item.seoTitle } : item.title,
     description: item.excerpt,
     alternates: { canonical: `/research/${item.slug}` },
     openGraph: {
