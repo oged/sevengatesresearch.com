@@ -2,17 +2,18 @@
 draft: false
 slug: "ngx-liquidity-the-market-is-back-where-are-the-buyers"
 date: "2026-09-24"
-title: "The Market Is Back. Where Are the Buyers?"
+title: "NGX Liquidity Paradox: The Market Is Back. Where Are the Buyers?"
 excerpt: "Nigeria has returned to the frontier-market map and NGX valuations have surged. In parts of the market, however, the quoted price is much easier to find than a buyer."
 readingTime: "8 min"
 kicker: "SEVEN GATES RESEARCH · MARKET STRUCTURE"
 researchType: "Essay"
 category: "Markets"
 region: "Nigeria"
-seoTitle: "NGX Liquidity: The Market Is Back. Where Are the Buyers? | Seven Gates Research"
-hero: "/images/research/ngx-liquidity-the-market-is-back-where-are-the-buyers/hero-sofa-stuck.svg"
-heroAlt: "A man trying to force an oversized navy sofa through a doorway far too narrow for it."
-heroCaption: "The position can be large. The exit can still be small. Seven Gates editorial illustration."
+seoTitle: "NGX Liquidity Paradox: The Market Is Back. Where Are the Buyers? | Seven Gates Research"
+hero: "/images/research/ngx-liquidity-the-market-is-back-where-are-the-buyers/the-big-sofa-and-the-small-door.webp"
+ogImage: "/images/research/ngx-liquidity-the-market-is-back-where-are-the-buyers/the-big-sofa-and-the-small-door-social-1200x630.jpg"
+heroAlt: "A man in a navy agbada and a woman in a gold lace gown and gele struggle to force an oversized navy velvet sofa through a doorway far too narrow for it."
+heroCaption: "The position can be large. The exit can still be small. AI-generated editorial illustration."
 ---
 
 At 10:07 on a Tuesday morning, Kola Balogun owned ₦20 million of shares.
