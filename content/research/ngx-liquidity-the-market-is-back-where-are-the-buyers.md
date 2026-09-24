@@ -10,21 +10,28 @@ researchType: "Essay"
 category: "Markets"
 region: "Nigeria"
 seoTitle: "NGX Liquidity: The Market Is Back. Where Are the Buyers? | Seven Gates Research"
+hero: "/images/research/ngx-liquidity-the-market-is-back-where-are-the-buyers/hero-sofa-stuck.svg"
+heroAlt: "A man trying to force an oversized navy sofa through a doorway far too narrow for it."
+heroCaption: "The position can be large. The exit can still be small. Seven Gates editorial illustration."
 ---
 
-At 10:07 on a Tuesday morning, Kola Balogun owned ₦20 million of a Nigerian power company.
+At 10:07 on a Tuesday morning, Kola Balogun owned ₦20 million of shares.
 
-At 10:09, he tried to turn the number into money.
+At 10:09, he discovered that owning ₦20 million of shares and having ₦20 million were not quite the same thing.
 
-His broker app was reassuring. The shares were there. The last price was there. The portfolio value was there to two decimal places, which is how computers communicate confidence. Kola pressed sell.
+His broker's app remained cheerful throughout. The shares were there. The last price was there. The portfolio value was displayed to two decimal places, which is how computers communicate certainty.
 
-Nothing dramatic happened. No market crash. No broker disappearing to Dubai. There was simply not enough demand near the price on his screen to absorb what he wanted to sell without making Kola, briefly, the market himself.
+Kola pressed sell.
 
-Kola is fictional. The numbers are not.
+Nothing happened.
+
+Not *nothing* in the dramatic Nigerian sense. Nobody had vanished with the registrar. The exchange was open. His broker was answering the telephone. The company remained profitable. There were simply too few buyers near the price displayed on his screen to absorb what he wanted to sell.
+
+He had discovered a peculiar form of wealth: **money you can see but cannot quite reach.**
+
+Kola is fictional. The problem is not.
 
 Take **Geregu Power**. At the 23 September close of **₦825.70**, its 2.5 billion shares implied a market capitalisation of about **₦2.06 trillion**. Yet across the seven completed sessions to 23 September, the median daily value traded was only about **₦2.4 million**. A hypothetical ₦20 million holding is trivial beside a ₦2 trillion company, but more than eight times the value that changed hands on the median recent day. At 10% of that flow, exiting becomes a matter of months. This is an illustration, not a prediction. [NGX supplies the underlying prices and volumes.](https://ngxgroup.com/exchange/data/company-profile/?directory=companydirectory&symbol=GEREGU)
-
-Walter White once declared, [**"I am the one who knocks."**](https://time.com/5094038/breaking-bad-walter-white-transformation/) On some corners of the NGX, you can knock for quite a while.
 
 ## What exactly is the price?
 
