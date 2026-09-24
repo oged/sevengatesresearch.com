@@ -11,14 +11,12 @@ researchType: "Report"
 category: "Banking"
 ticker: "ZENITHBANK"
 region: "Nigeria"
-hero: "/images/research/zenith-bank-2026-red-tie-earn-its-keep/00-editorial-hero.jpg"
+hero: "/images/research/zenith-bank-2026-red-tie-earn-its-keep/00-editorial-hero.svg"
+heroAlt: "Editorial illustration: a classical bank facade with a red Zenith tie, beside ascending blocks marked EPS, ROE and BVPS rising along a brass arrow."
+heroCaption: "Zenith after recapitalisation: a bigger capital base, higher per-share expectations. Seven Gates editorial illustration."
 ---
 
 The recapitalisation is done. The harder assignment is turning a much larger equity base into renewed per-share compounding.
-
-<figure><img src="/images/research/zenith-bank-2026-red-tie-earn-its-keep/00-editorial-hero.jpg" alt="Editorial illustration of a red-tied Zenith banker carrying blocks marked earnings, ROE and book value per share outside a Zenith branch while customers use mobile banking." width="700" height="341" fetchpriority="high"></figure>
-
-*Zenith after recapitalisation: bigger capital, higher expectations. AI-generated editorial illustration, not documentary evidence.*
 
 I remember when, around 2006–2008, you needed at least **₦50,000** before Zenith Bank would even entertain your dreams of becoming a customer. And it had to be a current account. Zenith was not exactly standing outside the branch handing out forms and begging for deposits.
 
