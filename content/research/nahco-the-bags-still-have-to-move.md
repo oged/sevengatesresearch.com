@@ -10,8 +10,9 @@ researchType: "Report"
 category: "Industrials"
 ticker: "NAHCO"
 region: "Nigeria"
-hero: "/images/research/nahco-the-bags-still-have-to-move/hero-airport-ground-handling.svg"
-heroAlt: "Ground-handling crews, baggage carts and cargo equipment servicing a passenger aircraft on a Nigerian airport apron at dawn."
+hero: "/images/research/nahco-the-bags-still-have-to-move/sunrise_wide_body_airport_operations.png"
+ogImage: "/images/research/nahco-the-bags-still-have-to-move/sunrise-wide-body-airport-social-1200x630.jpg"
+heroAlt: "Ground crew in hi-vis vests load cargo pallets onto a wide-body jet beside a jet bridge on a wet airport apron at sunrise, with a tug, a control tower and other aircraft in the distance."
 heroCaption: "The money is made in the minutes between arrival and departure. AI-generated editorial illustration."
 ---
 
