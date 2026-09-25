@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">Two chokepoints, one risk premium</title>
+  <desc id="desc">A factual two-route diagram shows the Strait of Hormuz, which carried 20 percent of world oil exports before the war, and Yanbu, Saudi Arabia's main Red Sea oil port. Market cards show Brent at 105 dollars and 75 cents and the US 10-year Treasury yield at 5.19 percent.</desc>
+  <rect width="800" height="760" fill="#172521"/>
+  <rect x="24" y="24" width="752" height="712" rx="5" fill="#F4F0E6"/>
+  <text x="58" y="72" fill="#8A7042" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">THE OIL CORRIDOR</text>
+  <text x="58" y="121" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">Two chokepoints, one risk premium</text>
+  <text x="58" y="155" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="17">Hormuz is leverage. Yanbu is now defended infrastructure.</text>
+
+  <g transform="translate(58 198)">
+    <rect width="328" height="226" rx="4" fill="#172521"/>
+    <text x="24" y="40" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">STRAIT OF HORMUZ</text>
+    <text x="24" y="105" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700">20%</text>
+    <text x="24" y="138" fill="#F4F0E6" font-family="Arial, Helvetica, sans-serif" font-size="16">of world oil exports before the war</text>
+    <line x1="24" y1="165" x2="304" y2="165" stroke="#8A7042"/>
+    <circle cx="37" cy="195" r="6" fill="#8F3E37"/>
+    <text x="54" y="201" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="14">Iran: reopen on day seven</text>
+  </g>
+
+  <g transform="translate(414 198)">
+    <rect width="328" height="226" rx="4" fill="#E7E0D2" stroke="#B19A6C" stroke-width="1.5"/>
+    <text x="24" y="40" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">YANBU · RED SEA</text>
+    <text x="24" y="91" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">Saudi Arabia’s</text>
+    <text x="24" y="128" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">main Red Sea oil port</text>
+    <line x1="24" y1="165" x2="304" y2="165" stroke="#B19A6C"/>
+    <circle cx="37" cy="195" r="6" fill="#8F3E37"/>
+    <text x="54" y="201" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="14">Attacks · allied air defence</text>
+  </g>
+
+  <path d="M386 311 H414" stroke="#8A7042" stroke-width="3"/>
+  <path d="M399 302 L414 311 L399 320" fill="none" stroke="#8A7042" stroke-width="3"/>
+
+  <g transform="translate(58 458)">
+    <rect width="328" height="132" rx="4" fill="#E7E0D2" stroke="#B19A6C" stroke-width="1.5"/>
+    <text x="24" y="38" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">BRENT · 25 SEP</text>
+    <text x="24" y="101" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">$105.75</text>
+    <text x="244" y="97" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="15">per barrel</text>
+  </g>
+
+  <g transform="translate(414 458)">
+    <rect width="328" height="132" rx="4" fill="#172521"/>
+    <text x="24" y="38" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">US 10-YEAR · 25 SEP</text>
+    <text x="24" y="101" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">5.19%</text>
+    <text x="228" y="97" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="15">yield</text>
+  </g>
+
+  <path d="M160 626 H640" stroke="#B19A6C" stroke-width="2"/>
+  <path d="M640 626 L625 617 M640 626 L625 635" fill="none" stroke="#B19A6C" stroke-width="2"/>
+  <text x="58" y="665" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">ROUTE RISK → OIL → INFLATION → YIELDS</text>
+  <text x="58" y="695" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="13">Different measures and denominators. Not a common scale.</text>
+  <text x="58" y="717" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="12">REUTERS REPORTING · 24–25 SEP 2026</text>
+</svg>
