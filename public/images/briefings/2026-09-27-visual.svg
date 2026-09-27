@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's Ima feedgas bridge</title>
+  <desc id="desc">A factual diagram shows the 800 million dollar Ima offshore gas project flowing at a targeted plateau above 350 million standard cubic feet per day, supplying roughly one-third of Train 7 feedgas and supporting expansion of Nigeria LNG capacity from 22 to 30 million tonnes per year.</desc>
+  <rect width="800" height="760" fill="#172521"/>
+  <rect x="24" y="24" width="752" height="712" rx="5" fill="#F4F0E6"/>
+
+  <text x="58" y="72" fill="#8A7042" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">NIGERIA · GAS</text>
+  <text x="58" y="121" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700">The Ima feedgas bridge</text>
+  <text x="58" y="155" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="17">An offshore field is meant to close one-third of Train 7’s gas gap.</text>
+
+  <g transform="translate(58 195)">
+    <rect width="684" height="126" rx="4" fill="#172521"/>
+    <text x="24" y="34" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">FINAL INVESTMENT DECISION</text>
+    <text x="24" y="90" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">$800m</text>
+    <text x="216" y="73" fill="#F4F0E6" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">AMNI 60%</text>
+    <text x="216" y="99" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="15">TotalEnergies 40% · operator</text>
+    <text x="532" y="73" fill="#F4F0E6" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">START-UP</text>
+    <text x="532" y="102" fill="#D7C89F" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="700">2028</text>
+  </g>
+
+  <g transform="translate(58 360)">
+    <rect x="0" y="0" width="184" height="144" rx="4" fill="#E7E0D2" stroke="#B19A6C" stroke-width="1.5"/>
+    <text x="20" y="33" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">IMA FIELD</text>
+    <text x="20" y="80" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">350m+</text>
+    <text x="20" y="106" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14">scf per day</text>
+    <text x="20" y="130" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="12">target plateau</text>
+
+    <path d="M200 72 H244" stroke="#8A7042" stroke-width="3"/>
+    <path d="M244 72 l-12 -8 m12 8 l-12 8" fill="none" stroke="#8A7042" stroke-width="3"/>
+
+    <rect x="260" y="0" width="184" height="144" rx="4" fill="#172521"/>
+    <text x="280" y="33" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">TRAIN 7 FEEDGAS</text>
+    <text x="280" y="88" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700">≈ 1/3</text>
+    <text x="280" y="118" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="14">of required supply</text>
+
+    <path d="M460 72 H504" stroke="#8A7042" stroke-width="3"/>
+    <path d="M504 72 l-12 -8 m12 8 l-12 8" fill="none" stroke="#8A7042" stroke-width="3"/>
+
+    <rect x="520" y="0" width="164" height="144" rx="4" fill="#E7E0D2" stroke="#496B57" stroke-width="2"/>
+    <text x="540" y="33" fill="#496B57" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">NLNG CAPACITY</text>
+    <text x="540" y="83" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">22 → 30</text>
+    <text x="540" y="112" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14">million tonnes</text>
+    <text x="540" y="132" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="12">per year</text>
+  </g>
+
+  <g transform="translate(58 545)">
+    <rect width="684" height="103" rx="4" fill="#172521"/>
+    <text x="24" y="31" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">THE TRANSMISSION TEST</text>
+    <text x="24" y="61" fill="#F4F0E6" font-family="Arial, Helvetica, sans-serif" font-size="15">Field + pipeline + Train 7 schedule → export dollars, taxes and contracts</text>
+    <text x="24" y="86" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="14">Export gas does not become domestic electricity without a separate delivery and payment chain.</text>
+  </g>
+
+  <text x="58" y="687" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="13">Targets describe the approved project, not completed production or guaranteed capacity.</text>
+  <text x="58" y="716" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="12">TOTALENERGIES AND NNPC · 23–25 SEP 2026 · SEVEN GATES ANALYSIS</text>
+</svg>
