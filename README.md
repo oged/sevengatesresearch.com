@@ -39,3 +39,35 @@ The build runs `scripts/validate-content.mjs` first. Invalid content fails the d
 8. Move DNS away from ChatGPT Sites after the preview passes QA.
 
 House rule: **Interesting first. Correct always.**
+
+
+## Mobile PDF publisher
+
+Long-form designed reports can be published from a phone without converting the PDF back into HTML.
+
+Route:
+
+`/admin/publish`
+
+The publisher:
+
+1. authenticates with an HTTP-only signed session cookie;
+2. previews the selected PDF locally before upload;
+3. commits the PDF unchanged to `public/reports/<slug>.pdf`;
+4. creates or updates a Markdown metadata stub in `content/research/<slug>.md`;
+5. lets the existing Research Library, sitemap and metadata pipeline discover the report automatically;
+6. supports a private draft state at `/admin/preview/<slug>`; and
+7. relies on the existing GitHub → Vercel integration to deploy the commit.
+
+Required Vercel environment variables:
+
+- `PUBLISH_ADMIN_PASSWORD`
+- `GITHUB_TOKEN` — fine-grained token with Contents read/write access to this repository
+
+Optional:
+
+- `PUBLISH_ADMIN_SECRET` — separate HMAC signing secret
+- `GITHUB_REPO` — defaults to `oged/sevengatesresearch.com`
+- `GITHUB_BRANCH` — defaults to `main`
+
+The GitHub-backed web upload is capped at 4 MB so it remains within the serverless request path. Larger PDFs should be committed directly until a Vercel Blob store is connected.
