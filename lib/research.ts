@@ -21,6 +21,8 @@ export type ResearchItem = {
   ogImage?: string;
   legacyUrl?: string;
   legacyImported?: boolean;
+  pdf?: string;
+  pdfOnly?: boolean;
   draft?: boolean;
   html: string;
 };
@@ -65,20 +67,34 @@ function parse(fileName: string): ResearchItem {
     ogImage: data.ogImage ? String(data.ogImage) : undefined,
     legacyUrl: data.legacyUrl ? String(data.legacyUrl) : undefined,
     legacyImported: Boolean(data.legacyImported),
+    pdf: data.pdf ? String(data.pdf) : undefined,
+    pdfOnly: Boolean(data.pdfOnly),
     draft: Boolean(data.draft),
     html: renderMarkdown(body),
   };
 }
 
-export function getAllResearch() {
-  return getFiles().map(parse).filter((x) => !x.draft).sort((a, b) => {
+function sortResearch(items: ResearchItem[]) {
+  return items.sort((a, b) => {
     const byDate = b.date.localeCompare(a.date);
     return byDate || a.title.localeCompare(b.title);
   });
 }
 
+function getAllResearchIncludingDrafts() {
+  return sortResearch(getFiles().map(parse));
+}
+
+export function getAllResearch() {
+  return getAllResearchIncludingDrafts().filter((x) => !x.draft);
+}
+
 export function getResearchItem(slug: string) {
   return getAllResearch().find((x) => x.slug === slug);
+}
+
+export function getResearchItemAny(slug: string) {
+  return getAllResearchIncludingDrafts().find((x) => x.slug === slug);
 }
 
 export function getRelatedResearch(slug: string, count = 6) {
