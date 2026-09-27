@@ -19,7 +19,7 @@ export default async function PublishPage({
   const cookieStore = await cookies();
   const authenticated = verifyAdminSession(cookieStore.get(ADMIN_COOKIE)?.value);
 
-  if (!adminAuthConfigured()) {
+  if (!adminAuthConfigured() || !process.env.GITHUB_TOKEN) {
     return (
       <section className="archive">
         <div className="shell">
