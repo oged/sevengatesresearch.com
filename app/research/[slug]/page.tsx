@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Disclaimer } from "@/components/Disclaimer";
+import { PdfReportSurface } from "@/components/PdfReportSurface";
 import { ShareMenu } from "@/components/ShareMenu";
 import { getCompanyDirectory } from "@/lib/companies";
 import { formatDate } from "@/components/BriefingCard";
@@ -40,6 +41,11 @@ export default async function ResearchArticlePage({ params }: { params: Promise<
   const { slug } = await params;
   const item = getResearchItem(slug);
   if (!item) notFound();
+
+  if (item.pdf) {
+    return <PdfReportSurface item={item} />;
+  }
+
   const related = getRelatedResearch(slug, 6);
   const company = item.ticker
     ? getCompanyDirectory().find((entry) => entry.ticker === item.ticker)
