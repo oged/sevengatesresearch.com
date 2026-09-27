@@ -12,6 +12,7 @@ export type ResearchSummary = {
   category: string;
   ticker?: string;
   region?: string;
+  pdf?: string;
 };
 
 function humanDate(date: string) {
@@ -66,11 +67,12 @@ export function ResearchLibrary({ items }: { items: ResearchSummary[] }) {
           <span>{item.researchType}</span>
           <span>{item.category}</span>
           {item.ticker && <span>{item.ticker}</span>}
+          {item.pdf && <span>PDF</span>}
         </div>
         <time>{humanDate(item.date)} · {item.readingTime}</time>
         <h3>{item.title}</h3>
         <p>{item.excerpt}</p>
-        <a href={`/research/${item.slug}`}>Read research →</a>
+        <a href={`/research/${item.slug}`}>{item.pdf ? "Open PDF report →" : "Read research →"}</a>
       </article>)}
     </div> : <div className="empty-state">No research matches those filters.</div>}
   </>;
