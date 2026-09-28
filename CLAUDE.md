@@ -1,0 +1,36 @@
+# Seven Gates Research: working rules for Claude
+
+This repository is sevengatesresearch.com, an independent research house covering Nigerian and African equities, macro and market structure. The house voice is "The Lokoja Contrarian". No individual author is named.
+
+## Stack and publishing
+
+- Next.js 15, content in Markdown. Pushing to `main` deploys to production through Vercel's GitHub integration. There is no separate deploy step.
+- Vercel: team `ogeds-projects`, project `sevengatesresearch-com`. After pushing, confirm the deployment reaches READY and check the live page.
+- Commit messages: `Publish research: <title>`, `Publish <d Month> Daily Brief`, or a plain description for fixes.
+- `npm run validate` is the publication gate for Daily Briefs. `next build` may fail in sandboxes that cannot reach Google Fonts; that is an environment limit, not a content error.
+
+## Research articles
+
+- File: `content/research/<slug>.md`. Files starting with `_` are ignored.
+- Frontmatter: draft, slug, date (YYYY-MM-DD), title, excerpt, readingTime, kicker ("SEVEN GATES RESEARCH · SECTION · REGION"), researchType (Essay, Note or Report), category, optional ticker and region, hero, heroAlt, heroCaption, seoTitle, ogImage.
+- Images: `public/images/research/<slug>/`. Hero as `00-hero-<name>.webp`, social card as `00-hero-social-1200x630.jpg` for ogImage, figures numbered `01-...`, `02-...`. Charts may also be inline SVG.
+- After writing any binary, open it and confirm it decodes at full size. A truncated hero once shipped because nobody checked.
+- Body is Markdown plus inline-styled HTML blocks (see `content/research/gdp-does-not-pay-the-coupon.md` for the At a Glance box, figure boxes, captions and disclaimer). Keep each HTML block free of blank lines or Markdown will break it. Markdown tables get a mobile scroll wrapper automatically, so prefer them for wide tables.
+- Every article ends with Research notes, sources, and the standard disclaimer.
+
+## Editorial standard (v0.4, summarised)
+
+- Structure: kicker, headline, deck, hero, At a Glance, then the answer before the sermon: lead with the conclusion, then elaborate.
+- Evidence labels (Fact, Estimate, Reconstruction, Inference, Opinion) belong inline in the prose.
+- Every figure carries a dated source line. Research notes disclose methodology and approximations.
+- Ratings are expected-return judgements with a stated horizon and review date, not price targets alone.
+- Corrections distinguish three cases: the facts changed, the price changed, or Seven Gates was wrong.
+- Self-attack sections (steel-manning the other side) are standard.
+- No em dashes anywhere. Avoid stock AI phrasing, filler, and a "not X but Y" habit.
+- British spelling, "per cent", numbers exactly as sourced.
+- References and quotes are structural, never decorative. Illustrative composite scenes are labelled ILLUSTRATION and never pose as reporting.
+- Judge each paragraph by what the reader would lose without it; do not work to word-count quotas.
+
+## Skills
+
+- `.claude/skills/seven-gates-longform`: rewrites a finished article into engaging long-form prose without touching its numbers, charts or tables, then publishes it. Use it whenever asked to make a piece more engaging, human or readable, or to "give it the treatment".
