@@ -1,13 +1,15 @@
 ---
 title: "Master Editorial, Research, Visual and Publishing Standard"
-version: "v0.4"
+version: "v0.5"
 status: "Working master"
 house_voice: "The Lokoja Contrarian"
 ---
 
-# Seven Gates Research: Master Editorial, Research, Visual and Publishing Standard (v0.4)
+# Seven Gates Research: Master Editorial, Research, Visual and Publishing Standard (v0.5)
 
 Working master. Default model: Dangote Refinery IPO format. Operating maxim: strong opinions, loosely held; capital, tightly held. Primary test: fine grammar, where is the cash?
+
+**What changed in v0.5.** Two documents both circulated as v0.4 in September 2026: this standard, and a separate consolidation that added a publication ladder, word-count ranges, a mandatory five-year share-price chart, stricter chart production rules, the retirement of "red team" from public copy, Daily Brief and Marcus Daily limits, and final-output QA. v0.5 merges them. Where they overlapped, the stronger rule was kept once. Procedures that already live in skills (the Daily Brief publishing procedure in the `daily-brief` skill, the long-form rewrite devices in `seven-gates-longform`) are referenced rather than repeated. New or changed in v0.5: 2.1, 3.2, 4.1, 6, 6.5, 8.6, 9, 9.1 to 9.3, 10.6, 10.9, 10.10, section 12 (rebuilt around the publication ladder), 13, 14, 18, 19 (G14 to G16) and 20.
 
 **What changed in v0.4.** This revision tightens enforcement rather than doctrine. The repetition ledger becomes a specified artefact instead of an instruction. Ratings acquire definitions, a horizon and an expiry. Corrections and changes of view acquire a protocol. The narrative signatures in 5.4 lose their names so they cannot harden into a menu. The publication gate splits into a short blocking gate and a longer advisory annex. Sections 8.1 and 8.2 are compressed. The ten per cent compression figure is removed.
 
@@ -22,7 +24,7 @@ This is the canonical Seven Gates Research publication standard. It governs:
 - company research;
 - earnings reviews;
 - valuation notes;
-- red-team essays;
+- contrarian essays;
 - macro and political-economy research;
 - thematic research;
 - quantitative research;
@@ -51,6 +53,8 @@ To remove ambiguity, apply the following precedence.
 ### 2.1 Factual truth wins first
 
 Current verified evidence outranks all previous prose, templates, charts and assumptions. An elegant old sentence does not survive a new filing.
+
+Research wins over narrative. Never preserve a story because it is entertaining after the evidence has killed it, and never bend evidence to protect a Seven Gates house view. Change the view. That is the point of having a research house rather than a fan club.
 
 ### 2.2 The Seven Gates brand guide owns identity
 
@@ -103,6 +107,8 @@ The Etruscan gateway mark encodes seven analytical gates:
 7. Downside, catalysts and portfolio fit
 
 These are research disciplines, not seven compulsory article headings. The argument decides the structure. A short piece may touch only the gates that matter. A full company underwrite should normally test all seven somewhere in the work.
+
+A second distinction runs through all investment research: asset, business, management, balance sheet, security. Never collapse them into one judgement. A wonderful asset can sit inside a poor business model; a wonderful business can have weak management; a wonderful company can carry a dangerous balance sheet; and all four can be attractive while the security is still too expensive.
 
 ### 3.3 Brand colours
 
@@ -162,7 +168,7 @@ A compact label that tells the reader what kind of piece this is.
 Examples:
 
 - SEVEN GATES RESEARCH | EQUITY RESEARCH | NIGERIA
-- LOKOJA CONTRARIAN | RED TEAM ESSAY
+- LOKOJA CONTRARIAN | CONTRARIAN ESSAY
 - SEVEN GATES RESEARCH | MACRO
 - SEVEN GATES RESEARCH | QUANTITATIVE RESEARCH
 - EARNINGS UNDERWRITE
@@ -518,7 +524,7 @@ Storytelling still answers to evidence. A memorable scene must move the argument
 
 ## 6. Cultural References, Quotes and Digressions
 
-Seven Gates may range through Nigerian literature, European history, politics, hip-hop, Fuji, classical music, art, science, sport, folklore, operating experience and street observation.
+Seven Gates may range through Nigerian literature, European history, politics, hip-hop, Fuji, classical music, art, science, sport, folklore, operating experience and street observation. The practical repertoire includes Soyinka, J.P. Clark, Shelley, Byron, Voltaire and Shakespeare, Nigerian music from Fuji to Afrobeats, hip-hop, television and film, personal travel, engineering anecdotes and market folklore.
 
 This is repertoire, not a compulsory cast list.
 
@@ -613,6 +619,8 @@ The ledger tracks more than anecdotes, because a house also develops verbal tics
 - repeated hero concepts tied to the same joke.
 
 Standard legal language, source labels, technical terminology, company names and necessary financial vocabulary are exempt. Everything memorable is not.
+
+A memorable phrase is an editorial asset with a depreciation schedule.
 
 A phrase that became distinctive because it worked once is precisely the phrase most likely to become annoying when repeated.
 
@@ -793,7 +801,7 @@ Where data permits, show:
 - FX basis and date;
 - performance against an appropriate NGX and international benchmark.
 
-A rising naira share price may coexist with falling external purchasing power. Both facts belong on the page.
+A rising naira share price may coexist with falling external purchasing power. Both facts belong on the page. The reader may buy shares in naira, but some of life's liabilities arrive in dollars, sterling or euros.
 
 ### 8.7 Consequence chain
 
@@ -829,6 +837,7 @@ Possible tools:
 - P/B for banks and other balance-sheet businesses;
 - price-to-sales where margins are unstable and the metric is genuinely useful;
 - DCF where cash-flow visibility supports it;
+- reverse DCF, to show what the current price already requires;
 - SOTP where separate assets deserve separate economics;
 - EPV where current earning power matters more than heroic growth;
 - asset or replacement value where appropriate;
@@ -863,6 +872,8 @@ Ask:
 
 A cheap multiple can hide collapsing earnings. An expensive multiple can be justified by extraordinary incremental returns. The ratio is the beginning of the argument.
 
+Put the question plainly: what growth, margins, returns or capital efficiency has the market already invoiced us for?
+
 ### 9.2 Bear, base and bull
 
 Where valuation uncertainty is material, build bear, base and bull cases.
@@ -880,13 +891,15 @@ Each case should state:
 - upside or downside from the dated reference price;
 - what would falsify the case.
 
-Do not make bear, base and bull three versions of the same story with slightly different Excel percentages.
+Do not make bear, base and bull three versions of the same story with slightly different Excel percentages. They must be economically different worlds, not 8, 10 and 12 per cent versions of one spreadsheet. Each case should name the evidence that would make it more or less likely.
 
 ### 9.3 Contrarian or punk case
 
 For major underwrites, include one explicit attack on the preferred thesis when it adds value. Ask what an intelligent sceptic would say after reading the entire report.
 
 This is not performative pessimism. The point is to identify the assumption most likely to make the whole underwrite look silly later.
+
+In published copy call this the contrarian case, challenge case, thesis stress test, robustness test or falsification test. "Red team" is internal terminology only (section 14).
 
 ### 9.4 Action, ratings and rating staleness
 
@@ -1037,7 +1050,7 @@ A strong full company underwrite will often benefit from three to five genuine v
 - Do not infer causation from simultaneous lines.
 - Do not show precision the source data cannot support.
 
-If the data cannot support the chart, use a qualitative table or omit the visual. Never invent values to complete a layout.
+If the data cannot support the chart, use a qualitative table or omit the visual. Never invent values to complete a layout, and never silently interpolate or forward-fill material missing periods.
 
 ### 10.7 Tables
 
@@ -1063,6 +1076,29 @@ The reader should not need a ruler and three espressos to discover the conclusio
 Use boxed panels for At a Glance, The Verdict, Key Risks, What the Price Assumes, scenario summaries, data limitations, catalyst watch and important accounting reconciliations.
 
 Callouts should interrupt the reading rhythm usefully, not turn the page into airport signage.
+
+### 10.9 Chart production rules
+
+- No AI-generated financial charts.
+- No data-vendor screenshots published as finished Seven Gates charts.
+- No generic finance widgets and no raw spreadsheet styling.
+- Every published chart is rebuilt in the Seven Gates visual system. There is no quick-chart exemption.
+
+### 10.10 Mandatory five-year share-price chart
+
+Every new or refreshed stock-focused article carries a real plotted five-year share-price chart for each principal listed stock analysed. This covers company underwrites, earnings reviews, valuation notes, contrarian stock essays and stock-pick comparisons. An incidental company mention or a brief news item does not trigger it.
+
+**Time window.** Plot the trailing five calendar years to the latest verified close at the data cut-off. State the first and last observation dates, currency, sampling frequency and the latest verified close. Daily closes are preferred; weekly closes are acceptable for legibility if disclosed.
+
+**Corporate actions.** Use a consistently adjusted history for splits, consolidations, bonus issues and rights issues where appropriate. Do not fold cash dividends into a price series. Price appreciation is not total shareholder return.
+
+**Limited history.** If the stock has been listed for less than five years, plot all available history, label it Since Listing and state the listing date. Never fabricate pre-listing history. For a delisted security, use the last verified traded close and state the date and status.
+
+**Missing data.** Check alternative credible sources before declaring a gap. Do not invent, interpolate or silently forward-fill prices. If the full series cannot be verified, plot the verified period and state the limitation prominently.
+
+**Multiple stocks.** Use aligned actual-price panels for the principal stocks. A rebased-to-100 chart may supplement them but does not replace them. Never splice different listings or currencies into one series.
+
+The website and the PDF carry the same chart.
 
 ## 11. Editorial Image System
 
@@ -1103,13 +1139,35 @@ Every hero should have:
 - source or credit;
 - an AI-generated editorial illustration label where applicable.
 
-## 12. Article Structure by Research Type
+## 12. Publication Modes and Article Structure
 
 The flows below are coverage checklists, not running orders. They list what a piece of that type must cover somewhere in the work. They do not fix the sequence, and section 2.6 settles the point when they appear to conflict with the variation doctrine in 5.4.
 
 Four elements are load-bearing and keep their position in substantial articles: the kicker, title and deck; the hero; the At a Glance block; and the early statement of the current decision. Everything else may be arranged as the argument requires.
 
-### 12.1 Full company underwrite
+### 12.1 The publication ladder
+
+The DNA is the same at every length. The amount of apparatus changes.
+
+| Mode | Length | Typical use | Visuals |
+|---|---|---|---|
+| Brief | about 750 words, 5 to 7 minutes | Daily Brief | one chart or image when earned |
+| Short | 400 to 900 words | earnings reaction, valuation update, market or policy event, quick contrarian note, explanatory note | zero to two, plus the five-year chart for a principal listed stock |
+| Standard | 900 to 1,800 words | company analysis, thematic and policy essays, sector commentary, major earnings reviews | two to four, plus the five-year chart |
+| Long | 1,800 to 4,000 words, more only when the research requires it | full underwrites, IPOs, major industrial projects, macro and historical essays, market structure | three to six, plus the five-year chart |
+| Deep or quantitative | as the method requires | monetary-policy rules, CAPE, Taylor and McCallum work | as the method requires |
+
+Choose the mode from the material, not from ambition. There is no word-count padding and no chart quota.
+
+### 12.2 Short form
+
+Must cover: kicker, headline, deck, a compact opening, the judgement, two to four analytical sections, the implication, and sources and disclaimer where required. Do not force a large At a Glance block when it adds bulk without information. Short does not mean shallow. It means compressed.
+
+### 12.3 Standard form
+
+The workhorse. Must cover: kicker, headline, deck, hero, At a Glance, opening, early judgement, what changed, mechanism or business economics, numbers and cash, valuation or implications, risks and the countercase, conclusion, sources and methodology, and the disclaimer where applicable.
+
+### 12.4 Long form and full company underwrite
 
 Must cover:
 
@@ -1117,28 +1175,28 @@ Must cover:
 2. Hero image
 3. At a Glance
 4. Opening story or tension
-5. The answer before the sermon
-6. What changed
+5. The answer before the sermon: what we think, what it is worth, where we would buy, what the market assumes, what breaks the thesis
+6. What changed, with history and context where it earns its place
 7. Ownership and governance
 8. How the business makes money
 9. What the accounts say
 10. Cash flow, debt and capital intensity
 11. Competitive endurance and next bottleneck
-12. Growth and optionality
+12. Consequence chain, growth and optionality
 13. Valuation
 14. Bear, base and bull
-15. Key risks and disconfirming evidence
+15. Strongest alternative case, key risks and falsification conditions
 16. The verdict, with rating, horizon and review date
-17. Sources and methodology
+17. Research notes, sources and methodology
 18. Disclaimer
 
-### 12.2 Earnings review
+Do not make the reader excavate the judgement from 2,500 words of elegant prose.
 
-Shorter. Must cover what surprised, what was optical versus economic, cash versus profit, guidance and what it requires, the valuation change, and the updated action. One to three visuals.
+### 12.5 Earnings review
 
-Do not rewrite the entire company history every quarter.
+Shorter than an underwrite. It answers one question: what changed in our view? Must cover what surprised, what was optical versus economic, cash versus profit, guidance and what it requires, the valuation change and the updated action. One to three visuals plus the five-year chart. Link back to the underlying underwrite rather than retelling the company history every quarter.
 
-### 12.3 Red-team essay
+### 12.6 Contrarian essay
 
 Must cover:
 
@@ -1154,30 +1212,29 @@ Must cover:
 
 Contrarian does not mean automatically opposite. A contrarian without arithmetic is merely quarrelsome.
 
-### 12.4 Macro or political economy
+### 12.7 Macro or political economy
 
-Must cover the headline claim, the denominator and measurement problem, the mechanics, winners and losers, second- and third-order responses, market implications, scenario paths, and what would falsify the thesis.
+Must cover a human or institutional opening, the headline claim, the denominator and measurement problem, the mechanics, winners and losers, second- and third-order responses, market implications, scenario paths, and what would falsify the thesis.
 
-Keep political analysis fair and mechanism-led. Do not substitute tribal applause for economics.
+Follow incentives and cash before personalities. Keep political analysis fair and mechanism-led. Do not substitute tribal applause for economics.
 
-### 12.5 Quantitative research
+### 12.8 Deep and quantitative research
 
-Must cover the research question, data provenance, reconstruction method, assumptions, limitations, results, robustness tests, economic interpretation, out-of-sample or forward limitations, and decision relevance.
+Must cover the research question, data provenance, construction or reconstruction method, definitions, methodology, assumptions, limitations, results, robustness and sensitivity, economic interpretation, regime effects, out-of-sample or forward limitations, and decision relevance.
 
-Do not let statistical significance wear a cape. Report sample size, dependence, regime shifts and data weaknesses.
+Do not let statistical significance wear a cape. Report sample size, dependence, regime shifts, structural breaks, data weaknesses and specification sensitivity. In the published paper use robustness, sensitivity, falsification, alternative specification and regime testing, never internal challenge-process terminology.
 
-### 12.6 Daily Brief
+### 12.9 Daily Brief
 
-The full visual package is unnecessary. Keep the Seven Gates DNA:
+A distinct product, not a miniature long-form article. About 750 words and a 5 to 7 minute read. Signal density matters more than completeness: drop low-signal items rather than lengthening the brief.
 
-- most important item first;
-- concise context;
-- what changed;
-- why it matters;
-- one useful chart or image when earned;
-- dry humour used sparingly;
-- clear sources;
-- no filler.
+Keep the Seven Gates DNA: the highest-signal item first; for each item, what happened, why it matters and what the market may be missing; one useful chart or image when earned; dry humour sparingly; clear dated sources; what to watch next; no filler and no five paragraphs explaining yesterday's headline.
+
+The operating procedure (research order, frontmatter, body layout, hero templates, validation and publishing) lives in the `daily-brief` skill.
+
+### 12.10 Marcus Daily Intelligence Brief
+
+A separate intelligence product. Hard maximum 1,500 words; when there is too much news, drop lower-signal stories rather than lengthening. For each item: what happened, why it matters, second-order implications and what to watch. Keep the DYOR ticker table. The purpose is intelligence compression, not a display of how much was found.
 
 ## 13. Metadata and Publishing Fields
 
@@ -1189,7 +1246,8 @@ subtitle: "[One sentence explaining what changed and why it matters]"
 publication: "Seven Gates Research"
 author: "The Lokoja Contrarian"
 section: "Research"
-content_type: "[Company research | Earnings review | Thematic research | Macro | Quantitative research | Red team]"
+content_type: "[Company research | Earnings review | Thematic research | Macro | Quantitative research | Contrarian essay]"
+publication_mode: "[Brief | Short | Standard | Long | Deep]"
 slug: "[lowercase-hyphenated-slug]"
 published_at: "[YYYY-MM-DD]"
 updated_at: "[YYYY-MM-DD]"
@@ -1211,7 +1269,7 @@ excerpt: "[Clear research-card summary]"
 hero_image: "[Verified asset path]"
 hero_alt: "[Specific description]"
 status: "draft"
-template_version: "master-v0.4"
+template_version: "master-v0.5"
 ```
 
 Never publish bracketed placeholders.
@@ -1223,6 +1281,8 @@ Internal scoring systems, frameworks and proprietary mechanics may inform the an
 Do not expose internal framework names, scores, sub-scores, secret weights or proprietary process mechanics in public-facing Seven Gates articles.
 
 The reader needs the reasoning, evidence and arithmetic. He does not need the recipe book from the kitchen.
+
+This includes internal framework names such as AAAMi, and internal challenge-process terminology. "Red team" is an internal term only. Challenge the thesis internally as hard as necessary; in published copy call it the contrarian case, challenge case, alternative hypothesis, thesis stress test, robustness or sensitivity analysis, or falsification test.
 
 ## 15. Sources, Notes and Methodology
 
@@ -1301,7 +1361,7 @@ Every investment-related Seven Gates article should end with the standard discla
 
 #### Step 1: Define the decision
 
-Before writing prose, write one internal sentence: what does the reader need to decide after reading this?
+Before writing prose, write one internal sentence: what does the reader need to decide after reading this? Then write the principal Seven Gates claim in one sentence, and choose the publication mode (12.1).
 
 If the answer is unclear, the article is not ready to draft.
 
@@ -1309,7 +1369,7 @@ If the answer is unclear, the article is not ready to draft.
 
 Collect primary filings, current price and FX, historical financials, ownership, debt, major announcements, peer data, industry data, relevant policy documents, and the previous Seven Gates view with its date and rating.
 
-#### Step 3: Red-team first
+#### Step 3: Attack the thesis first
 
 Write the strongest fact against the intended thesis before building the case for it.
 
@@ -1373,11 +1433,15 @@ Check headline wrapping, hero crop, At a Glance readability, chart text size, ta
 
 The mobile version is not the desktop article squeezed into a phone. It is the article most readers will actually receive.
 
+#### Step 15: Check the finished package
+
+A substantial piece ships as a package: Markdown source, the rendered page, hero and chart assets, front matter, sources and, where produced, the PDF. Open the live page and the PDF, not the source file. Confirm every hero and chart asset loads at full size, the five-year chart is identical in both, and there are no placeholders, broken links or missing sources.
+
 ## 19. Final Publication Gate
 
 The gate has two parts. The hard gate blocks publication. The annex is an editor's checklist that improves a piece but does not, on its own, stop it going out.
 
-The split exists because a fifty-item list that nobody completes protects less than a fifteen-item list that everybody does.
+The split exists because a fifty-item list that nobody completes protects less than a sixteen-item list that everybody does.
 
 ### 19.1 The hard gate
 
@@ -1396,8 +1460,9 @@ A no is a stop, not a discussion.
 - **G11.** Does every chart plot real data, with axes, units, periods and a compact source note?
 - **G12.** Are green and red used semantically rather than decoratively?
 - **G13.** Is AI art labelled, and does the hero avoid false documentary implication?
-- **G14.** Is proprietary framework mechanics absent from the public copy?
-- **G15.** Is the legal disclaimer present, and has the published page been checked rather than the draft?
+- **G14.** Are proprietary framework names, scores, mechanics and internal terms such as "red team" absent from the public copy?
+- **G15.** Is the legal disclaimer present, and have the live page, the PDF and every hero and chart asset been checked as rendered rather than the source?
+- **G16.** For stock research, does every principal listed stock carry the five-year share-price chart required by 10.10, identical on the website and in the PDF?
 
 ### 19.2 Advisory annex
 
@@ -1438,7 +1503,7 @@ A no is a stop, not a discussion.
 
 - **V1.** Is the hero strong enough to deserve the top of the page?
 - **V2.** Is the At a Glance block present where useful?
-- **V3.** Has every chart earned its place, and does it use the Seven Gates ivory, dark framing and brass system?
+- **V3.** Has every chart earned its place, and was it rebuilt in the Seven Gates ivory, dark framing and brass system rather than screenshotted?
 - **V4.** Does every substantive figure have a number and an insight-led title?
 - **V5.** Are tables readable on mobile?
 - **B1.** Is the approved logo used correctly, with typography and spacing consistent with the brand?
@@ -1453,7 +1518,9 @@ If an important answer is no, the piece is not finished.
 Use this when commissioning a Seven Gates article:
 
 > **COMMISSIONING PROMPT**
-> Produce a publication-ready Seven Gates Research article using the Master Editorial, Research, Visual and Publishing Standard. Use the Dangote Refinery IPO as the default publication architecture, not as a source of recycled jokes or metaphors. Write in the sophisticated Lokoja Contrarian voice: judgement-led, technically exact, sceptical, culturally literate, dryly funny when earned, serious when the subject requires it, and explicit about uncertainty. Keep the Seven Gates identity consistent but vary the article's signature. Opening architecture, cadence, humour density, cultural register, section rhythm and ending should answer to the material and should not resemble recent pieces; check the repetition ledger before drafting and write the article's row before publishing. Be concise. Use occasional high-register or unusual words when they are exact and add flavour, but never let vocabulary become an exhibition. Begin with a strong editorial hero concept, usually AI-generated, then an At a Glance block and a compelling opening. Put the strongest objection early. Explain the business and mechanism before celebrating the share price. Separate asset, business, management, balance sheet and security. Reconcile earnings to cash. Test inflation, FX, dilution, maintenance capital, debt, governance and what the current price assumes. Use bear, base and bull cases where material and state what would falsify the preferred case. Where a rating is given, state the horizon, the reference price date and the review date, and if this changes a previous view, say what changed and which assumption failed. Charts and tables are strongly preferred when they materially improve the argument. Use warm ivory canvas, dark navy or Ink framing, brass accents, green only for positive meaning, red only for negative meaning, boxed panels, numbered insight headlines and compact source notes. Use real plotted data, never AI-generated charts. Verify all current numbers and dates from dated sources, distinguish fact, management claim, estimate, reconstruction, inference and opinion, and never expose proprietary internal scoring or framework mechanics in public copy. Avoid em dashes, AI filler, recycled anecdotes and the construction “Company X is no longer just a…”. End with an investable view, disconfirming evidence, sources, methodology where needed and the Seven Gates disclaimer.
+> Produce a publication-ready Seven Gates Research article using the Master Editorial, Research, Visual and Publishing Standard. Use the Dangote Refinery IPO as the default publication architecture, not as a source of recycled jokes or metaphors. Write in the sophisticated Lokoja Contrarian voice: judgement-led, technically exact, sceptical, culturally literate, dryly funny when earned, serious when the subject requires it, and explicit about uncertainty. Keep the Seven Gates identity consistent but vary the article's signature. Opening architecture, cadence, humour density, cultural register, section rhythm and ending should answer to the material and should not resemble recent pieces; check the repetition ledger before drafting and write the article's row before publishing. Choose the publication mode (Short 400 to 900 words, Standard 900 to 1,800, Long 1,800 to 4,000 or more) from the material, not from ambition. Be concise. Use occasional high-register or unusual words when they are exact and add flavour, but never let vocabulary become an exhibition. Begin with a strong editorial hero concept, usually AI-generated, then an At a Glance block and a compelling opening. Put the strongest objection early. Explain the business and mechanism before celebrating the share price. Separate asset, business, management, balance sheet and security. Reconcile earnings to cash. Test inflation, FX, dilution, maintenance capital, debt, governance and what the current price assumes. Use bear, base and bull cases where material and state what would falsify the preferred case. Where a rating is given, state the horizon, the reference price date and the review date, and if this changes a previous view, say what changed and which assumption failed. Charts and tables are strongly preferred when they materially improve the argument. Use warm ivory canvas, dark navy or Ink framing, brass accents, green only for positive meaning, red only for negative meaning, boxed panels, numbered insight headlines and compact source notes. Use real plotted data rebuilt in the Seven Gates system, never AI-generated charts or vendor screenshots, and include the mandatory five-year share-price chart for every principal listed stock. Verify all current numbers and dates from dated sources, distinguish fact, management claim, estimate, reconstruction, inference and opinion, and never expose proprietary internal scoring, framework mechanics or internal terms such as red team in public copy. Avoid em dashes, AI filler, recycled anecdotes and the construction “Company X is no longer just a…”. End with an investable view, disconfirming evidence, sources, methodology where needed and the Seven Gates disclaimer.
+
+For the Daily Brief, use the `daily-brief` skill. For a narrative rewrite of a finished piece, use the `seven-gates-longform` skill.
 
 ## 21. Final Doctrine
 

@@ -1,6 +1,6 @@
 # Seven Gates Research: Repetition Ledger and Corrections Record
 
-Required by sections 6.4, 6.5 and 16.4 of `docs/editorial-standard-v0.4.md`. This file is the single record. The table that used to sit inside the `seven-gates-longform` skill now lives here.
+Required by sections 6.4, 6.5 and 16.4 of `docs/editorial-standard.md`. This file is the single record. The table that used to sit inside the `seven-gates-longform` skill now lives here.
 
 ## How to use it
 

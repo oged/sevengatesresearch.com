@@ -20,7 +20,7 @@ This repository is sevengatesresearch.com, an independent research house coverin
 
 ## Editorial standard and ledger (read before drafting or publishing)
 
-- The full house standard is `docs/editorial-standard-v0.4.md`. It is authoritative. Read it in full before drafting, rewriting or publishing any research article. Section 19 is the publication gate: G1 to G15 block publication.
+- The full house standard is `docs/editorial-standard.md`. It is authoritative. Read it in full before drafting, rewriting or publishing any research article. It is currently v0.5. Section 12 sets the publication mode and length; section 10.10 makes a five-year share-price chart mandatory for stock research; "red team" never appears in published copy (section 14). Section 19 is the publication gate: G1 to G16 block publication.
 - The repetition ledger and corrections record is `docs/repetition-ledger.md`. Read it before choosing an opening (standard 6.4, workflow step 8). Add the article's entry in the same commit as the article (step 10, gate G8). Log every correction, rating change and withdrawal there (standard 16.4).
 - Quick reminders, not a substitute for the full text:
   - The answer before the sermon: state the Seven Gates view early.
