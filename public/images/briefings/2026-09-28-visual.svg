@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">The Middle East oil ledger</title>
+  <desc id="desc">A factual comparison shows Middle East crude exports at 18.8 million barrels per day in February and 12.8 million barrels per day in September, leaving a 6 million barrel per day gap. Saudi exports rose from 2.446 million barrels per day in August to about 5.4 million in September.</desc>
+  <rect width="800" height="760" fill="#172521"/>
+  <rect x="24" y="24" width="752" height="712" rx="5" fill="#F4F0E6"/>
+
+  <text x="58" y="72" fill="#8A7042" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">PHYSICAL OIL · SEPTEMBER</text>
+  <text x="58" y="121" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700">The rebound is not the baseline</text>
+  <text x="58" y="155" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="17">Gulf exports recovered. Six million daily barrels are still missing.</text>
+
+  <g transform="translate(58 204)">
+    <text x="0" y="20" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">REGIONAL CRUDE EXPORTS · MILLION BARRELS PER DAY</text>
+
+    <text x="0" y="78" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">FEBRUARY</text>
+    <rect x="118" y="51" width="472" height="42" rx="3" fill="#172521"/>
+    <text x="608" y="80" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700">18.8</text>
+
+    <text x="0" y="145" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">SEPTEMBER</text>
+    <rect x="118" y="118" width="321" height="42" rx="3" fill="#8A7042"/>
+    <text x="457" y="147" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700">12.8</text>
+
+    <path d="M439 180 H590" stroke="#8F3E37" stroke-width="3"/>
+    <path d="M439 172 V188 M590 172 V188" stroke="#8F3E37" stroke-width="3"/>
+    <text x="514" y="214" text-anchor="middle" fill="#8F3E37" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">6.0m bpd gap</text>
+    <text x="514" y="239" text-anchor="middle" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="13">versus February</text>
+  </g>
+
+  <g transform="translate(58 474)">
+    <rect width="684" height="132" rx="4" fill="#172521"/>
+    <text x="24" y="32" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">SAUDI EXPORT RECOVERY</text>
+    <text x="24" y="84" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">2.446</text>
+    <text x="24" y="109" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="13">August · m bpd</text>
+    <path d="M196 75 H382" stroke="#B19A6C" stroke-width="3"/>
+    <path d="M382 75 l-13 -8 m13 8 l-13 8" fill="none" stroke="#B19A6C" stroke-width="3"/>
+    <text x="420" y="84" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">≈ 5.4</text>
+    <text x="420" y="109" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="13">September · m bpd</text>
+  </g>
+
+  <g transform="translate(58 630)">
+    <circle cx="9" cy="9" r="7" fill="#8A7042"/>
+    <text x="28" y="15" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14">Hormuz flows: about 7.4m bpd in September</text>
+    <text x="0" y="51" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="13">September values are preliminary estimates. Bars share one scale.</text>
+  </g>
+
+  <text x="58" y="716" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="12">KPLER DATA VIA REUTERS · 28 SEP 2026 · SEVEN GATES ANALYSIS</text>
+</svg>
