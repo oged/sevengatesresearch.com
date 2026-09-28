@@ -1232,6 +1232,8 @@ Keep the Seven Gates DNA: the highest-signal item first; for each item, what hap
 
 The operating procedure (research order, frontmatter, body layout, hero templates, validation and publishing) lives in the `daily-brief` skill.
 
+Brief visuals use the brand palette in 3.3: Canvas #FBF8F1 ground, Ink #1A1F24 framing and values, Brass #A67C3D accents, Travertine #C6BFAE borders and rules, Slate #46504F secondary text. The `daily-brief` skill and briefs published before 28 September 2026 used an older palette (#F5F0E6, #0B1F33, #B08A3E, #EDE4D3, #64707B). Where the skill still lists those values, use the brand values instead.
+
 ### 12.10 Marcus Daily Intelligence Brief
 
 A separate intelligence product. Hard maximum 1,500 words; when there is too much news, drop lower-signal stories rather than lengthening. For each item: what happened, why it matters, second-order implications and what to watch. Keep the DYOR ticker table. The purpose is intelligence compression, not a display of how much was found.
