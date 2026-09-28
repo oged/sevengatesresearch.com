@@ -54,7 +54,7 @@ The familiar uncle, agbada, Mercedes, ceremonial moat, collection plate, diluted
 
 ### 2026-09-26 · nigeria-is-back-at-the-frontier
 
-Status: built, awaiting publication. Confirm the date when it goes live.
+Status: published 28 September 2026 (article dated 26 September).
 
 - **Type and rating:** Market structure essay. No company rating.
 - **Entry route:** a single trading day. 21 September 2026, Zenith trades 77.07 million shares at 3.58 times normal volume and the price moves 0.2 per cent.
