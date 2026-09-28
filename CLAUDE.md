@@ -18,19 +18,18 @@ This repository is sevengatesresearch.com, an independent research house coverin
 - Body is Markdown plus inline-styled HTML blocks (see `content/research/gdp-does-not-pay-the-coupon.md` for the At a Glance box, figure boxes, captions and disclaimer). Keep each HTML block free of blank lines or Markdown will break it. Markdown tables get a mobile scroll wrapper automatically, so prefer them for wide tables.
 - Every article ends with Research notes, sources, and the standard disclaimer.
 
-## Editorial standard (v0.4, summarised)
+## Editorial standard and ledger (read before drafting or publishing)
 
-- Structure: kicker, headline, deck, hero, At a Glance, then the answer before the sermon: lead with the conclusion, then elaborate.
-- Evidence labels (Fact, Estimate, Reconstruction, Inference, Opinion) belong inline in the prose.
-- Every figure carries a dated source line. Research notes disclose methodology and approximations.
-- Ratings are expected-return judgements with a stated horizon and review date, not price targets alone.
-- Corrections distinguish three cases: the facts changed, the price changed, or Seven Gates was wrong.
-- Self-attack sections (steel-manning the other side) are standard.
-- No em dashes anywhere. Avoid stock AI phrasing, filler, and a "not X but Y" habit.
-- British spelling, "per cent", numbers exactly as sourced.
-- References and quotes are structural, never decorative. Illustrative composite scenes are labelled ILLUSTRATION and never pose as reporting.
-- Judge each paragraph by what the reader would lose without it; do not work to word-count quotas.
+- The full house standard is `docs/editorial-standard-v0.4.md`. It is authoritative. Read it in full before drafting, rewriting or publishing any research article. Section 19 is the publication gate: G1 to G15 block publication.
+- The repetition ledger and corrections record is `docs/repetition-ledger.md`. Read it before choosing an opening (standard 6.4, workflow step 8). Add the article's entry in the same commit as the article (step 10, gate G8). Log every correction, rating change and withdrawal there (standard 16.4).
+- Quick reminders, not a substitute for the full text:
+  - The answer before the sermon: state the Seven Gates view early.
+  - Evidence labels (Fact, Management claim, Estimate, Reconstruction, Inference, Opinion) belong inline.
+  - Every figure carries a dated source line. Every price carries a date.
+  - Ratings are expected-return judgements with a horizon and a review date (default six months).
+  - No em dashes. None of the banned phrases in standard 5.6. British spelling, "per cent".
+  - References and quotes must pay rent (standard 6.2). Illustrative composite scenes are labelled ILLUSTRATION.
 
 ## Skills
 
-- `.claude/skills/seven-gates-longform`: rewrites a finished article into engaging long-form prose without touching its numbers, charts or tables, then publishes it. Use it whenever asked to make a piece more engaging, human or readable, or to "give it the treatment".
+- `.claude/skills/seven-gates-longform`: rewrites a finished article into engaging long-form prose without touching its numbers, charts or tables, then publishes it and updates the ledger. Use it whenever asked to make a piece more engaging, human or readable, or to "give it the treatment".
