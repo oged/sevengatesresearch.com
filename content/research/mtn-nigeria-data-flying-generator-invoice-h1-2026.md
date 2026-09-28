@@ -197,6 +197,8 @@ The price is no longer absurdly cheap. That gift has gone. But at around **₦77
 **Seven Gates view: BUY / ACCUMULATE.**  
 Stronger buy zone: ≤ ₦720 · Base value: ₦950 · SOTP: ~₦935 · Bear: ₦650 · Bull: ₦1,150.
 
+**Horizon and review.** Six months from the ₦779 reference price of 27 August 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 MTN is no longer trying to prove that it can survive. It is trying to prove that it can grow, invest, pay dividends and still keep the generator from eating the family silver.
 
 That, in Nigeria, is not a trivial ambition.
@@ -210,3 +212,5 @@ That, in Nigeria, is not a trivial ambition.
 5.  [Nigerian Communications Commission, industry statistics.](https://ncc.gov.ng/market-data-reports/industry-statistics)
 
 **Research note, not personalised investment advice.** Valuation assumptions and scenario values are Seven Gates Research estimates, not company guidance. Market price reference is the NGX price of ₦779 as at 27 August 2026, accessed 28 August 2026. Historical financial charts combine reported annual figures with clearly labelled interim data where applicable.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

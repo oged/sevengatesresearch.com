@@ -31,6 +31,8 @@ Zenith adapted. In 2026, the strategic question has moved again. Capital is no l
 > **The Seven Gates view**  
 > **ACCUMULATE. Fair value: ₦145–₦160. Stronger buying interest below ₦115.** Zenith remains a high-quality franchise, but at roughly book value the easy bargain has gone. The next leg must be earned through stronger per-share earnings and returns on the new capital.
 
+**Horizon and review.** Six months from the ₦128.60 reference price of 4 September 2026 (close). Review on audited H1 2026 results, expected on or before 9 October 2026, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 <figure><img src="/images/research/zenith-bank-2026-red-tie-earn-its-keep/01-five-year-price.svg" alt="Five-year Zenith Bank share-price chart showing annual reference closes from 2021 through the latest verified close on 4 September 2026." width="1200" height="650"></figure>
 
 ## 1. More capital. More owners. The same dinner.

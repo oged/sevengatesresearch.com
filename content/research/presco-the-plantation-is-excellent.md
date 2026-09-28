@@ -115,6 +115,8 @@ PriceStanceReason
 
 **Above ₦2,150**Do not chaseThe return increasingly depends on sustained exceptional margins or another rerating.
 
+**Horizon and review.** Six months from the ₦2,070 reference price of 7 August 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 ## What would change my mind
 
 -   **More bullish:** group EPS resumes growth after dilution, operating cash flow continues to cover dividends and capex, and acquired estates lift returns without fresh equity.
@@ -126,3 +128,5 @@ The decision is therefore rather less exciting than the business. Presco is inve
 The plantation is excellent. The balance sheet is much improved. The price, regrettably, has read the same annual report.
 
 **Research basis:** Presco Plc H1 2026 unaudited financial statements, H1 2026 performance release, FY2025 disclosures and the 2025 rights circular. Reference share price: ₦2,070 at 7 August 2026. Valuation ranges are Seven Gates estimates. This article is analysis, not personal investment advice.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

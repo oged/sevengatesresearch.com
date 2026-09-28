@@ -80,7 +80,7 @@ The old mental model for Aradel is obsolete. The company is no longer primarily 
 | FY 2024 | ₦581.2bn | ₦259.1bn | Strong organic growth |
 | FY 2025 | ₦699.4bn | ₦757.3bn | Material acquisition-accounting effects |
 | H1 2026 | ₦2.49tn | ₦191.05bn | Enlarged group fully consolidated |
-| H1 2026 attributable | — | **₦153.7bn** | What belongs to parent shareholders |
+| H1 2026 attributable | n/a | **₦153.7bn** | What belongs to parent shareholders |
 
 ## H1 2026: magnificent until everyone comes to collect
 
@@ -150,6 +150,8 @@ Preferred accumulation: ≤₦1,350
 Higher-conviction zone: ≤₦1,200, subject to H2 confirmation  
 Deep-value zone: around/below ₦1,000 if the operating thesis remains intact.
 
+**Horizon and review.** Six months from the ₦1,300 reference price of 20 August 2026 (close). Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 The business has bought scale. Now management must show that the empire can send enough cash home after the taxman, bankers, capex programme and minority partners have eaten.
 
 ## Sources
@@ -160,3 +162,5 @@ The business has bought scale. Now management must show that the empire can send
 -   Aradel Holdings Plc, H1 2024 and H1 2023 disclosures.
 -   MarketScreener, NGX ARADEL end-of-day price history through 20 August 2026.
 -   Proshare, H1 2026 Aradel results summary.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

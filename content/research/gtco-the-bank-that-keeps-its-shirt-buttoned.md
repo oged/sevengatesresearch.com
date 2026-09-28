@@ -130,8 +130,12 @@ GTCO may be the cleanest publicly traded expression of Nigerian banking quality.
 
 I would begin accumulating below **₦125**, become more interested around **₦110–₦115**, and regard prices below **₦105** as compelling if the fundamentals remain sound. Above **₦165**, I would reassess whether earnings growth justifies the enthusiasm.
 
+**Horizon and review.** Horizon as stated in the valuation scenarios: twelve to eighteen months from the ₦130 reference price of 31 July 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 This is not a turnaround, moonshot or miracle performed beside the Lagos-Ibadan Expressway. It is a wager that one of Nigeria’s best financial franchises can convert inflation, payments growth and financial deepening into rising value per share without surrendering too much to the taxman, the regulator or the naira.
 
 For once, that is not an absurd wager.
 
 **Research basis:** GTCO FY2025 annual report, GTCO Q1 2026 unaudited results and NGX market data through 31 July 2026. This article is independent research and does not constitute personal investment advice.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

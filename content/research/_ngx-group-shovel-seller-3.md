@@ -135,6 +135,8 @@ Below roughly **₦110**, I become interested again.
 
 Around **₦95–₦100**, assuming the operating thesis is intact, the margin of safety becomes much more attractive.
 
+**Horizon and review.** Six months from the ₦149.90 reference price of 14 September 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 Above today’s level, I want proof that the company is becoming something different: more data, more indices, more post-trade, more recurring revenue and more infrastructure economics that survive when the trading screens become quiet.
 
 Because the great outcome is not that NGX becomes a bigger stock exchange.

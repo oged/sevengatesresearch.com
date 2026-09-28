@@ -127,8 +127,12 @@ Revenue has risen 124%. That is excellent. Operating profit has risen 60%. Also 
 
 I would hold a modest existing position, but I would not chase Champion around ₦11.20. The shares become more interesting around ₦8–₦9 and genuinely attractive below ₦7, provided Bullet continues growing and debt begins falling.
 
+**Horizon and review.** Six months from the ₦11.20 price used at publication on 2 August 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 Over the next four quarters, ignore the excitement of consolidated revenue. Watch three quieter numbers: operating cash flow, net debt and diluted EPS. If they improve together, the acquisition may overwhelm the dilution and Champion could become a serious African beverage platform.
 
 If they do not, shareholders will learn something our ancestors probably understood 13,000 years ago: the celebration comes first, but there are consequences the morning after.
 
 **Research basis:** Champion Breweries FY2025 annual report, H1 2026 financial statements, rights-issue terms and public acquisition disclosures. Historical context draws on published archaeological research on early cereal fermentation. Independent research, not personal investment advice.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

@@ -87,6 +87,8 @@ UBA must demonstrate that its enormous African machine can turn scale into incre
 
 UBA is a staged purchase, not a reason to arrive at the market with a brass band.
 
+**Horizon and review.** Six months from the ₦44.50 reference price of 2 August 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 -   **₦36 or below:** strong accumulation, up to a 5% portfolio weight
 -   **₦37–₦43:** attractive buying range
 -   **₦44–₦50:** starter position or hold
@@ -118,3 +120,5 @@ UBA offers greater potential upside than GTCO if its recovery succeeds. GTCO off
 The investor must therefore decide whether he is buying a recovering continental franchise or auditioning for the role of patient relative. At ₦38–₦43, the first interpretation is sufficiently plausible. Above ₦70, patience would have to arrive accompanied by evidence.
 
 **Research basis:** UBA FY2025 reporting, UBA Q1 2026 unaudited results and market data referenced on 2 August 2026. This article is independent research and does not constitute personal investment advice.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

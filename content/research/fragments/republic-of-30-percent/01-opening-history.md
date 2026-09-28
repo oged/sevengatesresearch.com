@@ -17,6 +17,8 @@ The useful question was not why people arrived at the office after the money sto
 
 **The most dangerous day in a Ponzi scheme is the day it pays you.**
 
+**ILLUSTRATION.** *The investor below is a composite drawn from the pattern of Nigerian schemes, not a reported individual.*
+
 A man puts one million naira into an investment he does not completely understand. This is not unusual. Most of us participate in systems we do not completely understand. Electricity. Monetary policy. Airline pricing. Marriage.
 
 Thirty days later, his phone buzzes.

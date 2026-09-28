@@ -19,6 +19,8 @@ The Lokoja Contrarian28 August 20264 min read
 
 **Verdict: HOLD / WATCH. Preferred buying zone remains ₦125–₦135.**
 
+**Horizon and review.** Six months from the ₦156.10 reference price of 27 August 2026. Review on audited H1 2026 results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 ## Current position
 
 | Metric | Refreshed assessment |
@@ -76,3 +78,5 @@ The earlier ₦225–₦235bn attributable-profit and ₦3 interim-dividend thre
 * * *
 
 *Research commentary for information, not personalised investment advice. Valuations are estimates, and capital is at risk. Figures and views reflect the dated pre-H1 update above.*
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

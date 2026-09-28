@@ -30,6 +30,8 @@ The simplest theory of Ponzi participation is greed plus ignorance.
 
 It is also one of the least interesting.
 
+**ILLUSTRATION.** *The five figures below are composite archetypes, and their lines are illustrative, not quotations from reported individuals.*
+
 Meet the Early Winner.
 
 "I've withdrawn three times."

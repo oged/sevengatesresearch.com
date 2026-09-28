@@ -61,6 +61,8 @@ The investment case is considerably better behaved than my luggage.
 
 At **₦138.50**, Seven Gates rates NAHCO **HOLD**.
 
+**Horizon and review.** Six months from the ₦138.50 reference price of 3 September 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 We would add more deliberately below **₦130**, become considerably more interested around **₦105–120**, and regard roughly **₦105–110** as the stronger entry zone for an investor measuring wealth in hard currency.
 
 The business is attractive: scarce airport infrastructure, established airline relationships, manageable leverage, substantial historical earnings growth and useful cargo optionality.
@@ -314,3 +316,5 @@ Primary sources used in this underwrite:
 - [NAHCO / Air France-KLM GSA announcement](https://nahcoaviance.com/nahco-air-france-klm-reach-ticketing-gsa-agreement/)
 
 TTM EPS and free cash flow are Seven Gates reconstructions from the published financial statements. Scenario values are analyst estimates, not company guidance. The reference price is a dated research snapshot as at 3 September 2026.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

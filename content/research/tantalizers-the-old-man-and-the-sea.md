@@ -35,6 +35,8 @@ At ₦4.65 per share and a market value of approximately **₦23.25 billion**, i
 
 **My conclusion: operationally improving, strategically adventurous, but significantly overpriced and difficult to value. At ₦4.65, this is speculation rather than conventional value investing.**
 
+**Horizon and review.** Six months from the ₦4.65 price used at publication on 2 August 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 ## Has the restaurant business come into its own?
 
 ## The restaurant has stopped coughing quite so loudly
@@ -149,3 +151,5 @@ Ali and Simbi may keep visiting if the food remains affordable, the portions res
 I would enjoy the jollof. I would wait before buying the shares.
 
 **Research basis:** Tantalizers FY2025 audited financial statements, Q1 2026 financial statements and company diversification disclosures. Outlet economics are illustrative because the company does not provide a clear current active-outlet reconciliation. This article is analysis, not investment advice.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

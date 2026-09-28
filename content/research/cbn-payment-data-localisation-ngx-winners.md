@@ -45,6 +45,8 @@ Prices and market values below are as at 24 or 25 August 2026. Multiples are app
 
 These are valuation disciplines, not price targets engraved on stone. MTN deserves a premium for its network, cash generation and repaired balance sheet. CWG deserves a discount for working-capital absorption. eTranzact and Chams need earnings to catch the prices, not another policy headline.
 
+**Horizon and review.** Each view runs six months from the 24 or 25 August 2026 prices in the table. Review the NGX-listed names on their next quarterly results, and no later than 31 October 2026. Review Airtel Africa on its half-year results to 30 September 2026, and no later than 30 November 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 The quality score is our 100-point assessment of business economics, balance-sheet strength, cash conversion, competitive endurance and disclosure. It is a comparative judgment, not a credit rating.
 
 ## What CBN actually ordered
@@ -442,3 +444,5 @@ This report distinguishes reported fact from Seven Gates estimates and opinion. 
 31.  Central Bank of Nigeria, [official exchange rates](https://www.cbn.gov.ng/rates/ExchRateByCurrency.html); Reuters, [24 August 2026 sterling/dollar market context](https://www.reuters.com/world/uk/sterling-pauses-after-four-week-rally-as-investors-brace-for-us-sanctions-on-iran-2026-08-24/).[↩︎](#fnref31)
     
 32.  Yahoo Finance, [Airtel Africa valuation statistics](https://finance.yahoo.com/quote/AAF.L/); NGX Pulse, [Airtel Africa market data](https://ngxpulse.ng/stocks/AIRTELAFRI).[↩︎](#fnref32)
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

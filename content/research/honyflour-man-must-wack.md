@@ -77,6 +77,8 @@ Headline ROIC may be 18–20%. Adjusting for group financing, supplier credit an
 
 At ₦18.25, the market has already eaten much of the base-case cake. The contrarian entry appears nearer ₦14–₦15, where the price begins to compensate for commodity economics, cash-flow questions and a 1.1% dividend yield.
 
+**Horizon and review.** Six months from the ₦18.25 price used at publication on 2 August 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 HONYFLOUR is not yet a compounder. It is a turnaround with an essential product, improving gross margins and a potentially useful parent company.
 
 Nigeria will continue eating bread. That is the easy thesis.
@@ -86,3 +88,5 @@ The harder question is whether, after the wheat trader, transporter, lender, rel
 Man must wack. Whether the shareholder will wack with him remains unproven.
 
 **Research basis:** Honeywell Flour Mills FY2026 annual report and NGX market data. Prices and valuation ranges reflect the analysis date. This article is analysis, not investment advice.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

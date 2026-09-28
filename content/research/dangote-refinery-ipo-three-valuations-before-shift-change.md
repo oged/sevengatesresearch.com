@@ -39,6 +39,8 @@ heroCaption: "Three valuations before shift change. When the facts change, chang
 | **Preferred entry** | **≤₦375** |
 | **View at ₦525** | **WAIT** |
 
+**Horizon and review.** Six months from the ₦525 offer price of 10 September 2026. Review on first trading after listing, and no later than 10 March 2027. *Added 28 September 2026; the view and price levels are unchanged.*
+
 Seven Gates has had a mildly irresponsible night.
 
 Caffeine supplied the chemistry. LLMs did some of the document archaeology. Sheer love of the game supplied the rest. We went through the **207-page Dangote Petroleum Refinery IPO prospectus**, including the parts designed to test whether an equity analyst truly wants the job: tax notes, indebtedness, related parties, working capital, risk factors, definitions of EBITDA and footnotes with the emotional range of a gasket specification.
@@ -149,6 +151,4 @@ Primary company figures are from the **Dangote Petroleum Refinery and Petrochemi
 
 **Important:** DPRP has not yet commenced public trading, so there is no genuine five-year stock-price history to plot. We will add the standard Seven Gates price chart once an actual trading history exists.
 
-### Disclaimer
-
-This publication is for informational and educational purposes only and does not constitute financial, investment, tax or legal advice, or a recommendation, solicitation or invitation to buy or sell any security. Valuation estimates depend on assumptions that may prove wrong. Readers should independently verify the evidence, review the prospectus and obtain appropriate professional advice before making an investment decision.
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

@@ -411,6 +411,8 @@ The argument linking the Nigeria exit, global layoffs and the autonomous-vehicle
 
 This essay does not change the standing Seven Gates rating on NYSE: UBER. It is a red-team essay, not a rated research note. The rating remains **WATCH**, pending, among other items, a full free-cash-flow reconstruction and first-hand driver interviews.
 
+**Horizon and review.** Six months from the $75.24 close of 1 September 2026. Review on Uber's third-quarter 2026 results, and no later than 30 November 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 ## Selected sources
 
 - [Uber Nigeria: "2 Years Moving Lagos" historical milestone release (2016)](https://www.uber.com/en-NG/newsroom/2-years-moving-lagos/)
@@ -422,3 +424,5 @@ This essay does not change the standing Seven Gates rating on NYSE: UBER. It is 
 - [Reuters / technology press coverage of Travis Kalanick, Atoms and Pronto](https://www.reuters.com/technology/kalanick-atoms-raises-17-billion-a16z-2026-07-15/)
 - Aristotle, *Politics*, Book I, on self-acting tools.
 - Fela Kuti, *Go Slow*, historical and cultural reference.
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

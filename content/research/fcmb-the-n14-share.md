@@ -126,6 +126,8 @@ The bear case is about ₦9. If impairments remain elevated, NPLs rebuild, falli
 
 My rating is Accumulate, not table-thumping Buy. Below ₦11.50 I would be increasingly interested. Above ₦16 without a corresponding upgrade in sustainable earnings, much of the easy valuation argument has gone.
 
+**Horizon and review.** Horizon as stated above: twelve to eighteen months from the ₦11.90 reference price of 4 September 2026. Review on the next quarterly results, and no later than 31 October 2026. *Added 28 September 2026; the view and price levels are unchanged.*
+
 ## 9. The verdict
 
 The most interesting thing about FCMB is therefore not that the ₦14 share became ₦11.90. It is that the security has travelled in the opposite direction from the institution. In 2007, investors paid a heroic price for a bank with fashionable ambitions and thin evidence of what the next cycle would do to them. In 2026, they are being offered a recapitalised financial group at a discount to book because the evidence of the intervening years is impossible to forget.
@@ -163,3 +165,5 @@ The thesis weakens materially if sustainable ROE falls below 20%, NPLs rebuild m
 - [StockAnalysis FCMB market data](https://stockanalysis.com/quote/ngx/FCMB/)
 - [Investing.com FCMB historical price](https://ng.investing.com/equities/firstcity-bnk-historical-data)
 - [Fitch May 2026 rating commentary via MarketScreener](https://www.marketscreener.com/news/fitch-affirms-first-city-monument-bank-at-b-outlook-stable-ce7f5ad3d989ff20)
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>

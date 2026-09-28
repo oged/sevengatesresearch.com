@@ -170,7 +170,7 @@ Markets often “adapt” by pricing somebody out. That person is rarely the ref
 
 ## What happens to electric vehicles?
 
-Expensive gasoline and diesel are excellent advertising for EVs. Passenger EV economics improve because fuel savings become more valuable. But the difficult diesel applications — long-haul trucking, mines, tractors, construction, marine transport and remote power — electrify more slowly.
+Expensive gasoline and diesel are excellent advertising for EVs. Passenger EV economics improve because fuel savings become more valuable. But the difficult diesel applications (long-haul trucking, mines, tractors, construction, marine transport and remote power) electrify more slowly.
 
 Then comes the materials problem. More EVs require copper, lithium, nickel, graphite, cobalt and grid infrastructure. Mining and moving those materials consumes diesel. Higher fuel prices accelerate electrification while also raising the cost of building it. Markets occasionally tolerate two ideas at once.
 
@@ -274,3 +274,5 @@ International Energy Agency, Oil Market Report, August 2026; US Energy Informati
 #### Tags
 
 RefiningDieselOilNigeriaAfricaGeopoliticsFreightAgriculture
+
+<div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>
