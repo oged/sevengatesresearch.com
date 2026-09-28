@@ -112,6 +112,20 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-09-28 · okomu-the-price-of-red-oil
+
+- **Type and rating:** Company report, Okomu Oil Palm (OKOMUOIL). WAIT at ₦1,276.20 (25 September 2026 close); base fair value about ₦1,000; underwriting range about ₦700 to ₦1,350. Horizon six months; review on Q3 2026 results, no later than 25 March 2027.
+- **Entry route:** the physical work before the accounts: fruit bunches cut, trucked and pressed in Edo State before a line marked "revenue" appears in Lagos. Then the pre-crude palm-export history, resisted as a lament.
+- **Narrative shape and ending:** landbank history, yield and extraction recovery, Nigerian and Southeast Asian peers, the border and FX protection cycle, rubber as the real export, naira versus dollar returns, balance sheet and Socfin fees, earnings SOTP and scenarios, verdict. Ends on a three-beat verdict line.
+- **Hero concept:** AI-generated realistic scene: a truck of fresh fruit bunches on a laterite road, the estate and mill behind, a cargo ship on the horizon (the foreign tonne).
+- **Cultural guests:** None. (Royal Niger Company and Oloibiri as history, not colour.)
+- **Quotations:** None.
+- **Historical episodes:** Nigeria as the world's leading palm-oil exporter until the 1930s; Okomu Forest Reserve project 1976, incorporation 1979, privatisation 1990; Hartman acquisition 2014; CBN 41-item FX exclusion, June 2015; land-border closure, August 2019; CBN lifting of the 43-item FX restriction, 12 October 2023; 2026 CPO tariff cut from 35% to 28.75%. No proverbs or biblical figures.
+- **Nigerian social types:** None.
+- **Closing cadence:** three short verdict fragments: "Wonderful farm. Very good business. Price needs pruning." Note: same shape as the Presco close ("The plantation is excellent. The balance sheet is much improved. The price, regrettably, has read the same annual report."), six pieces apart and on the same sector.
+- **Memorable phrases:** "By the time a line marked “revenue” appears in Lagos, a great deal of very physical work has already happened in Edo State."; "Better engineering cannot grow a bunch, but it can waste less of one."; "To the nearest thousand naira, the export business is rubber. Palm oil stays home."; "If those frictions fall, the moat narrows even though not a single tree has moved."; "Its oil only needs to arrive cheaply enough."; "Because the farm is good enough that the price has become part of the risk."
+- **Analogies and metaphor families:** two clocks (plantation biology versus trade policy; compare the internet-time and legal-time clocks in republic-of-30-percent); football pitches to humanise scale; the border and the foreign tonne as the competitor; moat (with the caveat that it is made of frictions, not agronomy); pruning; naira versus dollar wealth (compare the-naira-is-not-a-footnote and fcmb).
+
 ### 2026-09-28 refresh · the-naira-is-not-a-footnote-in-your-valuation
 
 - **Type and rating:** Macro commentary. No rating.

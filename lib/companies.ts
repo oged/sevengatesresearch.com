@@ -64,6 +64,13 @@ export const COMPANY_PROFILES: CompanyProfile[] = [
     summary: "Data demand and a repaired balance sheet support the case. Energy costs and capex decide how much growth reaches shareholders.",
   },
   {
+    slug: "okomu",
+    ticker: "OKOMUOIL",
+    name: "Okomu Oil Palm",
+    sector: "Agriculture",
+    summary: "A 33,000-hectare estate with better mills and recovering yields. The share price now assumes the border stays reasonably friendly.",
+  },
+  {
     slug: "presco",
     ticker: "PRESCO",
     name: "Presco",
