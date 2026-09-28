@@ -30,6 +30,10 @@ This repository is sevengatesresearch.com, an independent research house coverin
   - No em dashes. None of the banned phrases in standard 5.6. British spelling, "per cent".
   - References and quotes must pay rent (standard 6.2). Illustrative composite scenes are labelled ILLUSTRATION.
 
+## Daily Brief palette
+
+The `daily-brief` skill lists an older chart palette. Override it with the brand palette: ground #FBF8F1 (not #F5F0E6), ink/navy #1A1F24 (not #0B1F33), gold #A67C3D (not #B08A3E), card stroke #C6BFAE (not #EDE4D3), muted #46504F (not #64707B). `scripts/generate-daily-brief.mjs` already uses the brand values.
+
 ## Skills
 
 - `.claude/skills/seven-gates-longform`: rewrites a finished article into engaging long-form prose without touching its numbers, charts or tables, then publishes it and updates the ledger. Use it whenever asked to make a piece more engaging, human or readable, or to "give it the treatment".
