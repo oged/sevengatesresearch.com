@@ -5,11 +5,11 @@ description: Rewrite a finished Seven Gates Research article into engaging long-
 
 # Seven Gates long-form rewrite
 
-Turn a correct but dry article into prose a reader finishes. The analysis, figures and conclusions stay exactly as the author wrote them. What changes is how the reader travels through them. Read CLAUDE.md first for the house standard and site conventions.
+Turn a correct but dry article into prose a reader finishes. The analysis, figures and conclusions stay exactly as the author wrote them. What changes is how the reader travels through them. Read CLAUDE.md, then `docs/editorial-standard-v0.4.md` in full. Where this skill and the standard disagree, the standard wins.
 
 ## Before you start
 
-1. Read the Used ledger at the bottom of this file. Anything listed is spent: do not reuse its anecdotes, quotes or episodes without the user's say-so, and do not repeat an opening type used in the last two pieces.
+1. Read `docs/repetition-ledger.md`: the last 20 entries and the permanent register. Anything recorded there is spent: do not reuse its anecdotes, quotes, episodes or metaphor families without the user's say-so, and do not repeat an opening type used in the last two pieces.
 2. Read the source in full (a PDF, a draft, or an existing `content/research/*.md`). Extract every figure.
 3. Name, privately, the article's one mechanism: the single thing a reader should understand by the end. Every story you add must illuminate it. A story that is merely interesting gets cut.
 
@@ -55,13 +55,6 @@ No em dashes. No stock AI phrasing. No reflexive "not X but Y", triads or one-li
 1. Write `content/research/<slug>.md` in the site format (copy components from an existing article such as `gdp-does-not-pay-the-coupon.md`). Figures go to `public/images/research/<slug>/` as webp; add a 1200x630 jpg social card.
 2. Charts with clipped labels, overlaps or truncated titles: redraw them from their cited data rather than shipping the defect. Values must not change.
 3. Open every image you wrote and confirm it decodes. Check there are no em dashes in the file.
-4. Commit as `Publish research: <title>`, push to `main`, wait for the Vercel deployment to reach READY, then load the live page and check the hero, every figure and the tables.
-5. Append this piece to the Used ledger below in the same commit.
+4. Add this piece's entry to `docs/repetition-ledger.md` (every field, newest first), so it ships in the same commit as the article.
+5. Commit as `Publish research: <title>`, push to `main`, wait for the Vercel deployment to reach READY, then load the live page and check the hero, every figure and the tables.
 6. Report back briefly: the new opening, what was added or cut, facts worth a second look, and the live URL.
-
-## Used ledger
-
-| Date | Piece | Opening type | Episodes used | Quotes / authors used | Interchapter |
-|---|---|---|---|---|---|
-| 2026-09-25 | GDP Does Not Pay the Coupon | Procedural near-miss (Three Mile Island 1979) | Mexico 1982; Tesobonos 1994; Reinhart-Rogoff / Herndon 2013; Consol redemption 2015; Egypt 2022 outflows; Ghana DDEP pickets 2023; Kenya Finance Bill 2024; SA Nene sacking Dec 2015; Zambia default Nov 2020 | Wriston; Hemingway (The Sun Also Rises); Dornbusch; Carville; Steinbeck (paraphrase); Lewis (The Big Short) | Lagos loan officer / Aba manufacturer |
-| 2026-09-26 | Nigeria Is Back at the Frontier | Day in the market (21 Sep 2026, Zenith 77m shares, +0.2%) | JPMorgan GBI-EM removal of Nigeria 2015; Tesla S&P 500 inclusion 2020; MSCI Pakistan back to Frontier 2021; MSCI Argentina to Standalone 2021; Samuel Brannan 1848 | Ozark (author's); Hamlet; Shelley Ozymandias (adapted); J.P. Clark Night Rain (paraphrase); r/wallstreetbets (author's). Cut: Breaking Bad, Byron, Soyinka | Lagos portfolio manager selling Zenith to a London passive fund |
