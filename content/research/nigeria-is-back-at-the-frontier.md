@@ -16,7 +16,7 @@ seoTitle: "Nigeria Is Back at the Frontier. Please Do Not Buy Everything With a 
 ogImage: "/images/research/nigeria-is-back-at-the-frontier/00-hero-social-1200x630.jpg"
 ---
 
-By The Lokoja Contrarian · Published 3 September 2026 · Rebuilt 26 September 2026 · Seven Gates Research
+By The Lokoja Contrarian · Published 26 September 2026 · Seven Gates Research
 
 <p style="font-size:.82em;color:#46504F">Broad-market data: 25 September 2026 close. Pre-event scorecard snapshot: 2 September 2026. Article type: Thematic / Market Structure.</p>
 
