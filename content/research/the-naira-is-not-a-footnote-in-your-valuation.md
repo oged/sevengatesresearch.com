@@ -6,16 +6,27 @@ slug: "the-naira-is-not-a-footnote-in-your-valuation"
 date: "2026-08-02"
 title: "The Naira Is Not a Footnote in Your Valuation"
 excerpt: "A 60% gain in Lagos can still leave a dollar investor looking like he attended the wrong party."
-readingTime: "9 min"
+readingTime: "11 min"
 kicker: "SEVEN GATES RESEARCH · ESSAY"
 researchType: "Essay"
 category: "Macro"
 ticker: "MACRO"
 region: "Nigeria"
+hero: "/images/research/the-naira-is-not-a-footnote-in-your-valuation/00-hero-naira-valuation.webp"
+heroAlt: "A Lagos food seller compares naira cash with a dollar-priced travel bill while NGX investors celebrate a rising market behind her."
+heroCaption: "The NGX is dancing. Mama put is checking who brought the foreign-currency bill. Seven Gates Research AI-assisted editorial illustration."
 ---
-The Lokoja Contrarian2 August 20269 min read
 
-NairaNGXCBNInflationMacro
+## At a glance
+
+|  |  |
+| --- | --- |
+| Early judgement | **Real rally. Wrong unit if used alone.** |
+| NGX, 2021 to July 2026 | **+509% in naira** |
+| Same NGX move | **+83% in US dollars** |
+| S&P 500, same window | **+99% in US dollars** |
+| Base case | **Managed depreciation** |
+| Investor action | **Measure liabilities in their currency** |
 
 The Nigerian Exchange is hot. Not warm. Not “showing encouraging signs.” Hot.
 
@@ -29,6 +40,10 @@ The NGX reports in naira. Your Dangote petrol price per litre, your solar panels
 
 So before we declare the NGX champion of the known world, we must ask the vulgar question: champion in what currency?
 
+![Line chart comparing the NGX All-Share Index and S&P 500 price indices rebased to 100 at the end of 2020. The NGX reaches 609 by July 2026 versus 199 for the S&P 500.](/images/research/the-naira-is-not-a-footnote-in-your-valuation/01-ngx-vs-sp500-rebased.png)
+
+*Figure 1. Lagos won the nominal race by a distance. In local index points, this was not a contest. Price indices exclude dividends.*
+
 ## The arithmetic beneath the agbada
 
 A Nigerian stock can rise 40% while the naira falls 25% against the dollar. Your dollar return is not 15%. Currency arithmetic is less generous than that:
@@ -36,6 +51,29 @@ A Nigerian stock can rise 40% while the naira falls 25% against the dollar. Your
 <figure class="article-chart currency-equation"><strong>(1.40 × 0.75) − 1 = 5%</strong><figcaption>Forty per cent has become five. The market performed. The currency collected its commission.</figcaption></figure>
 
 This is why the naira is not a footnote in a Nigerian valuation. It is one of the principal characters, usually entering in the third act with documents nobody has read.
+
+Now for the inconvenient wrinkle: in 2026 the currency has helped rather than hurt. From the end of 2025 to July 2026, the NGX rose about 57.6% in naira while the official naira strengthened from roughly ₦1,429 to ₦1,368 per dollar. The translated dollar gain was therefore about 64.6%. Even the naira is entitled to the occasional character reference.
+
+Stretch the lens back to the end of 2020, however, and the sermon returns. The NGX gained roughly 509% in naira, but only about 83% after translation at official end-period exchange rates. The S&P 500 gained about 99% over the same period, before dividends. Lagos won the headline. New York narrowly won the hard-currency bill.
+
+![Line chart showing the NGX rebased in naira and translated into US dollars alongside the S&P 500 from 2020 to July 2026.](/images/research/the-naira-is-not-a-footnote-in-your-valuation/02-ngx-dollar-translation.png)
+
+*Figure 2. The dollar collected most of Lagos's applause. Currency translation reduces the NGX index from 609 in naira terms to 183 in dollar terms. The S&P 500 reaches 199.*
+
+## The annual scorecard
+
+Price return only. The NGX dollar return translates the index using official end-period FX rates.
+
+| Period | NGX return | S&P 500 return | ₦ per US$ | NGX return in US$ |
+| --- | ---: | ---: | ---: | ---: |
+| 2021 | +6.1% | +26.9% | 435 | +0.0% |
+| 2022 | +20.0% | -19.4% | 462 | +13.1% |
+| 2023 | +45.9% | +24.2% | 899 | **-25.1%** |
+| 2024 | +37.7% | +23.3% | 1,554 | **-20.3%** |
+| 2025 | +51.2% | +16.4% | 1,429 | +64.4% |
+| Jan to Jul 2026 | +57.6% | +9.4% | 1,368 | +64.6% |
+
+*Sources: NGX, CBN, FMDQ, S&P Dow Jones Indices and AP. Pre-2023 official exchange rates materially understated the parallel-market cost of dollars, so those translated returns are generous to an NGX investor who could not obtain dollars officially.*
 
 There is a temptation to dismiss this as the complaint of Nigerians who travel. After all, do you buy your mama put in dollars? Does the woman in Nyanya price akara against the Bloomberg Dollar Spot Index? Does the farmer in Agenebode consult Jerome Powell before selling garri?
 
@@ -74,6 +112,10 @@ Hot money is particularly well named. It enters quickly, admires the yields, pho
 Nigeria’s local bond yields have attracted foreign investors. That supports the naira and helps finance government. It also means taxpayers are paying handsomely for the privilege. If US yields rise, oil falls, political risk increases or investors simply become frightened, some of that money can leave with Ebenezer Obey’s calm assurance that the world is a marketplace. Nobody is obliged to sleep in the stall.
 
 The naira therefore looks better managed, not permanently cured.
+
+![Bar chart of official end-period naira per US dollar from 2020 to July 2026, rising from 410 to 1,368 after peaking at 1,554 in 2024.](/images/research/the-naira-is-not-a-footnote-in-your-valuation/03-naira-per-dollar.png)
+
+*Figure 3. The market rose; the unit of account changed underneath it. Recent strengthening is real. So is the much larger reset that came before it.*
 
 ## Inflation has fallen. Prices have not.
 
@@ -139,6 +181,18 @@ Track every Nigerian holding in naira, dollars and, if your liabilities are Brit
 
 Own Nigerian equities because the companies are good and the valuations compensate you for the risks. Do not own them because the index chart resembles a Pentecostal testimony.
 
+## What survives the currency test?
+
+The exchange rate does not treat every NGX company equally.
+
+| Company trait | Why it helps | What can still go wrong |
+| --- | --- | --- |
+| Dollar revenue or exports | Natural hedge when the naira weakens | Local costs, taxes and political intervention |
+| Hard assets and replacement value | Assets reprice as the currency changes | Accounting gains may outrun cash generation |
+| Strong local pricing power | Can pass inflation into selling prices | Volumes may collapse when consumers are exhausted |
+| Import-dependent inputs | None, unless pricing power is exceptional | Margins disappear each time the naira sneezes |
+| Large foreign-currency debt | Potentially useful if matched by dollar cash flow | A currency mismatch can eat the equity |
+
 Nigeria is improving. The reserves are stronger. The central bank is more credible. The FX market is less absurd. Inflation is lower. The stock market is repricing.
 
 All these statements can be true while life remains expensive, wages remain inadequate and the naira remains vulnerable.
@@ -155,4 +209,4 @@ He checks the exchange rate before joining the dance.
 
 Because the NGX may be rising in Lagos, but your wealth must still survive Heathrow.
 
-**Research basis:** CBN exchange-rate and reserve disclosures, NBS inflation data, NGX index data and S&P 500 performance through July 2026. This article is independent commentary and does not constitute personal investment advice.
+**Research basis and method:** NGX closing levels and annual returns; CBN and FMDQ official end-period exchange rates; CBN reserve disclosures; NBS inflation data; S&P 500 closing levels and AP market summaries. All index comparisons are price-only, rebased to 100 at 31 December 2020, and exclude dividends. Dollar-translated NGX values divide the index by the official end-period ₦/US$ rate. Pre-2023 official rates were not freely available to every investor and therefore make historical dollar translation look kinder than lived convertibility. Data cut-off for market comparisons: 31 July 2026. This article is independent research commentary, not personal investment advice.
