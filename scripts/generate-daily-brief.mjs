@@ -316,11 +316,12 @@ function renderVisual() {
   const items = brief.visual.items.slice(0, 4);
   const width = 1400;
   const height = 760;
-  const ink = "#0B1F33";
-  const brass = "#B08A3E";
-  const canvas = "#F5F0E6";
-  const parchment = "#EDE4D3";
-  const muted = "#64707B";
+  // Seven Gates brand palette (editorial standard 3.3). Keep in sync with docs/editorial-standard.md.
+  const ink = "#1A1F24";       // Ink
+  const brass = "#A67C3D";     // Brass
+  const canvas = "#FBF8F1";    // Canvas
+  const parchment = "#C6BFAE"; // Travertine, used for card borders and rules
+  const muted = "#46504F";     // Slate
   const white = "#FFFFFF";
 
   let body = "";
