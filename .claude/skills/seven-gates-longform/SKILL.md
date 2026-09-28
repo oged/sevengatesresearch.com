@@ -5,13 +5,20 @@ description: Rewrite a finished Seven Gates Research article into engaging long-
 
 # Seven Gates long-form rewrite
 
-Turn a correct but dry article into prose a reader finishes. The analysis, figures and conclusions stay exactly as the author wrote them. What changes is how the reader travels through them. Read CLAUDE.md, then `docs/editorial-standard-v0.4.md` in full. Where this skill and the standard disagree, the standard wins.
+Turn a correct but dry article into prose a reader finishes. The analysis, figures and conclusions stay exactly as the author wrote them. What changes is how the reader travels through them. Read CLAUDE.md, then `docs/editorial-standard.md` in full. Where this skill and the standard disagree, the standard wins.
 
 ## Before you start
 
 1. Read `docs/repetition-ledger.md`: the last 20 entries and the permanent register. Anything recorded there is spent: do not reuse its anecdotes, quotes, episodes or metaphor families without the user's say-so, and do not repeat an opening type used in the last two pieces.
 2. Read the source in full (a PDF, a draft, or an existing `content/research/*.md`). Extract every figure.
 3. Name, privately, the article's one mechanism: the single thing a reader should understand by the end. Every story you add must illuminate it. A story that is merely interesting gets cut.
+
+## Standard v0.5 rules that bind a rewrite
+
+- Keep the publication mode (standard 12.1). A rewrite may add narrative but must stay inside the mode's word range; if the material needs more, say so rather than overshooting.
+- For stock research, the mandatory five-year share-price chart (standard 10.10) must be present and identical on the page and in the PDF. Add it if the source lacks it.
+- Never use "red team" in published copy (standard 14). Use contrarian case, challenge case or thesis stress test.
+- Charts are rebuilt in the Seven Gates system, never screenshotted (standard 10.9).
 
 ## What never changes
 
