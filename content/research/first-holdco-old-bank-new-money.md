@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 Nigeria's oldest bank has new capital, new power and remarkably improved profits. It has not, however, acquired a new history.
 
-The Lokoja Contrarian10 August 202611 min read
+The Lokoja Contrarian · 10 August 2026 · 11 min read
 
-First HoldCoFirstBankNGXH1 2026Governance
+First HoldCo · FirstBank · NGX · H1 2026 · Governance
 
 FirstBank has survived empire, independence, military rule, several currencies, banking consolidations and a Nigerian habit of treating corporate governance as optional upholstery. H1 2026 suggests the old institution is recovering. The market, which can be sentimental when profit rises by 80%, has already ordered champagne.
 

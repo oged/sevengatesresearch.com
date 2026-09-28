@@ -15,7 +15,7 @@ region: "Nigeria"
 ---
 A rights issue at ₦1.20. A licence cancellation weeks later. Shares frozen at ₦0.77. And now, inevitably, everybody has gone to court.
 
-The Lokoja Contrarian28 August 202615 min read
+The Lokoja Contrarian · 28 August 2026 · 15 min read
 
 There is an occupational hazard in the insurance business.
 

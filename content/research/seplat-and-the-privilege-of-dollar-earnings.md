@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 The currency hedge is real. So are operating concentration, fiscal terms and the danger of adventurous capital allocation.
 
-The Lokoja Contrarian31 July 202614 min read
+The Lokoja Contrarian · 31 July 2026 · 14 min read
 
-Seplat EnergyNGXDollar earningsMPNUANOH
+Seplat Energy · NGX · Dollar earnings · MPNU · ANOH
 
 In Nigeria, earning dollars while most costs and shareholders live in naira is not a small advantage. It is a seat beneath the only umbrella when the rain begins. Seplat owns that privilege, but privilege is not immunity.
 

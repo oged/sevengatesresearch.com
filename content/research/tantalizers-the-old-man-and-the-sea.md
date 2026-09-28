@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 The restaurants are recovering. The listed company is becoming something stranger, and the market is already pricing the prawns before they reach the jetty.
 
-The Lokoja Contrarian2 August 20269 min read
+The Lokoja Contrarian · 2 August 2026 · 9 min read
 
-TantalizersNGXRestaurantsFisheriesValuation
+Tantalizers · NGX · Restaurants · Fisheries · Valuation
 
 Eating is as old as man. Eating out is only slightly younger, although the first restaurant bill probably caused the first recorded family argument.
 

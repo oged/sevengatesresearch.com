@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 Cheap deposits, formidable capital and rare institutional restraint. GTCO is investible, but the market has finally noticed the quality.
 
-The Lokoja Contrarian2 August 20268 min read
+The Lokoja Contrarian · 2 August 2026 · 8 min read
 
-GTCONigerian banksNGXDividendsCompany analysis
+GTCO · Nigerian banks · NGX · Dividends · Company analysis
 
 **Investible. Accumulate on weakness. Do not chase.**
 

@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 VFD has access, ambition and a widening financial ecosystem. H1 2026 offers the first serious evidence that the enlarged capital base can earn, but the moat still needs proving.
 
-The Lokoja Contrarian2 August 2026 · Updated for H1 20267 min read
+The Lokoja Contrarian · 2 August 2026 · Updated for H1 2026 · 7 min read
 
-VFD GroupNGXCapital allocationDilutionH1 2026
+VFD Group · NGX · Capital allocation · Dilution · H1 2026
 
 VFD Group wants to be Berkshire Hathaway with Lagos characteristics. There are worse ambitions. There are also cheaper costumes.
 

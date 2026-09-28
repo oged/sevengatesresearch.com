@@ -118,6 +118,8 @@ Because we have our own version of Hormuz every Tuesday.
 
 ## 3. Enter Kasali
 
+**ILLUSTRATION.** *Kasali is an imaginary composite who recurs through this essay. His workshop scenes are illustrations of mechanism, not reported cases.*
+
 Suppose Kasali needs an imported alternator.
 
 The alternator becomes more expensive because the naira weakens. Shipping insurance rises. Diesel rises. The container arrives late. Kasali eventually raises his price from ₦80,000 to ₦110,000 because Kasali, unlike economists, cannot operate indefinitely at a negative gross margin.

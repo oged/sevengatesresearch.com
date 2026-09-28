@@ -203,7 +203,7 @@ This last line matters. An NGX PZ share cannot be exchanged for a fixed number o
 
 The **PZ Wilmar** sale is another source of confusion. The London group agreed to sell its separate 50% edible-oils joint-venture stake for **$70 million**, with expected net proceeds of about **$64 million** to reduce debt. That was not a sale of the NGX-listed company, nor $70 million payable to its minority shareholders. It is also distinct from PZ Nigeria’s own property-disposal gains. [The parent’s transaction announcement](https://www.pzcussons.com/news/sale-of-nigerian-joint-venture-and-trading-update/) makes the perimeter clear.
 
-A traveller at the Lokoja junction understands this instinctively. Two buses may carry the same family name on the windscreen. One terminates in Lagos. The other continues through Manchester, Sydney and Jakarta, with head-office luggage tied to the roof. The fares need not match.
+**ILLUSTRATION.** A traveller at the Lokoja junction understands this instinctively. Two buses may carry the same family name on the windscreen. One terminates in Lagos. The other continues through Manchester, Sydney and Jakarta, with head-office luggage tied to the roof. The fares need not match.
 
 * * *
 

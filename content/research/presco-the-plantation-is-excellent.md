@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 The business is integrated, scarce and prodigiously profitable. The shares are no longer a secret passed between sensible men beneath a palm tree.
 
-The Lokoja Contrarian10 August 20269 min read
+The Lokoja Contrarian · 10 August 2026 · 9 min read
 
-PrescoNGXPalm oilH1 2026Valuation
+Presco · NGX · Palm oil · H1 2026 · Valuation
 
 Presco is the sort of company Nigerian investors say they want: real assets, essential products, pricing power, hard-to-replicate plantations and cash arriving through the front door. Naturally, we noticed after the price had acquired a chauffeur.
 

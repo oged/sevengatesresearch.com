@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 Flour sits beneath everything from Agege bread to airborne wedding cakes. The demand is dependable. The shareholder economics still need kneading.
 
-The Lokoja Contrarian2 August 20266 min read
+The Lokoja Contrarian · 2 August 2026 · 6 min read
 
-HONYFLOURNGXConsumer staplesCash flow
+HONYFLOUR · NGX · Consumer staples · Cash flow
 
 Marie Antoinette almost certainly never said, “Let them eat cake.” Rousseau had written the line before the young Austrian princess even arrived in France. History, however, prefers a well-dressed villain to a footnote.
 

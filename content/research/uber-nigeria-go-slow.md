@@ -409,7 +409,7 @@ Driver counts across ride-hailing platforms should not be summed as unique peopl
 
 The argument linking the Nigeria exit, global layoffs and the autonomous-vehicle strategy is an inference about capital allocation, not a claim that Uber publicly said robotaxis caused the Nigeria exit.
 
-This essay does not change the standing Seven Gates rating on NYSE: UBER. It is a red-team essay, not a rated research note. The rating remains **WATCH**, pending, among other items, a full free-cash-flow reconstruction and first-hand driver interviews.
+This essay does not change the standing Seven Gates rating on NYSE: UBER. It is a contrarian essay, not a rated research note. The rating remains **WATCH**, pending, among other items, a full free-cash-flow reconstruction and first-hand driver interviews.
 
 **Horizon and review.** Six months from the $75.24 close of 1 September 2026. Review on Uber's third-quarter 2026 results, and no later than 30 November 2026. *Added 28 September 2026; the view and price levels are unchanged.*
 

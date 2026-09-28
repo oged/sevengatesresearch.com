@@ -15,7 +15,7 @@ region: "Nigeria"
 ---
 Pre-H1 update · Hold / watch · Reference price ₦156.10, 27 August 2026
 
-The Lokoja Contrarian28 August 20264 min read
+The Lokoja Contrarian · 28 August 2026 · 4 min read
 
 **Verdict: HOLD / WATCH. Preferred buying zone remains ₦125–₦135.**
 

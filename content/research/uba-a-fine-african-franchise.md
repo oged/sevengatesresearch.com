@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 Buy in stages, but do not mistake a low price for underlying strength.
 
-The Lokoja Contrarian2 August 20268 min read
+The Lokoja Contrarian · 2 August 2026 · 8 min read
 
-UBANigerian banksNGXPan-African bankingCompany analysis
+UBA · Nigerian banks · NGX · Pan-African banking · Company analysis
 
 **Preferred entry: ₦38–₦43. Base fair value: ₦60–₦66. Maximum portfolio weight: 5%.**
 

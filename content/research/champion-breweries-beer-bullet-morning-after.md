@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 The Uyo brewer bought itself a passport. Revenue has doubled, but the ordinary shareholder has not yet become richer.
 
-The Lokoja Contrarian2 August 202611 min read
+The Lokoja Contrarian · 2 August 2026 · 11 min read
 
-Champion BreweriesNGXBulletBeveragesValuation
+Champion Breweries · NGX · Bullet · Beverages · Valuation
 
 Yvonne Chaka Chaka’s *Umqombothi* has stayed with me since childhood. The song carries the rhythm of work: waking early, tending the fire and brewing something that will please the people.
 

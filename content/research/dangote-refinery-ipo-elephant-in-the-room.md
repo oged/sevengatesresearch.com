@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 A magnificent industrial asset, a complicated minority claim, and the small matter of price.
 
-The Lokoja Contrarian2 August 202618 min read
+The Lokoja Contrarian · 2 August 2026 · 18 min read
 
-Dangote RefineryIPONGXEnergyValuation
+Dangote Refinery · IPO · NGX · Energy · Valuation
 
 **Read this first.** This is not investment advice. It is a speculative valuation exercise based on public reporting and explicit analyst assumptions. At the date of writing, no public, SEC-approved prospectus, audited standalone IPO accounts or official offer price was available. Reports in late July said an IPO application had been submitted and a September listing was being pursued, but filing is not approval, and a reported timetable is not an offer document.
 

@@ -15,9 +15,9 @@ region: "Nigeria"
 ---
 MPNU adds scale, ANOH adds growth and leverage has collapsed. The market has noticed.
 
-The Lokoja Contrarian2 August 20263 min read
+The Lokoja Contrarian · 2 August 2026 · 3 min read
 
-Seplat EnergyNGXOil & gasDividendsValuation
+Seplat Energy · NGX · Oil & gas · Dividends · Valuation
 
 **At ₦11,364 / 576p, Seplat is no longer a neglected asset story. It is an execution story.**
 

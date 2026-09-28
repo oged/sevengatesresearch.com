@@ -16,7 +16,7 @@ heroAlt: "A man in a navy agbada and a woman in a gold lace gown and gele strugg
 heroCaption: "The position can be large. The exit can still be small. AI-generated editorial illustration."
 ---
 
-At 10:07 on a Tuesday morning, Kola Balogun owned ₦20 million of shares.
+**ILLUSTRATION.** At 10:07 on a Tuesday morning, Kola Balogun owned ₦20 million of shares.
 
 At 10:09, he discovered that owning ₦20 million of shares and having ₦20 million were not quite the same thing.
 

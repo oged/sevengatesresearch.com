@@ -14,7 +14,7 @@ ticker: "MACRO"
 region: "Nigeria"
 hero: "/images/research/project-gazelle-tomorrows-oil-todays-dollars/00-editorial-hero-84045fe4.png"
 ---
-The Lokoja Contrarian30 August 202624 min read
+The Lokoja Contrarian · 30 August 2026 · 24 min read
 
 ![A gazelle in agbada signs for present dollars against a long procession of future oil barrels while a refinery waits beside the water.](/images/research/project-gazelle-tomorrows-oil-todays-dollars/01-a-gazelle-in-agbada-signs-for-present-dollars-against-a-long-procession-of-future-oil-barr-48af70f4.png)
 

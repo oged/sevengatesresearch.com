@@ -186,6 +186,8 @@ The problem is upfront capital. A generator is expensive every day. A solar syst
 
 ### The farmer and the refinery
 
+**ILLUSTRATION.** *The exchange below is a composite, not a reported conversation.*
+
 “They said crude came down.”
 
 “So why is diesel still expensive?”
@@ -273,6 +275,6 @@ International Energy Agency, Oil Market Report, August 2026; US Energy Informati
 
 #### Tags
 
-RefiningDieselOilNigeriaAfricaGeopoliticsFreightAgriculture
+Refining · Diesel · Oil · Nigeria · Africa · Geopolitics · Freight · Agriculture
 
 <div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>
