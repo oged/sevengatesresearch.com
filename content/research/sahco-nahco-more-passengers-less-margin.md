@@ -59,6 +59,12 @@ Then somebody changed the script.
 
 SAHCO's PAT fell **52.7% to ₦3.85 billion**. NAHCO's rose **22.2% to ₦10.85 billion**. SAHCO administration consumed **28.6% of revenue** against **12.5%** at NAHCO; PAT margins were **16.7%** and **30.7%** respectively.
 
+The fall in SAHCO's profit was not mysterious. **Direct costs rose 63.1%, from ₦6.59 billion to ₦10.75 billion**, while revenue managed only 9.3%. Gross profit therefore fell 15.3%, and gross margin dropped from **68.7% to 53.3%**. Administrative expenses then rose **41.3%, from ₦4.66 billion to ₦6.58 billion**. By the time the aircraft reached the tax line, there was considerably less luggage in the hold.
+
+The equipment lines deserve particular attention. Repairs and running costs on income-generating equipment rose sharply, while SAHCO was also spending heavily on PPE. That can be read two ways. If H1 contained a concentrated maintenance catch-up, fleet renewal or other unusually heavy expenditure, then today's ugly income statement may be paying for **better equipment availability, reliability and operating capacity tomorrow**. In that case, some of the cost surge could prove temporary and the investment could help sustain future operations.
+
+But that is the favourable hypothesis, not yet an established fact. The accounts show the expenditure; they do not establish how much is genuinely one-off, how quickly it normalises, or what incremental revenue and cash return the new and refurbished equipment will earn. For shareholders, that distinction is rather important. A maintenance bill that buys several years of dependable service is an investment wearing an expense-account badge. A permanently higher cost base is something else entirely.
+
 | H1 2026 / current | SAHCO | NAHCO |
 | --- | ---: | ---: |
 | Revenue | ₦23.01bn **(+9.3%)** | ₦35.36bn **(+9.4%)** |
@@ -86,6 +92,8 @@ SAHCO also carried **₦53.78 billion of PPE**, more than twice NAHCO's **₦25.
 ![H1 2026 operating cash flow and PPE purchases](/images/research/sahco-nahco-more-passengers-less-margin/cash-capex.svg)
 
 *Figure 4. Similar operating cash generation, radically different equipment spend in H1 2026.*
+
+That is why the next few reporting periods matter more than the headline **−52.7%**. We would look for three things together: equipment running and repair costs retreating as a share of revenue, equipment availability and handling volumes improving, and operating cash flow beginning to outrun maintenance and replacement capex by a healthier margin. If those appear, H1 2026 may eventually look less like a deterioration in the franchise and more like an expensive visit to the workshop. If the costs remain elevated without a corresponding lift in throughput or cash generation, the kinder explanation becomes harder to sustain.
 
 The comparison is the argument. If passenger growth alone explained the economics, two handlers exposed to the same broad aviation boom should not produce such different profit outcomes. Revenue growth is virtually identical. Gross margin is identical. The divergence arrives below that line.
 
