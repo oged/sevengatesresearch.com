@@ -78,6 +78,8 @@ The familiar uncle, agbada, Mercedes, ceremonial moat, collection plate, diluted
 | "Why did the chicken cross the road?" (folk riddle) | Folk joke | chicken-republic-why-the-chicken-crossed-lagos |
 | "Theory will take you only so far." | Oppenheimer (2023 film) | ngx-liquidity-the-market-is-back-where-are-the-buyers |
 | "The time is out of joint." | Shakespeare, Hamlet, 1.5 | the-time-is-out-of-joint-bank-results |
+| "Predictability: Does the Flap of a Butterfly's Wings in Brazil Set off a Tornado in Texas?" (title written by Philip Merilees for Lorenz) | Edward Lorenz / Philip Merilees, AAAS, 1972 | the-butterfly-test-tokyo-lagos |
+| The shepherd boy who cried wolf (retold as a forecasting failure of calibration) | Aesop | the-butterfly-test-tokyo-lagos |
 
 ### Metaphor families in heavy use
 
@@ -126,6 +128,20 @@ Families used more than once within a 20-article window, from the backfill of 28
 - **Closing cadence:** two plain sentences, the second a callback to the stage: "a financial disclosure rather than a theatrical interval."
 - **Memorable phrases:** "Hamlet had the simpler production."; "the most valuable line in their notices is effectively: please wait."; "Give investors a clock they can read".
 - **Analogies and metaphor families:** theatre (backstage, production, stage manager, theatrical interval). This is the "theatre and applause" family, already used in ngx-liquidity, fcmb, stanbic-ibtc, the-naira and gtco, and it is the note's whole conceit. Published knowingly under standard 6.5 (the frame is the Hamlet line and the argument is about scheduling); do not reuse the family until it leaves the window. Clocks and calendars.
+
+### 2026-09-28 · the-butterfly-test-tokyo-lagos
+
+- **Type and rating:** Long macro essay with a published tripwire watch: does the Tokyo-to-Lagos transmission story hold. No rating. Review after the next BOJ and CBN policy decisions, or sooner if any tripwire reaches red.
+- **Entry route:** the barroom version of the story, told in full and admired, then "So before we believe it, we are going to try to kill it." A kill switch box states the falsification condition before the evidence.
+- **Narrative shape and ending:** seven-gate chain (Figure 1), Lorenz history and the butterfly's misuse, US curve, oil, Japan hedging arithmetic, credit as the lie detector, Nigeria's oil shield and spread test, household composite scene, eleven published tripwires (Figure 6), hedging discipline, then falsifiers and a three-level watch. Ends on the italic line "Until the other gates open, the rest is still a seagull."
+- **Hero concept:** AI-generated poker table in a smoky club: dogs in suits behind U.S. Treasury, Fed, CBN and BOJ name plates, oil barrels, globe, Brent $100+ board. Numbers on the boards are decorative and conflict with the article (Japan 0.10%, Nigeria 24.75%); the caption says so.
+- **Cultural guests:** Edward Lorenz and Philip Merilees; Ben Hunt (poker, "play the players"); Aesop (the shepherd boy). Scott Bessent, Kevin Warsh and Olayemi Cardoso as market players, not colour.
+- **Quotations:** Merilees's title for Lorenz's 1972 AAAS talk: "Predictability: Does the Flap of a Butterfly's Wings in Brazil Set off a Tornado in Texas?"; Lorenz's seagull quip (paraphrase, 1963).
+- **Historical episodes:** Lorenz's 1961 LGP-30 rounding run and the December 1972 AAAS title; Tokyo's worst day since 1987 (August 2024 yen carry unwind); Aesop's shepherd boy. No proverbs or biblical figures.
+- **Nigerian social types:** Makurdi lorry driver, Mile 12 cold-room trader and Ikorodu shopper in one composite (labelled ILLUSTRATION); Tokyo life-insurer portfolio manager in Marunouchi (a passing composite, not labelled).
+- **Closing cadence:** watch-panel paragraph that calls back the Lorenz warning and the 24 September credit move, then a one-line italic aphorism.
+- **Memorable phrases:** "Even chaos theory had a filing deadline."; "A chain is only as strong as the link you have actually checked."; "Markets supply stories without limit and facts on a tighter ration."; "The siren is sounding in the next district. It is not yet on our street."; "That is the point at which macroeconomics acquires a cash-flow statement."; "Crises rarely start with the most famous institution. They start with whoever has the nearest maturity date."; "Until the other gates open, the rest is still a seagull."
+- **Analogies and metaphor families:** weather warnings, amber and red, storm systems and showers, sirens and klaxons (new, this piece's whole conceit); poker and playing the players; a restaurant door ("shown to their table", "a much larger deposit at reception"); the interchapter device, second use after gdp-does-not-pay-the-coupon; gates and chain (the house's seven gates as a literal structure).
 
 ### 2026-09-28 · okomu-the-price-of-red-oil
 
