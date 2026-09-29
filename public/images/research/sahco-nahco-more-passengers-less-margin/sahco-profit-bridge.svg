@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#FBF8F1"/>
+<text x="72" y="70" font-family="Georgia,serif" font-size="34" font-weight="700" fill="#1A1F24">SAHCO: where the H1 profit went</text>
+<text x="72" y="108" font-family="Arial,sans-serif" font-size="18" fill="#46504F">H1 2025 to H1 2026 · ₦bn · approximate bridge</text>
+<line x1="72" y1="545" x2="1125" y2="545" stroke="#C6BFAE" stroke-width="2"/>
+<!-- start -->
+<rect x="92" y="232" width="145" height="313" fill="#1A1F24"/>
+<text x="164" y="210" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#1A1F24">₦8.14bn</text>
+<text x="164" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#46504F">H1 2025 PAT</text>
+<!-- revenue -->
+<rect x="290" y="157" width="145" height="75" fill="#A67C3D"/>
+<text x="362" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#A67C3D">+₦1.95bn</text>
+<text x="362" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#46504F">Revenue</text>
+<!-- direct -->
+<rect x="488" y="157" width="145" height="160" fill="#46160F"/>
+<text x="560" y="342" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#46160F">−₦4.16bn</text>
+<text x="560" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#46504F">Direct costs</text>
+<!-- admin -->
+<rect x="686" y="317" width="145" height="74" fill="#46160F"/>
+<text x="758" y="416" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#46160F">−₦1.92bn</text>
+<text x="758" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#46504F">Administration</text>
+<!-- residual -->
+<rect x="884" y="391" width="145" height="6" fill="#A67C3D"/>
+<text x="956" y="378" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#A67C3D">≈−₦0.16bn</text>
+<text x="956" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#46504F">Other, finance &amp; tax</text>
+<!-- end -->
+<rect x="1054" y="397" width="90" height="148" fill="#1A1F24"/>
+<text x="1099" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#1A1F24">₦3.85bn</text>
+<text x="1099" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#46504F">H1 2026 PAT</text>
+<text x="72" y="635" font-family="Arial,sans-serif" font-size="14" fill="#46504F">Source: SAHCO H1 2026 filing; Seven Gates Research calculations. Components rounded; residual includes other operating income, finance and tax movements.</text>
+</svg>
