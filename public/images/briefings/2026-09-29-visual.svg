@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="0 0 800 760" role="img" aria-labelledby="title desc">
+  <title id="title">How the Middle East oil estimate changed</title>
+  <desc id="desc">A factual revision chart shows Kpler's initial September Middle East crude export estimate of 12.8 million barrels per day, an updated estimate of 16.328 million, and the February baseline of 19.513 million. The updated shortfall is 3.185 million barrels per day.</desc>
+  <rect width="800" height="760" fill="#172521"/>
+  <rect x="24" y="24" width="752" height="712" rx="5" fill="#F4F0E6"/>
+
+  <text x="58" y="72" fill="#8A7042" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">DATA REVISION · 28 TO 29 SEPTEMBER</text>
+  <text x="58" y="121" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700">The oil hole got smaller</text>
+  <text x="58" y="155" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="17">A live shipping estimate changed the size of the shortfall.</text>
+
+  <g transform="translate(58 203)">
+    <text x="0" y="20" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">MIDDLE EAST CRUDE EXPORTS · MILLION BARRELS PER DAY</text>
+
+    <text x="0" y="87" fill="#46524E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">INITIAL SEPT.</text>
+    <rect x="126" y="58" width="346" height="42" rx="3" fill="#B9B2A3"/>
+    <text x="490" y="87" fill="#46524E" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">12.8</text>
+
+    <text x="0" y="162" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">UPDATED SEPT.</text>
+    <rect x="126" y="133" width="441" height="42" rx="3" fill="#8A7042"/>
+    <text x="585" y="162" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">16.328</text>
+
+    <text x="0" y="237" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">FEB. BASELINE</text>
+    <rect x="126" y="208" width="527" height="42" rx="3" fill="#172521"/>
+    <text x="671" y="237" fill="#172521" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">19.513</text>
+
+    <text x="126" y="282" fill="#6B736F" font-family="Arial, Helvetica, sans-serif" font-size="12">0</text>
+    <text x="390" y="282" text-anchor="middle" fill="#6B736F" font-family="Arial, Helvetica, sans-serif" font-size="12">10</text>
+    <text x="653" y="282" text-anchor="end" fill="#6B736F" font-family="Arial, Helvetica, sans-serif" font-size="12">20</text>
+  </g>
+
+  <g transform="translate(58 510)">
+    <rect width="684" height="128" rx="4" fill="#172521"/>
+    <text x="24" y="34" fill="#D7C89F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">THE SHORTFALL WAS REVISED</text>
+    <text x="24" y="88" fill="#D8D2C5" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-weight="700">6.0m</text>
+    <text x="132" y="88" fill="#B19A6C" font-family="Arial, Helvetica, sans-serif" font-size="28">→</text>
+    <text x="185" y="88" fill="#F4F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-weight="700">3.185m bpd</text>
+    <text x="24" y="111" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="13">Initial published comparison</text>
+    <text x="185" y="111" fill="#D8D2C5" font-family="Arial, Helvetica, sans-serif" font-size="13">Updated gap versus February</text>
+  </g>
+
+  <g transform="translate(58 666)">
+    <circle cx="9" cy="9" r="7" fill="#8A7042"/>
+    <text x="28" y="15" fill="#172521" font-family="Arial, Helvetica, sans-serif" font-size="14">Updated September flows are still preliminary.</text>
+  </g>
+
+  <text x="58" y="716" fill="#6F5A35" font-family="Arial, Helvetica, sans-serif" font-size="12">KPLER DATA VIA REUTERS · 28–29 SEP 2026 · SEVEN GATES ANALYSIS</text>
+</svg>
