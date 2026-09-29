@@ -53,7 +53,7 @@ For ground handlers, more traffic should mean more aircraft turns, bags, cargo a
 
 ## 02 · Same runway. Very different income statements.
 
-SAHCO's H1 2026 revenue rose **9.3% to ₦23.01 billion**. NAHCO's rose **9.4% to ₦35.36 billion**. Their gross margins were both **53.3%**. So far, twins.
+SAHCO's H1 2026 revenue rose **9.3% to ₦23.01 billion**. NAHCO's rose **9.4% to ₦35.36 billion**. Both landed at a **53.3% gross margin**. NAHCO arrived there rather more calmly. SAHCO came down from **68.7%** a year earlier.
 
 Then somebody changed the script.
 
@@ -64,6 +64,30 @@ The fall in SAHCO's profit was not mysterious. **Direct costs rose 63.1%, from �
 The equipment lines deserve particular attention. Repairs and running costs on income-generating equipment rose sharply, while SAHCO was also spending heavily on PPE. That can be read two ways. If H1 contained a concentrated maintenance catch-up, fleet renewal or other unusually heavy expenditure, then today's ugly income statement may be paying for **better equipment availability, reliability and operating capacity tomorrow**. In that case, some of the cost surge could prove temporary and the investment could help sustain future operations.
 
 But that is the favourable hypothesis, not yet an established fact. The accounts show the expenditure; they do not establish how much is genuinely one-off, how quickly it normalises, or what incremental revenue and cash return the new and refurbished equipment will earn. For shareholders, that distinction is rather important. A maintenance bill that buys several years of dependable service is an investment wearing an expense-account badge. A permanently higher cost base is something else entirely.
+
+There is, however, an awkward fact for the neat one-off story: **the equipment bill was already climbing in 2025**. Equipment running costs rose from about **₦1.23 billion in 2024 to ₦2.55 billion in 2025**, while repairs rose from **₦2.26 billion to ₦4.40 billion**. This is not proof of a permanently higher cost base, but it means H1 2026 did not arrive from a clear blue sky.
+
+Nor is the capex an abstraction. SAHCO added roughly **₦11.0 billion** of PPE in 2025, of which about **₦8.9 billion was plant and machinery**. In early 2026 it disclosed a new **Goldhofer F300 pushback tractor**, capable of handling most wide-body aircraft, and **five Guinault ground-power units**. The stated purpose was straightforward: improve turnaround, reliability and service capacity across the network. That is exactly what shareholders should want the money to buy. The next question is whether the income statement eventually notices.
+
+![SAHCO H1 2025 to H1 2026 profit bridge](/images/research/sahco-nahco-more-passengers-less-margin/sahco-profit-bridge.svg)
+
+*Figure 2. SAHCO H1 profit bridge. Revenue growth added roughly ₦2.0bn, but the increase in direct costs absorbed about ₦4.2bn and higher administration another ₦1.9bn. Other operating, finance and tax movements make up the remaining bridge. Source: SAHCO H1 2026 filing; Seven Gates calculations.*
+
+### The useful bit of history
+
+One weak half-year can make a perfectly decent company look as though somebody has driven a baggage tractor through the accounts. So the longer run matters.
+
+| SAHCO | FY 2023 | FY 2024 | FY 2025 | H1 2026 |
+| --- | ---: | ---: | ---: | ---: |
+| Revenue | ₦16.55bn | ₦28.94bn | ₦44.46bn | ₦23.01bn |
+| Gross margin | 49.5% | 56.6% | 56.9% | **53.3%** |
+| PAT | ₦1.96bn | ₦4.83bn | ₦9.74bn | ₦3.85bn |
+| PAT margin | 11.8% | 16.7% | 21.9% | **16.7%** |
+| PPE additions | — | ₦3.27bn | **₦11.02bn** | ₦6.76bn |
+
+*Table 1. The important context is not that SAHCO suddenly became a bad business. Revenue and profitability improved sharply through 2025. The question is whether the recent investment cycle restores that trajectory or merely makes it more expensive to maintain.*
+
+The service mix helps explain what the machinery is there to do. In 2025, about **71.6% of revenue came from passenger handling and related services**, **23.5% from import cargo** and **4.9% from export cargo**. This is therefore not simply a bet on more people buying Lagos-Abuja tickets. Aircraft turns, cargo movements, wide-body capability and the reliability of the kit on the ramp all matter.
 
 | H1 2026 / current | SAHCO | NAHCO |
 | --- | ---: | ---: |
@@ -77,21 +101,21 @@ But that is the favourable hypothesis, not yet an established fact. The accounts
 | PPE balance | ₦53.78bn | ₦25.50bn |
 | Trailing P/E | 42.5× | 17.4× |
 
-*Table 1. Same broad aviation environment, sharply different economics. Source: SAHCO and NAHCO H1 2026 filings; Seven Gates calculations.*
+*Table 2. Same broad aviation environment, sharply different economics. Source: SAHCO and NAHCO H1 2026 filings; Seven Gates calculations.*
 
 ![H1 2026 revenue and PAT growth comparison](/images/research/sahco-nahco-more-passengers-less-margin/h1-growth.svg)
 
-*Figure 2. Revenue growth is almost identical. Profit growth is emphatically not.*
+*Figure 3. Revenue growth is almost identical. Profit growth is emphatically not.*
 
 ![H1 2026 margin comparison](/images/research/sahco-nahco-more-passengers-less-margin/h1-margins.svg)
 
-*Figure 3. Same gross margin; very different overhead absorption and PAT margin.*
+*Figure 4. Same current gross margin; very different overhead absorption and PAT margin.*
 
 SAHCO also carried **₦53.78 billion of PPE**, more than twice NAHCO's **₦25.50 billion**. It generated ₦7.97 billion of operating cash and spent ₦6.76 billion on PPE. NAHCO generated ₦7.63 billion and spent ₦0.66 billion. Apparently some airport machinery also travels business class.
 
 ![H1 2026 operating cash flow and PPE purchases](/images/research/sahco-nahco-more-passengers-less-margin/cash-capex.svg)
 
-*Figure 4. Similar operating cash generation, radically different equipment spend in H1 2026.*
+*Figure 5. Similar operating cash generation, radically different equipment spend in H1 2026.*
 
 That is why the next few reporting periods matter more than the headline **−52.7%**. We would look for three things together: equipment running and repair costs retreating as a share of revenue, equipment availability and handling volumes improving, and operating cash flow beginning to outrun maintenance and replacement capex by a healthier margin. If those appear, H1 2026 may eventually look less like a deterioration in the franchise and more like an expensive visit to the workshop. If the costs remain elevated without a corresponding lift in throughput or cash generation, the kinder explanation becomes harder to sustain.
 
@@ -105,18 +129,18 @@ From the 2021 base to 25 September 2026, SAHCO's price return is roughly **+3,42
 
 ![SAHCO five-year indexed NGN and USD price return](/images/research/sahco-nahco-more-passengers-less-margin/sahco-ngn-usd.svg)
 
-*Figure 5A. SAHCO price return, indexed to 100 at the 2021 observation. Annual adjusted closes: ₦4.86, ₦4.69, ₦24.54, ₦32.86, ₦87.77 and ₦171.20.*
+*Figure 6A. SAHCO price return, indexed to 100 at the 2021 observation. Annual adjusted closes: ₦4.86, ₦4.69, ₦24.54, ₦32.86, ₦87.77 and ₦171.20.*
 
 ![NAHCO five-year indexed NGN and USD price return](/images/research/sahco-nahco-more-passengers-less-margin/nahco-ngn-usd.svg)
 
-*Figure 5B. NAHCO price return, indexed to 100 at the 2021 observation. Annual adjusted closes: ₦1.98, ₦4.27, ₦18.63, ₦36.50, ₦92.21 and ₦152.00.*
+*Figure 6B. NAHCO price return, indexed to 100 at the 2021 observation. Annual adjusted closes: ₦1.98, ₦4.27, ₦18.63, ₦36.50, ₦92.21 and ₦152.00.*
 
 | Five-year price return* | NGN | USD |
 | --- | ---: | ---: |
 | SAHCO | **+3,423%** | **+992%** |
 | NAHCO | **+7,577%** | **+2,280%** |
 
-*Table 2. Indexed from the 2021 observation to 25 September 2026. Price return, not total shareholder return; dividends excluded. USD returns translate each equity observation at the contemporaneous NGN/USD rate rather than today's FX rate.*
+*Table 3. Indexed from the 2021 observation to 25 September 2026. Price return, not total shareholder return; dividends excluded. USD returns translate each equity observation at the contemporaneous NGN/USD rate rather than today's FX rate.*
 
 | FX observation | NGN per USD |
 | --- | ---: |
@@ -127,7 +151,7 @@ From the 2021 base to 25 September 2026, SAHCO's price return is roughly **+3,42
 | 31 Dec 2025 | 1,446.19 |
 | 25 Sep 2026 | 1,329.01 |
 
-*Table 3. FX observations used for the USD translation. The series is deliberately date-matched rather than converting the entire history at the latest rate.*
+*Table 4. FX observations used for the USD translation. The series is deliberately date-matched rather than converting the entire history at the latest rate.*
 
 For anyone measuring wealth in dollars, school fees in sterling or retirement somewhere the harmattan cannot reach, that second column matters. But it does not overturn the result. FX ate a substantial portion of the optical naira return. It did not eat the investment case whole.
 
@@ -143,7 +167,21 @@ At 25 September, SAHCO at **₦171.20** traded around **42.5× reconstructed tra
 | H1 PAT margin | 16.7% | 30.7% |
 | Five-year USD price return | +992% | +2,280% |
 
-*Table 4. Market data dated 25 September 2026; financial metrics from H1 2026 filings and reconstructed trailing fundamentals.*
+*Table 5. Market data dated 25 September 2026; financial metrics from H1 2026 filings and reconstructed trailing fundamentals.*
+
+The trailing multiple is useful, but it is also looking directly into the trough. If the present cost bulge proves temporary, **42.5×** will exaggerate how expensive SAHCO is on normal earnings. A simple normalisation exercise shows how much has to go right.
+
+| Illustrative SAHCO normalisation | 20% PAT margin | 25% PAT margin | 30% PAT margin |
+| --- | ---: | ---: | ---: |
+| Annualised H1 revenue base | ₦46.0bn | ₦46.0bn | ₦46.0bn |
+| Implied PAT | ₦9.2bn | ₦11.5bn | ₦13.8bn |
+| P/E at ₦231.7bn market cap | **25.2×** | **20.1×** | **16.8×** |
+
+*Table 6. Illustration, not a forecast. Revenue simply annualises H1 2026; the margins are scenarios. No heroic revenue growth has been smuggled into the exercise.*
+
+That table is the argument in miniature. SAHCO does not need magic for today's valuation to look less alarming. It needs the expensive equipment to work, the repair bill to settle down and margins to recover. At a 25% net margin, the same revenue base would support roughly ₦11.5 billion of annual earnings and put the current market value near 20× earnings. At 30%, it falls below 17×. If margins remain around H1's 16.7%, the market is asking rather more of the future.
+
+There is one accounting wrinkle worth keeping in view. SAHCO recorded a substantial **PPE revaluation gain in 2025**, so a casual comparison of book assets or textbook ROCE with NAHCO can flatter or punish either company for accounting presentation rather than operating performance. We prefer the harder test: what happens to **cash generated per naira of continuing equipment spend** as this investment cycle matures.
 
 The Nigerian passenger is flying more. SAHCO is earning more revenue. NAHCO is earning considerably more profit. These statements are not contradictory. They are the point.
 
@@ -155,6 +193,6 @@ The planes will keep landing. The passengers will keep complaining. The bags, by
 
 ### Sources and methodology
 
-SAHCO H1 2026 NGX filing; NAHCO H1 2026 company filing; FAAN statements reported by Punch, Nairametrics and Vanguard; OAG September 2026 scheduled-capacity data; NCAA/Air Peace disruption reporting; S&P Global Market Intelligence via StockAnalysis; historical USD/NGN observations matched to equity dates. Annual adjusted closes used in the five-year charts are from S&P Global Market Intelligence via StockAnalysis. FX observations: 411.95, 448.08, 896.64, 1,549.18, 1,446.19 and 1,329.01 NGN/USD at the matched dates. The FAAN passenger totals cited above are inconsistent across releases; Seven Gates does not silently reconcile them.
+SAHCO H1 2026 NGX filing; SAHCO FY 2024 and FY 2025 financial statements and company equipment disclosures; NAHCO H1 2026 company filing; FAAN statements reported by Punch, Nairametrics and Vanguard; OAG September 2026 scheduled-capacity data; NCAA/Air Peace disruption reporting; S&P Global Market Intelligence via StockAnalysis; historical USD/NGN observations matched to equity dates. Annual adjusted closes used in the five-year charts are from S&P Global Market Intelligence via StockAnalysis. FX observations: 411.95, 448.08, 896.64, 1,549.18, 1,446.19 and 1,329.01 NGN/USD at the matched dates. The FAAN passenger totals cited above are inconsistent across releases; Seven Gates does not silently reconcile them.
 
 *Seven Gates Research is independent research, not investment advice. Figures are reconstructed from public disclosures and may contain rounding differences. Do your own work before committing capital.*
