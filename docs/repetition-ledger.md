@@ -77,6 +77,7 @@ The familiar uncle, agbada, Mercedes, ceremonial moat, collection plate, diluted
 | "Straits Taylor Rule"; "You can't 25bp a chokepoint."; "r* isn't neutral. It's SOH risk premium, and We set it." | Mohammad Bagher Ghalibaf, X post, 2026 | the-brake-the-accelerator-and-the-rat |
 | "Why did the chicken cross the road?" (folk riddle) | Folk joke | chicken-republic-why-the-chicken-crossed-lagos |
 | "Theory will take you only so far." | Oppenheimer (2023 film) | ngx-liquidity-the-market-is-back-where-are-the-buyers |
+| "The time is out of joint." | Shakespeare, Hamlet, 1.5 | the-time-is-out-of-joint-bank-results |
 
 ### Metaphor families in heavy use
 
@@ -89,7 +90,7 @@ Families used more than once within a 20-article window, from the backfill of 28
 - Medicine, patients and diagnosis: the-brake (5), ngx-group-shovel-seller (6), mtn-nigeria (18, "patient on a drip"), first-holdco (23, intensive care), tantalizers (27, coughing).
 - Magic tricks and disappearing acts: fcmb-the-n14-share (11), nahco-the-bags-still-have-to-move (12), pz-nigeria (13).
 - Hostages and kidnapping: the-brake (5, "r* has been kidnapped"), the-middle-of-the-barrel-has-taken-hostages (20), gtco (30, "hostage to the currency").
-- Theatre and applause: ngx-liquidity (3), fcmb (11, "a screwdriver, not applause"), stanbic-ibtc (17, "earned its applause"), the-naira (26), gtco (30).
+- Theatre and applause: the-time-is-out-of-joint-bank-results (29 September, whole conceit), ngx-liquidity (3), fcmb (11, "a screwdriver, not applause"), stanbic-ibtc (17, "earned its applause"), the-naira (26), gtco (30).
 - Rent and landlords for earnings: ngx-group-shovel-seller (6, "charging rent on a language"), nahco (12, receivables "begin charging rent"), mtn-nigeria (18, tenant and landlord), cbn-payment-data (19).
 - Moats, castles and drawbridges: ngx-group-shovel-seller (6), dangote-refinery-ipo-three-valuations (7), nahco (12), mtn-nigeria (18, "storm the castle"), cbn-payment-data (19), presco (22), vfd-group (24, castle), honyflour (29, ditch with crocodiles), gtco (30), dangote-refinery-ipo-elephant (31, drawbridge), champion-breweries (32). Moat is working vocabulary; the castle and siege imagery is the repeat.
 - Dilution as a shared meal, pot or drink (the retired diluted-drink family in new nouns): zenith-bank (8, new owners at the dinner table), vfd-group (24, diluted Americano), gtco (30, cooking pot and soup), champion-breweries (32, calabash and spoon), seplat-and-the-privilege (33, "thin soup").
@@ -111,6 +112,20 @@ Families used more than once within a 20-article window, from the backfill of 28
 - "The price has heard / read the news": seplat-the-price-has-heard-the-news (title), presco ("The price, regrettably, has read the same annual report.").
 
 ## Entries
+
+### 2026-09-29 · the-time-is-out-of-joint-bank-results
+
+- **Type and rating:** Short market-structure note on delayed H1 2026 bank results. No rating.
+- **Entry route:** a borrowed line of Hamlet: the time is out of joint, then six reports backstage and a calendar whose dates keep changing.
+- **Narrative shape and ending:** deadlines and extensions, London and US comparators (Mobico, Naked Wines, FCA DTR 4.2, Form 12b-25), Figure 1 and Table 1, then a disclosure proposal. Ends by calling the season a "theatrical interval" that a readable clock could turn into disclosure.
+- **Hero concept:** AI-generated stage: lectern in a spotlight, brass clock and shedding calendar, six sealed report volumes, Lagos skyline behind.
+- **Cultural guests:** Hamlet (second Shakespeare use in the window); Brother Jero (Soyinka).
+- **Quotations:** Hamlet, "The time is out of joint."
+- **Historical episodes:** Mobico results delay, February 2024; Naked Wines results delay, 2023.
+- **Nigerian social types:** the portfolio manager with "less patience" (a passing type, not a scene).
+- **Closing cadence:** two plain sentences, the second a callback to the stage: "a financial disclosure rather than a theatrical interval."
+- **Memorable phrases:** "Hamlet had the simpler production."; "the most valuable line in their notices is effectively: please wait."; "Give investors a clock they can read".
+- **Analogies and metaphor families:** theatre (backstage, production, stage manager, theatrical interval). This is the "theatre and applause" family, already used in ngx-liquidity, fcmb, stanbic-ibtc, the-naira and gtco, and it is the note's whole conceit. Published knowingly under standard 6.5 (the frame is the Hamlet line and the argument is about scheduling); do not reuse the family until it leaves the window. Clocks and calendars.
 
 ### 2026-09-28 · okomu-the-price-of-red-oil
 
