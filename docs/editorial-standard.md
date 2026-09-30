@@ -1,13 +1,15 @@
 ---
 title: "Master Editorial, Research, Visual and Publishing Standard"
-version: "v0.5"
+version: "v0.6"
 status: "Working master"
 house_voice: "The Lokoja Contrarian"
 ---
 
-# Seven Gates Research: Master Editorial, Research, Visual and Publishing Standard (v0.5)
+# Seven Gates Research: Master Editorial, Research, Visual and Publishing Standard (v0.6)
 
 Working master. Default model: Dangote Refinery IPO format. Operating maxim: strong opinions, loosely held; capital, tightly held. Primary test: fine grammar, where is the cash?
+
+**What changed in v0.6.** The repetition system now retires recurring rhetorical structures and joke architectures, not only repeated nouns or exact phrases. The permanent register now blocks the distinction-as-punchline construction; anthropomorphic processions of costs, constraints or institutions; party, dinner, chair and champagne imagery for financial frictions; plumbing shorthand for market structure; mock prize or Nobel jokes; free-money-on-the-pavement and crossing-the-road arbitrage imagery; coffee-as-industrial-restart gags; compressed technology-history escalations ending in Bloomberg or a modern terminal; by-morning-the-trade-disappeared imagery; routine personification of the market as a knowing or irritated character; and the first-calculation/second-calculation paired epigram. G8 and the freshness annex now require a structural check against the permanent retired register. The commissioning prompt is updated accordingly. Necessary technical uses of words such as distinguish, market, settlement, custody and conversion are unaffected. New or changed in v0.6: 3.2, 5.4, 6.4, 6.5, 13, 18, 19 and 20.
 
 **What changed in v0.5.** Two documents both circulated as v0.4 in September 2026: this standard, and a separate consolidation that added a publication ladder, word-count ranges, a mandatory five-year share-price chart, stricter chart production rules, the retirement of "red team" from public copy, Daily Brief and Marcus Daily limits, and final-output QA. v0.5 merges them. Where they overlapped, the stronger rule was kept once. Procedures that already live in skills (the Daily Brief publishing procedure in the `daily-brief` skill, the long-form rewrite devices in `seven-gates-longform`) are referenced rather than repeated. New or changed in v0.5: 2.1, 3.2, 4.1, 6, 6.5, 8.6, 9, 9.1 to 9.3, 10.6, 10.9, 10.10, section 12 (rebuilt around the publication ladder), 13, 14, 18, 19 (G14 to G16) and 20.
 
@@ -108,7 +110,7 @@ The Etruscan gateway mark encodes seven analytical gates:
 
 These are research disciplines, not seven compulsory article headings. The argument decides the structure. A short piece may touch only the gates that matter. A full company underwrite should normally test all seven somewhere in the work.
 
-A second distinction runs through all investment research: asset, business, management, balance sheet, security. Never collapse them into one judgement. A wonderful asset can sit inside a poor business model; a wonderful business can have weak management; a wonderful company can carry a dangerous balance sheet; and all four can be attractive while the security is still too expensive.
+A second discipline runs through all investment research: asset, business, management, balance sheet, security. Never collapse them into one judgement. A wonderful asset can sit inside a poor business model; a wonderful business can have weak management; a wonderful company can carry a dangerous balance sheet; and all four can be attractive while the security is still too expensive.
 
 ### 3.3 Brand colours
 
@@ -424,7 +426,7 @@ The opening, middle and ending should not all perform at the same emotional pitc
 
 Seven Gates may use high-register or unusual language when it is the most exact or most pleasurable expression available. Words with altitude are welcome. Pomposity is not.
 
-Elevated diction earns its place when it compresses an idea, sharpens a distinction, fixes a rhythm or rescues a sentence from the dead vocabulary of investor relations. It fails when it advertises education, dresses a weak argument or obscures a simple point.
+Elevated diction earns its place when it compresses an idea, sharpens a difference, fixes a rhythm or rescues a sentence from the dead vocabulary of investor relations. It fails when it advertises education, dresses a weak argument or obscures a simple point.
 
 Prefer the ordinary precise word most of the time. Let the uncommon word arrive, do its work and leave. If the reader notices the vocabulary more than the idea, the sentence has overperformed.
 
@@ -596,17 +598,33 @@ Twice. At workflow step 8, when the article signature is chosen, and at step 10,
 
 An entry that is not written down did not happen, and the drafting workflow will reproduce it within a year.
 
-#### Retired from routine use
+#### Permanent retired register
 
-The familiar uncle, agbada, Mercedes, ceremonial moat, collection plate, diluted drink, generic Lagos traffic and wedding-list families.
+Retirement applies to the construction, scene and metaphor family, not only to the exact wording. Changing the noun, city, drink, vehicle or celebrity does not make the device new. Necessary technical language remains available when it is the clearest term.
 
-Changing the noun does not make the joke new.
+Already retired: the familiar uncle, agbada, Mercedes, ceremonial moat, collection plate, diluted drink, generic Lagos traffic and wedding-list families.
+
+Retired from 30 September 2026:
+
+- the rhetorical **distinction** construction used as a flourish or punchline, including "the distinction matters", "one distinction remains" and variants. Technical verbs such as "distinguish reported from adjusted earnings" remain valid;
+- anthropomorphic processions in which FX, tax, settlement, custody, regulation, stock borrow, fees or other constraints enter a scene as characters;
+- the related party, dinner, chair, guest, champagne, bar-tab and social-event family for explaining financial costs, dilution or market friction;
+- **plumbing** as routine shorthand for settlement, custody, market access, convertibility or market structure. Name the actual mechanism instead;
+- mock awards, medals, trophies or Nobel-Prize jokes used to deflate an ordinary observation;
+- "free money" lying on pavements, streets or roads, and arbitrage jokes built around crossing the road;
+- coffee, caffeine or another stimulant described as restarting machinery, an industrial plant, a control room or similar equipment;
+- compressed history-of-technology jokes that run from an old transport or communications technology to Bloomberg, a trading terminal or another modern device;
+- night-out or "by morning the arbitrage had disappeared" imagery;
+- routine personification of **the market** as a knowing, irritated, amused or party-spoiling character. Literal formulations such as "the market price implies" or "investors appear to expect" are preferred;
+- the paired epigram in which "the first calculation" produces one thing and "the second calculation" produces another. Parallel sentences remain available when they arise naturally, but this specific punchline architecture is retired.
+
+Retirement is permanent until an editor explicitly restores a construction in this file. Ageing out of the rolling window does not restore it.
 
 A line should arrive, perform and retire.
 
 ### 6.5 Phrase fingerprint and quotation rotation
 
-The ledger tracks more than anecdotes, because a house also develops verbal tics. Before publication, compare the draft against the rolling window and the permanent register. Flag:
+The ledger tracks more than anecdotes, because a house also develops verbal tics. Before publication, compare the draft against the rolling window and the permanent retired register. The audit is structural as well as lexical: a banned device remains banned when its nouns are changed. Flag:
 
 - exact or near-exact memorable phrases of roughly six words or more;
 - recurring opening cadences;
@@ -1271,7 +1289,7 @@ excerpt: "[Clear research-card summary]"
 hero_image: "[Verified asset path]"
 hero_alt: "[Specific description]"
 status: "draft"
-template_version: "master-v0.5"
+template_version: "master-v0.6"
 ```
 
 Never publish bracketed placeholders.
@@ -1456,7 +1474,7 @@ A no is a stop, not a discussion.
 - **G5.** Is the asset separated from the security?
 - **G6.** Is there a clear Seven Gates judgement, with an action where the piece warrants one?
 - **G7.** Where a rating is given, are horizon, fair value, entry or walk-away price and review date all present?
-- **G8.** Has the repetition ledger been checked against the file, and this article's row written?
+- **G8.** Has the repetition ledger and permanent retired register been checked structurally as well as lexically, and has this article's row been written?
 - **G9.** Is the strongest counterargument presented fairly, with disconfirming evidence that would change the view?
 - **G10.** Are the major assumptions stated and false precision avoided?
 - **G11.** Does every chart plot real data, with axes, units, periods and a compact source note?
@@ -1488,6 +1506,7 @@ A no is a stop, not a discussion.
 - **F6.** Is Seven Gates recognisable through judgement and standards without the prose feeling templated?
 - **F7.** Is the piece as short as the argument permits, with repetition and decorative background removed?
 - **F8.** Where elevated or unusual vocabulary appears, is it exact and unobtrusive rather than ornamental?
+- **F9.** Does the draft avoid every construction in the permanent retired register, including variants that merely change the nouns, setting or cultural props?
 
 #### Research and investment
 
@@ -1520,7 +1539,7 @@ If an important answer is no, the piece is not finished.
 Use this when commissioning a Seven Gates article:
 
 > **COMMISSIONING PROMPT**
-> Produce a publication-ready Seven Gates Research article using the Master Editorial, Research, Visual and Publishing Standard. Use the Dangote Refinery IPO as the default publication architecture, not as a source of recycled jokes or metaphors. Write in the sophisticated Lokoja Contrarian voice: judgement-led, technically exact, sceptical, culturally literate, dryly funny when earned, serious when the subject requires it, and explicit about uncertainty. Keep the Seven Gates identity consistent but vary the article's signature. Opening architecture, cadence, humour density, cultural register, section rhythm and ending should answer to the material and should not resemble recent pieces; check the repetition ledger before drafting and write the article's row before publishing. Choose the publication mode (Short 400 to 900 words, Standard 900 to 1,800, Long 1,800 to 4,000 or more) from the material, not from ambition. Be concise. Use occasional high-register or unusual words when they are exact and add flavour, but never let vocabulary become an exhibition. Begin with a strong editorial hero concept, usually AI-generated, then an At a Glance block and a compelling opening. Put the strongest objection early. Explain the business and mechanism before celebrating the share price. Separate asset, business, management, balance sheet and security. Reconcile earnings to cash. Test inflation, FX, dilution, maintenance capital, debt, governance and what the current price assumes. Use bear, base and bull cases where material and state what would falsify the preferred case. Where a rating is given, state the horizon, the reference price date and the review date, and if this changes a previous view, say what changed and which assumption failed. Charts and tables are strongly preferred when they materially improve the argument. Use warm ivory canvas, dark navy or Ink framing, brass accents, green only for positive meaning, red only for negative meaning, boxed panels, numbered insight headlines and compact source notes. Use real plotted data rebuilt in the Seven Gates system, never AI-generated charts or vendor screenshots, and include the mandatory five-year share-price chart for every principal listed stock. Verify all current numbers and dates from dated sources, distinguish fact, management claim, estimate, reconstruction, inference and opinion, and never expose proprietary internal scoring, framework mechanics or internal terms such as red team in public copy. Avoid em dashes, AI filler, recycled anecdotes and the construction “Company X is no longer just a…”. End with an investable view, disconfirming evidence, sources, methodology where needed and the Seven Gates disclaimer.
+> Produce a publication-ready Seven Gates Research article using the Master Editorial, Research, Visual and Publishing Standard. Use the Dangote Refinery IPO as the default publication architecture, not as a source of recycled jokes or metaphors. Write in the sophisticated Lokoja Contrarian voice: judgement-led, technically exact, sceptical, culturally literate, dryly funny when earned, serious when the subject requires it, and explicit about uncertainty. Keep the Seven Gates identity consistent but vary the article's signature. Opening architecture, cadence, humour density, cultural register, section rhythm and ending should answer to the material and should not resemble recent pieces; check the repetition ledger before drafting and write the article's row before publishing. Choose the publication mode (Short 400 to 900 words, Standard 900 to 1,800, Long 1,800 to 4,000 or more) from the material, not from ambition. Be concise. Use occasional high-register or unusual words when they are exact and add flavour, but never let vocabulary become an exhibition. Begin with a strong editorial hero concept, usually AI-generated, then an At a Glance block and a compelling opening. Put the strongest objection early. Explain the business and mechanism before celebrating the share price. Separate asset, business, management, balance sheet and security. Reconcile earnings to cash. Test inflation, FX, dilution, maintenance capital, debt, governance and what the current price assumes. Use bear, base and bull cases where material and state what would falsify the preferred case. Where a rating is given, state the horizon, the reference price date and the review date, and if this changes a previous view, say what changed and which assumption failed. Charts and tables are strongly preferred when they materially improve the argument. Use warm ivory canvas, dark navy or Ink framing, brass accents, green only for positive meaning, red only for negative meaning, boxed panels, numbered insight headlines and compact source notes. Use real plotted data rebuilt in the Seven Gates system, never AI-generated charts or vendor screenshots, and include the mandatory five-year share-price chart for every principal listed stock. Verify all current numbers and dates from dated sources, distinguish fact, management claim, estimate, reconstruction, inference and opinion, and never expose proprietary internal scoring, framework mechanics or internal terms such as red team in public copy. Avoid em dashes, AI filler, recycled anecdotes and the construction “Company X is no longer just a…”. Check the permanent retired register structurally, not by exact-word search. Do not revive the distinction-as-punchline construction; anthropomorphic processions of costs or institutions; party, dinner, chair or champagne imagery for financial friction; plumbing shorthand; mock Nobel, medal or trophy jokes; pavement or road free-money metaphors; coffee-as-machinery-restart gags; compressed old-technology-to-Bloomberg jokes; by-morning-the-trade-disappeared imagery; routine market-as-person quips; or the first-calculation/second-calculation paired epigram. End with an investable view, disconfirming evidence, sources, methodology where needed and the Seven Gates disclaimer.
 
 For the Daily Brief, use the `daily-brief` skill. For a narrative rewrite of a finished piece, use the `seven-gates-longform` skill.
 
