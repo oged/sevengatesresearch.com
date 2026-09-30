@@ -22,7 +22,7 @@ Previously retired: the familiar uncle, agbada, Mercedes, ceremonial moat, colle
 **Retired 30 September 2026**
 
 - **The distinction flourish.** "The distinction matters", "one distinction remains", "at this hour the distinction..." and close variants. Technical uses of "distinguish" remain valid.
-- **Anthropomorphic processions of financial friction.** FX, tax, settlement, custody, stock borrow, fees, regulation or other constraints do not walk in, take seats, demand dinner, order drinks or otherwise become a cast of characters.
+- **Anthropomorphic finance and macro abstractions.** Markets, cycles, FX, inflation, tax, rates, valuations, capital, cash flow and other abstractions do not read reports, send invoices, confiscate returns, throw tantrums, take seats, pay for dinner, arrive, complain or otherwise act like people. State the mechanism directly. An intentional human framing device may remain when the human is actually part of the narrative; the financial variable must not become a character.
 - **Party, dinner, chair, guest, champagne and bar-tab metaphors** for costs, dilution, arbitrage or market friction.
 - **Plumbing and pipes as generic market-structure shorthand.** Name settlement, custody, convertibility, liquidity, access or transfer mechanics directly.
 - **Mock Nobel, medal, trophy or award jokes** used as routine self-deprecation.
@@ -32,6 +32,7 @@ Previously retired: the familiar uncle, agbada, Mercedes, ceremonial moat, colle
 - **By-morning-the-trade-disappeared / night-out imagery** for spread convergence.
 - **The market as a wry sentient character.** Retire routine lines in which "the market" knows, gets irritated, ruins a party or otherwise behaves like a person. Literal expectation and price-implied language remains available.
 - **The first-calculation / second-calculation paired epigram.** Retire the setup in which one calculation produces the exciting answer and the next produces expenses or disappointment.
+- **Billing metaphors for consequences.** Economic cycles, leverage, inflation, valuation, regulation and risk do not "send an invoice", "present a bill", "collect rent" or similar. Name the actual consequence: lower margins, higher funding costs, losses, dilution, weaker cash flow or lower returns.
 
 These remain blocked after they fall outside the 20-piece rolling window unless an editor explicitly restores them.
 
