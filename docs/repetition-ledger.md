@@ -13,9 +13,27 @@ Required by sections 6.4, 6.5 and 16.4 of `docs/editorial-standard.md`. This fil
 
 ## Permanent register
 
-### Retired from routine use (standard 6.4)
+### Permanent retired register (standard 6.4)
 
-The familiar uncle, agbada, Mercedes, ceremonial moat, collection plate, diluted drink, generic Lagos traffic and wedding-list families.
+Retirement applies to the construction and metaphor family, not only the exact wording. Changing nouns, locations, drinks, vehicles or celebrities does not reset the device.
+
+Previously retired: the familiar uncle, agbada, Mercedes, ceremonial moat, collection plate, diluted drink, generic Lagos traffic and wedding-list families.
+
+**Retired 30 September 2026**
+
+- **The distinction flourish.** "The distinction matters", "one distinction remains", "at this hour the distinction..." and close variants. Technical uses of "distinguish" remain valid.
+- **Anthropomorphic processions of financial friction.** FX, tax, settlement, custody, stock borrow, fees, regulation or other constraints do not walk in, take seats, demand dinner, order drinks or otherwise become a cast of characters.
+- **Party, dinner, chair, guest, champagne and bar-tab metaphors** for costs, dilution, arbitrage or market friction.
+- **Plumbing and pipes as generic market-structure shorthand.** Name settlement, custody, convertibility, liquidity, access or transfer mechanics directly.
+- **Mock Nobel, medal, trophy or award jokes** used as routine self-deprecation.
+- **Free money on pavements, streets or roads**, including arbitrage framed as crossing the road.
+- **Coffee as industrial restart.** No caffeine restarting machinery, plants, control rooms or similar equipment as a routine engineering gag.
+- **Old-technology-to-Bloomberg escalations.** Retire the compressed "boats/telegraphs/.../Bloomberg terminal" history joke and structural variants.
+- **By-morning-the-trade-disappeared / night-out imagery** for spread convergence.
+- **The market as a wry sentient character.** Retire routine lines in which "the market" knows, gets irritated, ruins a party or otherwise behaves like a person. Literal expectation and price-implied language remains available.
+- **The first-calculation / second-calculation paired epigram.** Retire the setup in which one calculation produces the exciting answer and the next produces expenses or disappointment.
+
+These remain blocked after they fall outside the 20-piece rolling window unless an editor explicitly restores them.
 
 ### Quotations used (never reuse without a specific editorial reason)
 
