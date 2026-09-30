@@ -99,6 +99,9 @@ These remain blocked after they fall outside the 20-piece rolling window unless 
 | "The time is out of joint." | Shakespeare, Hamlet, 1.5 | the-time-is-out-of-joint-bank-results |
 | "Predictability: Does the Flap of a Butterfly's Wings in Brazil Set off a Tornado in Texas?" (title written by Philip Merilees for Lorenz) | Edward Lorenz / Philip Merilees, AAAS, 1972 | the-butterfly-test-tokyo-lagos |
 | The shepherd boy who cried wolf (retold as a forecasting failure of calibration) | Aesop | the-butterfly-test-tokyo-lagos |
+| "Avaunt! and quit my sight! let the earth hide thee!..." (Banquo's ghost) | Shakespeare, Macbeth 3.4 | gun-to-head-252000 |
+| "there are more things in heaven and earth, Horatio, than are dreamt of in your philosophy"; "remember me" | Shakespeare, Hamlet 1.5 | gun-to-head-252000 |
+| "The One That Got Away" (title, chart history only, lyrics not quoted) | Katy Perry | gun-to-head-252000 |
 
 ### Metaphor families in heavy use
 
@@ -133,6 +136,22 @@ Families used more than once within a 20-article window, from the backfill of 28
 - "The price has heard / read the news": seplat-the-price-has-heard-the-news (title), presco ("The price, regrettably, has read the same annual report.").
 
 ## Entries
+
+### 2026-09-30 · gun-to-head-252000
+
+- **Type and rating:** Essay, portfolio construction (five Nigerian stocks: GTCO, MTNN, Aradel, Zenith, NAHCO). No rating; a "gun to head" five-name book with a monitoring list. No horizon or review date stated. Advisory gap (R9/G7 do not apply, no rating).
+- **Entry route:** the unknown gunman of the ember months, reinterpreted as a momentum-fund client pressing for five names before Christmas.
+- **Narrative shape and ending:** At a Glance, three-ghost frame (FX, inflation, election politics), market state, five stock sections, failure-mode map, Figure 4 P/E, five-year price panels, strongest case against, verdict, Hamlet coda, four "ones that got away". Ends by returning the firearm to the drawer, with the gunman wanting it back in December.
+- **Hero concept:** AI-generated: a man at a desk between three ghosts labelled FX, Inflation and 2027 Politics, two armed, one at a ballot box; ticker overlay 251,913.20, +61.88% YTD.
+- **Cultural guests:** Macbeth 3.4 (Banquo's ghost); Hamlet 1.5 (father's ghost, "remember me"); Katy Perry, "The One That Got Away"; Graham and Buffett in passing. Third and fourth Shakespeare uses in the window, one day after the-time-is-out-of-joint-bank-results.
+- **Quotations:** Macbeth, "Avaunt! and quit my sight!..." (Act 3, Scene 4); Hamlet, "there are more things in heaven and earth, Horatio, than are dreamt of in your philosophy"; Hamlet, "remember me" (paraphrase).
+- **Historical episodes:** none beyond the 2023 and 2024 naira depreciation as recalled context; Katy Perry's *Teenage Dream* (2010) chart history.
+- **Nigerian social types:** the unknown gunman; the ember-months hustler (landlords, school fees).
+- **Closing cadence:** two short sentences closing the gunman frame: "So the firearm can go back in the drawer."
+- **Memorable phrases:** "Gun to head"; "the only ghost in Nigeria that arrives early"; "a correlation of disappointment"; "go wrong in different offices"; "the market with a smaller logo".
+- **Analogies and metaphor families:** ghosts and haunting; kidnapping and the gunman (hostages family, already in the-brake, the-middle-of-the-barrel, gtco); nesting doll (Aradel); shovels (NGX Group aside, the gold-rush family); theatre via Macbeth and Hamlet; pop-music break-up and "exes".
+- **Editor override (30 September 2026):** the ghosts-as-characters device (FX, inflation and 2027 politics as ghosts, in the deck, hero, body and verdict) breaches the 30 September retirement of anthropomorphic finance and macro abstractions. The editor explicitly chose to keep it for this piece. It is a one-off restoration for this article only; the retirement stands for all others. Retired constructions removed before publication: the naira "sat down, ordered, and picked up the bill"; the waiter and different bill; "has not signed a lease"; "kept its manners"; Macbeth's banquet, guest, chair and eating; the "loses its chair" and "chair hotter" lines; "a bull market treats macro risk"; "none of them care".
+- **Advisory items left as published:** Figure 5 uses selected period-end closes, not a daily or weekly series (10.10 prefers daily, accepts weekly; the limitation is disclosed in the article); Aradel panel has four points. Length about 4,900 words including notes, above the Long band. First-person holdings disclosure ("I own GTCO and MTN Nigeria") is not in the standard (author position disclosure was deferred). No PDF produced (the site does not build one for research).
 
 ### 2026-09-29 · the-time-is-out-of-joint-bank-results
 
