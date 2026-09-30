@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="NGX ASI 2026 YTD: +61.9% in naira, +74.7% in US dollars">
+<rect width="720" height="300" fill="#FBF8F1"/>
+<text x="20" y="34" style="font-family:Archivo,Arial,sans-serif;font-weight:700;font-size:20px" fill="#1A1F24">The naira is still helping.</text>
+<text x="20" y="58" style="font-family:Archivo,Arial,sans-serif;font-size:13px" fill="#46504F">2026 year-to-date, point-to-point. The currency conversion improved the result.</text>
+<text x="20" y="126" style="font-family:Archivo,Arial,sans-serif;font-size:14px" fill="#1A1F24">NGX ASI, naira YTD</text>
+<rect x="190" y="100" width="363.5" height="40" fill="#0E2542"/>
+<text x="561.5" y="126" style="font-family:Archivo,Arial,sans-serif;font-weight:700;font-size:15px" fill="#1A1F24">+61.9%</text>
+<text x="20" y="196" style="font-family:Archivo,Arial,sans-serif;font-size:14px" fill="#1A1F24">NGX ASI, US$ YTD*</text>
+<rect x="190" y="170" width="438.9" height="40" fill="#A67C3D"/>
+<text x="636.9" y="196" style="font-family:Archivo,Arial,sans-serif;font-weight:700;font-size:15px" fill="#1A1F24">+74.7%</text>
+<line x1="190.0" y1="92" x2="190.0" y2="248" stroke="#C6BFAE" stroke-width="1"/>
+<text x="190.0" y="266" text-anchor="middle" style="font-family:Archivo,Arial,sans-serif;font-size:11px" fill="#46504F">0%</text>
+<line x1="307.5" y1="92" x2="307.5" y2="248" stroke="#C6BFAE" stroke-width="1"/>
+<text x="307.5" y="266" text-anchor="middle" style="font-family:Archivo,Arial,sans-serif;font-size:11px" fill="#46504F">20%</text>
+<line x1="425.0" y1="92" x2="425.0" y2="248" stroke="#C6BFAE" stroke-width="1"/>
+<text x="425.0" y="266" text-anchor="middle" style="font-family:Archivo,Arial,sans-serif;font-size:11px" fill="#46504F">40%</text>
+<line x1="542.5" y1="92" x2="542.5" y2="248" stroke="#C6BFAE" stroke-width="1"/>
+<text x="542.5" y="266" text-anchor="middle" style="font-family:Archivo,Arial,sans-serif;font-size:11px" fill="#46504F">60%</text>
+<line x1="660.0" y1="92" x2="660.0" y2="248" stroke="#C6BFAE" stroke-width="1"/>
+<text x="660.0" y="266" text-anchor="middle" style="font-family:Archivo,Arial,sans-serif;font-size:11px" fill="#46504F">80%</text>
+<text x="20" y="290" style="font-family:Archivo,Arial,sans-serif;font-size:11px" fill="#46504F">*Seven Gates point-to-point reconstruction at NFEM N1,435.75 (31 Dec 2025) and N1,330.47 (29 Sep 2026).</text></svg>
