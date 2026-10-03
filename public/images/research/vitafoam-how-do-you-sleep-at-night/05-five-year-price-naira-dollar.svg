@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" font-family="Arial,Helvetica,sans-serif">
+<rect width="900" height="640" fill="#FBF8F1"/>
+<text x="90" y="34" font-size="20" font-weight="700" fill="#1A1F24">Five years: the naira price and the dollar reality</text>
+<text x="90" y="56" font-size="13" fill="#46504F">Same share, same dates. Fiscal-year-end closes only. The lower panel converts each naira close at the period-end NGN/US$ rate.</text>
+<line x1="90" x2="860" y1="300.0" y2="300.0" stroke="#E5DFD0"/><text x="82" y="304.0" text-anchor="end" font-size="12" fill="#46504F">0</text>
+<line x1="90" x2="860" y1="250.0" y2="250.0" stroke="#E5DFD0"/><text x="82" y="254.0" text-anchor="end" font-size="12" fill="#46504F">50</text>
+<line x1="90" x2="860" y1="200.0" y2="200.0" stroke="#E5DFD0"/><text x="82" y="204.0" text-anchor="end" font-size="12" fill="#46504F">100</text>
+<line x1="90" x2="860" y1="150.0" y2="150.0" stroke="#E5DFD0"/><text x="82" y="154.0" text-anchor="end" font-size="12" fill="#46504F">150</text>
+<line x1="90" x2="860" y1="100.0" y2="100.0" stroke="#E5DFD0"/><text x="82" y="104.0" text-anchor="end" font-size="12" fill="#46504F">200</text>
+<polygon points="90.0,300 90.0,288.9 244.0,285.6 398.0,283.5 552.0,282.6 706.0,235.2 860.0,106.0 860.0,300" fill="#A67C3D" fill-opacity=".10"/>
+<polyline points="90.0,288.9 244.0,285.6 398.0,283.5 552.0,282.6 706.0,235.2 860.0,106.0" fill="none" stroke="#A67C3D" stroke-width="3" />
+<circle cx="90.0" cy="288.9" r="5" fill="#A67C3D"/><text x="90.0" y="276.9" text-anchor="middle" font-size="12.5" fill="#1A1F24">₦11.06</text>
+<circle cx="244.0" cy="285.6" r="5" fill="#A67C3D"/><text x="244.0" y="273.6" text-anchor="middle" font-size="12.5" fill="#1A1F24">₦14.43</text>
+<circle cx="398.0" cy="283.5" r="5" fill="#A67C3D"/><text x="398.0" y="271.5" text-anchor="middle" font-size="12.5" fill="#1A1F24">₦16.51</text>
+<circle cx="552.0" cy="282.6" r="5" fill="#A67C3D"/><text x="552.0" y="270.6" text-anchor="middle" font-size="12.5" fill="#1A1F24">₦17.37</text>
+<circle cx="706.0" cy="235.2" r="5" fill="#A67C3D"/><text x="706.0" y="223.2" text-anchor="middle" font-size="12.5" fill="#1A1F24">₦64.82</text>
+<circle cx="860.0" cy="106.0" r="5" fill="#A67C3D"/><text x="860.0" y="94.0" text-anchor="middle" font-size="12.5" fill="#1A1F24">₦194.00</text>
+<line x1="90" x2="860" y1="300" y2="300" stroke="#C6BFAE"/>
+<text transform="translate(26,190.0) rotate(-90)" text-anchor="middle" font-size="12.5" fill="#46504F">₦ per share</text>
+<line x1="90" x2="860" y1="570.0" y2="570.0" stroke="#E5DFD0"/><text x="82" y="574.0" text-anchor="end" font-size="12" fill="#46504F">0</text>
+<line x1="90" x2="860" y1="508.2" y2="508.2" stroke="#E5DFD0"/><text x="82" y="512.2" text-anchor="end" font-size="12" fill="#46504F">0.05</text>
+<line x1="90" x2="860" y1="446.5" y2="446.5" stroke="#E5DFD0"/><text x="82" y="450.5" text-anchor="end" font-size="12" fill="#46504F">0.1</text>
+<line x1="90" x2="860" y1="384.7" y2="384.7" stroke="#E5DFD0"/><text x="82" y="388.7" text-anchor="end" font-size="12" fill="#46504F">0.15</text>
+<polyline points="90.0,536.6 244.0,529.2 398.0,544.1 552.0,556.4 706.0,515.6 860.0,389.6" fill="none" stroke="#1A1F24" stroke-width="3" stroke-dasharray="9 6"/>
+<circle cx="90.0" cy="536.6" r="5" fill="#1A1F24"/><text x="90.0" y="524.6" text-anchor="middle" font-size="12.5" fill="#1A1F24">$0.027</text>
+<circle cx="244.0" cy="529.2" r="5" fill="#1A1F24"/><text x="244.0" y="517.2" text-anchor="middle" font-size="12.5" fill="#1A1F24">$0.033</text>
+<circle cx="398.0" cy="544.1" r="5" fill="#1A1F24"/><text x="398.0" y="532.1" text-anchor="middle" font-size="12.5" fill="#1A1F24">$0.021</text>
+<circle cx="552.0" cy="556.4" r="5" fill="#1A1F24"/><text x="552.0" y="544.4" text-anchor="middle" font-size="12.5" fill="#1A1F24">$0.011</text>
+<circle cx="706.0" cy="515.6" r="5" fill="#1A1F24"/><text x="706.0" y="503.6" text-anchor="middle" font-size="12.5" fill="#1A1F24">$0.044</text>
+<circle cx="860.0" cy="389.6" r="5" fill="#1A1F24"/><text x="860.0" y="377.6" text-anchor="middle" font-size="12.5" fill="#1A1F24">$0.146</text>
+<line x1="90" x2="860" y1="570" y2="570" stroke="#C6BFAE"/>
+<text transform="translate(26,465.0) rotate(-90)" text-anchor="middle" font-size="12.5" fill="#46504F">US$ per share</text>
+<text x="90.0" y="594" text-anchor="middle" font-size="13" fill="#1A1F24">Sep-21</text>
+<text x="244.0" y="594" text-anchor="middle" font-size="13" fill="#1A1F24">Sep-22</text>
+<text x="398.0" y="594" text-anchor="middle" font-size="13" fill="#1A1F24">Sep-23</text>
+<text x="552.0" y="594" text-anchor="middle" font-size="13" fill="#1A1F24">Sep-24</text>
+<text x="706.0" y="594" text-anchor="middle" font-size="13" fill="#1A1F24">Sep-25</text>
+<text x="860.0" y="594" text-anchor="middle" font-size="13" fill="#1A1F24">Sep-26</text>
+</svg>

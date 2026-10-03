@@ -102,6 +102,10 @@ These remain blocked after they fall outside the 20-piece rolling window unless 
 | "Avaunt! and quit my sight! let the earth hide thee!..." (Banquo's ghost) | Shakespeare, Macbeth 3.4 | gun-to-head-252000 |
 | "there are more things in heaven and earth, Horatio, than are dreamt of in your philosophy"; "remember me" | Shakespeare, Hamlet 1.5 | gun-to-head-252000 |
 | "The One That Got Away" (title, chart history only, lyrics not quoted) | Katy Perry | gun-to-head-252000 |
+| "I never sleep, 'cause sleep is the cousin of death." | Nas, N.Y. State of Mind | vitafoam-how-do-you-sleep-at-night |
+| Mrs Allonby and Lord Illingworth, "usually unconscious" exchange (paraphrase) | Oscar Wilde, A Woman of No Importance | vitafoam-how-do-you-sleep-at-night |
+| Sarpedon carried home by Sleep and Death (paraphrase) | Homer, Iliad | vitafoam-how-do-you-sleep-at-night |
+| Sagoe's Philosophy of Voidancy (paraphrase) | Wole Soyinka, The Interpreters | vitafoam-how-do-you-sleep-at-night |
 
 ### Metaphor families in heavy use
 
@@ -136,6 +140,22 @@ Families used more than once within a 20-article window, from the backfill of 28
 - "The price has heard / read the news": seplat-the-price-has-heard-the-news (title), presco ("The price, regrettably, has read the same annual report.").
 
 ## Entries
+
+### 2026-10-03 · vitafoam-how-do-you-sleep-at-night
+
+- **Type and rating:** Report (Long), Vitafoam Nigeria. Hold / Watch at N174.60 (2 October 2026 close); interested below N150; base case N144 to N196; horizon 12 to 18 months; review due 2 April 2027 or on FY2026 results if earlier. Review date added at publication to meet G7.
+- **Entry route:** the Nigerian motivational sermon against sleep ("While you are sleeping, somebody in China is working"), answered by Nas and then the Greek kinship of Sleep and Death.
+- **Narrative shape and ending:** short answer, sermon and Nas, Meet Vitafoam (chemistry box, ownership table), float and exit days, Vitapur sensitivity and SOTP, Soyinka excursion, five years in N100 notes, inventory and debt, share price and scenario table, closing section on unconscious customers and Wilde. Ends on a bold one-line verdict that returns to the sleep frame.
+- **Hero concept:** AI-generated night-time foam factory, mattress on a conveyor, Lagos-style bridge skyline.
+- **Cultural guests:** Nas; Homer's *Iliad* (Sarpedon, Hypnos, Thanatos); Marcus Aurelius (passing); Wole Soyinka, *The Interpreters* (Sagoe, Philosophy of Voidancy); Oscar Wilde, *A Woman of No Importance*. The opening section carries two guests (Nas and Homer), against the one-guest rule (6.1); left as supplied.
+- **Quotations:** Nas, "I never sleep, 'cause sleep is the cousin of death." (N.Y. State of Mind); "a gas station with a country attached" (Russia, unattributed); Wilde, Mrs Allonby and Lord Illingworth exchange (paraphrase only; wording not verified).
+- **Historical episodes:** Sarpedon's death and burial in Iliad Book 16; Vitafoam's founding in 1962 and plant dates.
+- **Nigerian social types:** the 4 a.m. motivational speaker; the Lekki webinar attendee; the PalmPay-style recovery agent (hypothetical).
+- **Closing cadence:** bold single sentence: "At N174.60, we can sleep. We just wouldn't sleep through the exit."
+- **Memorable phrases:** "How Do You Sleep at Night Knowing You Own Vitafoam?"; "A lot of float. Not necessarily a lot of exit."; "a polyurethane manufacturing platform with a famous mattress business attached"; "A short excursion into Voidancy"; "Microsoft Teams cannot find you."; "sell it by teaspoon"; "Then the share price stopped behaving like a mattress"; "we just wouldn't sleep through the exit".
+- **Analogies and metaphor families:** sleep and death as kin; mattress as intimate capital equipment; the exit door for liquidity; "hidden elephant" for Vitapur; the sleeper's absent working day.
+- **Edits at publication (3 October 2026):** "The share price knows a fair amount of this already" changed to "The share price already reflects a fair amount of this" to avoid the "price has heard the news" tic and price personification. The Wilde exchange was reduced to paraphrase. The Sep-26 US$ value in the five-year chart was corrected from US$0.136 to US$0.146 using the NFEM close of N1,329.50/US$ on 30 September 2026. Disclaimer replaced with the standard text. Hero caption now states AI generation.
+- **Advisory items left as published:** Figure 5 uses six fiscal-year-end closes, not a daily or weekly series (10.10); limitation stated in caption and notes. Third-party comparables (Kingspan, Recticel, industry studies) and the Management Science paper were not independently re-verified. Evidence labels are in the notes rather than inline throughout. No PDF produced on the site.
 
 ### 2026-09-30 · gun-to-head-252000
 
@@ -681,6 +701,7 @@ Status: published 28 September 2026 (article dated 26 September).
 
 | Date | Slug | Type | Previous rating | New rating | Reason (one line) |
 |---|---|---|---|---|---|
+| 2026-10-03 | vitafoam-how-do-you-sleep-at-night | Pre-publication correction | n/a | Hold / Watch (new) | Sep-26 US$ price in Figure 5 corrected from US$0.136 to US$0.146 (NFEM N1,329.50/US$, 30 Sep 2026) before publication; review date added. |
 | 2026-09-28 | zenith-bank-2026-red-tie-earn-its-keep | Clarification | Accumulate | Accumulate (unchanged) | Horizon and review date added under standard 9.4; view, price levels and reference price unchanged. |
 | 2026-09-28 | uber-nigeria-go-slow | Clarification | Watch | Watch (unchanged) | Horizon and review date added under standard 9.4; view, price levels and reference price unchanged. |
 | 2026-09-28 | fcmb-the-n14-share | Clarification | Accumulate | Accumulate (unchanged) | Horizon and review date added under standard 9.4; view, price levels and reference price unchanged. |
