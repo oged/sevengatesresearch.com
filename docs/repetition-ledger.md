@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-04 · briefing/2026-10-04
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** physical limits of diesel-stock relief for food costs.
+- **Shape:** five ranked developments: G7 fuel intervention, FAO crops, Nigerian surveys, Vietnam growth/imports, AI consumer-finance access; ends on implementation and household purchasing power.
+- **Visual:** FAO September monthly commodity-group changes, common percentage scale, zero baseline; no Nigerian CPI equivalence.
+- **Cultural guests, quotations, anecdotes, jokes:** None.
+- **Freshness check:** no retired constructions or metaphor families; no repeated jokes. New facts rather than repetition of yesterday's payroll, gas and Yemen items.
+- **Evidence limits:** G7 commitments not summed without overlap disclosure; Nigerian survey figures attributed to reporting because primary files were inaccessible; AI rollout geographically limited.
+
+
 ### 2026-10-03 · vitafoam-how-do-you-sleep-at-night
 
 - **Type and rating:** Report (Long), Vitafoam Nigeria. Hold / Watch at N174.60 (2 October 2026 close); interested below N150; base case N144 to N196; horizon 12 to 18 months; review due 2 April 2027 or on FY2026 results if earlier. Review date added at publication to meet G7.
@@ -156,6 +167,15 @@ Families used more than once within a 20-article window, from the backfill of 28
 - **Analogies and metaphor families:** sleep and death as kin; mattress as intimate capital equipment; the exit door for liquidity; "hidden elephant" for Vitapur; the sleeper's absent working day.
 - **Edits at publication (3 October 2026):** "The share price knows a fair amount of this already" changed to "The share price already reflects a fair amount of this" to avoid the "price has heard the news" tic and price personification. The Wilde exchange was reduced to paraphrase. The Sep-26 US$ value in the five-year chart was corrected from US$0.136 to US$0.146 using the NFEM close of N1,329.50/US$ on 30 September 2026. Disclaimer replaced with the standard text. Hero caption now states AI generation.
 - **Advisory items left as published:** Figure 5 uses six fiscal-year-end closes, not a daily or weekly series (10.10); limitation stated in caption and notes. Third-party comparables (Kingspan, Recticel, industry studies) and the Management Science paper were not independently re-verified. Evidence labels are in the notes rather than inline throughout. No PDF produced on the site.
+### 2026-10-03 · briefing/2026-10-03
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** September payroll gain compared with revisions to the preceding two months, then the monetary-policy constraint from energy disruption.
+- **Shape:** Five ranked developments; data revision, reported military plans, LNG tracking uncertainty, domestic gas delivery, AI utilisation; closes on observable deliveries and navigation access.
+- **Visual:** BLS payroll revision comparison, thousands, July to September; missing previous estimate for September explicitly labelled.
+- **Cultural guests, quotations, anecdotes:** None.
+- **Memorable phrase:** "Capacity is comparatively easy to announce."
+- **Freshness check:** No retired metaphor families or anthropomorphic financial abstractions; reports and analysis separated.
 
 ### 2026-09-30 · gun-to-head-252000
 
