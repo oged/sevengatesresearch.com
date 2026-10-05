@@ -141,6 +141,16 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-05 · briefing/2026-10-05
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Iran's explicit seven-condition test for reopening Hormuz, followed by the unresolved order of compliance.
+- **Shape:** five ranked developments: Hormuz diplomacy, renewed war in Tigray, Brazil's runoff, French debt and the euro, US AI coordination; ends on observable political and security hinges.
+- **Visual:** official Brazilian first-round valid-vote shares for the two runoff candidates, common zero-to-50 percentage scale, with the 1.87-point gap stated separately.
+- **Cultural guests, quotations, anecdotes, jokes:** None.
+- **Freshness check:** no retired constructions, anthropomorphic financial abstractions or reused jokes; avoids repeating the 3 October payroll visual and 4 October food-price chart.
+- **Evidence limits:** Iranian conditions and belligerent claims attributed; Ethiopia control reported by three Reuters sources and the TPLF, with no federal response at publication; Brazil result labelled 99.99% counted; French debt and market price dates separated.
+
 ### 2026-10-04 · briefing/2026-10-04
 
 - **Type:** Daily Brief, no investment rating.
