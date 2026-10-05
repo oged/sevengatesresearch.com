@@ -7,6 +7,51 @@ import { getCompanyDirectory } from "@/lib/companies";
 import { formatDate } from "@/components/BriefingCard";
 import { getAllResearch, getRelatedResearch, getResearchItem } from "@/lib/research";
 
+const REPUBLIC_SLUG = "republic-of-30-percent-nigeria-ponzi-schemes";
+const REPUBLIC_IMAGE_BASE = `/images/research/${REPUBLIC_SLUG}`;
+
+function narrativeFigure(src: string, alt: string, caption: string) {
+  return `<figure style="margin:2.25em 0"><img src="${REPUBLIC_IMAGE_BASE}/${src}" alt="${alt}" loading="lazy" decoding="async" style="width:100%;height:auto;display:block"/><figcaption>${caption}</figcaption></figure>`;
+}
+
+function withRepublicNarrativeIllustrations(slug: string, html: string) {
+  if (slug !== REPUBLIC_SLUG) return html;
+
+  return html
+    .replace(
+      "<p>Then came a man in Port Harcourt who understood the difference.</p>",
+      `<p>Then came a man in Port Harcourt who understood the difference.</p>${narrativeFigure(
+        "01-before-telegram-aba-road.png",
+        "Black-and-white Seven Gates editorial reconstruction of a queue outside a Nigerian investment company before the Telegram era.",
+        "Seven Gates editorial illustration. Fictional reconstruction, not documentary evidence.",
+      )}`,
+    )
+    .replace(
+      "<p>This was not competition. It was a declaration of war on multiplication.</p>",
+      `${narrativeFigure(
+        "02-1991-port-harcourt.png",
+        "Black-and-white Seven Gates editorial reconstruction of investors outside Resources Managers Investments Limited in 1991 Port Harcourt.",
+        "Seven Gates editorial illustration. Fictional reconstruction of the 1991 wonder-bank moment, not documentary evidence.",
+      )}<p>This was not competition. It was a declaration of war on multiplication.</p>`,
+    )
+    .replace(
+      "<p>The Professor of Wonders has acquired a dashboard.</p>",
+      `<p>The Professor of Wonders has acquired a dashboard.</p>${narrativeFigure(
+        "03-scam-dresses-for-dinner.png",
+        "Seven Gates editorial montage showing investment-fraud costumes shifting across oil, forex, agriculture, crypto and artificial intelligence.",
+        "Seven Gates editorial illustration. Oil, forex, agriculture, crypto and AI: different costumes, same promise.",
+      )}`,
+    )
+    .replace(
+      "<p>Then came the number that travelled fastest: ₦1.3 trillion.</p>",
+      `${narrativeFigure(
+        "04-digital-ponzi.png",
+        "Black-and-white Seven Gates editorial illustration of Nigerian investors using phones around a fictional 30 per cent monthly digital investment platform.",
+        "Seven Gates editorial illustration. Fictional digital-Ponzi scene, not documentary evidence.",
+      )}<p>Then came the number that travelled fastest: ₦1.3 trillion.</p>`,
+    );
+}
+
 export function generateStaticParams() {
   return getAllResearch().map((x) => ({ slug: x.slug }));
 }
@@ -50,6 +95,7 @@ export default async function ResearchArticlePage({ params }: { params: Promise<
   const company = item.ticker
     ? getCompanyDirectory().find((entry) => entry.ticker === item.ticker)
     : undefined;
+  const articleHtml = withRepublicNarrativeIllustrations(slug, item.html);
 
   return <article className="article-shell">
     <header className="article-head">
@@ -73,7 +119,7 @@ export default async function ResearchArticlePage({ params }: { params: Promise<
 
     <div className="article-grid">
       <div>
-        <div className="prose research-prose" dangerouslySetInnerHTML={{ __html: item.html }} />
+        <div className="prose research-prose" dangerouslySetInnerHTML={{ __html: articleHtml }} />
         <Disclaimer variant="research" />
       </div>
 
