@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-05 refresh · republic-of-30-percent-nigeria-ponzi-schemes
+
+- **Type and rating:** Thematic essay, structural refresh of the 5 September 2026 edition. No rating. Text, numbers, tables, quotations and sources unchanged.
+- **Entry route:** unchanged (PXES trigger note, then the composite ₦300,000 credit alert, labelled ILLUSTRATION). New: a boxed Seven Gates view (opinion, inference, illustrative estimate, where the view is weakest) and a one-paragraph roadmap before the history.
+- **Narrative shape and ending:** rebuilt from a flat run of 21 sections into five parts: (1) how the machine works (where a return can come from, taxonomy, pyramid arithmetic, the MMM-style cash-flow model, Madoff); (2) a century of Nigerian costumes, 1914 to CBEX, with the era table and the loss ladder; (3) why people join (the queue, borrowed moral capital, the human cost); (4) the state, the world and the benchmark; (5) why it keeps coming back. Ending unchanged: circle versus queue, "The schemes change. Mathematics does not."
+- **Hero concept:** unchanged (fictional queue outside "Global Investment Solutions, 30 percent monthly returns"; AI-generated, labelled).
+- **Cultural guests, quotations, historical episodes, social types:** as the 5 September entry; nothing added or removed. The three package "visual notes" (simulated MMM, why it spreads, the human cost) are now Figures 3, 8 and 9.
+- **Freshness edits (standard 6.4, retired 30 September 2026):** removed four uses of the distinction construction, the "dress for dinner" section title and the "repeat at dinner" line. No new anecdotes, quotations or metaphor families. "Costume" remains the essay's own governing metaphor.
+- **Visuals:** all ten figures redrawn as SVG from the essay's own numbers. The package's AI-drawn "A Simulated MMM" chart carried an invented participant axis (to 400,000) that the essay's naira model does not support, so Figure 3 is a qualitative shape with no values. Package PNG charts had overlapping labels and were not used.
+- **Closing cadence, memorable phrases, analogies:** unchanged from the 5 September entry below.
+
 ### 2026-10-05 · briefing/2026-10-05
 
 - **Type:** Daily Brief, no investment rating.
