@@ -150,6 +150,7 @@ Families used more than once within a 20-article window, from the backfill of 28
 - **Cultural guests, quotations, historical episodes, social types:** as the 5 September entry; nothing added or removed. The three package "visual notes" (simulated MMM, why it spreads, the human cost) are now Figures 3, 8 and 9.
 - **Freshness edits (standard 6.4, retired 30 September 2026):** removed four uses of the distinction construction, the "dress for dinner" section title and the "repeat at dinner" line. No new anecdotes, quotations or metaphor families. "Costume" remains the essay's own governing metaphor.
 - **Visuals:** all ten figures redrawn as SVG from the essay's own numbers. The package's AI-drawn "A Simulated MMM" chart carried an invented participant axis (to 400,000) that the essay's naira model does not support, so Figure 3 is a qualitative shape with no values. Package PNG charts had overlapping labels and were not used.
+- **Length:** about 9,200 words, above the Long mode range in standard 12.1 (1,800 to 4,000). Accepted by the editor on 5 October 2026 because the brief was to keep every story, chart and table; no cut was made.
 - **Closing cadence, memorable phrases, analogies:** unchanged from the 5 September entry below.
 
 ### 2026-10-05 · briefing/2026-10-05
