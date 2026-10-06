@@ -141,6 +141,16 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-06 · briefing/2026-10-06
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** national mourning after the Nigerian Air Force crash, followed by the requirement for a publishable causal investigation.
+- **Shape:** five ranked developments: Nigerian aviation loss, Bab el-Mandeb fighting, French fiscal transmission, Congo's Ebola emergency and US-Japan technology alignment; ends on observable evidence that would change each risk.
+- **Visual:** five dated WHO observations of cumulative confirmed Bundibugyo Ebola cases and deaths in the DRC, plotted on one zero-based 0 to 8,000 scale; no interpolated observations.
+- **Cultural guests, quotations, anecdotes, jokes:** None. Human loss is treated without humour.
+- **Freshness check:** avoids 5 October's Hormuz-negotiation entry route, Brazil vote visual and AI-governance structure; no retired constructions, anthropomorphic financial abstractions or reused jokes.
+- **Evidence limits:** Nigerian and Yemeni official claims are attributed; Reuters verification limits stated; DRC series uses comparable WHO bulletin dates and not the later feature-page count; US-Japan commitments distinguish present teams from intended funding.
+
 ### 2026-10-05 refresh · republic-of-30-percent-nigeria-ponzi-schemes
 
 - **Type and rating:** Thematic essay, structural refresh of the 5 September 2026 edition. No rating. Text, numbers, tables, quotations and sources unchanged.

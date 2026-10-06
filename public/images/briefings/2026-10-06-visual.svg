@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cumulative confirmed Bundibugyo Ebola cases and deaths in the Democratic Republic of the Congo</title>
+  <desc id="desc">A line chart showing confirmed cases rising from 3,605 on 30 July to 7,890 on 23 September 2026, and deaths rising from 1,587 to 3,799 over the same World Health Organization reporting dates.</desc>
+  <rect width="1600" height="900" fill="#f7f0df"/>
+  <rect x="48" y="48" width="1504" height="804" rx="8" fill="#fffaf0" stroke="#12233f" stroke-width="4"/>
+  <text x="110" y="130" fill="#12233f" font-family="Georgia, serif" font-size="28" font-weight="700" letter-spacing="3">SEVEN GATES RESEARCH</text>
+  <text x="110" y="198" fill="#12233f" font-family="Georgia, serif" font-size="52" font-weight="700">Congo's Ebola outbreak kept expanding</text>
+  <text x="110" y="244" fill="#556071" font-family="Arial, sans-serif" font-size="25">Cumulative confirmed Bundibugyo virus disease cases and deaths, DRC</text>
+
+  <g stroke="#d8cfbc" stroke-width="2">
+    <line x1="180" y1="680" x2="1470" y2="680"/>
+    <line x1="180" y1="582.5" x2="1470" y2="582.5"/>
+    <line x1="180" y1="485" x2="1470" y2="485"/>
+    <line x1="180" y1="387.5" x2="1470" y2="387.5"/>
+    <line x1="180" y1="290" x2="1470" y2="290"/>
+  </g>
+  <g fill="#667080" font-family="Arial, sans-serif" font-size="20" text-anchor="end">
+    <text x="158" y="687">0</text>
+    <text x="158" y="589">2,000</text>
+    <text x="158" y="492">4,000</text>
+    <text x="158" y="394">6,000</text>
+    <text x="158" y="297">8,000</text>
+  </g>
+
+  <polyline points="230,504 530,453 830,398 1130,351 1430,295" fill="none" stroke="#12233f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="230,603 530,574 830,544 1130,521 1430,495" fill="none" stroke="#a57a22" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#12233f">
+    <circle cx="230" cy="504" r="10"/><circle cx="530" cy="453" r="10"/><circle cx="830" cy="398" r="10"/><circle cx="1130" cy="351" r="10"/><circle cx="1430" cy="295" r="10"/>
+  </g>
+  <g fill="#a57a22">
+    <circle cx="230" cy="603" r="10"/><circle cx="530" cy="574" r="10"/><circle cx="830" cy="544" r="10"/><circle cx="1130" cy="521" r="10"/><circle cx="1430" cy="495" r="10"/>
+  </g>
+
+  <g fill="#556071" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">
+    <text x="230" y="724">30 Jul</text><text x="530" y="724">12 Aug</text><text x="830" y="724">26 Aug</text><text x="1130" y="724">7 Sep</text><text x="1430" y="724">23 Sep</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="22" font-weight="700">
+    <text x="235" y="484" fill="#12233f">3,605</text><text x="1420" y="335" fill="#12233f" text-anchor="end">7,890 cases</text>
+    <text x="235" y="635" fill="#a57a22">1,587</text><text x="1420" y="535" fill="#a57a22" text-anchor="end">3,799 deaths</text>
+  </g>
+
+  <g transform="translate(180 782)" font-family="Arial, sans-serif" font-size="20">
+    <line x1="0" y1="0" x2="55" y2="0" stroke="#12233f" stroke-width="8"/><text x="72" y="7" fill="#12233f">Confirmed cases</text>
+    <line x1="275" y1="0" x2="330" y2="0" stroke="#a57a22" stroke-width="8"/><text x="347" y="7" fill="#12233f">Confirmed deaths</text>
+    <text x="1260" y="7" fill="#667080" text-anchor="end">Source: WHO DON614–DON618</text>
+  </g>
+</svg>
