@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Better growth, faster inflation</title>
+  <desc id="desc">World Bank data for Sub-Saharan Africa show growth rising from 4.1 percent in 2025 to 4.3 percent in 2026, while median inflation rises from 3.7 percent to 5.5 percent.</desc>
+  <rect width="1200" height="675" fill="#FBF8F1"/>
+  <rect x="34" y="34" width="1132" height="607" rx="8" fill="none" stroke="#1A1F24" stroke-width="3"/>
+  <text x="82" y="102" fill="#A67C3D" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">SEVEN GATES DAILY BRIEF</text>
+  <text x="82" y="154" fill="#1A1F24" font-family="Georgia, serif" font-size="42" font-weight="700">Better growth, faster inflation</text>
+  <text x="82" y="190" fill="#46504F" font-family="Arial, sans-serif" font-size="19">Sub-Saharan Africa, annual change (%) · common 0–6% scale</text>
+
+  <line x1="105" y1="535" x2="1095" y2="535" stroke="#1A1F24" stroke-width="2"/>
+  <line x1="105" y1="465" x2="1095" y2="465" stroke="#C6BFAE" stroke-width="1"/>
+  <line x1="105" y1="395" x2="1095" y2="395" stroke="#C6BFAE" stroke-width="1"/>
+  <line x1="105" y1="325" x2="1095" y2="325" stroke="#C6BFAE" stroke-width="1"/>
+  <line x1="105" y1="255" x2="1095" y2="255" stroke="#C6BFAE" stroke-width="1"/>
+  <text x="75" y="541" fill="#46504F" font-family="Arial, sans-serif" font-size="16">0</text>
+  <text x="75" y="471" fill="#46504F" font-family="Arial, sans-serif" font-size="16">2</text>
+  <text x="75" y="401" fill="#46504F" font-family="Arial, sans-serif" font-size="16">4</text>
+  <text x="75" y="331" fill="#46504F" font-family="Arial, sans-serif" font-size="16">6</text>
+
+  <text x="312" y="235" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="22" font-weight="700">REAL GDP GROWTH</text>
+  <rect x="190" y="391.5" width="105" height="143.5" fill="#C6BFAE"/>
+  <rect x="330" y="384.5" width="105" height="150.5" fill="#A67C3D"/>
+  <text x="242.5" y="375" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="28" font-weight="700">4.1%</text>
+  <text x="382.5" y="368" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="28" font-weight="700">4.3%</text>
+  <text x="242.5" y="568" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="19">2025</text>
+  <text x="382.5" y="568" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="19">2026F</text>
+
+  <line x1="600" y1="235" x2="600" y2="584" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="855" y="235" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="22" font-weight="700">MEDIAN INFLATION</text>
+  <rect x="735" y="405.5" width="105" height="129.5" fill="#C6BFAE"/>
+  <rect x="875" y="342.5" width="105" height="192.5" fill="#9A3F35"/>
+  <text x="787.5" y="389" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="28" font-weight="700">3.7%</text>
+  <text x="927.5" y="326" text-anchor="middle" fill="#9A3F35" font-family="Arial, sans-serif" font-size="28" font-weight="700">5.5%</text>
+  <text x="787.5" y="568" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="19">2025</text>
+  <text x="927.5" y="568" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="19">2026F</text>
+
+  <text x="82" y="615" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Source: World Bank Africa Economic Update, 6 October 2026. 2026F = forecast.</text>
+</svg>

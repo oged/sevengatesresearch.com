@@ -141,6 +141,16 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-07 · briefing/2026-10-07
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** an explicit correction to the Nigerian Air Force crash manifest, followed by the institutional need to explain the seven-person discrepancy.
+- **Shape:** five ranked developments: Nigeria's revised crash toll, Kenya's first imported Ebola case, the World Bank's Africa outlook, record US equities with expensive money, and Mistral's sovereign-AI proposition; ends on observable evidence that would change the health, safety and market outlooks.
+- **Visual:** World Bank 2025 and 2026 real GDP growth and median inflation on a common zero-to-6% scale; 2026 values clearly labelled forecasts.
+- **Cultural guests, quotations, anecdotes, jokes:** None. Human loss and disease are treated without humour.
+- **Freshness check:** opens with accountability for a corrected fact rather than yesterday's mourning frame; no retired constructions, anthropomorphic abstractions or reused jokes.
+- **Evidence limits:** crash count follows the revised Air Force manifest and notes the unexplained discrepancy; Ebola contacts are separated into quarantined people and flight contacts being traced; Mistral performance claims are attributed and independent replication requested.
+
 ### 2026-10-06 · briefing/2026-10-06
 
 - **Type:** Daily Brief, no investment rating.
@@ -753,6 +763,7 @@ Status: published 28 September 2026 (article dated 26 September).
 
 | Date | Slug | Type | Previous rating | New rating | Reason (one line) |
 |---|---|---|---|---|---|
+| 2026-10-07 | briefing/2026-10-06 | Factual correction | n/a | n/a | Nigerian Air Force crash toll corrected from the initial official figure of 32 to the revised manifest count of 25; analytical conclusion unchanged. |
 | 2026-10-03 | vitafoam-how-do-you-sleep-at-night | Pre-publication correction | n/a | Hold / Watch (new) | Sep-26 US$ price in Figure 5 corrected from US$0.136 to US$0.146 (NFEM N1,329.50/US$, 30 Sep 2026) before publication; review date added. |
 | 2026-09-28 | zenith-bank-2026-red-tie-earn-its-keep | Clarification | Accumulate | Accumulate (unchanged) | Horizon and review date added under standard 9.4; view, price levels and reference price unchanged. |
 | 2026-09-28 | uber-nigeria-go-slow | Clarification | Watch | Watch (unchanged) | Horizon and review date added under standard 9.4; view, price levels and reference price unchanged. |
