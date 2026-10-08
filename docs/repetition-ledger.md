@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-08 · briefing/2026-10-08
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** civilian deaths and energy-system damage from Russia's 7 October attack, followed by the limits of emergency fuel stocks.
+- **Shape:** Five ranked developments; human loss, diesel-focused stock acceleration, Nigerian bill-auction concentration, US monetary-policy disagreement, small-model economics; closes with observable tests for each transmission channel.
+- **Visual:** Nigerian Treasury-bill offer, subscriptions and allotment by tenor at the 7 October auction, ₦ billion; common zero baseline and direct values.
+- **Cultural guests, quotations, anecdotes, jokes:** None.
+- **Memorable phrase:** "A pause is not cheap money."
+- **Freshness check:** No retired rhetorical constructions, personified financial abstractions, party imagery or reused cultural material. The energy opening is literal and evidence-led.
+- **Evidence limits:** Ukraine death toll is explicitly a minimum and reflects Reuters' 8 October update; Anthropic performance and cost comparisons are attributed to the vendor; auction source is CBN data reported by FMDA and cross-checked against Afronomics.
+
 ### 2026-10-07 · briefing/2026-10-07
 
 - **Type:** Daily Brief, no investment rating.
