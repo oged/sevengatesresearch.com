@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">How Nigerian states spent larger revenues</title>
+  <desc id="desc">Capital expenditure rose from 46 percent of state spending in 2023 to 61 percent in 2025. Education fell from 14.9 percent in 2021 to 12.1 percent in 2025, health remained around 7 percent, and social protection rose from 1.4 to 4.4 percent.</desc>
+  <rect width="1200" height="680" fill="#FBF8F1"/>
+  <rect x="30" y="30" width="1140" height="620" rx="18" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="70" y="92" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#1A1F24">How Nigerian states spent larger revenues</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="19" fill="#46504F">Share of aggregate state expenditure, selected years (%)</text>
+
+  <line x1="595" y1="160" x2="595" y2="565" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="70" y="188" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4" fill="#A67C3D">CAPITAL SHARE</text>
+  <text x="635" y="188" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4" fill="#A67C3D">SERVICE SHARES</text>
+
+  <text x="70" y="236" font-family="Arial, sans-serif" font-size="20" fill="#46504F">2023</text>
+  <rect x="150" y="211" width="322" height="34" rx="4" fill="#C6BFAE"/>
+  <text x="486" y="237" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#1A1F24">46%</text>
+  <text x="70" y="304" font-family="Arial, sans-serif" font-size="20" fill="#46504F">2025</text>
+  <rect x="150" y="279" width="427" height="34" rx="4" fill="#A67C3D"/>
+  <text x="486" y="305" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#1A1F24">61%</text>
+  <text x="70" y="357" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1A1F24">+15 percentage points</text>
+  <text x="70" y="390" font-family="Arial, sans-serif" font-size="17" fill="#46504F">Capital spending gained share as state revenues rose.</text>
+
+  <text x="635" y="238" font-family="Arial, sans-serif" font-size="20" fill="#1A1F24">Education</text>
+  <rect x="780" y="213" width="149" height="20" rx="3" fill="#C6BFAE"/>
+  <rect x="780" y="240" width="121" height="20" rx="3" fill="#A45A4F"/>
+  <text x="942" y="230" font-family="Arial, sans-serif" font-size="17" fill="#46504F">14.9% in 2021</text>
+  <text x="914" y="257" font-family="Arial, sans-serif" font-size="17" fill="#A45A4F">12.1% in 2025</text>
+
+  <text x="635" y="326" font-family="Arial, sans-serif" font-size="20" fill="#1A1F24">Health</text>
+  <rect x="780" y="301" width="70" height="20" rx="3" fill="#C6BFAE"/>
+  <rect x="780" y="328" width="70" height="20" rx="3" fill="#1A1F24"/>
+  <text x="864" y="318" font-family="Arial, sans-serif" font-size="17" fill="#46504F">about 7% in 2021</text>
+  <text x="864" y="345" font-family="Arial, sans-serif" font-size="17" fill="#1A1F24">about 7% in 2025</text>
+
+  <text x="635" y="414" font-family="Arial, sans-serif" font-size="20" fill="#1A1F24">Social protection</text>
+  <rect x="780" y="389" width="14" height="20" rx="3" fill="#C6BFAE"/>
+  <rect x="780" y="416" width="44" height="20" rx="3" fill="#5F7D65"/>
+  <text x="808" y="406" font-family="Arial, sans-serif" font-size="17" fill="#46504F">1.4% in 2021</text>
+  <text x="838" y="433" font-family="Arial, sans-serif" font-size="17" fill="#5F7D65">4.4% in 2025</text>
+
+  <rect x="635" y="480" width="490" height="72" rx="8" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="655" y="511" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1A1F24">The test is what the spending delivers.</text>
+  <text x="655" y="538" font-family="Arial, sans-serif" font-size="16" fill="#46504F">Higher revenue is capacity, not proof of better services.</text>
+
+  <line x1="70" y1="590" x2="1130" y2="590" stroke="#A67C3D" stroke-width="2"/>
+  <text x="70" y="620" font-family="Arial, sans-serif" font-size="15" fill="#46504F">Source: World Bank, Nigeria Development Update press release, 8 October 2026.</text>
+  <text x="1130" y="620" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1F24">SEVEN GATES RESEARCH</text>
+</svg>

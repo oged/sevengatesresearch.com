@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-09 · briefing/2026-10-09
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the gap between a political pause in US-Iran escalation and the physical persistence of disrupted oil supply.
+- **Shape:** five ranked developments; oil and hurricane supply risk, AI financing discipline, Nigerian public-finance transmission, US tariff pass-through, workplace agents; closes on observable delivery tests rather than forecasts.
+- **Visual:** two-panel comparison of Nigerian state capital-spending share in 2023 and 2025, plus education, health and social-protection shares in 2021 and 2025; percentage units and source periods stated.
+- **Cultural guests, quotations, anecdotes, jokes:** None.
+- **Memorable phrase:** "A political pause is not restored supply."
+- **Freshness check:** avoids 8 October's human-loss and emergency-stock opening, the previous World Bank macro forecast visual, retired metaphor families and personified financial abstractions. The visual tests spending composition rather than repeating growth or inflation.
+- **Evidence limits:** US-Iran negotiating claims and the OpenAI revenue comparison follow contemporaneous reporting; Gulf shut-ins are regulator estimates; Google adoption figures are vendor-reported; World Bank state-spending aggregates do not establish project-level outcomes.
+
 ### 2026-10-08 · briefing/2026-10-08
 
 - **Type:** Daily Brief, no investment rating.
