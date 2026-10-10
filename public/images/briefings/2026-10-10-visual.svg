@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's four-step fuel-shock response</title>
+  <desc id="desc">A four-stage diagram shows NNPC selling petrol at cost for 30 days, a negotiated 1,350 naira per litre ceiling reviewed monthly, CNG said by the government to be 60 to 70 percent cheaper than petrol, and a planned national strategic fuel reserve.</desc>
+  <rect width="1200" height="680" fill="#FBF8F1"/>
+  <rect x="30" y="30" width="1140" height="620" rx="18" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="70" y="92" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#1A1F24">Nigeria's four-step fuel-shock response</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="19" fill="#46504F">Announced measures, from immediate relief to longer-term resilience</text>
+
+  <line x1="168" y1="282" x2="1032" y2="282" stroke="#C6BFAE" stroke-width="8"/>
+  <line x1="168" y1="282" x2="456" y2="282" stroke="#A67C3D" stroke-width="8"/>
+
+  <circle cx="168" cy="282" r="35" fill="#A67C3D"/>
+  <circle cx="456" cy="282" r="35" fill="#A67C3D"/>
+  <circle cx="744" cy="282" r="35" fill="#5F7D65"/>
+  <circle cx="1032" cy="282" r="35" fill="#1A1F24"/>
+  <text x="168" y="291" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FBF8F1">1</text>
+  <text x="456" y="291" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FBF8F1">2</text>
+  <text x="744" y="291" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FBF8F1">3</text>
+  <text x="1032" y="291" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FBF8F1">4</text>
+
+  <text x="168" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#A67C3D">IMMEDIATE</text>
+  <text x="168" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">Sell at cost</text>
+  <text x="168" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#46504F">NNPC forgoes its</text>
+  <text x="168" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#46504F">margin for 30 days</text>
+
+  <text x="456" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#A67C3D">PRICE SMOOTHING</text>
+  <text x="456" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">₦1,350/l ceiling</text>
+  <text x="456" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#46504F">Negotiated, reviewed</text>
+  <text x="456" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#46504F">monthly, recovery later</text>
+
+  <text x="744" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#5F7D65">SUBSTITUTION</text>
+  <text x="744" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">Accelerate CNG</text>
+  <text x="744" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#46504F">Government estimate:</text>
+  <text x="744" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5F7D65">60–70% cheaper</text>
+
+  <text x="1032" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#1A1F24">BUFFER</text>
+  <text x="1032" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">Build a reserve</text>
+  <text x="1032" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#46504F">National strategic</text>
+  <text x="1032" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#46504F">fuel reserve planned</text>
+
+  <rect x="70" y="467" width="1060" height="86" rx="8" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="94" y="500" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#1A1F24">The missing specification</text>
+  <text x="94" y="532" font-family="Arial, sans-serif" font-size="18" fill="#46504F">Who funds above-ceiling costs, when suppliers are repaid, and what happens if market costs stay high?</text>
+
+  <line x1="70" y1="590" x2="1130" y2="590" stroke="#A67C3D" stroke-width="2"/>
+  <text x="70" y="620" font-family="Arial, sans-serif" font-size="15" fill="#46504F">Source: Presidency of Nigeria, State House release dated 8 October 2026.</text>
+  <text x="1130" y="620" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1F24">SEVEN GATES RESEARCH</text>
+</svg>

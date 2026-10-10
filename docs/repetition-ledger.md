@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-10 · briefing/2026-10-10
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's 30-day petrol intervention, followed immediately by the still-unpublished funding and settlement mechanism for its proposed price ceiling.
+- **Shape:** five ranked developments; Nigerian petrol-price smoothing, a US licence for Russian diesel, Ethiopia-Eritrea escalation, OPay's US filing and Navi Pillay's Nobel Peace Prize; closes on observable implementation tests.
+- **Visual:** four-stage policy-transmission diagram covering NNPC's 30-day at-cost sale, the negotiated ₦1,350-per-litre ceiling, CNG substitution and a planned strategic reserve; announced measures and outstanding terms clearly separated.
+- **Cultural guests, quotations, anecdotes, jokes:** None. Armed conflict and its human consequences are treated without humour.
+- **Memorable phrase:** None recorded.
+- **Freshness check:** avoids the 8 and 9 October supply-disruption openings, recent bar-chart formats, the retired distinction construction, billing metaphors, personified abstractions and Nobel jokes. The visual explains a policy mechanism rather than repeating recent macro outcomes.
+- **Evidence limits:** the petrol ceiling and CNG savings estimate are government proposals or claims; supplier recovery terms remain unpublished; diesel volume follows the US president's announcement; troop movements are reported by Ethiopia and witnesses with Eritrea's response stated; OPay has filed but has not priced or completed an IPO.
+
 ### 2026-10-09 · briefing/2026-10-09
 
 - **Type:** Daily Brief, no investment rating.
