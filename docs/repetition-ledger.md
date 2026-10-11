@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 33651)
-Total output lines: 832
-
 # Seven Gates Research: Repetition Ledger and Corrections Record
 
 Required by sections 6.4, 6.5 and 16.4 of `docs/editorial-standard.md`. This file is the single record. The table that used to sit inside the `seven-gates-longform` skill now lives here.
@@ -418,7 +415,79 @@ Status: published 28 September 2026 (article dated 26 September).
 - **Type and rating:** Full company underwrite, financial infrastructure (NGX Group, NGXGROUP). HOLD / WAIT at ₦149.90 (14 September 2026 close). Base SOTP ~₦105 to ₦120/share; bull SOTP ~₦150 to ₦169/share; preferred accumulation zone below ~₦110; stronger buy zone ~₦95 to ₦100. No horizon or review date stated. [At publication. A horizon and review note was added on 28 September 2026; see the corrections record.]
 - **Entry route:** italic epigraph ("The exchange does not need to find the gold..."), At a Glance table, then "The answer before the sermon": the share's 15.2% jump in a week to ₦149.90 alongside the Dangote Refinery IPO launch and FTSE Frontier re-entry.
 - **Narrative shape and ending:** gold-rush parable, 2016 to 2017 history via Huxley, FX translation, peer lessons (CME, ICE, LSEG, FICO), AI and the interface, CSCS, reconstructed CAPE and SOTP, then The Verdict. Ends on the shovel seller owning the road, scale, registry and map, and the market "charging us for the railway".
-- **Hero concept:** a Nigerian woman in NGX-branded attire selling shovels at a stylised capital-market gold rush, …3651 tokens truncated… to INVEST!"
+- **Hero concept:** a Nigerian woman in NGX-branded attire selling shovels at a stylised capital-market gold rush, with miners, the NGX building and signposts to the Dangote IPO and Frontier status (SVG file).
+- **Cultural guests:** Aldous Huxley; Amazon as bookseller comparison; CME, ICE, LSEG and FICO as business-model analogues (peers, not colour); Bloomberg in passing.
+- **Quotations:** Huxley, A Case of Voluntary Ignorance: “That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach.”; Huxley, Proper Studies: “Facts do not cease to exist because they are ignored.” A misattributed Huxley line ("the past is the key to the future") is named and explicitly declined as unverifiable.
+- **Historical episodes:** 2016 Nigerian recession (NSE PAT about ₦27 million); 2017 I&E FX window reopening; NGX listing October 2021; the generic gold rush with prospector, miner and shovel seller. No proverbs or biblical figures.
+- **Nigerian social types:** WhatsApp investment-group prophets; "the lady selling shovels"; retail investors waking "feeling enthusiastic on a Wednesday". No ILLUSTRATION labels.
+- **Closing cadence:** anaphoric list of "When..." revenue moments, then two-line kicker: the market has noticed the shovel shop and "has also started charging us for the railway."
+- **Memorable phrases:** "NGX gets paid because the argument exists."; "A naira chart can tell the truth and still leave out the part of the truth that owns a passport."; "It is the one whose disappearance ruins his Tuesday."; "Precision without a clean denominator is arithmetic wearing cufflinks."; "There is something wrong with paying for LSEG before it becomes one."
+- **Analogies and metaphor families:** gold rush, picks and shovels (prospector, miner, map, road to the mine, weighing scale, registry, railway); medicine and school ("The diagnosis from 2017 was right. The patient is richer. The cure is unfinished."; "Same examination paper. New school year."); moats (regulatory moat, "The weaker moat is the screen."); rent on a standard ("charging rent on a language"); clothing personification ("arithmetic wearing cufflinks").
+
+### 2026-09-10 · dangote-refinery-ipo-three-valuations-before-shift-change
+
+- **Type and rating:** Initiating coverage report, Dangote Refinery IPO. WAIT at ₦525; Seven Gates fair value ₦405 (range ₦320 to ₦510), preferred entry ≤₦375. No horizon or review date stated. [At publication. A horizon and review note was added on 28 September 2026; see the corrections record.]
+- **Entry route:** confessional all-nighter. "Seven Gates has had a mildly irresponsible night": caffeine, LLMs and a 207-page prospectus, then the admission that this is the third change of mind on Dangote.
+- **Narrative shape and ending:** GRM, utilisation, oil price, moat, expansion and four valuation lenses in numbered sections, then "The number". Ends on the right to change our mind a fourth time before the night shift goes home.
+- **Hero concept:** a refinery control room at night with three valuation cards, coffee and a refinery skyline.
+- **Cultural guests:** John Maynard Keynes; Nassim Taleb (turkey).
+- **Quotations:** Keynes, "When the facts change, I change my mind" (attribution flagged as disputed); Taleb's turkey (paraphrase); "Strong opinions, loosely held" (unattributed aphorism); the final 10% takes 90% of the schedule (unattributed engineering joke).
+- **Historical episodes:** the first Dangote refinery's long journey from announcement to commercial reality (undated); Nigeria abandoning a proposed 15% fuel import duty, 2025. No proverbs.
+- **Nigerian social types:** None. (Generic project engineer and readiness team, first-person; a fuel trader importing a cargo.)
+- **Closing cadence:** aphorism triplet ("Strong opinions, loosely held. Capital, rather more tightly.") then a callback to the night shift and a fourth change of mind.
+- **Memorable phrases:** "footnotes with the emotional range of a gasket specification"; "EBITDA is an attractive house guest. Cash pays the mortgage."; "Dangote is closer to a Swiss Army knife than a kettle."; "I would rather own this refinery than compete against it."; "Strong opinions, loosely held. Capital, rather more tightly."
+- **Analogies and metaphor families:** control room and shift change; baker, flour and bread (GRM); machinery with moods (compressor discovering spirituality, constitutional right to inconvenience); Taleb's turkey; house guest and mortgage; moat (cost and logistics, not statutory); elephant's memory (callback to the earlier "Elephant in the Control Room" piece); megaproject punch lists and "souvenirs".
+
+### 2026-09-06 · zenith-bank-2026-red-tie-earn-its-keep
+
+- **Type and rating:** Equity research report, Zenith Bank after recapitalisation. ACCUMULATE; fair value ₦145 to ₦160; stronger buying interest below ₦115. No horizon or review date stated. [At publication. A horizon and review note was added on 28 September 2026; see the corrections record.]
+- **Entry route:** thesis line ("The recapitalisation is done."), then first-person memory: around 2006 to 2008 Zenith wanted at least ₦50,000 and a current account before it would entertain you.
+- **Narrative shape and ending:** arrogance-to-adaptation vignette, then dilution, Q1 drivers, reserves/Kenya/index flows and P/B scenarios. Ends on property imagery: the market is no longer giving the white building away.
+- **Hero concept:** classical bank facade with a red Zenith tie beside ascending EPS, ROE and BVPS blocks on a brass arrow.
+- **Cultural guests:** None.
+- **Quotations:** None.
+- **Historical episodes:** Zenith's minimum-balance era, around 2006 to 2008 (personal memory); GTBank making retail fashionable (undated). No proverbs.
+- **Nigerian social types:** the aspiring bank customer turned away (first-person memory, not labelled ILLUSTRATION); the borrower who has stopped returning calls.
+- **Closing cadence:** three short property lines ending on the bolded "At today's reference price, the estate agent has arrived."
+- **Memorable phrases:** "Relevance has a much shorter expiry date."; "Shareholders do not own the press release saying profit crossed a trillion naira."; "credit cost is where optimism eventually meets the borrower who has stopped returning calls"; "At ₦105, you bought the building and some furniture came free."; "At today's reference price, the estate agent has arrived."
+- **Analogies and metaphor families:** red ties, white buildings and marble (institutional pride); new owners joining the dinner table (dilution); collecting flags in reception (vanity expansion); estate agent, building and furniture (property/valuation).
+
+### 2026-09-05 · uber-nigeria-go-slow
+
+- **Type and rating:** Essay (contrarian; the published "red-team" label was changed on 28 September 2026), Uber's Nigeria exit and robotaxi pivot. WATCH on NYSE: UBER, unchanged; not a rated note; no target, horizon or review date stated (pending a full FCF reconstruction and first-hand driver interviews). [At publication. A horizon and review note was added on 28 September 2026; see the corrections record.]
+- **Entry route:** "Two emails": on 2 September 2026 phones light up across Lagos with Uber's exit notice while Khosrowshahi's 3,300-job restructuring email lands eight thousand miles west.
+- **Narrative shape and ending:** eleven vignette sections (the lease-to-own yard, Kayode 2014, the WhatsApp witness, going offline, the naira, Kalanick, Aristotle, the un-invention of haggling, what breaks next) closing on Fela's Go Slow. Ends with the dot stopping on a Wednesday while Lagos keeps moving.
+- **Hero concept:** Uber share-price arc from the May 2019 $45 IPO to the $75.24 close on 1 September 2026, the session before the Nigeria exit.
+- **Cultural guests:** Fela Kuti (Go Slow, Roforofo Fight); Aristotle (Politics, Book I); Daedalus's moving statues; MadeinTYO (Uber Everywhere); Nassim Taleb (Lindy effect); Travis Kalanick; Anthony Levandowski; "Uber for X" pitch-deck trope.
+- **Quotations:** Aristotle, Politics ("if every tool could perform its own work…"); MadeinTYO ('Uber every ... where'); Kalanick ('unfinished business'); Taleb, Lindy effect (paraphrase); Khosrowshahi, too many layers (paraphrase of the layoff memo).
+- **Historical episodes:** Uber Lagos launch 2014; millionth Lagos trip, July 2016; Uber admitting fake-GPS software use, 2018; Reagan National Airport driver switch-off, 2019; Hyderabad drivers' Telegram jugaad group (undated); Kalanick ousted 2017, left board 2019; Scour and Red Swoosh; Greyball, God View and Ripley (undated); Safiya Usman's purse, Abuja 2023; Bolt offline-trip crackdown, November 2024; Lagos trip-data dispute, 2024; Fela's Go Slow, 1972; Aristotle, Politics (fourth century BC). No proverbs.
+- **Nigerian social types:** lease-to-own Lagos driver in the yard; Kayode Olaniyan (named, reported driver); Safiya Usman in Abuja (named, reported rider); Lagos woman rider sharing the trip link on WhatsApp; rider with "a wedding to attend"; danfo; multi-app driver with "one Toyota and one school-fee problem". None labelled ILLUSTRATION.
+- **Closing cadence:** callback to the moving dot, then "The dot on one map stopped moving on a Wednesday. / Lagos did not. / **Go slow.**"
+- **Memorable phrases:** "Uber did not invent safety. It made accountability searchable."; "A growing country can become a shrinking line item."; "The asset-light model is becoming heavier precisely because the labour is becoming lighter."; "American capitalism is very forgiving once the cap table improves."; "The haggle came back. Only now it had GPS."
+- **Analogies and metaphor families:** the witness and audit trail (safety as documentation); balance-sheet trick, asset-light turning heavy; auctions, bidders and outside options (labour market); cartel via off button, humans reverse-engineering the algorithm; half-open taxi window (haggling); removing layers (Kalanick); debt as "a less sentimental technology"; Lagos traffic (Go Slow).
+
+### 2026-09-05 · republic-of-30-percent-nigeria-ponzi-schemes
+
+- **Type and rating:** Thematic essay on Nigerian Ponzi schemes, 1914 to 2026. No rating.
+- **Entry route:** after the At a Glance table, a first-person trigger note: PXES crowds at offices in Yola and Kabba carrying away furniture, then an unlabelled composite scene of a man who puts in ₦1 million and receives a ₦300,000 credit alert and screenshots it ("The most dangerous day in a Ponzi scheme is the day it pays you").
+- **Narrative shape and ending:** chronological history (Crentsil 1920, bank failures, Umanah 1991, Nospetco, MMM 2016, costume eras, CBEX 2025), an illustrative cash-flow model, a Madoff detour, the psychology of the queue, regulation and ordinary returns. Ends by returning to ajo: a circle versus a queue pretending to be a circle, landing on "The schemes change. Mathematics does not."
+- **Hero concept:** fictional queue outside an investment office advertising "Global Investment Solutions, 30 percent monthly returns" (labelled fictional scene).
+- **Cultural guests:** J. K. Galbraith; Lake Wobegon; Aliko Dangote (refinery joke); Charles Ponzi and Bernie Madoff (as comparators).
+- **Quotations:** P. Crentsil's signature "P. Crentsil, Prof. of Wonders" (called back as "The Professor of Wonders has acquired a dashboard"); Galbraith on the brevity of financial memory (paraphrase); *Vanguard* profile describing Ovaioza Yunusa as a "fierce young Nigerian agro entrepreneur" (used rhetorically on borrowed credibility).
+- **Historical episodes:** amalgamation, 1914; Charles Ponzi and international reply coupons, Boston, 1920; P. Crentsil letter, 18 December 1920, and section 419 charge, December 1921; indigenous bank failures, 1950s; bank distress, 1991 to 1996; Umanah and Resources Managers, Port Harcourt, 1991; Planwell, Edo, early 1990s; Nospetco, 2000s; MMM and the 2016 recession; MBA Forex (SEC list, 2020); Ovaioza, 2021 to 2023; CBEX, 2025; Madoff, 2008, and Victim Fund final distribution, December 2024; Albania pyramid schemes, 1996-97; PXES, Yola and Kabba, 2026. Ajo and esusu as tradition. No proverbs or biblical figures.
+- **Nigerian social types:** the first-payout investor with his wife, colleague, brother in London and alumni WhatsApp group (composite; labelled ILLUSTRATION on 28 September 2026); pastor, influencer, WhatsApp administrator, alumni chairman as trust intermediaries; the queue cast of Early Winner, Late Joiner, Influencer, Regulator and Sceptic (archetypes; labelled ILLUSTRATION on 28 September 2026); RMNL depositors among soldiers, police, civil servants, judges (fact).
+- **Closing cadence:** circle-and-queue callback to ajo, a three-beat "Somebody arrives early. Somebody gets paid. Somebody tells his friends." then the bold aphorism "The schemes change. Mathematics does not."
+- **Memorable phrases:** "The most dangerous day in a Ponzi scheme is the day it pays you."; "The Ponzi did not run out of believers. It ran out of acceleration."; "The scam runs on internet time. The state runs on legal time."; "Ajo ends when everyone has had their turn. A Ponzi ends when someone does not."; "Nobody takes a selfie with a Treasury bill."
+- **Analogies and metaphor families:** costume, wardrobe and changing clothes ("dress for dinner", "expensive suit"); circle versus queue; authenticity laundering; borrowed moral capital, leverage on reputation; trust as water finding channels; two clocks (internet time versus legal time); harvest without season; a bridge assembled from selected truths.
+
+### 2026-09-05 · fcmb-the-n14-share
+
+- **Type and rating:** Company research report, FCMB Group. ACCUMULATE; base fair value ₦15.50 to ₦18.00 over twelve to eighteen months; preferred entry ≤₦11.50; bear ₦8.50 to ₦10.00 (about ₦9 in text); bull ₦22 to ₦24. No review date stated. [At publication. A horizon and review note was added on 28 September 2026; see the corrections record.]
+- **Entry route:** after the answer box, an archival object: the October 2007 FCMB newspaper advertisement, a woman looking at the reader, 4.5 billion shares at ₦14, "My Bank and I invite YOU to INVEST!"
+- **Narrative shape and ending:** 1,000-share investor ledger, market cap versus shareholder return, then cheapness, bull case, bear case and valuation. Ends by returning to the woman in the advertisement: forget the photograph, inspect the balance sheet.
+- **Hero concept:** stylised reconstruction of the 2007 ₦14 public offer beside the ₦11.90 price on 4 September 2026.
+- **Cultural guests:** None.
+- **Quotations:** FCMB 2007 advertisement slogan, "My Bank and I invite YOU to INVEST!"
 - **Historical episodes:** the 2007 Nigerian bank-share boom and public offers; the banking crisis (2009, undated in text); FinBank acquisition; bonus issues 2012 and 2013; the 2024 and 2025/26 public offers and 2025 convertible. No proverbs.
 - **Nigerian social types:** the 2007 generation of new retail investors; the old 1,000-share shareholder (labelled Seven Gates reconstruction, not ILLUSTRATION); church programmes as a cadence reference.
 - **Closing cadence:** callback to the opening advertisement, ending on "decide what disappointment is worth."
