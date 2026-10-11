@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Bangkok begins with less fiscal room</title>
+  <desc id="desc">Global public debt rises from just under 94 percent of GDP in 2025 toward 100 percent in 2029. Global growth is around 3 percent in 2026 and developing-country interest payments average more than 10 percent of government revenue.</desc>
+  <rect width="1200" height="680" fill="#FBF8F1"/>
+  <rect x="30" y="30" width="1140" height="620" rx="18" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="70" y="92" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#1A1F24">Bangkok begins with less fiscal room</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="19" fill="#46504F">Global public finances before the 2026 IMF and World Bank annual meetings</text>
+
+  <rect x="70" y="174" width="620" height="350" rx="12" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="104" y="220" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#A67C3D">GLOBAL PUBLIC DEBT / GDP</text>
+  <line x1="120" y1="458" x2="640" y2="458" stroke="#1A1F24" stroke-width="2"/>
+  <rect x="185" y="289" width="145" height="169" rx="4" fill="#A67C3D"/>
+  <rect x="430" y="278" width="145" height="180" rx="4" fill="#9C4B42"/>
+  <text x="257" y="273" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#1A1F24">94%</text>
+  <text x="502" y="262" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#9C4B42">100%</text>
+  <text x="257" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1F24">2025 estimate</text>
+  <text x="502" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1F24">2029 projection</text>
+
+  <rect x="720" y="174" width="410" height="160" rx="12" fill="#1A1F24"/>
+  <text x="755" y="216" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" fill="#C69A52">GLOBAL GROWTH · 2026</text>
+  <text x="755" y="289" font-family="Georgia, serif" font-size="68" font-weight="700" fill="#FBF8F1">≈3%</text>
+
+  <rect x="720" y="364" width="410" height="160" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="3"/>
+  <text x="755" y="406" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.1" fill="#A67C3D">DEVELOPING COUNTRIES</text>
+  <text x="755" y="468" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#1A1F24">&gt;10%</text>
+  <text x="915" y="454" font-family="Arial, sans-serif" font-size="17" fill="#46504F">of government revenue</text>
+  <text x="915" y="480" font-family="Arial, sans-serif" font-size="17" fill="#46504F">absorbed by interest</text>
+
+  <line x1="70" y1="570" x2="1130" y2="570" stroke="#A67C3D" stroke-width="2"/>
+  <text x="70" y="604" font-family="Arial, sans-serif" font-size="15" fill="#46504F">Sources: IMF Fiscal Monitor, 15 April; IMF statement, 1 September; Reuters, 11 October 2026.</text>
+  <text x="1130" y="604" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1F24">SEVEN GATES RESEARCH</text>
+</svg>
