@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-12 · briefing/2026-10-12
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** confirmed loss of life on the Djibouti-to-Yemen migrant route, followed by the opposing flows of people crossing the Red Sea in search of safety or work.
+- **Shape:** five ranked developments; the Eastern Route shipwreck, the announced Russia-Ukraine energy ceasefire, World Bank crisis and private-capital mobilisation, the IMF's AI-growth assessment and Nigeria's SEC warning on WayvePay; closes on evidence needed to test each institutional claim.
+- **Visual:** branching capital-flow diagram for World Bank Group FY2026 private-capital mobilisation, explicitly separating the regional lens from overlapping income-group categories and highlighting the thin low-income-country flow.
+- **Cultural guests, quotations, anecdotes, jokes:** None. Migrant deaths and armed conflict are treated without humour.
+- **Memorable phrase:** "A border policy that begins only at interception arrives too late."
+- **Freshness check:** the human opening concerns forced movement and migration policy rather than yesterday's aviation-security frame; the capital-flow visual replaces recent bars and dashboards; no retired distinction construction, personified abstraction, party imagery or reused joke appears.
+- **Evidence limits:** casualty and missing counts remain subject to search updates; the ceasefire lacks public Russian confirmation at the research cut-off; Nigeria's share of World Bank-mobilised private capital is undisclosed; IMF AI effects are regional estimates; the SEC warning is authoritative but its cited web reference appears to point to a news article and is flagged for clarification.
+
 ### 2026-10-11 · briefing/2026-10-11
 
 - **Type:** Daily Brief, no investment rating.

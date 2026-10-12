@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">The capital surge still thins at the hardest markets</title>
+  <desc id="desc">The World Bank Group mobilized 112 billion dollars of private capital in fiscal 2026. Africa received 22 billion dollars, lower-middle-income countries 37 billion dollars and low-income countries about 3 billion dollars. Regional and income group figures overlap.</desc>
+  <rect width="1200" height="680" fill="#FBF8F1"/>
+  <rect x="30" y="30" width="1140" height="620" rx="18" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="70" y="92" font-family="Georgia, serif" font-size="37" font-weight="700" fill="#1A1F24">The capital surge still thins at the hardest markets</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="19" fill="#46504F">World Bank Group private-capital mobilisation, fiscal 2026</text>
+
+  <rect x="70" y="190" width="310" height="265" rx="14" fill="#1A1F24"/>
+  <text x="105" y="235" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" fill="#C69A52">PRIVATE CAPITAL</text>
+  <text x="105" y="327" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#FBF8F1">$112bn</text>
+  <text x="105" y="370" font-family="Arial, sans-serif" font-size="18" fill="#C6BFAE">mobilised in FY2026</text>
+  <text x="105" y="405" font-family="Arial, sans-serif" font-size="18" fill="#C6BFAE">$35bn in FY2022</text>
+
+  <path d="M380 322 C455 322 460 249 520 249" fill="none" stroke="#A67C3D" stroke-width="7"/>
+  <path d="M380 322 C455 322 460 384 520 384" fill="none" stroke="#A67C3D" stroke-width="7"/>
+  <circle cx="475" cy="322" r="9" fill="#A67C3D"/>
+
+  <rect x="520" y="174" width="610" height="150" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="3"/>
+  <text x="555" y="214" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" fill="#A67C3D">REGIONAL LENS</text>
+  <text x="555" y="276" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#1A1F24">Africa  $22bn</text>
+  <text x="940" y="270" font-family="Arial, sans-serif" font-size="18" fill="#46504F">from about $9bn</text>
+  <text x="940" y="294" font-family="Arial, sans-serif" font-size="18" fill="#46504F">in FY2022</text>
+
+  <rect x="520" y="344" width="610" height="150" rx="12" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="555" y="384" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" fill="#A67C3D">INCOME LENS</text>
+  <text x="555" y="438" font-family="Georgia, serif" font-size="35" font-weight="700" fill="#1A1F24">Lower-middle  $37bn</text>
+  <text x="905" y="438" font-family="Georgia, serif" font-size="35" font-weight="700" fill="#9C4B42">Low-income  ~$3bn</text>
+  <text x="905" y="469" font-family="Arial, sans-serif" font-size="17" fill="#9C4B42">roughly unchanged</text>
+
+  <rect x="70" y="530" width="1060" height="55" rx="8" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="1.5"/>
+  <text x="95" y="563" font-family="Arial, sans-serif" font-size="17" fill="#46504F">Regional and income-group figures are separate lenses and overlap. Do not add them together.</text>
+  <line x1="70" y1="608" x2="1130" y2="608" stroke="#A67C3D" stroke-width="2"/>
+  <text x="70" y="636" font-family="Arial, sans-serif" font-size="15" fill="#46504F">Source: World Bank Group, 17 September 2026.</text>
+  <text x="1130" y="636" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1F24">SEVEN GATES RESEARCH</text>
+</svg>
