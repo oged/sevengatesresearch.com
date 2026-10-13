@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">The Dangote offer gained 14 days, not one market</title>
+  <desc id="desc">A timeline shows the Dangote Refinery IPO opening on 14 September, the original closing date of 13 October and the extended closing date of 27 October. The offer comprises 4.1 billion shares at 525 naira each, about 2.15 trillion naira.</desc>
+  <rect width="1200" height="680" fill="#FBF8F1"/>
+  <rect x="30" y="30" width="1140" height="620" rx="18" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="70" y="92" font-family="Georgia, serif" font-size="37" font-weight="700" fill="#1A1F24">The Dangote offer gained 14 days, not one market</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="19" fill="#46504F">Application timetable and unchanged offer scale</text>
+
+  <line x1="115" y1="270" x2="1080" y2="270" stroke="#C6BFAE" stroke-width="8" stroke-linecap="round"/>
+  <line x1="115" y1="270" x2="690" y2="270" stroke="#1A1F24" stroke-width="8" stroke-linecap="round"/>
+  <line x1="690" y1="270" x2="1080" y2="270" stroke="#A67C3D" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="115" cy="270" r="17" fill="#1A1F24"/>
+  <circle cx="690" cy="270" r="17" fill="#1A1F24"/>
+  <circle cx="1080" cy="270" r="19" fill="#A67C3D"/>
+
+  <text x="115" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.1" fill="#A67C3D">OFFER OPENED</text>
+  <text x="115" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#1A1F24">14 Sep</text>
+  <text x="690" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.1" fill="#46504F">ORIGINAL CLOSE</text>
+  <text x="690" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#1A1F24">13 Oct</text>
+  <text x="1080" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.1" fill="#A67C3D">NEW CLOSE</text>
+  <text x="1080" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#1A1F24">27 Oct</text>
+  <rect x="790" y="292" width="190" height="42" rx="21" fill="#A67C3D"/>
+  <text x="885" y="319" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FBF8F1">+14 DAYS</text>
+
+  <rect x="70" y="386" width="235" height="118" rx="12" fill="#1A1F24"/>
+  <text x="95" y="425" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#C69A52">SHARES OFFERED</text>
+  <text x="95" y="478" font-family="Georgia, serif" font-size="43" font-weight="700" fill="#FBF8F1">4.1bn</text>
+
+  <rect x="325" y="386" width="235" height="118" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="350" y="425" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#A67C3D">OFFER PRICE</text>
+  <text x="350" y="478" font-family="Georgia, serif" font-size="43" font-weight="700" fill="#1A1F24">₦525</text>
+
+  <rect x="580" y="386" width="235" height="118" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="605" y="425" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#A67C3D">GROSS OFFER</text>
+  <text x="605" y="478" font-family="Georgia, serif" font-size="41" font-weight="700" fill="#1A1F24">≈₦2.15tn</text>
+
+  <rect x="835" y="386" width="295" height="118" rx="12" fill="#FBF8F1" stroke="#9C4B42" stroke-width="2"/>
+  <text x="860" y="425" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#9C4B42">ACCESS CONSTRAINT</text>
+  <text x="860" y="459" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1F24">Cross-border participation</text>
+  <text x="860" y="486" font-family="Arial, sans-serif" font-size="18" fill="#46504F">still depends on eligible channels</text>
+
+  <rect x="70" y="540" width="1060" height="55" rx="8" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="1.5"/>
+  <text x="95" y="574" font-family="Arial, sans-serif" font-size="17" fill="#46504F">The extension changes the timetable. It does not change the price, share count or cross-border market structure.</text>
+  <line x1="70" y1="616" x2="1130" y2="616" stroke="#A67C3D" stroke-width="2"/>
+  <text x="70" y="641" font-family="Arial, sans-serif" font-size="15" fill="#46504F">Sources: Dangote Refinery, 12 Oct; SEC Nigeria, 14 Sep; NGX Group, 16 Sep 2026.</text>
+  <text x="1130" y="641" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1F24">SEVEN GATES RESEARCH</text>
+</svg>

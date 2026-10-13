@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-13 · briefing/2026-10-13
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the failure of a military escort on an ordinary road to market, moving from the composition of the convoy to the commercial activity that insecurity removes.
+- **Shape:** five ranked developments; the Bukkuyum market-convoy ambush, the IMF's more concentrated global outlook, Dangote Refinery's extended IPO, Joseph Kabila's formal leadership of Congo's armed opposition and AI-related financial-stability risk; closes on specific official, market and operational evidence that would alter the view.
+- **Visual:** dated IPO timeline separating the original 13 October close from the 27 October extension, with offer scale and the remaining cross-border access constraint shown as distinct facts.
+- **Cultural guests, quotations, anecdotes, jokes:** None. Fatal violence and conflict are treated without humour.
+- **Memorable phrase:** "Operations announced after an ambush are not the same as a safer road."
+- **Freshness check:** begins with the failed protective system rather than yesterday's forced-migration and casualty-count frame; the visual is a time sequence rather than a flow diagram or bar chart; no retired distinction construction, personified abstraction, social-event imagery, plumbing shorthand or reused joke appears.
+- **Evidence limits:** the Bukkuyum toll is based on a witness and military source because security agencies had not responded publicly at the cut-off; IMF forecasts and stress tests are scenarios rather than outcomes; the IPO extension and access rationale are company statements approved by the SEC, while final subscriptions and allotment remain unknown; the Congo coalition's announced structure does not establish its operational cohesion.
+
 ### 2026-10-12 · briefing/2026-10-12
 
 - **Type:** Daily Brief, no investment rating.
