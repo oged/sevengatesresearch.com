@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="880" viewBox="0 0 800 880" role="img" aria-labelledby="title desc">
+ <title id="title">US inflation was already energy-led before September's release</title>
+ <desc id="desc">August 2026 seasonally adjusted monthly price changes: gasoline 3.9%, energy 2.1%, all items 0.4%, core excluding food and energy 0.3%. Common zero-to-four scale. Categories overlap and are not additive.</desc>
+ <rect width="800" height="880" fill="#FBF8F1"/>
+ <rect x="20" y="20" width="760" height="840" rx="16" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+ <text x="48" y="66" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#A67C3D">FIGURE 1 · SEVEN GATES RESEARCH</text>
+ <text x="48" y="119" font-family="Georgia,serif" font-size="36" font-weight="700" fill="#1A1F24">US inflation was already</text>
+ <text x="48" y="164" font-family="Georgia,serif" font-size="36" font-weight="700" fill="#1A1F24">energy-led</text>
+ <text x="48" y="206" font-family="Arial,sans-serif" font-size="25" fill="#46504F">August 2026 monthly change, adjusted (%)</text>
+ <g stroke="#C6BFAE" stroke-width="1">
+  <path d="M260 244V572 M377.5 244V572 M495 244V572 M612.5 244V572 M730 244V572"/>
+ </g>
+ <g font-family="Arial,sans-serif" font-size="28" fill="#1A1F24">
+  <text x="48" y="293">Gasoline</text><text x="48" y="373">Energy</text><text x="48" y="453">All items</text><text x="48" y="533">Core</text>
+ </g>
+ <g>
+  <rect x="260" y="260" width="458.25" height="46" rx="4" fill="#A67C3D"/>
+  <rect x="260" y="340" width="246.75" height="46" rx="4" fill="#A67C3D"/>
+  <rect x="260" y="420" width="47" height="46" rx="4" fill="#1A1F24"/>
+  <rect x="260" y="500" width="35.25" height="46" rx="4" fill="#46504F"/>
+ </g>
+ <g font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#1A1F24">
+  <text x="693" y="293" text-anchor="end" fill="#FBF8F1">3.9</text><text x="527" y="373">2.1</text><text x="326" y="453">0.4</text><text x="315" y="533">0.3</text>
+ </g>
+ <g font-family="Arial,sans-serif" font-size="25" fill="#46504F" text-anchor="middle">
+  <text x="260" y="606">0</text><text x="377.5" y="606">1</text><text x="495" y="606">2</text><text x="612.5" y="606">3</text><text x="730" y="606">4%</text>
+ </g>
+ <path d="M48 638H752" stroke="#C6BFAE" stroke-width="1"/>
+ <g font-family="Arial,sans-serif" font-size="24" fill="#46504F">
+  <text x="48" y="677" fill="#1A1F24">Gasoline: more than one-third of the all-items rise.</text>
+  <text x="48" y="713">Core excludes food and energy.</text>
+  <text x="48" y="749">Categories overlap. Do not add the bars.</text>
+  <text x="48" y="789">Source: BLS, 11 September 2026.</text>
+  <text x="48" y="825">September CPI: 14 October, 1:30 p.m. London.</text>
+ </g>
+</svg>

@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-14 · briefing/2026-10-14
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the small Nigerian growth-forecast upgrade and the explicit household-poverty warning that accompanies it; policy delivery is tested through beneficiary coverage and purchasing power.
+- **Shape:** four ranked developments: Nigeria's growth and targeted-support trade-off, renewed Hormuz attacks, Kyiv strikes and bipartisan opposition to Russian diesel relief, and memory-chip competition; ends on today's scheduled US CPI release and observable cargo, sanctions, payment and qualification evidence.
+- **Visual:** four common-zero-baseline bars for August US monthly CPI changes, using verified BLS gasoline, energy, all-items and core data; overlapping categories, seasonal adjustment and the future September release are labelled.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Civilian loss and household hardship are treated seriously.
+- **Memorable phrase:** "A growth forecast cannot establish that wages, farm income or household consumption have improved."
+- **Freshness check:** a forecast-versus-distribution opening replaces the preceding failed-escort opening; no retired personification, distinction flourish, billing metaphor, party imagery, paired-calculation epigram or reused joke. The data visual is an actual US price-component comparison rather than the prior IPO timeline.
+- **Evidence limits:** Nigeria briefing details use named local reporting alongside the IMF's primary dataset and official policy briefing; Brent is timestamped intraday; individual maritime attackers remain unidentified; Kyiv warning failures do not establish deliberate intelligence withholding; the Senate letter does not revoke a licence; chip returns are intraday and the reported breakthrough is not independently validated; September CPI remains unreleased at cut-off.
+
 ### 2026-10-13 · briefing/2026-10-13
 
 - **Type:** Daily Brief, no investment rating.
