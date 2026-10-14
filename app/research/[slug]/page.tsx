@@ -19,35 +19,35 @@ function withRepublicNarrativeIllustrations(slug: string, html: string) {
 
   return html
     .replace(
-      "<p>Then came a man in Port Harcourt who understood the difference.</p>",
-      `<p>Then came a man in Port Harcourt who understood the difference.</p>${narrativeFigure(
+      "<h3>Before Telegram, There Was Aba Road</h3>",
+      `<h3>Before Telegram, There Was Aba Road</h3>${narrativeFigure(
         "01-before-telegram-aba-road.png",
-        "Black-and-white Seven Gates editorial reconstruction of a queue outside a Nigerian investment company before the Telegram era.",
-        "Seven Gates editorial illustration. Fictional reconstruction, not documentary evidence.",
+        "AI-generated black-and-white editorial illustration of a queue outside a fictional Nigerian investment company, before the Telegram era.",
+        "Seven Gates editorial illustration. AI-generated fictional scene, not documentary evidence. Company name and signage are invented.",
       )}`,
     )
     .replace(
       "<p>This was not competition. It was a declaration of war on multiplication.</p>",
       `${narrativeFigure(
         "02-1991-port-harcourt.png",
-        "Black-and-white Seven Gates editorial reconstruction of investors outside Resources Managers Investments Limited in 1991 Port Harcourt.",
-        "Seven Gates editorial illustration. Fictional reconstruction of the 1991 wonder-bank moment, not documentary evidence.",
+        "AI-generated black-and-white editorial illustration of investors queuing outside a fictional investment office, imagined in the style of 1991 Port Harcourt.",
+        "Seven Gates editorial illustration. AI-generated imagining of the 1991 wonder-bank moment, not documentary evidence. Signage is illustrative and does not reproduce the company's actual signage or registered name.",
       )}<p>This was not competition. It was a declaration of war on multiplication.</p>`,
     )
     .replace(
       "<p>The Professor of Wonders has acquired a dashboard.</p>",
       `<p>The Professor of Wonders has acquired a dashboard.</p>${narrativeFigure(
         "03-scam-dresses-for-dinner.png",
-        "Seven Gates editorial montage showing investment-fraud costumes shifting across oil, forex, agriculture, crypto and artificial intelligence.",
-        "Seven Gates editorial illustration. Oil, forex, agriculture, crypto and AI: different costumes, same promise.",
+        "AI-generated editorial montage of five panels labelled oil, forex, agriculture, crypto and AI, the costumes worn by investment fraud.",
+        "Seven Gates editorial illustration. AI-generated montage; panel order is thematic, not a dated sequence. Oil, forex, agriculture, crypto and AI: different costumes, same promise.",
       )}`,
     )
     .replace(
       "<p>Then came the number that travelled fastest: ₦1.3 trillion.</p>",
       `${narrativeFigure(
         "04-digital-ponzi.png",
-        "Black-and-white Seven Gates editorial illustration of Nigerian investors using phones around a fictional 30 per cent monthly digital investment platform.",
-        "Seven Gates editorial illustration. Fictional digital-Ponzi scene, not documentary evidence.",
+        "AI-generated black-and-white editorial illustration of Nigerian investors using phones around a fictional 30 per cent monthly digital investment platform.",
+        "Seven Gates editorial illustration. AI-generated fictional digital-Ponzi scene, not documentary evidence.",
       )}<p>Then came the number that travelled fastest: ₦1.3 trillion.</p>`,
     );
 }

@@ -141,6 +141,14 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-14 standards pass · republic-of-30-percent-nigeria-ponzi-schemes
+
+- **Type and rating:** Thematic essay, standards pass on the 5 October 2026 refresh. No rating. No figure, source, table or paragraph length changed.
+- **Correction record (standard 16.4):** the four narrative illustrations published on 5 October 2026 (commit 1fb90a3) were corrupt files and did not render. Replaced 14 October 2026. Separately, three content faults in them were corrected: (1) captions and alt text now state AI-generated (G13); (2) the 1991 panel's sign did not match the company's name in the essay (Resources Managers Nigeria Limited), so the caption now says signage is illustrative and not the company's actual signage, and the alt text no longer names the company; (3) the five-panel montage printed era dates that contradicted the essay (forex after MMM, agriculture around 2022), so the dates were removed and the caption says the panel order is thematic (G1, G3). The 5 October entry below recorded only the ten SVG figures; these four illustrations were not logged there.
+- **Visuals:** four AI-generated black-and-white narrative illustrations: a pre-Telegram queue outside a fictional investment company (below the "Before Telegram, There Was Aba Road" heading), a 1991 Port Harcourt investment-office queue, a five-panel costume montage (oil, forex, agriculture, crypto, AI), and a digital-Ponzi phone scene (before the CBEX 1.3 trillion naira paragraph). Titles are baked into the image files.
+- **Freshness edits (standard 6.4, retired 30 September 2026):** seven phrases that made arithmetic, a crisis, sunk cost or a regulator act like people were reworded to state the mechanism: "The arithmetic has arrived" (now the credit alert), "forces the arithmetic to speak aloud", "the joke mathematics tells", "forced the balance sheet to confess", "Sunk cost has found a payment gateway", "regulator could finish breakfast", "arithmetic resumes jurisdiction". No new anecdotes, quotations or metaphor families.
+- **Left as is, by choice:** length (about 9,200 words, accepted 5 October); the refrain "Where did the return come from?" (four uses, the essay's structural test); the closing line "The schemes change. Mathematics does not." (ending unchanged from 5 September).
+
 ### 2026-10-14 · briefing/2026-10-14
 
 - **Type:** Daily Brief, no investment rating.

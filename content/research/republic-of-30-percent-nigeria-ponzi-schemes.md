@@ -28,7 +28,7 @@ By The Lokoja Contrarian · 5 September 2026 · Restructured 5 October 2026 · S
 | Historical anchors | P. Crentsil (1920-21), Umanah / Resources Managers (1991), MMM (2016), CBEX (2025-26). |
 | Seven Gates view | Treat any promised return that cannot name its source of cash as a Ponzi until shown otherwise. Thematic essay; not rated. |
 | Evidence discipline | Official facts, court allegations, investor claims and media estimates are kept separate. |
-| Data cut-off | 5 September 2026. Structure refreshed 5 October 2026; no figure changed. |
+| Data cut-off | 5 September 2026. Structure refreshed 5 October 2026 and illustrations standardised 14 October 2026; no figure changed. |
 
 ### A note on the trigger
 
@@ -46,7 +46,7 @@ Thirty days later, his phone buzzes.
 
 Credit alert: ₦300,000.
 
-The arithmetic has arrived before the explanation.
+The credit alert has arrived before the explanation.
 
 He stares at the balance for a moment, because money on a screen has a peculiar authority. Then he takes a screenshot. This is the first ritual. The second is distribution. His wife sees it. A colleague sees it. His brother in London receives it with the caption, *I told you these people are serious.* By evening it has entered an alumni WhatsApp group. By Sunday, depending on the investor, it may have acquired a theological dimension.
 
@@ -206,7 +206,7 @@ Here is a simulation, in numbers, beginning with ₦1 billion of new money:
 | 7 | ₦8.845bn | 20% | ₦9.582bn | -₦737m | ₦996m |
 | 8 | ₦9.730bn | 10% | ₦11.499bn | -₦1.769bn | -₦773m |
 
-Month eight is the joke mathematics tells after everyone else has stopped laughing.
+Month eight is where the model breaks, after everyone else has stopped laughing.
 
 ![Illustrative MMM-style cash-flow simulation](/images/research/republic-of-30-percent-nigeria-ponzi-schemes/mmm_sim.svg)
 
@@ -260,7 +260,7 @@ A solvency problem acquires a run.
 
 A comparison with banking helps here. A bank can be economically solvent but temporarily illiquid: its assets may exceed its liabilities even though the assets cannot be converted to cash fast enough to meet withdrawals. A classic Ponzi has the more embarrassing problem. It is typically illiquid because its economics were never solvent in the first place.
 
-The crisis does not create the fraud. It forces the arithmetic to speak aloud.
+The crisis does not create the fraud. It forces the arithmetic into view.
 
 ### A Short Visit to New York
 
@@ -271,7 +271,7 @@ When the global financial crisis hit in 2008, clients wanted their money. Madoff
 
 It is often said loosely that the crisis "caused" Madoff to fail. That gives the market crash too much credit.
 
-**The mathematics was already fraudulent. The crisis forced the balance sheet to confess.**
+**The mathematics was already fraudulent. The crisis exposed the balance sheet.**
 
 What if Madoff had simply invested the money?
 
@@ -770,7 +770,7 @@ This is the final insult of a mature fraud: the victim is asked to finance the r
 
 It sounds absurd from outside the system. Inside, it is framed as the last small obstacle between the investor and his trapped fortune.
 
-Sunk cost has found a payment gateway.
+The sunk-cost trap now has a payment page.
 
 ### The Helicopter View
 
@@ -782,7 +782,7 @@ Bernie Madoff found sophisticated investors with stability and exclusivity.
 
 Albania in 1996-97 showed what happens when pyramid finance becomes systemic. IMF research estimated the schemes' nominal liabilities at roughly half of GDP, with participation reaching a huge share of the population. When they collapsed, financial failure became political disorder.
 
-Britain has had mini-bonds and investment scandals. France has had collectible and alternative-asset frauds. Crypto produced borderless versions because the sales funnel became global before the regulator could finish breakfast.
+Britain has had mini-bonds and investment scandals. France has had collectible and alternative-asset frauds. Crypto produced borderless versions because the sales funnel became global before any regulator could respond.
 
 Human beings everywhere are attracted to yield, authority, novelty and the possibility that the crowd has discovered something before they have.
 
@@ -898,7 +898,7 @@ Therefore, 30 per cent every month is sustainable.
 
 No.
 
-That is where arithmetic resumes jurisdiction.
+That is where the arithmetic settles it.
 
 Every Ponzi scheme sells the same financial product: **the feeling of being early.**
 
@@ -972,7 +972,7 @@ Somebody arrives early. Somebody gets paid. Somebody tells his friends. And some
 
 ## Research notes and selected sources
 
-**Data cut-off:** 5 September 2026 (unchanged in the 5 October 2026 refresh). Allegations are described as allegations. Investor and media estimates are not promoted into audited loss figures. The MMM cash-flow model and compounding examples are Seven Gates illustrations, not recovered scheme ledgers.
+**Data cut-off:** 5 September 2026 (unchanged in the 5 and 14 October 2026 refreshes). Allegations are described as allegations. Investor and media estimates are not promoted into audited loss figures. The MMM cash-flow model and compounding examples are Seven Gates illustrations, not recovered scheme ledgers.
 
 1. Securities and Exchange Commission, Nigeria, **"Public Alert on the Activities of MMM Federal Republic of Nigeria"**, 30 August 2016. https://sec.gov.ng/for-investors/keep-track-of-circulars/public-alert-on-the-activities-of-mmm-federal-republic-of-nigeria-nigeriammmnet/
 2. Securities and Exchange Commission, Nigeria, **Known Investment Scams** and enforcement notices, accessed 5 September 2026. https://www.sec.gov.ng/for-investors/known-investment-scams/
@@ -1001,5 +1001,7 @@ Somebody arrives early. Somebody gets paid. Somebody tells his friends. And some
 25. *Vanguard*, **"N2bn Investment scam: Court adjourns trial of agric entrepreneur to next week"**, 5 July 2023, reporting Federal Government and SEC allegations regarding an unregistered collective investment scheme valued above ₦2 billion. https://www.vanguardngr.com/2023/07/n2bn-investment-scam-court-adjourns-trial-of-agric-entrepreneur-to-next-week/
 
 **Revision note, 5 October 2026.** This is a structural refresh. The text, numbers, tables, quotations and sources of the 5 September 2026 edition are unchanged apart from the opening view box, the part headings, short transition sentences and the removal of a few stock constructions. Paragraphs were moved so that the mechanism and the arithmetic come before the history, the history before the psychology, and the psychology before the policy and the close. The ten figures were redrawn in the Seven Gates system from the numbers in the text. Figures 3, 8 and 9 are conceptual illustrations and carry no data values; the participant counts that appeared on an earlier draft of Figure 3 were removed because the essay's own model is in naira, not participants.
+
+**Revision note, 14 October 2026.** Standards pass. No figure, source or paragraph length changed. The four narrative illustrations added on 5 October were replaced after the first upload proved corrupt. All four are now labelled AI-generated in caption and alt text. In the 1991 Port Harcourt panel the shop sign is illustrative and does not reproduce the company's actual signage or registered name (Resources Managers Nigeria Limited). The era dates printed on the five-panel montage were removed because they conflicted with the essay's own chronology (forex after MMM, agricultural schemes around 2022) and the panels are thematic, not a dated sequence. The first illustration now sits below its section heading. Seven short phrases that personified arithmetic, a crisis or sunk cost were reworded to state the mechanism directly (retired register, 30 September 2026).
 
 <div style="margin-top:2em;padding:1.1em 1.2em;background:#F4F0E8;border:1px solid #C6BFAE;font-size:.86em;color:#46504F"><strong>Disclaimer.</strong> This publication is provided for informational and educational purposes only. It does not constitute financial, investment, tax, legal, or other professional advice, nor does it constitute a recommendation, offer, solicitation, or invitation to buy, sell, or hold any security, financial instrument, or investment. The analysis may contain opinions, estimates, assumptions, forecasts and forward-looking statements based on information considered reliable at the time of publication. Such views may change without notice, and actual outcomes may differ materially. Investing involves risk, including the possible loss of principal. Readers should conduct their own independent research, verify the information presented, consider their individual circumstances and risk tolerance, and obtain advice from appropriately qualified professional advisers before making any investment decision. Seven Gates Research accepts no responsibility for investment decisions made solely on the basis of this publication.</div>
