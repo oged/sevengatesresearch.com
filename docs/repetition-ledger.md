@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-15 · briefing/2026-10-15
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** survival of a container ship's crew, followed by the separate outcomes of damaged vessels and the commercial effect of cargo disruption beyond oil tankers.
+- **Shape:** five ranked developments: Hormuz vessel losses, released US September inflation, the IMF's fiscal warning, the West African scam disruption and Anthropic's election safeguards; ending separates specific operational, inflation, fiscal, judicial and independently evaluated outcomes.
+- **Visual:** two stacked factual vessel-status panels with incident dates, different hull outcomes and the 21 plus 22 crew total; explicitly excludes Cape Dao to prevent conflating the two attacked Singapore vessels with the two reported sinkings.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Death, trafficking and forced labour are treated without humour.
+- **Memorable phrase:** "Two sinkings reported within a day do not establish two fresh attacks that day."
+- **Freshness check:** crew survival and cargo-risk opening replaces the previous growth-forecast entry; vessel-status cards replace yesterday's inflation bars; no retired construction, personified financial abstraction, reused quotation or joke. The inflation item uses the newly released September data, not yesterday's pre-release speculation.
+- **Evidence limits:** maritime attackers remain unidentified; Cape Dao's fatal strike occurred on 23 September, not the date of the sinking report; the US CPI does not measure Nigerian inflation; fiscal recommendations are not a new Nigerian appropriation; arrests are not convictions and trafficking victims must be separated from offenders; Meta's account counts and Anthropic's safeguards are attributed company reports, not independent outcome measures.
+
 ### 2026-10-14 standards pass · republic-of-30-percent-nigeria-ponzi-schemes
 
 - **Type and rating:** Thematic essay, standards pass on the 5 October 2026 refresh. No rating. No figure, source, table or paragraph length changed.

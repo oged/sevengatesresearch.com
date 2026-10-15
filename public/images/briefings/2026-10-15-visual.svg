@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="960" viewBox="0 0 1000 960" role="img" aria-labelledby="title desc">
+ <title id="title">Different ship outcomes, 43 crew safe</title>
+ <desc id="desc">MPA reported on 14 October 2026 that GFS Pride sank after being struck on 13 October, with 21 crew evacuated safely. GFS Giselle was struck on 14 October and reached anchorage under its own propulsion, with 22 crew safe. Dates are Singapore time. Cape Dao is a separate bulk carrier, not pictured in this data panel.</desc>
+ <rect width="1000" height="960" fill="#FBF8F1"/>
+ <rect x="24" y="24" width="952" height="912" rx="16" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+ <text x="58" y="77" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#A67C3D">FIGURE 1 · SEVEN GATES RESEARCH</text>
+ <text x="58" y="134" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#1A1F24">Different ship outcomes,</text>
+ <text x="58" y="184" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#1A1F24">43 crew safe</text>
+ <text x="58" y="228" font-family="Arial,sans-serif" font-size="28" fill="#46504F">Two Singapore-registered container vessels</text>
+ <rect x="58" y="268" width="884" height="240" rx="10" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+ <rect x="58" y="268" width="8" height="240" fill="#8A3F36"/>
+ <text x="88" y="315" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#1A1F24">GFS PRIDE</text>
+ <text x="88" y="360" font-family="Arial,sans-serif" font-size="28" fill="#46504F">Struck: 13 October 2026</text>
+ <text x="88" y="411" font-family="Arial,sans-serif" font-size="33" font-weight="700" fill="#8A3F36">SUNK after damage and fire</text>
+ <text x="88" y="466" font-family="Arial,sans-serif" font-size="31" fill="#1A1F24">21 crew safely evacuated · no injuries reported</text>
+ <rect x="58" y="530" width="884" height="240" rx="10" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+ <rect x="58" y="530" width="8" height="240" fill="#A67C3D"/>
+ <text x="88" y="577" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#1A1F24">GFS GISELLE</text>
+ <text x="88" y="622" font-family="Arial,sans-serif" font-size="28" fill="#46504F">Struck: 14 October 2026</text>
+ <text x="88" y="673" font-family="Arial,sans-serif" font-size="33" font-weight="700" fill="#1A1F24">Hull damaged · reached safe anchorage</text>
+ <text x="88" y="728" font-family="Arial,sans-serif" font-size="31" fill="#1A1F24">22 crew safe · proceeded under own propulsion</text>
+ <g font-family="Arial,sans-serif" font-size="26" fill="#46504F">
+  <text x="58" y="817">Incident dates: Singapore time. Status reported 14 October.</text>
+  <text x="58" y="855">Cape Dao is a separate bulk carrier, not shown here.</text>
+  <text x="58" y="893">Source: Singapore MPA, 14 October 2026. Total: 21 + 22.</text>
+ </g>
+</svg>
