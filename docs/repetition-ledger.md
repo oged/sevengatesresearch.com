@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-16 · briefing/2026-10-16
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** a directly verified monthly fall in Nigeria's food index, distinguishing an actual price decline from a favourable annual comparison and from affordability.
+- **Shape:** four ranked developments: Nigerian CPI, postponed EU-GCC summit and Aden casualties, strong chip sales against AI credit stress, and Google's expanded paid news pilot; ending specifies sustained price relief, restored flights, cash receipts and licensing outcomes.
+- **Visual:** four zero-anchored horizontal bars showing NBS August and September monthly headline and food CPI changes on one negative-to-positive scale; annual food inflation appears separately as context, not a plotted monthly value.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Household hardship and deaths are treated seriously.
+- **Memorable phrase:** "A link beside an AI summary is not evidence that readers follow it."
+- **Freshness check:** observed monthly price decline replaces yesterday's ship-crew entry; Nigerian negative-to-positive CPI comparison replaces vessel-status panels and the previous US CPI component bars; no retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** original NBS PDF checked directly to resolve secondary reporting errors: August monthly food inflation was 1.02%, while 2.57 points is the subsequent change; the European Council statement does not itself give a postponement reason; Aden toll and target descriptions are attributed; AI credit observations are volatile and TSMC guidance is not realised sales; Google's licensing economics and referral outcomes remain undisclosed.
+
 ### 2026-10-15 · briefing/2026-10-15
 
 - **Type:** Daily Brief, no investment rating.

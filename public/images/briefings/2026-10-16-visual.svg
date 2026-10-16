@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="850" viewBox="0 0 1000 850" role="img" aria-labelledby="title desc">
+ <title id="title">Food prices reversed in September</title>
+ <desc id="desc">Nigeria monthly CPI change, August and September 2026. Headline: 0.71% then 0.06%. Food: 1.02% then -1.55%. Shared minus-two to plus-two percent scale. Source NBS, 15 October 2026.</desc>
+ <rect width="1000" height="850" fill="#FBF8F1"/>
+ <rect x="24" y="24" width="952" height="802" rx="16" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+ <text x="58" y="77" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#A67C3D">FIGURE 1 · SEVEN GATES RESEARCH</text>
+ <text x="58" y="133" font-family="Georgia,serif" font-size="41" font-weight="700" fill="#1A1F24">Food prices reversed in September</text>
+ <text x="58" y="181" font-family="Arial,sans-serif" font-size="29" fill="#46504F">Nigeria monthly CPI change (%), August vs September 2026</text>
+ <g stroke="#C6BFAE" stroke-width="1"><path d="M270 230V620 M427.5 230V620 M742.5 230V620 M900 230V620"/></g>
+ <path d="M585 230V620" stroke="#1A1F24" stroke-width="2"/>
+ <g font-family="Arial,sans-serif" font-size="29" fill="#1A1F24">
+  <text x="58" y="263" font-weight="700">HEADLINE</text><text x="58" y="312">August</text><text x="58" y="372">September</text>
+  <text x="58" y="447" font-weight="700">FOOD</text><text x="58" y="496">August</text><text x="58" y="556">September</text>
+ </g>
+ <rect x="585" y="280" width="111.825" height="44" rx="3" fill="#1A1F24"/>
+ <rect x="585" y="340" width="9.45" height="44" rx="2" fill="#A67C3D"/>
+ <rect x="585" y="464" width="160.65" height="44" rx="3" fill="#1A1F24"/>
+ <rect x="340.875" y="524" width="244.125" height="44" rx="3" fill="#A67C3D"/>
+ <g font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#1A1F24">
+  <text x="714" y="312">0.71</text><text x="612" y="372">0.06</text><text x="763" y="496">1.02</text><text x="323" y="556" text-anchor="end">-1.55</text>
+ </g>
+ <g font-family="Arial,sans-serif" font-size="27" fill="#46504F" text-anchor="middle">
+  <text x="270" y="658">-2</text><text x="427.5" y="658">-1</text><text x="585" y="658">0</text><text x="742.5" y="658">+1</text><text x="900" y="658">+2%</text>
+ </g>
+ <path d="M58 690H942" stroke="#C6BFAE"/>
+ <g font-family="Arial,sans-serif" font-size="26" fill="#46504F">
+  <text x="58" y="733">September annual food inflation was still 19.59%.</text>
+  <text x="58" y="772">Source: NBS September CPI report, 15 October 2026, pp. 7, 10.</text>
+ </g>
+</svg>
