@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-17 · briefing/2026-10-17
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the forthcoming Senate screening record as a test of electoral appointment quality, rather than speed or presidential assurance.
+- **Shape:** four ranked developments: INEC nominations and the release's inconsistent new/reappointed count, renewed Aden airport strike, IMF growth and tightening stance, and local-AI laptop availability; ends with public scrutiny, flight access, benchmark yields and measured procurement outcomes.
+- **Visual:** six-name institutional roster separating national from resident electoral commissioner nominees, explicitly identifying Bala Bila's reappointment and the headline/body inconsistency. All names remain nominations, not confirmed appointments.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Civilian access and conflict are treated seriously.
+- **Memorable phrase:** "Memory capacity is a purchasing specification, not an acceptance test."
+- **Freshness check:** institutional screening entry replaces yesterday's monthly CPI observation; named-role roster replaces recent price bars, vessel panels and timelines; no retired financial personification, distinction flourish, billing metaphor, paired epigram or reused joke. Last 20 entries and permanent register checked before and after drafting.
+- **Evidence limits:** State House headline says four new national commissioners but body names three new and one reappointment; Ajayi's tenure expiry is not a general deadline; Aden's no-loss-of-life statement is preliminary and Houthi responsibility is attributed to government authorities; IMF recommendations are not Nigerian policy decisions; NVIDIA availability and hardware specifications are vendor claims, not independently verified task performance.
+
 ### 2026-10-16 · briefing/2026-10-16
 
 - **Type:** Daily Brief, no investment rating.

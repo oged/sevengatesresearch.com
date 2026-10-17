@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1180" viewBox="0 0 1000 1180" role="img" aria-labelledby="title desc">
+  <title id="title">Six named INEC nominations still face Senate scrutiny</title>
+  <desc id="desc">State House release of 16 October 2026 names three new national commissioners, one national commissioner for reappointment and two resident electoral commissioners. The headline calls four national commissioners new, but the body identifies Bala Bila as a reappointment.</desc>
+  <rect width="1000" height="1180" fill="#FBF8F1"/>
+  <rect x="24" y="24" width="952" height="1132" rx="16" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <g font-family="Arial, sans-serif" fill="#1A1F24">
+    <text x="58" y="75" font-size="24" font-weight="700" fill="#A67C3D">FIGURE 1 · SEVEN GATES RESEARCH</text>
+    <text x="58" y="130" font-family="Georgia, serif" font-size="42" font-weight="700">Six names. Senate scrutiny ahead.</text>
+    <text x="58" y="172" font-size="25" fill="#46504F">INEC nominations announced 16 October 2026</text>
+    <rect x="58" y="208" width="884" height="53" rx="5" fill="#1A1F24"/>
+    <text x="80" y="243" font-size="25" font-weight="700" fill="#FBF8F1">NATIONAL COMMISSIONERS</text>
+    <g font-size="29" font-weight="700">
+      <text x="80" y="307">Mustapha Aliu</text>
+      <text x="80" y="399">Bashir Muhammed Umar</text>
+      <text x="80" y="491">Oluwatoyin Babalola</text>
+      <text x="80" y="583">Bala Bila</text>
+    </g>
+    <g font-size="24" fill="#46504F">
+      <text x="80" y="343">North West · new nominee</text>
+      <text x="80" y="435">North Central · new nominee</text>
+      <text x="80" y="527">South West · new nominee</text>
+      <text x="80" y="619">North East · reappointment</text>
+    </g>
+    <g stroke="#C6BFAE"><path d="M80 362H920 M80 454H920 M80 546H920 M80 638H920"/></g>
+    <rect x="58" y="663" width="884" height="53" rx="5" fill="#1A1F24"/>
+    <text x="80" y="698" font-size="25" font-weight="700" fill="#FBF8F1">RESIDENT ELECTORAL COMMISSIONERS</text>
+    <text x="80" y="762" font-size="29" font-weight="700">Samuel Akinjide Akinleye</text>
+    <text x="80" y="798" font-size="24" fill="#46504F">Ekiti State · new nominee</text>
+    <path d="M80 817H920" stroke="#C6BFAE"/>
+    <text x="80" y="854" font-size="29" font-weight="700">Zahradden Basiru Sanusi</text>
+    <text x="80" y="890" font-size="24" fill="#46504F">Jigawa State · new nominee</text>
+    <rect x="58" y="925" width="884" height="133" rx="6" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+    <text x="80" y="962" font-size="25" font-weight="700">Read the release carefully</text>
+    <text x="80" y="998" font-size="23" fill="#46504F">Headline: four new national commissioners.</text>
+    <text x="80" y="1031" font-size="23" fill="#46504F">Body: three new nominees and one reappointment.</text>
+    <text x="58" y="1098" font-size="23" font-weight="700">Nomination is not confirmation.</text>
+    <text x="58" y="1132" font-size="21" fill="#46504F">Source: State House, 16 Oct 2026. No confirmation inferred.</text>
+  </g>
+</svg>
