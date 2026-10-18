@@ -397,3 +397,12 @@ caption{caption-side:bottom;text-align:left;font-size:13.5px;font-style:italic;c
 .crit td{padding:16px 14px 16px 0;border-bottom:1px solid var(--rule);vertical-align:top;background:none;color:var(--body);font-size:15.5px;line-height:1.5}
 .crit tbody tr:nth-child(even) td{background:none}
 .crit td:first-child{color:var(--ink)}
+
+/* Outcome lines */
+.outcome{display:block;margin-top:12px;font-family:var(--sans);font-size:13.5px;color:var(--body);line-height:1.5}
+.outcome .badge{margin-right:9px;vertical-align:middle}
+.card .outcome{margin-top:14px}
+.verdict{display:grid;grid-template-columns:140px 1fr;gap:24px;align-items:baseline;padding:20px 0;border-bottom:1px solid var(--rule)}
+.verdict .label{margin:0}
+.verdict .outcome{margin:0;font-size:15px;color:var(--ink)}
+@media (max-width:640px){.verdict{grid-template-columns:1fr;gap:10px}}
