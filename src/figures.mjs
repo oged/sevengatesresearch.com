@@ -42,7 +42,7 @@ export const FIGURES = {
       s += `<line x1="${x}" y1="${y + h}" x2="${x}" y2="${y + h + 18}" stroke="${C.lichen}" stroke-width="0.8"/><text x="${x}" y="${y + h + 32}" text-anchor="middle" class="fv">${t}</text>`;
     });
     s += `<text x="${x0}" y="${y - 30}" class="fl">Constraint chain</text><text x="${x0}" y="${y - 14}" class="fv">Required against installed capacity at each link; the binding limit moves when one is removed.</text>`;
-    return { title: 'The constraint belongs to the whole chain.', descr: 'Reservoir to export, with the three streams that leave separation and the point where each limit usually sits.', svg: wrap(960, 230, s, 'Block diagram from reservoir through wells, flowlines, gathering and separation to oil, gas and water outlets'), caption: 'A removed bottleneck is not a solved system. Each link is checked for required against installed capacity, margin, constraint and consequence.' };
+    return { title: 'Where the limit usually sits', descr: 'From reservoir to export. The three streams that leave separation, and the point in the chain where each limit usually appears.', svg: wrap(960, 230, s, 'Block diagram from reservoir through wells, flowlines, gathering and separation to oil, gas and water outlets'), caption: 'Removing one bottleneck exposes the next. For each link we check what it has to carry, what it can carry, and what happens when it is full.' };
   },
 
   chainCompact() {
@@ -58,8 +58,8 @@ export const FIGURES = {
       if (parts[1]) s += `<text x="${x + w / 2}" y="${y + 37}" text-anchor="middle" class="fs" fill="${o.text ?? C.ink}">${parts.slice(1).join(' ')}</text>`;
       if (i < 7) s += arrow(x + w, y + h / 2, x + w + gap - 1, y + h / 2);
     });
-    s += `<text x="${x0}" y="${y + h + 30}" class="fv">Track baseline, opportunity, constraint owner, due date, gain, confidence and post-job verification at every step.</text>`;
-    return { title: 'The performance chain we hold to.', descr: 'From what the reservoir could give to what was actually recovered, with deferment as the gap to explain.', svg: wrap(968, 130, s, 'Performance chain from reservoir potential to recovered production'), caption: 'If a plateau is quoted, divide it by the producer count and check whether any well on test has delivered that rate.' };
+    s += `<text x="${x0}" y="${y + h + 30}" class="fv">At each step we record the baseline, the opportunity, the owner, the due date, the expected gain and the post-job check.</text>`;
+    return { title: 'From reservoir potential to recovered production', descr: 'The chain we follow when we look for lost oil. Deferment is the gap to explain.', svg: wrap(968, 130, s, 'Performance chain from reservoir potential to recovered production'), caption: 'If a plan quotes a plateau, divide it by the number of producers and check whether any well on test has delivered that rate.' };
   },
 
   waterRoutes() {
@@ -86,10 +86,10 @@ export const FIGURES = {
     s += `<path d="M410 110 C 410 70, 235 70, 215 108" fill="none" stroke="${C.oil}" stroke-width="1.1" stroke-dasharray="4 3" marker-end="url(#ah-${C.oil.slice(1)})"/>`;
     s += `<text x="230" y="64" class="fv" fill="${C.oil}">recovered oil and recycle</text>`;
     // meters
-    s += `<text x="10" y="200" class="fl">Measured at each boundary</text><text x="10" y="216" class="fv">Rate, oil in water, pressure, pump status, with meter accuracy known.</text>`;
+    s += `<text x="10" y="200" class="fl">Measured at each boundary</text><text x="10" y="216" class="fv">Rate, oil in water, pressure and pump status, with the meter accuracy known.</text>`;
     s += `<text x="800" y="100" class="fl">Seven streams</text>`;
     ['generated and separated', 'treated or transferred', 'injected for disposal', 're-injected', 'sent to ponds', 'excursions and recycles', 'outages and pressure'].forEach((t, i) => { s += `<text x="800" y="${118 + i * 16}" class="fv">${i + 1}. ${t}</text>`; });
-    return { title: 'Where the water goes.', descr: 'Produced water routes on a water-flooded field, each with its own capacity, pressure and failure mode.', svg: wrap(1000, 285, s, 'Block diagram of produced water routes from wells through processing trains and treatment to disposal wells, re-injection and evaporation ponds'), caption: 'Disposal and re-injection in two blues, ponds in red, by agreement with the operator. Injectivity is taken at actual wellhead pressure, never at nameplate.' };
+    return { title: 'Where the water goes', descr: 'Produced water routes on a water-flooded field. Each route has its own capacity, pressure and way to fail.', svg: wrap(1000, 285, s, 'Block diagram of produced water routes from wells through processing trains and treatment to disposal wells, re-injection and evaporation ponds'), caption: 'Disposal and re-injection in two blues, ponds in red, as agreed with the operator. Injectivity is taken at the actual wellhead pressure, not at nameplate.' };
   },
 
   gasChain() {
@@ -107,8 +107,8 @@ export const FIGURES = {
       const x = x0 + i * (w + gap) + w / 2;
       s += `<line x1="${x}" y1="${y + h}" x2="${x}" y2="${y + h + 26}" stroke="${C.clay}" stroke-width="1.1" marker-end="url(#ah-${C.clay.slice(1)})"/><text x="${x}" y="${y + h + 40}" text-anchor="middle" class="fv" fill="${C.clay}">${t}</text>`;
     });
-    s += `<text x="${x0}" y="24" class="fl">Each input classed</text><text x="${x0}" y="42" class="fv">Measured · vendor-stated · assumed. The balance closes only when the assumed column is empty or priced.</text>`;
-    return { title: 'A gas project is a chain of yields.', descr: 'What leaves the plant to sell is the feed minus treatment losses, liquids, plant fuel and flare, at the availability the plant actually achieves.', svg: wrap(960, 180, s, 'Block diagram of a small-scale gas monetisation chain from feed gas to customer with fuel and flare losses'), caption: 'In our selected work the mass balance gave a lower product figure than the vendor summary; the lower figure governed until the OEM confirmed.' };
+    s += `<text x="${x0}" y="24" class="fl">Each input marked</text><text x="${x0}" y="42" class="fv">Measured, vendor-stated or assumed. The balance closes only when the assumed column is empty or priced.</text>`;
+    return { title: 'What leaves the plant to sell', descr: 'Feed gas less treatment losses, liquids, plant fuel and flare, at the availability the plant achieves.', svg: wrap(960, 180, s, 'Block diagram of a small-scale gas monetisation chain from feed gas to customer with fuel and flare losses'), caption: 'In our mini-LNG study the mass balance gave a lower product figure than the vendor summary. The lower figure governed until the manufacturer confirmed.' };
   },
 
   capacityBalance() {
@@ -123,7 +123,7 @@ export const FIGURES = {
       s += `<rect x="${x0}" y="${y + 26}" width="${pw * scale}" height="16" fill="${C.pw}"/><text x="${x0 + pw * scale + 6}" y="${y + 38}" class="fv" fill="${C.pw}">${pw} water${note && !note.startsWith('oil') ? ', ' + note : ''}</text>`;
     });
     s += `<text x="${x0}" y="${y0 + rowH * 4 + 40}" class="fv">Planning assumptions used in the September 2026 forecast exercise, anonymised. Not published or verified operating limits.</text>`;
-    return { title: 'At three of four facilities the water limit sits below the oil limit.', descr: 'Receiving-facility planning capacities for oil and produced water, four central processing facilities, with the dates each capacity was assumed available.', svg: wrap(960, 320, s, 'Horizontal bar chart comparing planning oil and produced water capacities at four anonymised processing facilities'), caption: 'A transferred well arrives with its water. Where the water bar is the shorter one, the water limit binds first.', source: 'Source: forecast planning inputs, September 2026, operator withheld. Transfer lines between facilities assumed at 40 and 50 mbd liquid.', conceptual: false };
+    return { title: 'At three of four facilities the water limit sits below the oil limit', descr: 'Receiving-facility planning capacities for oil and produced water, four central processing facilities, with the dates each capacity was assumed available.', svg: wrap(960, 320, s, 'Horizontal bar chart comparing planning oil and produced water capacities at four anonymised processing facilities'), caption: 'A transferred well brings its water with it. Where the water bar is shorter, the water limit binds first.', source: 'Source: forecast planning inputs, September 2026, operator withheld. Transfer lines between facilities assumed at 40 and 50 mbd liquid.', conceptual: false };
   },
 
   restartPhases() {
@@ -138,7 +138,7 @@ export const FIGURES = {
       s += `<text x="${x + 58}" y="${y0 + hgt + 20}" text-anchor="middle" class="fs" fill="${C.ink}">Phase ${['one', 'two', 'three', 'four'][i]}</text>`;
     });
     s += `<rect x="${x0}" y="${y0 + hgt + 36}" width="12" height="12" fill="${C.oil}"/><text x="${x0 + 18}" y="${y0 + hgt + 46}" class="fv">Oil, total 86.6</text><rect x="${x0 + 130}" y="${y0 + hgt + 36}" width="12" height="12" fill="${C.pw}"/><text x="${x0 + 148}" y="${y0 + hgt + 46}" class="fv">Water, total 35.2</text>`;
-    return { title: 'Phase three carries half the water.', descr: 'Planned oil and water increments for a four-phase train restart; wells introduced one at a time, about fifteen minutes apart.', svg: wrap(960, 300, s, 'Grouped bar chart of planned oil and water increments across four restart phases'), caption: 'Plan values, not measured production. The third phase was given the longest stabilisation window because it brought 18 of the 35 thousand barrels of water.', source: 'Source: train restart plan, 2026, operator withheld.', conceptual: false };
+    return { title: 'Phase three carries half the water', descr: 'Planned oil and water increments for a four-phase train restart. Wells brought on one at a time, about fifteen minutes apart.', svg: wrap(960, 300, s, 'Grouped bar chart of planned oil and water increments across four restart phases'), caption: 'Plan values, not measured production. Phase three brought 18 of the 35 thousand barrels of water, so it got the longest stabilisation window.', source: 'Source: train restart plan, 2026, operator withheld.', conceptual: false };
   },
 
   pipelineEnvelope() {
@@ -160,8 +160,8 @@ export const FIGURES = {
     s += `<text x="${x0 + 330}" y="${y0 + 184}" class="fv" fill="${C.clay}">below the line: compression or a larger line</text>`;
     // velocity limit
     s += `<line x1="${x0 + 560}" y1="${y0}" x2="${x0 + 560}" y2="${y0 + H}" stroke="${C.lichen}" stroke-width="0.8" stroke-dasharray="3 3"/><text x="${x0 + 566}" y="${y0 + 12}" class="fv">velocity limit</text>`;
-    s += `<text x="${x0}" y="${y0 + H + 56}" class="fv">Qualitative shape only. Case values, route and dimensions are in the study and are withheld here.</text>`;
-    return { title: 'The operating envelope is the argument.', descr: 'Delivery pressure against flow for three candidate diameters, bounded by the source pressure range, the minimum delivery pressure and the velocity limit.', svg: wrap(760, 300, s, 'Conceptual chart of delivery pressure against flow rate for three pipeline diameters with pressure and velocity limits'), caption: 'A line size chosen from a nominal flow alone ignores the low source-pressure case and future demand. Where the selected curve drops below the minimum delivery pressure, compression or a larger line is needed.' };
+    s += `<text x="${x0}" y="${y0 + H + 56}" class="fv">Shape only. The case values, route and dimensions are in the study and are not shown here.</text>`;
+    return { title: 'The operating envelope sets the line size', descr: 'Delivery pressure against flow for three candidate diameters, bounded by the source pressure range, the minimum delivery pressure and the velocity limit.', svg: wrap(760, 300, s, 'Conceptual chart of delivery pressure against flow rate for three pipeline diameters with pressure and velocity limits'), caption: 'A line sized from a nominal flow alone ignores the low source pressure case and future demand. Where the selected curve drops below the minimum delivery pressure, you need compression or a larger line.' };
   },
 };
 
@@ -179,17 +179,6 @@ FIGURES.heroDatum = function () {
   // the mark (exact geometry, scaled 5x from the 48 box)
   s += `<circle cx="${c}" cy="${c}" r="${r}" fill="none" stroke="${C.forest}" stroke-width="4.5"/>`;
   s += `<path class="fill" d="M${c} ${c} L${c} ${c - q} A${q} ${q} 0 0 1 ${c + q} ${c} Z" fill="${C.forest}"/><path class="fill" d="M${c} ${c} L${c} ${c + q} A${q} ${q} 0 0 1 ${c - q} ${c} Z" fill="${C.forest}"/>`;
-  // dimension: box 48
-  s += `<line x1="${c - r - 2}" y1="400" x2="${c + r + 2}" y2="400" stroke="${L}" stroke-width="0.8"/><line x1="${c - r - 2}" y1="392" x2="${c - r - 2}" y2="408" stroke="${L}" stroke-width="0.8"/><line x1="${c + r + 2}" y1="392" x2="${c + r + 2}" y2="408" stroke="${L}" stroke-width="0.8"/>`;
-  // radius leader
-  s += `<line x1="${c}" y1="${c}" x2="${c + r * 0.7071}" y2="${c - r * 0.7071}" stroke="${L}" stroke-width="0.8"/>`;
-  // gap leader
-  s += `<line x1="${c + q}" y1="${c + 30}" x2="${c + r + 40}" y2="${c + 30}" stroke="${L}" stroke-width="0.8"/></g>`;
-  // labels (not animated)
-  s += `<text x="${c}" y="422" text-anchor="middle" class="fd" fill="${L}">48 units</text>`;
-  s += `<text x="${c + r * 0.7071 + 6}" y="${c - r * 0.7071 - 6}" class="fd" fill="${L}">r 23.5</text>`;
-  s += `<text x="${c + r + 44}" y="${c + 34}" class="fd" fill="${L}">gap 4.0</text>`;
-  s += `<text x="40" y="34" class="fl" fill="${L}">Fine datum</text><text x="40" y="48" class="fv" fill="${L}">Hairline ring, stroke 0.9. Two opposing solid quadrants, inset.</text>`;
-  s += `<text x="440" y="452" text-anchor="end" class="fv" fill="${L}">Rev E · 2026</text>`;
-  return { title: '', descr: '', svg: `<svg viewBox="0 0 480 480" role="img" aria-label="Construction drawing of the Assos Tech fine datum mark with dimensions" xmlns="http://www.w3.org/2000/svg">${s}</svg>`, caption: '', conceptual: false };
+  s += `</g>`;
+  return { title: '', descr: '', svg: `<svg viewBox="0 0 480 480" role="img" aria-label="The Assos Tech mark drawn on a grid with centre lines" xmlns="http://www.w3.org/2000/svg">${s}</svg>`, caption: '', conceptual: false };
 };
