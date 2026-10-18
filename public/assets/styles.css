@@ -392,3 +392,8 @@ caption{caption-side:bottom;text-align:left;font-size:13.5px;font-style:italic;c
 .num-list{counter-reset:n}
 .num-list li{counter-increment:n;padding-left:34px;position:relative}
 .num-list li::before{content:counter(n,lower-roman);position:absolute;left:0;top:9px;font-family:var(--serif);font-style:italic;color:var(--lichen);font-size:17px}
+
+.crit th{background:none;color:var(--lichen);font-family:var(--sans);font-weight:500;font-size:11px;letter-spacing:.2em;text-transform:uppercase;padding:0 14px 12px 0;border-bottom:1px solid var(--forest)}
+.crit td{padding:16px 14px 16px 0;border-bottom:1px solid var(--rule);vertical-align:top;background:none;color:var(--body);font-size:15.5px;line-height:1.5}
+.crit tbody tr:nth-child(even) td{background:none}
+.crit td:first-child{color:var(--ink)}

@@ -213,6 +213,7 @@ export const CASES = [
       'Management had a range by facility and by year instead of one number. The forecast showed that the second transfer line moved the binding limit from the sending facility\'s oil capacity to the receiving facility\'s water capacity. The recommendation was to bring the water treatment and disposal schedule forward and not to add transfer capacity.',
     ],
     conclusion: {
+      summary: 'The job was to give management a forecast to 2029 that reconciled and showed where the limit was. It did. The workbook closes to zero on conservation, each well is allocated once, and the three scenarios differ only by dated switches. The finding that water, not transfer capacity, binds at three of four facilities changed the order of the operator\'s project list.',
       criteria: ['Oil, water and gas conserved across every transfer, checked to zero on the validation sheet', 'Every well allocated to one facility in every month of every scenario', 'Scenarios differ only by the declared switches, each with a date and a source', 'The binding limit at each facility readable by year without opening the model'],
       achieved: ['All four checks pass on the issued workbook; the validation sheet is part of the deliverable', 'Scenario tables to 2029 issued by facility for oil, water and gas', 'The water finding changed the order of the operator\'s project list: water treatment and disposal ahead of further transfer capacity', 'Capacities labelled as planning inputs dated September 2026 on every table'],
     },
@@ -238,6 +239,7 @@ export const CASES = [
       'The line was brought into service and the planned wells were moved across. The receiving facility took the extra water without a trip. The line was recorded as commissioned only when the service test, the line status and operations approval were all in place.',
     ],
     conclusion: {
+      summary: 'The objective was a new 16-inch line in service without a trip at the receiving facility, with the volumes it moved stated honestly. Both were achieved. The line reached first flow on the named well, the remaining wells moved across one at a time, the two temporary shut-ins were restored, and the moved volumes were reported from the allocation export rather than from the plan.',
       criteria: ['First flow achieved through the new line with no trip at the receiving facility', 'Each hold point released on recorded evidence, with sign-off', 'The two temporary shut-ins returned to production after the transfer', 'Moved volumes reported from the allocation export, not from the plan'],
       achieved: ['First flow completed on the named well, and the remaining wells transferred one at a time with the facility stable between moves', 'Hold point records and sign-offs filed with the commissioning dossier', 'The shut-in wells restored once the receiving train had absorbed the transferred water', 'Planned figures of 8.8 and 13.1 thousand barrels a day kept as plan values; actuals taken from the allocation export after the event'],
     },
@@ -261,6 +263,7 @@ export const CASES = [
       'The train was restarted in sequence to the plan. The control room had a number to check against at each step and management could see where the water would arrive and when.',
     ],
     conclusion: {
+      summary: 'The objective was to return the train to about 87 thousand barrels of oil a day without an emergency shutdown during the restart. It was achieved. The four phases ran in sequence, each held until pressure, levels, interface and flare were stable, and the rates were confirmed from the allocation export afterwards. The operator kept the procedure as its template.',
       criteria: ['Train returned to service with no emergency shutdown during the restart', 'Each phase stable on pressure, levels, interface and flare before the next began', 'Oil and water back to the planned 86.6 and 35.2 thousand barrels a day', 'Plan values and actual rates kept separate in reporting'],
       achieved: ['Restart completed phase by phase without a trip', 'Phase checklists completed and signed at each step', 'Rates confirmed from the allocation export after the restart rather than from the plan', 'The procedure retained by the operator as the template for later train restarts'],
     },
@@ -285,6 +288,7 @@ export const CASES = [
       'The operator\'s optimisation cases were tested against the water routes they would load, not against one water number. The evaporation route was shown as its own stream so it was never counted as disposal.',
     ],
     conclusion: {
+      summary: 'The objective was a water balance the operator could test its optimisation cases against, with disposal headroom stated at real pressure. It was achieved. The balance closes by facility with the error shown, the headroom table carries a pressure and a date for every injection well, and two routing cases were withdrawn because the balance showed the disposal pumps could not take the water.',
       criteria: ['Water balance closes at each facility between separated, treated, disposed, re-injected and ponded water', 'Disposal headroom stated at actual pressure, with the date of the pressure reading', 'Every optimisation case checked against the water route it loads', 'Each water limit carries the oil that depends on it'],
       achieved: ['Balance issued by facility with the closing error shown, and refreshed weekly from the daily summaries', 'Headroom table issued with pressure, date and source for every injection well', 'Two routing cases withdrawn when the balance showed the disposal pumps could not take the water', 'Limit-to-production table adopted in the operator\'s weekly capacity review'],
     },
@@ -307,6 +311,7 @@ export const CASES = [
       'Verdict: hold. The concept was sound in principle and not ready for a spending decision. We issued the nine items as a numbered list with an owner and a data source for each, and recommended that hybrid cases combining internals, chemistry and selective heating be studied alongside the base case.',
     ],
     conclusion: {
+      summary: 'The objective was a verdict the stage gate could act on and a list that told the consultant what to close. Both were delivered three weeks after receipt. The verdict was hold. The nine items were assigned to owners, fluid sampling and bottle tests started first, and the study assumptions were recorded as assumptions in the operator\'s basis register.',
       criteria: ['A clear verdict from the four available: approve, approve with conditions, hold, do not approve', 'Every gap stated with the data that would close it and who holds that data', 'Study assumptions kept separate from field measurements in all downstream documents', 'The review delivered inside the stage gate calendar'],
       achieved: ['Verdict of hold issued with the nine-item list in the review memorandum', 'Each item assigned to an owner; fluid sampling and bottle tests started as the first two', 'The 80 per cent water cut and the blend recorded as study assumptions in the operator\'s basis register', 'Review issued three weeks after receipt of the study, ahead of the gate meeting'],
     },
@@ -329,6 +334,7 @@ export const CASES = [
       'A question about any well was answered from one page with the source and date of each item. Handover dates that had slipped showed against actuals. A line with a failed or pending service test could no longer be reported as complete because a construction milestone had passed.',
     ],
     conclusion: {
+      summary: 'The objective was one answer per well for the flowline programme, reconciled to the five source files. It was achieved. The record is refreshed weekly, lines with pending tests are flagged, three lines previously reported complete were reclassified, and the planned against actual view is used in the weekly delivery meeting.',
       criteria: ['One record per well that reconciles to the five source files', 'No line reported as in service without a signed service test', 'Planned and actual milestone dates held in separate fields', 'Exceptions listed with an owner rather than resolved silently'],
       achieved: ['Record issued and refreshed weekly from the five sources by file date', 'Lines with pending tests flagged on the record; three lines previously reported complete were reclassified', 'Planned against actual view issued for the programme and used in the weekly delivery meeting', 'Exception list of duplicate rows, inconsistent dates and stale exports issued with owners and cleared over the following refreshes'],
     },
@@ -351,6 +357,7 @@ export const CASES = [
       'Flush and treatment schedules were tied to confirmed cases with the recoverable production written on the work order. Wells with recurring scale got a control plan with inhibitor and a flush interval instead of a repeated reactive flush.',
     ],
     conclusion: {
+      summary: 'The objective was to stop treating wells on a pressure trend alone. It was achieved. The work order now requires a confirmed cause, every treatment carries an expected recovery and a post-job comparison, recurring wells are on inhibitor and interval plans, and the procedure is the operator\'s controlling document at revision 3.',
       criteria: ['No flush or chemical treatment raised without a confirmed cause on the work order', 'Each treatment carries an expected rate recovery and a post-job comparison', 'Recurring wells on a control plan rather than a reactive list', 'Procedure adopted by operations as the controlling document'],
       achieved: ['Work order template changed to require the confirmation step; alternative causes recorded on every order', 'Post-job review template issued and completed for each treatment', 'Recurring wells moved to inhibitor and interval plans', 'Procedure issued as the operator\'s surface scale identification procedure, revision 3'],
     },
@@ -374,6 +381,7 @@ export const CASES = [
       'The comment register ranked the deviations and wrote each so it could be checked. We recommended approval with conditions, with the continuity item as a hold. The package went to construction after the hold was closed.',
     ],
     conclusion: {
+      summary: 'The objective was a comment register the operator could act on and a sign-off recommendation before construction. Both were delivered. The traceability matrix covered every clause, the continuity gap between sheets was held and corrected, and the package went to construction with the hold cleared.',
       criteria: ['Every clause of the statement of requirements traced to a drawing and tag or recorded as a gap', 'No safety item open under a recommended-for-approval status', 'Comments written so a third party can verify closure', 'Hold items closed before issue for construction'],
       achieved: ['Traceability matrix completed for all clauses', 'Approval with conditions recommended; the continuity gap held and corrected on a revised sheet', 'Comment register closed with the designer and the operator', 'Package issued for construction with the hold cleared'],
     },
@@ -397,6 +405,7 @@ export const CASES = [
       'A query for any well returned a profile with every item sourced and dated and every open conflict shown. Facility summaries, deferral registers and forecast tables came from the same record and agreed with each other.',
     ],
     conclusion: {
+      summary: 'The objective was one record per well with every field sourced and dated, and management outputs that agree with each other. It was achieved. The console is in use across operations and engineering, substitutions and conflicts are flagged on each refresh, and facility summaries and deferral registers come from the same record.',
       criteria: ['A well profile answerable from one page, with the source and date of every field', 'No silent substitution of a test rate for an allocated rate', 'Unresolved source conflicts visible, not averaged or hidden', 'Management outputs reconcile to the same record'],
       achieved: ['Console in use for well queries across the operations and engineering teams', 'Substitutions flagged on the profile; conflicts listed on the data health report each refresh', 'Weekly refresh established with the data-as-of date shown by domain', 'Facility summaries and deferral registers generated from the console rather than rebuilt by hand'],
     },
@@ -420,6 +429,7 @@ export const CASES = [
       'Management had a register that reconciled to the facility totals and a handover that read as one engineer\'s account. The water column made the downstream effect of each oil opportunity visible before it was approved.',
     ],
     conclusion: {
+      summary: 'The objective was a deferral register that reconciled to facility totals and gave every item an owner and a date. It was achieved. Overlapping causes were removed, liquid and oil are kept in separate columns with the water cut used to convert them, and the weekly handover note was issued from the register for the period of the engagement.',
       criteria: ['Register total equals the sum of facility deferrals with no double counting', 'Every item has an owner, a cost basis and a target date', 'Oil and liquid never mixed in a total', 'Weekly note issued on time from the register'],
       achieved: ['Register reconciled to facility totals each week; overlapping causes removed', 'Owners and target dates completed for every open item; items without an owner escalated at the weekly meeting', 'Liquid capacities shown in their own column with the water cut used to convert them', 'Weekly handover notes issued from the register for the period of the engagement'],
     },
@@ -443,6 +453,7 @@ export const CASES = [
       'The diameter stayed conditional on the confirmed pressure envelope rather than being fixed early. The developer could see which pressure outcome would change the answer and what data FEED would need first.',
     ],
     conclusion: {
+      summary: 'The objective was a line size the developer could take into FEED with its conditions and its data needs stated. It was achieved. Every candidate diameter was tested on the same pressure and demand cases, the selected case was issued as conditional on the confirmed source pressure range, and the deliverable register was accepted as the basis for the FEED scope.',
       criteria: ['Every candidate diameter tested against the same pressure and demand cases', 'The selected case stated with the condition that makes it valid', 'Drawings marked conceptual, not for construction', 'FEED data list issued with an owner and a check for each item'],
       achieved: ['Hydraulic comparison issued for all cases with velocity and pressure drop tabulated', 'Selected case issued as conditional on the confirmed source pressure range', 'Concept schemes issued at Revision C with the conceptual marking on every sheet', 'Deliverable register accepted by the developer as the basis for the FEED scope'],
     },
@@ -465,6 +476,7 @@ export const CASES = [
       'The screening case was separated from an investment-ready case, with the gaps between them named. Modelled returns were presented as provisional until the feed gas analysis, the guarantees and the offtake terms existed. The developer\'s next spend went on measurements and agreements rather than a more detailed model.',
     ],
     conclusion: {
+      summary: 'The objective was a gas balance that closed and a financial model whose inputs were traceable. Both were achieved at Issue 02. Plant fuel and liquids recovery reconcile to the yield basis, every input carries one of three classes and a source, and the evidence list became the developer\'s work plan for the next stage.',
       criteria: ['Mass and energy balance closes from feed to product', 'Every model input classified and traceable to its source', 'Returns presented with the assumptions that would change them', 'A dated list of the evidence needed before the case can be called bankable'],
       achieved: ['Balance closed at Issue 02 with plant fuel and liquids recovery reconciled to the yield basis', 'Input register issued with the three classes and the source for each', 'Sensitivity table issued on feed composition, availability, capital class and offtake price', 'Evidence list issued and adopted as the developer\'s work plan for the next stage'],
     },
@@ -487,6 +499,7 @@ export const CASES = [
       'Operating changes and interventions were ranked on the whole-system response and checked against the baseline afterwards. The team that owned the fix was often not the one that had reported the loss.',
     ],
     conclusion: {
+      summary: 'The objective was to rank opportunities on the whole-system response rather than on one discipline\'s view. It was achieved. The model was calibrated to test and operating data before use, each opportunity on the register names the next limit it would expose, and verification against the baseline is part of the register.',
       criteria: ['Model reproduces measured rates and pressures before any change is proposed', 'Every opportunity ranked on the system response, not on one discipline\'s view', 'Gains verified against the baseline over an agreed period'],
       achieved: ['Model calibrated to the test and operating data before use', 'Opportunity register ranked with the next limit named for each item', 'Post-change verification built into the register'],
     },
@@ -509,6 +522,7 @@ export const CASES = [
       'Programmes said why the intervention was right as well as how to do it. Campaign learning built up because every job closed with a comparison against its forecast.',
     ],
     conclusion: {
+      summary: 'The objective was that every intervention be chosen on its diagnosis and closed with a comparison against its forecast. It was achieved. The programme template puts the diagnosis and expected rate on the first page, post-job reviews feed the next campaign ranking, and parked candidates are kept with the evidence that would revive them.',
       criteria: ['Every programme states the diagnosis, the barrier basis and the expected rate', 'Every job closes with a post-job comparison against that rate', 'Weak candidates parked with a stated reason rather than carried'],
       achieved: ['Programme template adopted with the diagnosis and expected rate on the first page', 'Post-job reviews completed and fed into the next campaign ranking', 'Candidate register kept with parked wells and the evidence that would revive them'],
     },
