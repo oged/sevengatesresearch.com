@@ -7,7 +7,7 @@ export const SITE = {
   line: 'Closer to the answer.',
   descriptor: 'Production, facilities and gas engineering for operators, developers and lenders. Onshore and offshore fields in the Middle East, the North Sea and West Africa.',
   url: 'https://assostechltd.com',
-  email: 'allen@assostechltd.com',
+  email: 'hello@assostechltd.com',
   registeredIn: 'Scotland',
   companyNo: 'SC474633',
   registeredOffice: ['5 South Charlotte Street', 'Edinburgh, EH2 4AN', 'United Kingdom'],
@@ -922,7 +922,7 @@ export const PAGES = {
   legal: {
     label: 'Company information', title: 'Company information',
     lead: 'The legal identity behind this website.',
-    body: `<h2>Registered details</h2><div class="table-wrap"><table><tbody><tr><td class="k">Legal name</td><td>Assos Tech Ltd (registered as ASSOS TECH LIMITED)</td></tr><tr><td class="k">Registered in</td><td>Scotland, United Kingdom</td></tr><tr><td class="k">Company number</td><td>SC474633</td></tr><tr><td class="k">Incorporated</td><td>7 April 2014</td></tr><tr><td class="k">Registered office</td><td>5 South Charlotte Street, Edinburgh, EH2 4AN, United Kingdom</td></tr><tr><td class="k">Register</td><td><a class="textlink" href="https://find-and-update.company-information.service.gov.uk/company/SC474633" rel="noopener">Companies House, SC474633</a></td></tr><tr><td class="k">Email</td><td><a class="textlink" href="mailto:allen@assostechltd.com">allen@assostechltd.com</a></td></tr></tbody></table></div>
+    body: `<h2>Registered details</h2><div class="table-wrap"><table><tbody><tr><td class="k">Legal name</td><td>Assos Tech Ltd (registered as ASSOS TECH LIMITED)</td></tr><tr><td class="k">Registered in</td><td>Scotland, United Kingdom</td></tr><tr><td class="k">Company number</td><td>SC474633</td></tr><tr><td class="k">Incorporated</td><td>7 April 2014</td></tr><tr><td class="k">Registered office</td><td>5 South Charlotte Street, Edinburgh, EH2 4AN, United Kingdom</td></tr><tr><td class="k">Register</td><td><a class="textlink" href="https://find-and-update.company-information.service.gov.uk/company/SC474633" rel="noopener">Companies House, SC474633</a></td></tr><tr><td class="k">Email</td><td><a class="textlink" href="mailto:hello@assostechltd.com">hello@assostechltd.com</a></td></tr></tbody></table></div>
 <h2>Website notice</h2><p>This website describes the services of Assos Tech Ltd and gives anonymised examples of work. It is not an offer, a technical opinion or advice on any specific asset. Figures quoted in case studies are planning values or dated study inputs, labelled as such. They are not measured results and they do not imply client endorsement. Sector figures carry their source and date and were correct to our knowledge when published. Nothing on this site is a legal, financial or reserves opinion.</p>
 <h2>Names and marks</h2><p>Assos Tech, ASSOS and the datum mark are used by Assos Tech Ltd. Third parties named as sources of sector data (regulators, trade bodies, publishers) are not clients and are not connected with Assos Tech Ltd.</p>
 <h2>Accessibility</h2><p>The site is built as plain HTML with one heading hierarchy per page, text alternatives for figures, keyboard navigation and text contrast of at least 4.5 to 1. If something does not work for you, tell us by email and we will fix it.</p>`,
@@ -934,7 +934,7 @@ export const PAGES = {
     body: `<h2>This website</h2><p>The site is static. It sets no cookies, runs no analytics and stores nothing in your browser. Fonts load from Google Fonts, which receives your IP address when the page loads. The site is hosted on Vercel, which keeps standard server logs. We do not receive personal data from either.</p>
 <h2>Enquiries</h2><p>The contact form opens an email in your own email client. Nothing is sent to or stored on this site. When you email us we keep your message and our reply for as long as the enquiry or any resulting work is live, and for six years afterwards for professional record keeping. We use your details only to reply and to do any work you ask for. We do not sell, rent or share them for marketing.</p>
 <h2>Engagements</h2><p>Client data received during a job is handled under the confidentiality and data terms of the scope document, which take precedence over this notice.</p>
-<h2>Your rights</h2><p>Under UK data protection law you may ask what we hold about you, ask for it to be corrected or deleted, and complain to the Information Commissioner's Office. Write to <a class="textlink" href="mailto:allen@assostechltd.com">allen@assostechltd.com</a>.</p>
+<h2>Your rights</h2><p>Under UK data protection law you may ask what we hold about you, ask for it to be corrected or deleted, and complain to the Information Commissioner's Office. Write to <a class="textlink" href="mailto:hello@assostechltd.com">hello@assostechltd.com</a>.</p>
 <p class="small muted">Controller: Assos Tech Ltd, 5 South Charlotte Street, Edinburgh, EH2 4AN. Notice dated 18 October 2026.</p>`,
   },
 
