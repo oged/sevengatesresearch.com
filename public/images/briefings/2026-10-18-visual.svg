@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="900" viewBox="0 0 1000 900" role="img" aria-labelledby="title desc">
+<title id="title">Kenya's contact list and confirmed cases measure different things</title>
+<desc id="desc">WHO's 16 October update reports 127 of 130 listed contacts in quarantine. Kenya News Agency reports on 17 October that the remaining three are still being traced. Separately, Kenya had three confirmed Ebola cases, including one death. Contacts being traced are not additional confirmed infections.</desc>
+<rect width="1000" height="900" fill="#FBF8F1"/>
+<rect x="24" y="24" width="952" height="852" rx="16" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+<g font-family="Arial, sans-serif" fill="#1A1F24">
+<text x="58" y="77" font-size="24" font-weight="700" fill="#A67C3D">FIGURE 1 · SEVEN GATES RESEARCH</text>
+<text x="58" y="137" font-size="43" font-family="Georgia, serif" font-weight="700">Contacts are not confirmed cases.</text>
+<text x="58" y="180" font-size="26" fill="#46504F">Kenya's Ebola response · WHO update, 16 October 2026</text>
+<text x="58" y="245" font-size="27" font-weight="700">130 LISTED CONTACTS</text>
+<text x="58" y="285" font-size="25" fill="#46504F">People reported in quarantine: 127</text>
+<rect x="70" y="320" width="840.6154" height="76" fill="#1A1F24"/>
+<rect x="910.6154" y="320" width="19.3846" height="76" fill="#A67C3D"/>
+<text x="94" y="368" font-size="33" fill="#FBF8F1" font-weight="700">127</text>
+<path d="M70 408V421 M400.769 408V421 M731.538 408V421 M930 408V421" stroke="#46504F" stroke-width="2"/>
+<g font-size="23" fill="#46504F" text-anchor="middle"><text x="70" y="454">0</text><text x="400.769" y="454">50</text><text x="731.538" y="454">100</text><text x="930" y="454">130</text></g>
+<text x="500" y="489" text-anchor="middle" font-size="22" fill="#46504F">People on the contact list</text>
+<rect x="58" y="523" width="884" height="105" rx="6" fill="#FBF8F1" stroke="#C6BFAE"/>
+<rect x="80" y="547" width="18" height="18" fill="#A67C3D"/>
+<text x="116" y="566" font-size="25" font-weight="700">3 contacts still being traced</text>
+<text x="80" y="604" font-size="23" fill="#46504F">Government report, 17 October. Not confirmed infections.</text>
+<rect x="58" y="654" width="884" height="105" rx="6" fill="#1A1F24"/>
+<text x="80" y="695" font-size="27" font-weight="700" fill="#FBF8F1">SEPARATE MEASURE: 3 CONFIRMED CASES</text>
+<text x="80" y="735" font-size="25" fill="#FBF8F1">Includes 1 death. Do not add cases to the contact bar.</text>
+<text x="58" y="806" font-size="23" fill="#46504F">Sources: WHO, 16 Oct; Kenya News Agency, 17 Oct 2026.</text>
+<text x="58" y="843" font-size="22" fill="#46504F">Common zero baseline. Contact status and case counts are separate.</text>
+</g>
+</svg>

@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-18 · briefing/2026-10-18
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** two Ebola diagnoses made under existing quarantine, testing containment through where cases are found rather than treating every additional diagnosis as equivalent evidence of failed control.
+- **Shape:** four ranked developments: Kenya's monitored linked cases, conditional Egyptian defence authorisation, the IMF committee's financing-support language and Anthropic's conditional US GDP scenario; ending names epidemiological, parliamentary, funding and measured-productivity evidence.
+- **Visual:** zero-anchored contact-list bar with 127 reported in quarantine and three contacts still being traced out of 130, alongside a separate confirmed-case panel. WHO's snapshot is 16 October; the government agency's 17 October report clarifies the remaining contacts. Contacts being traced are not labelled as additional infections.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Disease, death and armed conflict are treated seriously.
+- **Memorable phrase:** "Contacts are not confirmed cases."
+- **Freshness check:** monitored-diagnosis opening replaces the preceding Senate-screening opening; contact-list composition and measurement caveat replace the nominee roster and recent price bars. Permanent register and rolling 20 entries checked before and after drafting. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** Kenya figures are WHO's 16 October snapshot, not fresh diagnoses on 18 October; Kenya News Agency's 17 October report states that three contacts were still being traced, without establishing infection; Egypt's offer remains conditional and the scheduled plenary is not approval; IMF language is not a Nigerian allocation; the $44 trillion figure is a company-linked scenario reported by Reuters, not an IMF or consensus forecast. The official Egyptian ceremony notice does not transcribe the defence remarks; those are sourced to Reuters.
+
 ### 2026-10-17 · briefing/2026-10-17
 
 - **Type:** Daily Brief, no investment rating.
