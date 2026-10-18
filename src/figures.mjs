@@ -41,7 +41,7 @@ export const FIGURES = {
       const x = x0 + i * (w + gap) + w / 2;
       s += `<line x1="${x}" y1="${y + h}" x2="${x}" y2="${y + h + 18}" stroke="${C.lichen}" stroke-width="0.8"/><text x="${x}" y="${y + h + 32}" text-anchor="middle" class="fv">${t}</text>`;
     });
-    s += `<text x="${x0}" y="${y - 30}" class="fl">Constraint chain</text><text x="${x0}" y="${y - 14}" class="fv">Required against installed capacity at each link; the binding limit moves when one is removed.</text>`;
+    s += `<text x="${x0}" y="${y - 30}" class="fl">The chain</text><text x="${x0}" y="${y - 14}" class="fv">For each link: what it has to carry, what it can carry, and what happens when it is full.</text>`;
     return { title: 'Where the limit usually sits', descr: 'From reservoir to export. The three streams that leave separation, and the point in the chain where each limit usually appears.', svg: wrap(960, 230, s, 'Block diagram from reservoir through wells, flowlines, gathering and separation to oil, gas and water outlets'), caption: 'Removing one bottleneck exposes the next. For each link we check what it has to carry, what it can carry, and what happens when it is full.' };
   },
 
