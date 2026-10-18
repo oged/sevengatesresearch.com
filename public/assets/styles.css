@@ -107,7 +107,7 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
 
 /* Hero */
 .hero{min-height:calc(100vh - 84px);display:flex;align-items:center;padding-block:clamp(56px,8vw,120px)}
-.hero .wrap{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:clamp(32px,6vw,96px);align-items:center;flex:1}
+.hero .wrap{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:clamp(32px,6vw,96px);align-items:center}
 .hero h1{max-width:11ch}
 .hero .eyebrow{display:flex;align-items:center;gap:16px;margin-bottom:34px}
 .hero .eyebrow::before{content:"";width:40px;height:1px;background:var(--sage)}
