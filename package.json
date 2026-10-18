@@ -1,0 +1,12 @@
+{
+  "name": "assostech-com",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Assos Tech Ltd website. Static HTML generated from src/content.mjs by src/build.mjs.",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "check": "node src/check.mjs",
+    "serve": "python3 -m http.server 8080 --directory dist"
+  }
+}
