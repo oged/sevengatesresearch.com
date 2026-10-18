@@ -389,7 +389,7 @@ export const CASES = [
     result: [
       'Management received a register that could be reconciled to the facility totals and a handover that read as one engineer\'s account rather than a template. The water column made the downstream consequence of each oil opportunity visible before it was approved.',
     ],
-    deliverables: ['Deferral remediation register with owners and water', 'Station summaries: current, net change, post-move', 'Planned-against-current well rate comparison', 'Weekly handover notes and meeting schedules'],
+    deliverables: ['Deferral remediation register with owners and water', 'Facility summaries: current, net change, post-move', 'Planned-against-current well rate comparison', 'Weekly handover notes and meeting schedules'],
     evidence: 'Work done for the operator. Register structure and rules as applied; individual well and facility figures withheld.',
     service: 'production-optimisation',
   },
