@@ -270,6 +270,5 @@ for (const key of ['legal', 'privacy']) {
   const urls = ['/', '/services/', ...SERVICES.map((s) => `/services/${s.slug}/`), '/work/', ...CASES.map((c) => `/work/${c.slug}/`), '/regions/', '/approach/', '/insights/', ...INSIGHTS.map((a) => `/insights/${a.slug}/`), '/about/', '/contact/', '/legal/', '/privacy/'];
   writeFileSync(join(dist, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `  <url><loc>${SITE.url}${u}</loc><lastmod>${SITE.lastmod}</lastmod></url>`).join('\n')}\n</urlset>\n`);
   writeFileSync(join(dist, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE.url}/sitemap.xml\n`);
-  writeFileSync(join(dist, 'vercel.json'), JSON.stringify({ cleanUrls: true, trailingSlash: true, headers: [{ source: '/(.*)', headers: [{ key: 'X-Content-Type-Options', value: 'nosniff' }, { key: 'X-Frame-Options', value: 'DENY' }, { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' }] }] }, null, 2));
   console.log(`Built ${urls.length} pages into dist/`);
 }
