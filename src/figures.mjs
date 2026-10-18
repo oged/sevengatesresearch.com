@@ -1,10 +1,15 @@
 // Inline SVG figures. Structure in Ink/Lichen/Mist; fluids per C5.5; data colours only on data.
 const C = { forest: '#22362A', ink: '#18211B', body: '#434C45', lichen: '#66706A', sage: '#8FA387', mist: '#F4F6F2', rule: '#E3E7E0', tint: '#C9D3C4', white: '#FFFFFF', oil: '#5A3E2B', gas: '#A8782A', water: '#2F6B9A', pw: '#3A8A82', red: '#B42318', steel2: '#6E9CC4', clay: '#B0573A' };
 
-const box = (x, y, w, h, label, { fill = C.white, stroke = C.ink, text = C.ink, sub = '', subColor = C.lichen, bold = false } = {}) => `
-<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${fill}" stroke="${stroke}" stroke-width="0.9"/>
-<text x="${x + w / 2}" y="${y + (sub ? h / 2 - 3 : h / 2 + 4)}" text-anchor="middle" class="fs" fill="${text}"${bold ? ' font-weight="600"' : ''}>${label}</text>
-${sub ? `<text x="${x + w / 2}" y="${y + h / 2 + 13}" text-anchor="middle" class="fv" fill="${subColor}">${sub}</text>` : ''}`;
+const box = (x, y, w, h, label, { fill = C.white, stroke = C.ink, text = C.ink, sub = '', subColor = C.lichen, bold = false } = {}) => {
+  // '|' in label or sub starts a new line; the block of lines is centred in the box
+  const L = String(label).split('|'), S = sub ? String(sub).split('|') : [];
+  const lh = 15, sh = 13, total = L.length * lh + (S.length ? S.length * sh + 4 : 0);
+  let yy = y + (h - total) / 2 + 11, s = `<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${fill}" stroke="${stroke}" stroke-width="0.9"/>`;
+  s += `<text x="${x + w / 2}" y="${yy}" text-anchor="middle" class="fs" fill="${text}"${bold ? ' font-weight="600"' : ''}>${L.map((t, i) => `<tspan x="${x + w / 2}"${i ? ` dy="${lh}"` : ''}>${t}</tspan>`).join('')}</text>`;
+  if (S.length) { yy += (L.length - 1) * lh + sh + 4; s += `<text x="${x + w / 2}" y="${yy}" text-anchor="middle" class="fv" fill="${subColor}">${S.map((t, i) => `<tspan x="${x + w / 2}"${i ? ` dy="${sh}"` : ''}>${t}</tspan>`).join('')}</text>`; }
+  return s;
+};
 
 const arrow = (x1, y1, x2, y2, color = C.ink, dash = '') => `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${color}" stroke-width="1.1"${dash ? ` stroke-dasharray="${dash}"` : ''} marker-end="url(#ah-${color.slice(1)})"/>`;
 
@@ -54,8 +59,8 @@ export const FIGURES = {
       const parts = t.split(' ');
       const o = i === 7 ? { fill: C.forest, stroke: C.forest, text: C.white } : i === 4 ? { fill: C.mist } : {};
       s += `<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${o.fill ?? C.white}" stroke="${o.stroke ?? C.ink}" stroke-width="0.9"/>`;
-      s += `<text x="${x + w / 2}" y="${y + (parts.length > 1 ? 22 : 29)}" text-anchor="middle" class="fs" fill="${o.text ?? C.ink}">${parts[0]}</text>`;
-      if (parts[1]) s += `<text x="${x + w / 2}" y="${y + 37}" text-anchor="middle" class="fs" fill="${o.text ?? C.ink}">${parts.slice(1).join(' ')}</text>`;
+      s += `<text x="${x + w / 2}" y="${y + (parts.length > 1 ? 20 : 29)}" text-anchor="middle" class="fs" fill="${o.text ?? C.ink}">${parts[0]}</text>`;
+      if (parts[1]) s += `<text x="${x + w / 2}" y="${y + 38}" text-anchor="middle" class="fs" fill="${o.text ?? C.ink}">${parts.slice(1).join(' ')}</text>`;
       if (i < 7) s += arrow(x + w, y + h / 2, x + w + gap - 1, y + h / 2);
     });
     s += `<text x="${x0}" y="${y + h + 30}" class="fv">At each step we record the baseline, the opportunity, the owner, the due date, the expected gain and the post-job check.</text>`;
@@ -94,8 +99,8 @@ export const FIGURES = {
 
   gasChain() {
     let s = defs([C.gas, C.ink, C.clay]);
-    const nodes = [['Feed gas', 'composition measured?'], ['Treatment', 'CO2, H2S, water'], ['Liquids recovery', 'yield by component'], ['Liquefaction or compression', 'OEM guarantee?'], ['Storage and loading', 'availability'], ['Transport', 'pipeline, truck, rail'], ['Customer', 'offtake terms, price regime']];
-    const w = 118, gap = 18, h = 50, y = 70, x0 = 8;
+    const nodes = [['Feed gas', 'composition|measured?'], ['Treatment', 'CO2, H2S, water'], ['Liquids recovery', 'yield by|component'], ['Liquefaction or|compression', 'OEM guarantee?'], ['Storage and|loading', 'availability'], ['Transport', 'pipeline,|truck, rail'], ['Customer', 'offtake terms,|price regime']];
+    const w = 126, gap = 12, h = 70, y = 62, x0 = 6;
     nodes.forEach(([n, sub], i) => {
       const x = x0 + i * (w + gap);
       const o = i === 6 ? { fill: C.forest, stroke: C.forest, text: C.white, subColor: C.tint } : { stroke: C.gas };
@@ -108,7 +113,7 @@ export const FIGURES = {
       s += `<line x1="${x}" y1="${y + h}" x2="${x}" y2="${y + h + 26}" stroke="${C.clay}" stroke-width="1.1" marker-end="url(#ah-${C.clay.slice(1)})"/><text x="${x}" y="${y + h + 40}" text-anchor="middle" class="fv" fill="${C.clay}">${t}</text>`;
     });
     s += `<text x="${x0}" y="24" class="fl">Each input marked</text><text x="${x0}" y="42" class="fv">Measured, vendor-stated or assumed. The balance closes only when the assumed column is empty or priced.</text>`;
-    return { title: 'What leaves the plant to sell', descr: 'Feed gas less treatment losses, liquids, plant fuel and flare, at the availability the plant achieves.', svg: wrap(960, 180, s, 'Block diagram of a small-scale gas monetisation chain from feed gas to customer with fuel and flare losses'), caption: 'In our mini-LNG study the mass balance gave a lower product figure than the vendor summary. The lower figure governed until the manufacturer confirmed.' };
+    return { title: 'What leaves the plant to sell', descr: 'Feed gas less treatment losses, liquids, plant fuel and flare, at the availability the plant achieves.', svg: wrap(960, 196, s, 'Block diagram of a small-scale gas monetisation chain from feed gas to customer with fuel and flare losses'), caption: 'In our mini-LNG study the mass balance gave a lower product figure than the vendor summary. The lower figure governed until the manufacturer confirmed.' };
   },
 
   capacityBalance() {
@@ -159,7 +164,7 @@ export const FIGURES = {
     // compression zone
     s += `<text x="${x0 + 330}" y="${y0 + 184}" class="fv" fill="${C.clay}">below the line: compression or a larger line</text>`;
     // velocity limit
-    s += `<line x1="${x0 + 560}" y1="${y0}" x2="${x0 + 560}" y2="${y0 + H}" stroke="${C.lichen}" stroke-width="0.8" stroke-dasharray="3 3"/><text x="${x0 + 566}" y="${y0 + 12}" class="fv">velocity limit</text>`;
+    s += `<line x1="${x0 + 560}" y1="${y0}" x2="${x0 + 560}" y2="${y0 + H}" stroke="${C.lichen}" stroke-width="0.8" stroke-dasharray="3 3"/><text x="${x0 + 554}" y="${y0 + 12}" text-anchor="end" class="fv">velocity limit</text>`;
     s += `<text x="${x0}" y="${y0 + H + 56}" class="fv">Shape only. The case values, route and dimensions are in the study and are not shown here.</text>`;
     return { title: 'The operating envelope sets the line size', descr: 'Delivery pressure against flow for three candidate diameters, bounded by the source pressure range, the minimum delivery pressure and the velocity limit.', svg: wrap(760, 300, s, 'Conceptual chart of delivery pressure against flow rate for three pipeline diameters with pressure and velocity limits'), caption: 'A line sized from a nominal flow alone ignores the low source pressure case and future demand. Where the selected curve drops below the minimum delivery pressure, you need compression or a larger line.' };
   },
