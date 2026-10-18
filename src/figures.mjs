@@ -66,7 +66,7 @@ export const FIGURES = {
     let s = defs([C.ink, C.pw, C.water, C.steel2, C.red, C.oil]);
     s += box(10, 110, 100, 46, 'Wells', {});
     s += arrow(110, 133, 139, 133);
-    s += box(140, 110, 150, 46, 'Station trains', { sub: 'separation, dehydration' });
+    s += box(140, 110, 150, 46, 'CPF trains', { sub: 'separation, dehydration' });
     s += `<path d="M290 133 L318 133" stroke="${C.pw}" stroke-width="1.3" marker-end="url(#ah-${C.pw.slice(1)})"/>`;
     s += box(320, 110, 180, 46, 'Water treatment', { stroke: C.pw, text: C.pw, sub: 'oil in water, interface control' });
     // branches
@@ -89,7 +89,7 @@ export const FIGURES = {
     s += `<text x="10" y="200" class="fl">Measured at each boundary</text><text x="10" y="216" class="fv">Rate, oil in water, pressure, pump status, with meter accuracy known.</text>`;
     s += `<text x="800" y="100" class="fl">Seven streams</text>`;
     ['generated and separated', 'treated or transferred', 'injected for disposal', 're-injected', 'sent to ponds', 'excursions and recycles', 'outages and pressure'].forEach((t, i) => { s += `<text x="800" y="${118 + i * 16}" class="fv">${i + 1}. ${t}</text>`; });
-    return { title: 'Where the water goes.', descr: 'Produced water routes on a water-flooded field, each with its own capacity, pressure and failure mode.', svg: wrap(1000, 285, s, 'Block diagram of produced water routes from wells through station trains and treatment to disposal wells, re-injection and evaporation ponds'), caption: 'Disposal and re-injection in two blues, ponds in red, by agreement with the operator. Injectivity is taken at actual wellhead pressure, never at nameplate.' };
+    return { title: 'Where the water goes.', descr: 'Produced water routes on a water-flooded field, each with its own capacity, pressure and failure mode.', svg: wrap(1000, 285, s, 'Block diagram of produced water routes from wells through processing trains and treatment to disposal wells, re-injection and evaporation ponds'), caption: 'Disposal and re-injection in two blues, ponds in red, by agreement with the operator. Injectivity is taken at actual wellhead pressure, never at nameplate.' };
   },
 
   gasChain() {
@@ -112,7 +112,7 @@ export const FIGURES = {
   },
 
   capacityBalance() {
-    const data = [['Station A', 200, 220, 'from Q2 2027'], ['Station B', 207, 117, ''], ['Station C', 70, 37, ''], ['Station D', 245, 100, 'oil from Q4 2027']];
+    const data = [['CPF A', 200, 220, 'from Q2 2027'], ['CPF B', 207, 117, ''], ['CPF C', 70, 37, ''], ['CPF D', 245, 100, 'oil from Q4 2027']];
     const x0 = 120, maxV = 260, scale = 680 / maxV, rowH = 58, y0 = 40;
     let s = `<text x="${x0}" y="22" class="fl">Thousand barrels per day</text>`;
     [0, 50, 100, 150, 200, 250].forEach((v) => { const x = x0 + v * scale; s += `<line x1="${x}" y1="${y0 - 6}" x2="${x}" y2="${y0 + rowH * 4}" stroke="${C.white}" stroke-width="1"/><text x="${x}" y="${y0 + rowH * 4 + 16}" text-anchor="middle" class="fv">${v}</text>`; });
@@ -123,7 +123,7 @@ export const FIGURES = {
       s += `<rect x="${x0}" y="${y + 26}" width="${pw * scale}" height="16" fill="${C.pw}"/><text x="${x0 + pw * scale + 6}" y="${y + 38}" class="fv" fill="${C.pw}">${pw} water${note && !note.startsWith('oil') ? ', ' + note : ''}</text>`;
     });
     s += `<text x="${x0}" y="${y0 + rowH * 4 + 40}" class="fv">Planning assumptions used in the September 2026 forecast exercise, anonymised. Not published or verified operating limits.</text>`;
-    return { title: 'At three of four stations the water limit sits below the oil limit.', descr: 'Receiving-station planning capacities for oil and produced water, four stations, with the dates each capacity was assumed available.', svg: wrap(960, 320, s, 'Horizontal bar chart comparing planning oil and produced water capacities at four anonymised stations'), caption: 'A transferred well arrives with its water. Where the water bar is the shorter one, the water limit binds first.', source: 'Source: forecast planning inputs, September 2026, operator withheld. Transfer lines between stations assumed at 40 and 50 mbd liquid.', conceptual: false };
+    return { title: 'At three of four facilities the water limit sits below the oil limit.', descr: 'Receiving-facility planning capacities for oil and produced water, four central processing facilities, with the dates each capacity was assumed available.', svg: wrap(960, 320, s, 'Horizontal bar chart comparing planning oil and produced water capacities at four anonymised processing facilities'), caption: 'A transferred well arrives with its water. Where the water bar is the shorter one, the water limit binds first.', source: 'Source: forecast planning inputs, September 2026, operator withheld. Transfer lines between facilities assumed at 40 and 50 mbd liquid.', conceptual: false };
   },
 
   restartPhases() {

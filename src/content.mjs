@@ -5,7 +5,7 @@ export const SITE = {
   legalName: 'Assos Tech Ltd',
   tagline: 'Oil and gas engineering consultancy',
   line: 'Closer to the answer.',
-  descriptor: 'Independent production, facilities and gas engineering for operators, investors and lenders. Work in southern Iraq, the North Sea and West Africa.',
+  descriptor: 'Independent production, facilities and gas engineering for operators, investors and lenders. Onshore and offshore fields in the Middle East, the North Sea and West Africa.',
   url: 'https://assostechltd.com',
   email: 'allen@assostechltd.com',
   registeredIn: 'Scotland',
@@ -29,16 +29,16 @@ export const SERVICES = [
     question: 'Where is production being lost, and which action is worth taking next?',
     body: [
       'Most mature assets lose production in several places at once: backpressure in the gathering system, a choke restricted by scale, a train at its water limit, a pump out of service, a well waiting on a flowline test. Reviewing each in isolation produces a list of plausible fixes and no ranking. We build the ranking.',
-      'The method is simple and it is applied without exception. Every deferral is recorded against a well, a cause, a dated basis and an owner, with oil and associated water shown separately. Capacity opportunities are tested against a decline case, not a flat one. A liquid transfer capacity is never added to an oil total. A well moved between stations is counted once. Well test capability is not treated as online allocated production.',
+      'The method is simple and it is applied without exception. Every deferral is recorded against a well, a cause, a dated basis and an owner, with oil and associated water shown separately. Capacity opportunities are tested against a decline case, not a flat one. A liquid transfer capacity is never added to an oil total. A well moved between facilities is counted once. Well test capability is not treated as online allocated production.',
       'The output is a register that operations, wells and projects can act on in the same week, with the production case for each item stated in a way that survives challenge.',
     ],
     scopes: [
-      ['Performance diagnosis', 'Well and station surveillance, potential reconciliation, operating-envelope review and constraint mapping across wells, gathering, separation, water and export.'],
+      ['Performance diagnosis', 'Well and facility surveillance, potential reconciliation, operating-envelope review and constraint mapping across wells, gathering, separation, water and export.'],
       ['Deferral and capacity registers', 'Deferral records with cause, dated basis, gross potential, actual, deferred oil and associated water, mitigation, cost, approval status, owner and target date.'],
-      ['Routing and station balance', 'Moving wells between stations with the receiving and source totals recomputed, net additions shown separately from transfers, and water followed to its disposal point.'],
+      ['Routing and facility balance', 'Moving wells between facilities with the receiving and source totals recomputed, net additions shown separately from transfers, and water followed to its disposal point.'],
       ['Opportunity maturation', 'Ranked tests, well work and facility changes with success criteria, a verification baseline and a post-implementation check that the gain lasted.'],
     ],
-    outputs: ['Deferral remediation register, oil and water by station', 'Constraint map and capacity opportunity list on a decline basis', 'Station comparison tables: current, net change, post-move', 'Opportunity register with owners, cost, approval and target dates', 'Post-job verification against the agreed baseline'],
+    outputs: ['Deferral remediation register, oil and water by facility', 'Constraint map and capacity opportunity list on a decline basis', 'Facility comparison tables: current, net change, post-move', 'Opportunity register with owners, cost, approval and target dates', 'Post-job verification against the agreed baseline'],
     delivery: ['Typical engagement: four to eight weeks for a first register and ranking, then a weekly or fortnightly refresh while actions close. We work alongside the operator\'s production, wells and projects teams and use their data exports as the single source for rates and status.'],
     cases: ['field-forecast-under-water-constraint', 'deferrals-with-a-water-column', 'north-sea-integrated-asset'],
     insight: 'liquid-is-not-oil',
@@ -63,7 +63,7 @@ export const SERVICES = [
       ['Overpressure and relief context', 'Blocked-outlet cases, relief and vent backpressure, valve chatter risk and pilot-operated relief strategy, checked against the current relief calculations and cause-and-effect for the specific train.'],
     ],
     outputs: ['Comment matrix with drawing, tag, evidence, severity and owner', 'Sign-off recommendation with hold points', 'Concept study verdict and gap-closure plan', 'Commissioning or restart procedure with hold points and stop criteria', 'Readiness checklist and handover evidence list'],
-    delivery: ['A P&ID package review typically takes two to four weeks depending on drawing count. Restart and commissioning plans are developed with the station team and issued as working drafts for site verification; we do not present a draft as issued-for-use.'],
+    delivery: ['A P&ID package review typically takes two to four weeks depending on drawing count. Restart and commissioning plans are developed with the facility team and issued as working drafts for site verification; we do not present a draft as issued-for-use.'],
     note: 'Safety-critical decisions and field work require approved site procedures, permits, risk assessments and the responsible technical authority. Our documents support that process and do not replace it.',
     cases: ['transfer-line-first-flow', 'train-restart-in-four-phases', 'concept-study-not-yet-decision-grade', 'pid-review-across-drawings'],
     insight: 'a-planned-date-is-not-a-commissioning-date',
@@ -80,13 +80,13 @@ export const SERVICES = [
       'Flowline integrity is managed as a programme, not a list: condition and risk from the integrity system, service test history, replacement scope and priority, survey, construction, mechanical completion, service test and handover dates, planned against actual, joined to the well they serve.',
     ],
     scopes: [
-      ['Water balance and disposal headroom', 'Per-station oil, water and gas, available treatment and disposal by route, deficiency, and the upstream production consequence of each constraint.'],
+      ['Water balance and disposal headroom', 'Per-facility oil, water and gas, available treatment and disposal by route, deficiency, and the upstream production consequence of each constraint.'],
       ['Produced water system review', 'Oil-in-water sampling and analysers, interface control in dehydrators and separators, transfer metering accuracy, N+1 pump capacity, fallback routes under a pump trip or injection-well failure.'],
       ['Scale identification and treatment', 'Trend alerts, location hypothesis (choke, flowline or both), field inspection and sampling, chemistry and inhibitor history, targeted work order, controlled intervention and post-job analysis.'],
       ['Flowline replacement programme', 'Ranking by integrity risk, production viability and avoidance of scope duplication; integration of risk exports, service tests and replacement milestones into one record per well.'],
       ['Material and vendor references', 'Glass-reinforced epoxy and polymer line manuals and specifications treated as generic references until a line-specific rating, joint detail and material approval exist.'],
     ],
-    outputs: ['Produced water balance by station and route, with headroom', 'Water system problem register and remediation options', 'Scale identification procedure and treatment schedule', 'Flowline programme tracker with planned and actual milestones', 'Integrity, service test and replacement timeline per well'],
+    outputs: ['Produced water balance by facility and route, with headroom', 'Water system problem register and remediation options', 'Scale identification procedure and treatment schedule', 'Flowline programme tracker with planned and actual milestones', 'Integrity, service test and replacement timeline per well'],
     delivery: ['Water balances are built from the operator\'s daily summaries and test data with a stated reference date. Scale and flowline work is delivered as living registers refreshed weekly during a campaign.'],
     cases: ['produced-water-where-it-goes', 'ranking-sixty-eight-kilometres-of-flowline', 'scale-is-a-diagnosis'],
     insight: 'produced-water-is-a-field-constraint',
@@ -128,7 +128,7 @@ export const SERVICES = [
     scopes: [
       ['Route-to-market screening', 'Pipeline supply, small-scale LNG, CNG, liquids recovery and captive power compared on one basis: delivered cost, product specification, availability and counterparty.'],
       ['Feed and product basis', 'Gas characterisation, treatment requirements, product yield and the material and energy balance, with each input classed as measured, vendor-stated or assumed.'],
-      ['Pipeline hydraulics and concept', 'Candidate diameters against pressure cases, velocity and erosional limits, station, metering, safeguarding, pigging and corrosion-control interfaces, and a data-gap register for FEED.'],
+      ['Pipeline hydraulics and concept', 'Candidate diameters against pressure cases, velocity and erosional limits, facility, metering, safeguarding, pigging and corrosion-control interfaces, and a data-gap register for FEED.'],
       ['Commercial integration', 'Feedgas terms, offtake assumptions, capital and operating cost, financing sensitivities, and the decision gates between a screening case and an investment-ready project.'],
     ],
     outputs: ['Gas commercialisation option study', 'Feed, yield and energy balance basis document', 'Pipeline hydraulic and operating-case comparison', 'Integrated project economics with sensitivities', 'Evidence and decision-gate register'],
@@ -167,18 +167,18 @@ export const SERVICES = [
     standfirst: 'We turn daily exports, controlled drawings, test reports and correspondence into one decision-support record for operations, engineering and management: a current state with its sources, an event log, a well-level profile and a data-health report, refreshed on a cadence the asset can sustain.',
     question: 'What is the well doing now, where is it routed, how certain is that, and what changed since last week?',
     body: [
-      'On a large field the answer to a simple question lives in six spreadsheets with three different dates. A status export says flowing; a routing list says shut in; a planning file says the well moved to another station last month. Whole-file precedence, where the newest file wins everything, gets this wrong. Field-level precedence, where each fact is taken from the most authoritative source for that fact and dated, gets it right and shows the conflicts it did not resolve.',
+      'On a large field the answer to a simple question lives in six spreadsheets with three different dates. A status export says flowing; a routing list says shut in; a planning file says the well moved to another facility last month. Whole-file precedence, where the newest file wins everything, gets this wrong. Field-level precedence, where each fact is taken from the most authoritative source for that fact and dated, gets it right and shows the conflicts it did not resolve.',
       'The structure we build has five layers: current (the latest accepted value per field with its effective date), context (linked tests, work orders, integrity records and constraints), history (dated observations and milestones), changes (classified deltas since the previous refresh, including source conflicts) and sources (file, revision, owner, date, authority and confidence). A well profile reads in four views: now, context, history, changes, with key risks last.',
       'The system can be a SQLite and JSON package behind a mobile-friendly browser view, a Power BI model or a hosted database with an API. The architecture matters less than the rules: retain history, never erase an unrelated domain on refresh, show freshness by domain, and never substitute a test value for an allocated rate without saying so.',
     ],
     scopes: [
-      ['Data model and precedence rules', 'Canonical entities (well, station, train, manifold, flowline, project, work order, source), aliases and deduplication, field-level authority and effective-date rules, confidence and conflict flags.'],
-      ['Well profiles and console', 'Identity and status, console summary, routing against home station, flowline integrity and replacement, operations and interventions, timeline and changes, ranked risks.'],
-      ['Registers and management outputs', 'Deferral remediation registers, planned-against-current well rates, station capacity opportunities on a decline basis, scenario tables and handover-ready schedules.'],
-      ['Process knowledge graph', 'Station flow diagrams and P&IDs stitched into a navigable graph with designed, as-built, temporary, planned, isolated and currently-flowing connections kept distinct, each with its drawing, revision and confidence.'],
+      ['Data model and precedence rules', 'Canonical entities (well, facility, train, manifold, flowline, project, work order, source), aliases and deduplication, field-level authority and effective-date rules, confidence and conflict flags.'],
+      ['Well profiles and console', 'Identity and status, console summary, routing against home facility, flowline integrity and replacement, operations and interventions, timeline and changes, ranked risks.'],
+      ['Registers and management outputs', 'Deferral remediation registers, planned-against-current well rates, facility capacity opportunities on a decline basis, scenario tables and handover-ready schedules.'],
+      ['Process knowledge graph', 'Facility flow diagrams and P&IDs stitched into a navigable graph with designed, as-built, temporary, planned, isolated and currently-flowing connections kept distinct, each with its drawing, revision and confidence.'],
       ['Refresh and data health', 'Ingestion by file hash and date, validation of units, duplicates, mass balance and freshness, immutable snapshots, change events and a data-health report with the conflicts left open.'],
     ],
-    outputs: ['Data model, precedence rules and source register', 'Well profile and console (browser, Power BI or both)', 'Deferral, capacity and forecast registers', 'Process graph and stitched station schematic', 'Refresh procedure and data-health report'],
+    outputs: ['Data model, precedence rules and source register', 'Well profile and console (browser, Power BI or both)', 'Deferral, capacity and forecast registers', 'Process graph and stitched facility schematic', 'Refresh procedure and data-health report'],
     delivery: ['Built with the operator\'s own exports and drawings. We prefer a weekend refresh for most domains with well status refreshed more often, and we state the data-as-of date separately from the refresh date.'],
     cases: ['one-answer-per-well', 'deferrals-with-a-water-column', 'pid-review-across-drawings'],
     insight: 'the-bottleneck-moves',
@@ -189,45 +189,45 @@ export const SERVICES = [
 /* CASES (anonymised)                                                  */
 /* ------------------------------------------------------------------ */
 
-const IRAQ = 'Supergiant onshore oil field, southern Iraq';
-const EMB = 'Embedded engineering role';
+const ME = 'Supergiant onshore oil field, Middle East';
+const EMB = 'Operator engagement';
 const ASS = 'Assos study';
 const PRAC = 'Practitioner experience';
 
 export const CASES = [
   {
     slug: 'field-forecast-under-water-constraint', numeral: '01', category: 'Operations', short: 'Field forecast',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Producing field, multi-station gathering system', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Producing field, multi-facility gathering system', basis: EMB, period: '2026',
     title: 'Three scenarios, one water <em>balance</em>.',
-    sub: 'A constraint-based oil and water forecast to 2029 across five degassing stations, with inter-station transfer, decline and disposal limits enforced on every well.',
+    sub: 'A constraint-based oil and water forecast to 2029 across five central processing facilities, with inter-facility transfer, decline and disposal limits enforced on every well.',
     problem: [
-      'The northern half of the field feeds five degassing stations through a gathering system that allows wells to be transferred between stations by inter-station lines. Management wanted to know how much oil the network could sustain to 2029 under three cases: no transfers, transfers without further optimisation, and transfers with optimisation. The available rate data were blended oil and water numbers per well from a single reference date, not reservoir-specific streams.',
-      'Earlier spreadsheets had added a 50 thousand barrel per day transfer-line capacity to an oil total, counted transferred wells at both their home and receiving stations, and treated a planned commissioning date as an available-from date. The result looked precise and could not be reconciled.',
+      'The northern half of the field feeds five central processing facilities through a gathering system that allows wells to be transferred between facilities by inter-facility lines. Management wanted to know how much oil the network could sustain to 2029 under three cases: no transfers, transfers without further optimisation, and transfers with optimisation. The available rate data were blended oil and water numbers per well from a single reference date, not reservoir-specific streams.',
+      'Earlier spreadsheets had added a 50 thousand barrel per day transfer-line capacity to an oil total, counted transferred wells at both their home and receiving facilities, and treated a planned commissioning date as an available-from date. The result looked precise and could not be reconciled.',
     ],
     work: [
-      'We froze the source rates and the forecast start date, normalised each well\'s home and current station, and modelled declining well capacity and water generation from the blended basis. Each scenario carried explicit capacity switches: station oil and produced-water limits, transfer-line liquid capacities of 40 and 50 thousand barrels per day, and enable dates for new tankage and water routes.',
-      'Every active constraint was enforced simultaneously: liquid on the transfer lines, oil and produced water at the receiving station, and disposal downstream. Each well was allocated once. Gross oil moved, net oil gained, oil deferred, produced water displaced and incremental water generated were reported as separate columns, and totals were reconciled by well, station and field before any sensitivity was run.',
+      'We froze the source rates and the forecast start date, normalised each well\'s home and current facility, and modelled declining well capacity and water generation from the blended basis. Each scenario carried explicit capacity switches: facility oil and produced-water limits, transfer-line liquid capacities of 40 and 50 thousand barrels per day, and enable dates for new tankage and water routes.',
+      'Every active constraint was enforced simultaneously: liquid on the transfer lines, oil and produced water at the receiving facility, and disposal downstream. Each well was allocated once. Gross oil moved, net oil gained, oil deferred, produced water displaced and incremental water generated were reported as separate columns, and totals were reconciled by well, facility and field before any sensitivity was run.',
     ],
     figure: 'capacityBalance',
     result: [
-      'The three cases gave management a defensible range instead of a single number, with the planning capacities and their switch dates visible on the page. The forecast showed that the second transfer line moved the binding constraint from the sending station\'s oil limit to the receiving station\'s produced-water limit, which redirected attention to the water treatment and disposal schedule rather than to more transfer capacity.',
+      'The three cases gave management a defensible range instead of a single number, with the planning capacities and their switch dates visible on the page. The forecast showed that the second transfer line moved the binding constraint from the sending facility\'s oil limit to the receiving facility\'s produced-water limit, which redirected attention to the water treatment and disposal schedule rather than to more transfer capacity.',
       'The planning capacities used were explicitly dated September 2026 inputs, not verified operating limits, and the report said so on every table.',
     ],
     takeaway: 'A transfer line adds liquid capacity. Whether any of it becomes oil depends on where the water goes.',
-    deliverables: ['Forecast workbook with scenario switches, decline and single-allocation logic', 'Scenario tables to 2029 by station: oil, water, gas', 'Validation sheet: conservation, double counting, constraint and phase-in checks', 'Methodology note and management presentation'],
-    evidence: 'Embedded production and facilities engineering role supporting the operator. The client, field and station identities are withheld. Capacities quoted are planning assumptions from the forecast exercise, dated September 2026, and are not published operating limits.',
+    deliverables: ['Forecast workbook with scenario switches, decline and single-allocation logic', 'Scenario tables to 2029 by facility: oil, water, gas', 'Validation sheet: conservation, double counting, constraint and phase-in checks', 'Methodology note and management presentation'],
+    evidence: 'Work done for the operator of a supergiant onshore field in the Middle East. The client, field and facility identities are withheld. Capacities quoted are planning assumptions from the forecast exercise, dated September 2026, and are not published operating limits.',
     service: 'production-optimisation',
   },
   {
     slug: 'transfer-line-first-flow', numeral: '02', category: 'Facilities', short: 'Transfer line commissioning',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Brownfield commissioning', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Brownfield commissioning', basis: EMB, period: '2026',
     title: 'Five hold points before first <em>flow</em>.',
-    sub: 'Commissioning a new 16-inch inter-station line with one candidate well, two temporary shut-ins and a receiving route proved before any valve moved.',
+    sub: 'Commissioning a new 16-inch inter-facility line with one candidate well, two temporary shut-ins and a receiving route proved before any valve moved.',
     problem: [
-      'A new 16-inch line would let wells from one station and its satellite flow to a third station with spare treatment capacity. The draft plan proposed a first-flow candidate well and a receiving train, and estimated the associated well moves at about 8.8 thousand barrels of oil and 13.1 thousand barrels of water a day. The risk was that an unproven path, an unverified valve line-up or a receiving train not ready for the water would turn a commissioning step into a shutdown.',
+      'A new 16-inch line would let wells from one facility and its satellite flow to a third facility with spare treatment capacity. The draft plan proposed a first-flow candidate well and a receiving train, and estimated the associated well moves at about 8.8 thousand barrels of oil and 13.1 thousand barrels of water a day. The risk was that an unproven path, an unverified valve line-up or a receiving train not ready for the water would turn a commissioning step into a shutdown.',
     ],
     work: [
-      'We wrote the commissioning sequence around five hold points, each released only on field-verified evidence: the well, train and line valve line-up confirmed by a walk-down; an unobstructed path proved from source to receiving station; communications and monitoring in place; differential pressure checked across the line; and stable receipt at the destination before any further well was introduced. Two wells on the receiving train were identified for temporary shut-in to make room, and the candidate well\'s transfer from its home manifold was written as a step with its own checks.',
+      'We wrote the commissioning sequence around five hold points, each released only on field-verified evidence: the well, train and line valve line-up confirmed by a walk-down; an unobstructed path proved from source to receiving facility; communications and monitoring in place; differential pressure checked across the line; and stable receipt at the destination before any further well was introduced. Two wells on the receiving train were identified for temporary shut-in to make room, and the candidate well\'s transfer from its home manifold was written as a step with its own checks.',
       'The 8.8 and 13.1 thousand barrel figures were kept in the plan as planning estimates, labelled as such, and were not reported as recovered production.',
     ],
     result: [
@@ -235,59 +235,59 @@ export const CASES = [
     ],
     takeaway: 'A planned date is a planned date. A commissioned line has a log.',
     deliverables: ['Staged commissioning plan with five hold points', 'Valve line-up and isolation verification list', 'Receiving-train readiness checks and temporary shut-in list', 'Draft communication to management with planning estimates labelled'],
-    evidence: 'Embedded engineering role. Well identifiers, station names and the operator are withheld. Volumes are contemporaneous planning estimates, not measured outcomes.',
+    evidence: 'Work done for the operator. Well identifiers, facility names and the operator are withheld. Volumes are contemporaneous planning estimates, not measured outcomes.',
     service: 'facilities-engineering',
   },
   {
     slug: 'train-restart-in-four-phases', numeral: '03', category: 'Facilities', short: 'Train restart',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Post-turnaround restart', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Post-turnaround restart', basis: EMB, period: '2026',
     title: 'Restarting a train one well at a <em>time</em>.',
-    sub: 'A four-phase plan to bring a degassing train back to about 87 thousand barrels of oil a day, with 35 thousand barrels of water behind it and a hold on any abnormal condition.',
+    sub: 'A four-phase plan to bring a processing train back to about 87 thousand barrels of oil a day, with 35 thousand barrels of water behind it and a hold on any abnormal condition.',
     problem: [
-      'After a turnaround, a station train had to be returned to service with the full set of wells behind it. Starting them together risked slugging, tank vent and flare carryover, unstable dehydrator interfaces and an emergency shutdown that would cost more days than a slow start. Weak natural-flow wells needed nitrogen lift or flowback support and could not simply be opened.',
+      'After a turnaround, a facility train had to be returned to service with the full set of wells behind it. Starting them together risked slugging, tank vent and flare carryover, unstable dehydrator interfaces and an emergency shutdown that would cost more days than a slow start. Weak natural-flow wells needed nitrogen lift or flowback support and could not simply be opened.',
     ],
     work: [
-      'The restart was written in four phases with planned oil increments of 21.7, 22.3, 22.1 and 20.5 thousand barrels a day and water increments of 2.5, 4.2, 18.0 and 10.5 thousand barrels a day. Wells were introduced one at a time, roughly fifteen minutes apart, with checks on train pressure, separation, tank levels and vents, dehydrator and desalter stability and flare behaviour between phases. The third phase, which carried half the water, was given the longest stabilisation window. Any abnormal condition held the sequence until the station manager released it.',
+      'The restart was written in four phases with planned oil increments of 21.7, 22.3, 22.1 and 20.5 thousand barrels a day and water increments of 2.5, 4.2, 18.0 and 10.5 thousand barrels a day. Wells were introduced one at a time, roughly fifteen minutes apart, with checks on train pressure, separation, tank levels and vents, dehydrator and desalter stability and flare behaviour between phases. The third phase, which carried half the water, was given the longest stabilisation window. Any abnormal condition held the sequence until the facility manager released it.',
     ],
     figure: 'restartPhases',
     result: [
       'The plan gave the control room a sequence with numbers to compare against as each well came on, and gave management a transparent picture of where the water would arrive and when. The increments were plan values and were reported as such; verified production came from the allocation export after the event, not from the plan.',
     ],
     deliverables: ['Four-phase restart plan with per-well sequence and timing', 'Phase checklists: pressure, levels, vents, treatment, flare', 'Stop criteria and approval points', 'Management summary with plan values labelled'],
-    evidence: 'Embedded engineering role. Plan values from the restart document; no claim is made about realised production. Operator and station withheld.',
+    evidence: 'Work done for the operator. Plan values from the restart document; no claim is made about realised production. Operator and facility withheld.',
     service: 'facilities-engineering',
   },
   {
     slug: 'produced-water-where-it-goes', numeral: '04', category: 'Water and integrity', short: 'Produced water balance',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Producing field, water system planning', basis: EMB, period: '2025 to 2026',
+    region: 'Middle East', setting: ME, stage: 'Producing field, water system planning', basis: EMB, period: '2025 to 2026',
     title: 'Where the water <em>goes</em>.',
     sub: 'A route-by-route produced water balance across disposal, re-injection and evaporation, with injectivity taken at actual pressure and the oil consequence of every water constraint stated.',
     problem: [
       'A water-flooded supergiant produces water at rates comparable to its oil. Disposal into a shallow formation, re-injection for pressure support and evaporation ponds each had their own capacity, availability and reliability, and the field\'s operating plans tended to treat "water capacity" as one number. A historic integrated-plan terms of reference had already listed the system\'s problems: interface control in dehydrators, oil-in-water measurement, meter coverage and reliability, installed pump capacity and single-pump stability, and oil recovery from ponds and drains.',
     ],
     work: [
-      'We built the balance per station and per route and tracked seven streams separately: water generated and separated by train; water treated or transferred to disposal; water injected into disposal wells; water re-injected; water routed to ponds; oil-in-water excursions and recycles; and outages, pump availability and disposal pressure. Available injectivity was taken at actual pressure rather than nameplate. A 2020 investment paper\'s 23-well disposal requirement was decomposed into 11 wells of added capacity, 7 for N+1 redundancy and 5 replacements, and treated as a dated planning basis rather than a current inventory.',
-      'Each water constraint was then translated into its upstream production consequence: which wells would have to be cut back, at which station, if a pump tripped or an injection well lost injectivity.',
+      'We built the balance per facility and per route and tracked seven streams separately: water generated and separated by train; water treated or transferred to disposal; water injected into disposal wells; water re-injected; water routed to ponds; oil-in-water excursions and recycles; and outages, pump availability and disposal pressure. Available injectivity was taken at actual pressure rather than nameplate. A 2020 investment paper\'s 23-well disposal requirement was decomposed into 11 wells of added capacity, 7 for N+1 redundancy and 5 replacements, and treated as a dated planning basis rather than a current inventory.',
+      'Each water constraint was then translated into its upstream production consequence: which wells would have to be cut back, at which facility, if a pump tripped or an injection well lost injectivity.',
     ],
     figure: 'waterRoutes',
     result: [
       'The operator\'s optimisation cases could now be tested against water routes rather than a single water number, and the evaporation route was shown separately so that it was never mistaken for sustainable disposal. Visualisation convention agreed with the operator: disposal and re-injection in two shades of blue, ponds in red, always with the time basis and units on the chart.',
     ],
     takeaway: 'Water capacity is not one number. It is a set of routes, each with a pressure, a pump and a failure mode.',
-    deliverables: ['Produced water balance by station and route', 'Disposal headroom at actual pressure', 'Water system problem register and checks', 'Constraint-to-production consequence table'],
-    evidence: 'Embedded engineering role. Historic documents (2019 scheme, 2020 terms of reference, 2020 investment paper) were used as dated engineering context, not as current facts. Operator and station identities withheld.',
+    deliverables: ['Produced water balance by facility and route', 'Disposal headroom at actual pressure', 'Water system problem register and checks', 'Constraint-to-production consequence table'],
+    evidence: 'Work done for the operator. Historic documents (2019 scheme, 2020 terms of reference, 2020 investment paper) were used as dated engineering context, not as current facts. Operator and facility identities withheld.',
     service: 'produced-water-and-integrity',
   },
   {
     slug: 'concept-study-not-yet-decision-grade', numeral: '05', category: 'Facilities', short: 'Concept study review',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Concept study review', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Concept study review', basis: EMB, period: '2026',
     title: 'Useful, but not yet decision <em>grade</em>.',
     sub: 'An independent review of a free-water knockout and produced water treatment concept study, with the gaps to close before an execution decision.',
     problem: [
-      'A consultant\'s concept study proposed free-water knockout and produced water treatment at a station to improve crude quality and relieve the dehydration train. The study basis assumed a high-asphaltene reservoir blend and water cut up to 80 per cent. Management needed to know whether to carry it to the next stage gate.',
+      'A consultant\'s concept study proposed free-water knockout and produced water treatment at a facility to improve crude quality and relieve the dehydration train. The study basis assumed a high-asphaltene reservoir blend and water cut up to 80 per cent. Management needed to know whether to carry it to the next stage gate.',
     ],
     work: [
-      'We tested the study against the operating record and the questions an execution decision would have to answer. The recoverable oil and deferral benefit was not quantified. Field fluid, emulsion and bottle-test data were absent, so the chemical programme was unvalidated. Separator sizing relied on correlations that had not been benchmarked against the performance of a comparable operating train in the same field. Integration with disposal, re-injection, ponds and inter-station transfer was not addressed. Internals fouling, sand, scale, pressure drop and maintainability, heating utilities and energy, control and reliability, the seasonal performance envelope, construction and shutdown windows and the project economics were each either missing or asserted.',
+      'We tested the study against the operating record and the questions an execution decision would have to answer. The recoverable oil and deferral benefit was not quantified. Field fluid, emulsion and bottle-test data were absent, so the chemical programme was unvalidated. Separator sizing relied on correlations that had not been benchmarked against the performance of a comparable operating train in the same field. Integration with disposal, re-injection, ponds and inter-facility transfer was not addressed. Internals fouling, sand, scale, pressure drop and maintainability, heating utilities and energy, control and reliability, the seasonal performance envelope, construction and shutdown windows and the project economics were each either missing or asserted.',
       'The review also noted that the 80 per cent water cut and high-asphaltene blend belonged to the study basis, not to a fieldwide measurement, and should not travel into other documents as fact.',
     ],
     result: [
@@ -295,12 +295,12 @@ export const CASES = [
     ],
     takeaway: 'A concept study earns its next gate by closing named gaps, not by adding pages.',
     deliverables: ['Review memorandum with verdict and conditions', 'Gap-closure list with owners', 'Study-basis versus field-measurement register', 'Recommended alternative cases'],
-    evidence: 'Embedded engineering role. The study, the consultant and the station are withheld. The verdict reflects the document revision reviewed, not later revisions.',
+    evidence: 'Work done for the operator. The study, the consultant and the facility are withheld. The verdict reflects the document revision reviewed, not later revisions.',
     service: 'facilities-engineering',
   },
   {
     slug: 'ranking-sixty-eight-kilometres-of-flowline', numeral: '06', category: 'Water and integrity', short: 'Flowline replacement programme',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Integrity programme', basis: EMB, period: '2025 to 2026',
+    region: 'Middle East', setting: ME, stage: 'Integrity programme', basis: EMB, period: '2025 to 2026',
     title: 'Ranking 68 kilometres of <em>flowline</em>.',
     sub: 'Turning a proactive flowline replacement programme into one timeline per well: risk, service test, replacement scope, construction and handover, planned against actual.',
     problem: [
@@ -313,12 +313,12 @@ export const CASES = [
       'Operations queries about an individual well could be answered from one page with the source and date of each item. Planned handover dates that had drifted were visible against actuals, and lines with a failed or pending service test could no longer be reported as complete because a construction milestone had passed.',
     ],
     deliverables: ['Flowline programme record per well with source fields', 'Planned-against-actual milestone view', 'Integrity, test and replacement timeline', 'Exception list: inconsistent dates, duplicate rows, stale exports'],
-    evidence: 'Embedded engineering role. The 67.7 kilometre figure is from the 2021 decision support paper and describes the candidate list at that date, not the current programme. Operator withheld.',
+    evidence: 'Work done for the operator. The 67.7 kilometre figure is from the 2021 decision support paper and describes the candidate list at that date, not the current programme. Operator withheld.',
     service: 'produced-water-and-integrity',
   },
   {
     slug: 'scale-is-a-diagnosis', numeral: '07', category: 'Water and integrity', short: 'Scale framework',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Producing field, flow assurance', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Producing field, flow assurance', basis: EMB, period: '2026',
     title: 'Differential pressure is not a <em>diagnosis</em>.',
     sub: 'A scale identification and evaluation framework that moves from trend to field confirmation to targeted treatment to post-job analysis.',
     problem: [
@@ -332,65 +332,65 @@ export const CASES = [
     ],
     takeaway: 'A pressure trend proposes. A sample and a rate test confirm.',
     deliverables: ['Scale identification and evaluation procedure', 'Treatment schedule with recoverable production basis', 'Post-job analysis template', 'Summary of scale reports and treatment approaches'],
-    evidence: 'Embedded engineering role. Operator and wells withheld. The procedure describes a workflow, not the outcome of any individual treatment.',
+    evidence: 'Work done for the operator. Operator and wells withheld. The procedure describes a workflow, not the outcome of any individual treatment.',
     service: 'produced-water-and-integrity',
   },
   {
     slug: 'pid-review-across-drawings', numeral: '08', category: 'Facilities', short: 'P&ID review',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Brownfield design review', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Brownfield design review', basis: EMB, period: '2026',
     title: 'Follow the flow path across the <em>drawings</em>.',
-    sub: 'A P&ID and statement-of-requirements review for new inter-station lines, where the gap was in the continuation between sheets.',
+    sub: 'A P&ID and statement-of-requirements review for new inter-facility lines, where the gap was in the continuation between sheets.',
     problem: [
-      'A package of P&IDs, statement of requirements, tie-in surveys and management-of-change forms covered additional transfer lines between two stations. Reviewed page by page the drawings looked compliant. The operator needed a comment register it could act on and a sign-off recommendation.',
+      'A package of P&IDs, statement of requirements, tie-in surveys and management-of-change forms covered additional transfer lines between two facilities. Reviewed page by page the drawings looked compliant. The operator needed a comment register it could act on and a sign-off recommendation.',
     ],
     work: [
       'We established the document register, revisions, area boundaries and technical authority, then built a clause-by-clause traceability matrix from each requirement to drawing and tag, compliance, evidence, owner and close-out. The review checked line size and class, pressure rating, flow direction, dead legs, isolation, overpressure, drains and vents, instrumentation, shutdown logic, testability, maintenance access and constructability. The whole flow path was traced across sheets using continuation arrows, manifold topology, battery limits and crossovers.',
-      'The trace found that references on one station\'s manifold drawing to two downstream sheets did not clearly communicate the overall continuation of the third line. On the individual sheets nothing was wrong; the gap existed only between them.',
+      'The trace found that references on one facility\'s manifold drawing to two downstream sheets did not clearly communicate the overall continuation of the third line. On the individual sheets nothing was wrong; the gap existed only between them.',
     ],
     result: [
       'The comment register ranked deviations, made each one verifiable, and recommended approval with conditions rather than approval, with the cross-drawing continuity item as a hold. No safety-critical gap was left open in a recommended-for-approval status.',
     ],
     deliverables: ['Traceability matrix: requirement to drawing to evidence', 'Ranked comment register with owners', 'Flow path trace across drawing boundaries', 'Sign-off recommendation with hold points'],
-    evidence: 'Embedded engineering role. Drawing numbers, tags and the operator are withheld.',
+    evidence: 'Work done for the operator. Drawing numbers, tags and the operator are withheld.',
     service: 'facilities-engineering',
   },
   {
     slug: 'one-answer-per-well', numeral: '09', category: 'Data', short: 'Operations console',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Producing field, decision support', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Producing field, decision support', basis: EMB, period: '2026',
     title: 'One answer per well, with its source and <em>date</em>.',
     sub: 'A field-level data model and console joining status, rates, routing, flowline integrity, service tests, water systems and project delivery, with history retained on every refresh.',
     problem: [
-      'Well status came from one export, allocated rates from another, routing from a planning list and flowline condition from a fourth system, each with its own date. The newest file was winning every argument, so a well could be shown flowing at a station it had left. Engineers were rebuilding the same picture by hand each week and management briefs disagreed with each other.',
+      'Well status came from one export, allocated rates from another, routing from a planning list and flowline condition from a fourth system, each with its own date. The newest file was winning every argument, so a well could be shown flowing at a facility it had left. Engineers were rebuilding the same picture by hand each week and management briefs disagreed with each other.',
     ],
     work: [
-      'We designed the data model around canonical entities (well with aliases, station, train, manifold, flowline, replacement project, work order, source) and set precedence field by field: the latest flowing-wells export governed status and receiving station; the latest allocation export governed oil, water and gas, never substituted silently by a test value; the master well reference governed home station; the signed test record governed service test position; the integrity export governed risk. Each stored value kept its raw and accepted form, its source date, load time, authority rule, confidence and conflict flag.',
-      'Five layers were built: current, context, history, changes and sources. A well profile read in four views, now, context, history, changes, with routing shown as home station against actual receiving station and a flexed flag set only when both were resolved. Refresh followed a weekend cadence for most domains with well status refreshed more often, and the data-as-of date was shown separately by domain. Station flow diagrams and P&IDs were stitched into a process graph with designed, as-built, temporary, planned, isolated and flowing connections kept distinct.',
+      'We designed the data model around canonical entities (well with aliases, facility, train, manifold, flowline, replacement project, work order, source) and set precedence field by field: the latest flowing-wells export governed status and receiving facility; the latest allocation export governed oil, water and gas, never substituted silently by a test value; the master well reference governed home facility; the signed test record governed service test position; the integrity export governed risk. Each stored value kept its raw and accepted form, its source date, load time, authority rule, confidence and conflict flag.',
+      'Five layers were built: current, context, history, changes and sources. A well profile read in four views, now, context, history, changes, with routing shown as home facility against actual receiving facility and a flexed flag set only when both were resolved. Refresh followed a weekend cadence for most domains with well status refreshed more often, and the data-as-of date was shown separately by domain. Facility flow diagrams and P&IDs were stitched into a process graph with designed, as-built, temporary, planned, isolated and flowing connections kept distinct.',
     ],
     result: [
-      'A query for any well returned a profile with every item sourced and dated and every unresolved conflict shown rather than hidden. Management outputs (station summaries, deferral registers, forecast tables) were generated from the same record, so they agreed with each other. The architecture was deliberately portable: SQLite and JSON behind a browser view, with Power BI and a hosted database as options.',
+      'A query for any well returned a profile with every item sourced and dated and every unresolved conflict shown rather than hidden. Management outputs (facility summaries, deferral registers, forecast tables) were generated from the same record, so they agreed with each other. The architecture was deliberately portable: SQLite and JSON behind a browser view, with Power BI and a hosted database as options.',
     ],
     takeaway: 'Newest file is not the same as most authoritative. Precedence is set per field, and the conflicts are part of the answer.',
-    deliverables: ['Data model, entity definitions and precedence rules', 'Well profile specification and console navigation', 'Refresh procedure, snapshot and change-event design', 'Data-health report format and exception classes', 'Process graph and stitched station schematic'],
-    evidence: 'Embedded engineering role. Architecture and rules as designed and built with the operator\'s exports; no claim is made about a currently hosted service. Operator withheld.',
+    deliverables: ['Data model, entity definitions and precedence rules', 'Well profile specification and console navigation', 'Refresh procedure, snapshot and change-event design', 'Data-health report format and exception classes', 'Process graph and stitched facility schematic'],
+    evidence: 'Work done for the operator. Architecture and rules as designed and built with the operator\'s exports; no claim is made about a currently hosted service. Operator withheld.',
     service: 'operations-data',
   },
   {
     slug: 'deferrals-with-a-water-column', numeral: '10', category: 'Operations', short: 'Deferral reporting',
-    region: 'Southern Iraq', setting: IRAQ, stage: 'Producing field, management reporting', basis: EMB, period: '2026',
+    region: 'Middle East', setting: ME, stage: 'Producing field, management reporting', basis: EMB, period: '2026',
     title: 'Deferrals with an owner and a water <em>column</em>.',
-    sub: 'Weekly handover notes, station summaries and a deferral remediation register that separated oil from liquid and transfers from net gains.',
+    sub: 'Weekly handover notes, facility summaries and a deferral remediation register that separated oil from liquid and transfers from net gains.',
     problem: [
-      'Deferral reporting mixed categories that overlapped (backpressure, choke scale, equipment unavailability, water treatment constraints, well failure, integrity shut-ins, flowline test holds, disposal injectivity) and sometimes summed them twice. A well moved between stations could appear as a gain at the receiving station without a matching reduction at the source. A transfer-line capacity in barrels of liquid was quoted as if it were oil.',
+      'Deferral reporting mixed categories that overlapped (backpressure, choke scale, equipment unavailability, water treatment constraints, well failure, integrity shut-ins, flowline test holds, disposal injectivity) and sometimes summed them twice. A well moved between facilities could appear as a gain at the receiving facility without a matching reduction at the source. A transfer-line capacity in barrels of liquid was quoted as if it were oil.',
     ],
     work: [
-      'Each deferral record was given a fixed set of fields: well, home station, current station, cause, gross potential oil, actual oil, deferred oil, associated water, basis date, mitigation, approval status, cost, owner, target date, latest action and linked project. Station comparisons were laid out as current, net change and post-move, each with oil, water and gas, at one decimal. Rules were written down: a liquid capacity is not an oil gain; a moved well is counted once; a well test is not an allocated rate; a disposal increase is not an oil benefit unless the mechanism releases a deferral.',
-      'Handover notes were written as the owner would write them: dated facts ordered by station or workstream, quantified impact where supported, blockers, owners and next action, with no filler about what the report does not contain.',
+      'Each deferral record was given a fixed set of fields: well, home facility, current facility, cause, gross potential oil, actual oil, deferred oil, associated water, basis date, mitigation, approval status, cost, owner, target date, latest action and linked project. Facility comparisons were laid out as current, net change and post-move, each with oil, water and gas, at one decimal. Rules were written down: a liquid capacity is not an oil gain; a moved well is counted once; a well test is not an allocated rate; a disposal increase is not an oil benefit unless the mechanism releases a deferral.',
+      'Handover notes were written as the owner would write them: dated facts ordered by facility or workstream, quantified impact where supported, blockers, owners and next action, with no filler about what the report does not contain.',
     ],
     result: [
-      'Management received a register that could be reconciled to the station totals and a handover that read as one engineer\'s account rather than a template. The water column made the downstream consequence of each oil opportunity visible before it was approved.',
+      'Management received a register that could be reconciled to the facility totals and a handover that read as one engineer\'s account rather than a template. The water column made the downstream consequence of each oil opportunity visible before it was approved.',
     ],
     deliverables: ['Deferral remediation register with owners and water', 'Station summaries: current, net change, post-move', 'Planned-against-current well rate comparison', 'Weekly handover notes and meeting schedules'],
-    evidence: 'Embedded engineering role. Register structure and rules as applied; individual well and station figures withheld.',
+    evidence: 'Work done for the operator. Register structure and rules as applied; individual well and facility figures withheld.',
     service: 'production-optimisation',
   },
   {
@@ -402,7 +402,7 @@ export const CASES = [
       'A developer needed a pipeline to carry gas from a source to a consumer and had a nominal flow rate in mind. The diameter could not be selected from the flow rate alone: minimum source pressure, required delivery pressure, demand variation and future capacity each changed the practical line size or introduced a compression requirement.',
     ],
     work: [
-      'The study compared candidate diameters across pressure cases, related gas velocity to hydraulic performance and erosional limits, and identified the station, metering, safeguarding, pigging and corrosion-control interfaces. Concept drawings were issued as conceptual FEED, not for construction, and a deliverable register defined the next stage with the data and verification each item required.',
+      'The study compared candidate diameters across pressure cases, related gas velocity to hydraulic performance and erosional limits, and identified the facility, metering, safeguarding, pigging and corrosion-control interfaces. Concept drawings were issued as conceptual FEED, not for construction, and a deliverable register defined the next stage with the data and verification each item required.',
     ],
     figure: 'pipelineEnvelope',
     result: [
@@ -479,19 +479,19 @@ export const INSIGHTS = [
   {
     slug: 'liquid-is-not-oil', tag: 'Production systems', date: 'October 2026', reading: 5,
     title: 'Liquid is not <em>oil</em>.',
-    intro: 'A transfer line rated at 50 thousand barrels a day of liquid does not add 50 thousand barrels of oil. On a field at 60 per cent water cut it may add 20, and only if the receiving station can dispose of the other 30.',
+    intro: 'A transfer line rated at 50 thousand barrels a day of liquid does not add 50 thousand barrels of oil. On a field at 60 per cent water cut it may add 20, and only if the receiving facility can dispose of the other 30.',
     sections: [
       ['Start with the unit', [
         'Most capacity numbers in a gathering system are liquid numbers: a pipeline, a manifold, a separator inlet, a pump. Most targets are oil numbers. The conversion between them is the water cut of the specific wells being moved, not the field average, and the water cut moves with time.',
         'A forecast that adds a liquid capacity to an oil total will look right for one quarter and wrong after that, because the wells that were moved are the ones with the highest water cut and the fastest decline.',
       ]],
       ['Count each well once', [
-        'When a well is transferred from one station to another, the receiving station gains and the source station loses. A spreadsheet that records the gain and keeps the well in the source total has created oil. The check is arithmetic: field oil before the move equals field oil after the move, before any losses or interventions are applied.',
-        'The same applies to net additions. A shut-in well that restarts at the receiving station is a net addition and should be shown in a separate column from a well that was already flowing somewhere else.',
+        'When a well is transferred from one facility to another, the receiving facility gains and the source facility loses. A spreadsheet that records the gain and keeps the well in the source total has created oil. The check is arithmetic: field oil before the move equals field oil after the move, before any losses or interventions are applied.',
+        'The same applies to net additions. A shut-in well that restarts at the receiving facility is a net addition and should be shown in a separate column from a well that was already flowing somewhere else.',
       ]],
       ['Follow the water to the ground', [
-        'The receiving station has an oil limit and a produced water limit, and downstream of it there are disposal pumps, injection wells with an injectivity that depends on wellhead pressure, re-injection headers and perhaps a pond. A liquid transfer that respects the line capacity and the oil limit can still fail at the disposal pump.',
-        'In the field forecast described in our selected work, enforcing the receiving station\'s water limit moved the binding constraint from the sending station\'s oil capacity to the receiving station\'s water treatment. The right next investment was in water, not in another transfer line.',
+        'The receiving facility has an oil limit and a produced water limit, and downstream of it there are disposal pumps, injection wells with an injectivity that depends on wellhead pressure, re-injection headers and perhaps a pond. A liquid transfer that respects the line capacity and the oil limit can still fail at the disposal pump.',
+        'In the field forecast described in our selected work, enforcing the receiving facility\'s water limit moved the binding constraint from the sending facility\'s oil capacity to the receiving facility\'s water treatment. The right next investment was in water, not in another transfer line.',
       ]],
       ['Write the rule down', [
         'The rules that stop these errors are short enough to put at the top of the workbook: liquid is not oil; a moved well is counted once; a well test is not an allocated rate; a disposal increase is not an oil gain unless it releases a named deferral; a planned enable date is not an available date. A forecast that states them can be audited. One that does not will be believed until it is wrong.',
@@ -512,7 +512,7 @@ export const INSIGHTS = [
         'A commissioned line has a signed service test, a line status in the operating system, a valve line-up that has been walked, and an operations approval. A plan that says "available from October" has none of these. When we write a commissioning sequence we build it around hold points that each require field-verified evidence before the next step: valve positions confirmed by a walk-down, an unobstructed path proved, communications and monitoring in place, differential pressure checked, stable receipt at the destination.',
       ]],
       ['How the error propagates', [
-        'A forecast that enables a transfer line from its planned date shows oil arriving at the receiving station from that month. The deferral register then records the wells behind that line as recoverable with a near-term target. The management brief adds the barrels. When the line is three months late, every one of those documents is wrong in the same direction, and the error is found by the person asking why actual production is below plan.',
+        'A forecast that enables a transfer line from its planned date shows oil arriving at the receiving facility from that month. The deferral register then records the wells behind that line as recoverable with a near-term target. The management brief adds the barrels. When the line is three months late, every one of those documents is wrong in the same direction, and the error is found by the person asking why actual production is below plan.',
       ]],
       ['The discipline', [
         'Carry the planned date as a planned date in every document, label it, and switch it to an actual date only when the evidence exists. In data systems this is a field-level rule: planned and actual are separate fields, and the actual is populated from the acceptance record, not from the plan.',
@@ -533,10 +533,10 @@ export const INSIGHTS = [
         'A disposal well has a nameplate injection rate from its design and an available injectivity at the actual wellhead pressure and the actual formation condition today. The two diverge with time and with solids and oil in the injected water. Capacity planning that uses nameplate will overstate disposal headroom by exactly the amount that matters.',
       ]],
       ['Ponds are not disposal', [
-        'Routing water to an evaporation pond relieves the station today and creates a recovery, environmental and oil-loss problem that returns later. It belongs in the balance as its own stream, drawn in a different colour, never summed into "disposal". On the field in our selected work the agreed convention was disposal and re-injection in two shades of blue and ponds in red.',
+        'Routing water to an evaporation pond relieves the facility today and creates a recovery, environmental and oil-loss problem that returns later. It belongs in the balance as its own stream, drawn in a different colour, never summed into "disposal". On the field in our selected work the agreed convention was disposal and re-injection in two shades of blue and ponds in red.',
       ]],
       ['The oil consequence', [
-        'Every water constraint has an upstream production consequence: which wells, at which station, would be cut back if this pump tripped or that well lost injectivity. Writing that consequence next to the constraint is what turns a water balance into a production decision. It also shows which water investment buys the most oil, which is rarely the one closest to the oil.',
+        'Every water constraint has an upstream production consequence: which wells, at which facility, would be cut back if this pump tripped or that well lost injectivity. Writing that consequence next to the constraint is what turns a water balance into a production decision. It also shows which water investment buys the most oil, which is rarely the one closest to the oil.',
       ]],
     ],
     closing: 'Water capacity is not one number. It is a set of routes, each with a pressure, a pump and a failure mode.',
@@ -551,7 +551,7 @@ export const INSIGHTS = [
         'Before proposing a modification, reconcile what the asset is doing today. Well tests, operating pressures, fluid properties, equipment performance and the loss record should support one consistent baseline with one date. A calibrated model earns its place by explaining the observed system; it does not earn it by producing a detailed chart.',
       ]],
       ['Test the next constraint', [
-        'Reducing a gathering restriction increases flow into a separation or water-handling limit. Changing lift settings alters the network response. Adding a transfer line moves the limit from one station\'s oil capacity to another\'s water capacity. The study is complete when the surrounding system has been checked and the range in which the improvement remains operable has been defined.',
+        'Reducing a gathering restriction increases flow into a separation or water-handling limit. Changing lift settings alters the network response. Adding a transfer line moves the limit from one facility\'s oil capacity to another\'s water capacity. The study is complete when the surrounding system has been checked and the range in which the improvement remains operable has been defined.',
       ]],
       ['Give the opportunity an owner', [
         'A recommendation needs an accountable person, a cost basis, an execution route and success criteria. Operations, wells, subsurface and projects may each own part of the answer. The interface between them should be visible in the register before the opportunity enters the delivery plan, because the owner of the fix is often not the team that reported the loss.',
@@ -596,7 +596,7 @@ export const INSIGHTS = [
         'Correlation-based sizing is a starting point. It becomes decision grade when the field fluids, emulsion behaviour, bottle tests and chemical performance have been measured and the correlation has been benchmarked against an operating train in the same field. A study basis that assumes 80 per cent water cut and a particular reservoir blend is a basis, and it should not travel into other documents as a measurement.',
       ]],
       ['Integrate with the system', [
-        'New capacity at one station changes the water routed to disposal, re-injection and ponds, the loading on transfer lines, and the operating envelope of the trains upstream. A concept that does not show its integration with those systems has not shown its benefit either, because the constraint may simply move.',
+        'New capacity at one facility changes the water routed to disposal, re-injection and ponds, the loading on transfer lines, and the operating envelope of the trains upstream. A concept that does not show its integration with those systems has not shown its benefit either, because the constraint may simply move.',
       ]],
       ['Operability, utilities, season, construction, economics', [
         'Fouling of internals, sand, scale and pressure drop; maintainability; heating and energy demand; control and reliability; the seasonal performance envelope; construction, shutdown and simultaneous operations; and the project economics. Each is either addressed or listed as open. The review\'s job is to say which, and to give a verdict: approve, approve with conditions, hold, or do not approve.',
@@ -620,18 +620,18 @@ export const PAGES = {
     title: 'Closer to the <em>answer</em>.',
     lead: 'Assos Tech is an independent oil and gas engineering consultancy. We work on producing fields where oil, water, gas and steel interact: production optimisation, facilities and commissioning, produced water and flowline integrity, wells, gas monetisation, and the technical due diligence behind a purchase or a loan.',
     meta: [
-      ['Where we work', 'Southern Iraq, the UK North Sea and West Africa, for operators, developers, investors and lenders.'],
+      ['Where we work', 'Middle East, the UK North Sea and West Africa, for operators, developers, investors and lenders.'],
       ['How we work', 'Senior engineers who have run production and sat where money is committed. Every number carries its basis and its date.'],
       ['What you get', 'A verdict and the evidence behind it: approve, approve with conditions, hold, or do not approve.'],
     ],
     view: {
       title: 'The constraint belongs to the whole <em>system</em>.',
       left: [
-        'A reservoir forecast is only useful if the wells can deliver it, the flowlines can carry it, the station can separate it, the water can be disposed of and the economics still hold. On a mature field those links fail in sequence: remove one constraint and the next one appears, usually in a different team\'s spreadsheet.',
+        'A reservoir forecast is only useful if the wells can deliver it, the flowlines can carry it, the facility can separate it, the water can be disposed of and the economics still hold. On a mature field those links fail in sequence: remove one constraint and the next one appears, usually in a different team\'s spreadsheet.',
         'We follow the chain from reservoir to export and we name the next constraint before the first is removed. The work is arithmetic more than opinion: a liquid capacity is converted to oil at the water cut of the wells being moved; a well is counted once; a planned date is a planned date until the acceptance record exists.',
       ],
       right: [
-        'Our clients are operators of large onshore fields and mature offshore assets, developers of gas projects in West Africa, and the investors and lenders who back them. They come to us for independent judgement at the point a decision is made: whether to approve a concept, how to restart a train, where the water will go, what an asset is worth once its water, integrity and abandonment are priced.',
+        'Our clients are operators of large onshore fields in the Middle East and mature offshore assets in the North Sea, developers of gas projects in West Africa, and the investors and lenders who back them. They come to us for independent judgement at the point a decision is made: whether to approve a concept, how to restart a train, where the water will go, what an asset is worth once its water, integrity and abandonment are priced.',
         'We are small by design. The engineer who scopes the work does the work and signs it.',
       ],
     },
@@ -642,9 +642,9 @@ export const PAGES = {
     },
     work: {
       title: 'Selected <em>work</em>.',
-      lead: 'Anonymised cases from southern Iraq, the North Sea and West Africa. Each states its basis: an embedded engineering role, an Assos study, or practitioner experience in previous employment.',
+      lead: 'Anonymised cases from onshore and offshore fields in the Middle East, the North Sea and West Africa. Each states its setting, its period and its basis. Clients, fields and facilities are never named.',
       cases: ['field-forecast-under-water-constraint', 'transfer-line-first-flow', 'produced-water-where-it-goes', 'gas-pipeline-pressure-defines-diameter'],
-      note: 'Client, field and station identities are withheld. Figures are planning values or dated study inputs, labelled as such, and are not represented as measured outcomes or client endorsement.',
+      note: 'Client, field and facility identities are withheld. Figures are planning values or dated study inputs, labelled as such, and are not represented as measured outcomes or client endorsement.',
     },
     method: {
       title: 'The answer first, then the <em>evidence</em>.',
@@ -678,17 +678,17 @@ export const PAGES = {
         'Where a client has its own templates, stage gates or RAG scheme, we follow them and add our name to the cover and footer.',
       ],
     },
-    cta: { title: 'Start with the <em>question</em>.', text: 'A focused technical question, a station that will not stabilise, a water balance that will not close, a data room that will not reconcile. Describe it in a paragraph and we will propose the scope.' },
+    cta: { title: 'Start with the <em>question</em>.', text: 'A focused technical question, a facility that will not stabilise, a water balance that will not close, a data room that will not reconcile. Describe it in a paragraph and we will propose the scope.' },
   },
 
   work: {
     title: 'Selected <em>work</em>.',
-    lead: 'Fourteen anonymised cases. Each states its setting, its period and its basis, so that experience, capability and project status are never blurred.',
-    note: 'Client, field, station and well identities are withheld throughout. Where a figure appears it is a planning value or a dated study input and is labelled as such. No case implies client endorsement, completed construction or independently verified production gains.',
+    lead: 'Fourteen anonymised cases from onshore and offshore fields. Each states its setting, its period and its basis, so that capability and project status are never blurred. Clients, fields and facilities are never named.',
+    note: 'Client, field, facility and well identities are withheld throughout. Where a figure appears it is a planning value or a dated study input and is labelled as such. No case implies client endorsement, completed construction or independently verified production gains.',
     basis: {
       title: 'Three kinds of <em>basis</em>.',
       items: [
-        ['Embedded engineering role', 'Work done by Assos Tech personnel in an embedded production, facilities or engineering role supporting an operator. The operator is withheld. Documents described are the operator\'s working documents, not Assos deliverables issued under our own number.'],
+        ['Operator engagement', 'Work done for an operator on a producing field: forecasts, reviews, plans and registers delivered into the operator\'s own systems and documents. The operator, the field and the facilities are withheld.'],
         ['Assos study', 'Study, concept or pre-FEED material prepared and issued by Assos Tech to a client under our own document control. Stage is stated. None is represented as a constructed or operating asset.'],
         ['Practitioner experience', 'Experience of senior personnel gained in previous employment, anonymised. Not an Assos Tech contract. Used to show the depth we bring, not as a corporate track record.'],
       ],
@@ -701,7 +701,7 @@ export const PAGES = {
     lead: 'Senior engineers who have run production, built models, read contracts and sat in the meetings where money is committed. The method below is how we keep that experience honest.',
     sequence: {
       title: 'One <em>sequence</em>.',
-      lead: 'From a two-week review to a year embedded in an operator\'s team, the steps are the same.',
+      lead: 'From a two-week review to a year retained inside an operator\'s team, the steps are the same.',
       steps: [
         ['i', 'Frame the decision', 'Who decides, what they must decide, by when, and what a useful answer looks like. Scope, interfaces, deliverables and reliance written before the work starts.'],
         ['ii', 'Freeze the evidence', 'Every source logged with its date, revision, owner and authority. Facts separated from management claims, estimates, reconstructions, inferences and opinions. Conflicts kept visible.'],
@@ -735,7 +735,7 @@ export const PAGES = {
       title: 'Three ways to <em>engage</em>.',
       items: [
         ['Focused review', 'A defined technical question, agreed information requirements and a concise recommendation with its basis. Fixed fee where the scope allows. Two to six weeks.'],
-        ['Embedded engineer', 'A senior engineer inside the operator\'s production, facilities or engineering team on a retained basis, carrying the registers, reviews and plans week to week.'],
+        ['Retained engineer', 'A senior engineer inside the operator\'s production, facilities or engineering team on a retained basis, carrying the registers, reviews and plans week to week.'],
         ['Owner\'s engineer and study lead', 'Coordinated technical and commercial workstreams for a development, acquisition or brownfield project, with specialist contributors selected for the assignment.'],
       ],
     },
@@ -757,12 +757,12 @@ export const PAGES = {
 
   about: {
     title: 'Independent engineering, from first <em>principles</em>.',
-    lead: 'Assos Tech Ltd is a UK-registered oil and gas engineering consultancy founded in 2014. We work for operators, developers, investors and lenders in southern Iraq, the UK North Sea and West Africa.',
+    lead: 'Assos Tech Ltd is a UK-registered oil and gas engineering consultancy founded in 2014. We work for operators, developers, investors and lenders on onshore and offshore fields in the Middle East, the North Sea and West Africa.',
     firm: {
       title: 'The <em>firm</em>.',
       left: [
         'Assos Tech is built around senior production and facilities engineering and an assignment-specific delivery model. The engineer who scopes an assignment leads it and signs it. Specialist contributors and delivery partners are engaged where a mandate needs disciplines we do not carry in house, and their responsibilities are written into the scope.',
-        'Our recent work has been inside the operations and engineering teams of a supergiant onshore oil field in southern Iraq, on forecasting, commissioning, produced water, flowline integrity, design review and decision data; in gas project development in Nigeria, on pipelines and small-scale LNG; and in technical and economic review for investors.',
+        'Our recent work has been for the operator of a supergiant onshore field in the Middle East, on forecasting, commissioning, produced water, flowline integrity, design review and decision data; in gas project development in Nigeria, on pipelines and small-scale LNG; and in technical and economic review for investors.',
       ],
       right: [
         'Before Assos Tech, the firm\'s senior personnel worked in operating roles on mature offshore assets in the UK North Sea and in production and intervention engineering across the North Sea and the Middle East. That experience is described on this site as practitioner experience in previous employment, and it is kept distinct from Assos Tech assignments.',
@@ -773,7 +773,7 @@ export const PAGES = {
       title: 'Where the experience <em>sits</em>.',
       lead: 'Four areas of depth, each visible in the selected work.',
       items: [
-        ['Producing assets', 'Production surveillance, integrated asset modelling, constraint mapping, deferral management, station capacity and routing, forecast and scenario work on fields producing above a million barrels a day.'],
+        ['Producing assets', 'Production surveillance, integrated asset modelling, constraint mapping, deferral management, facility capacity and routing, forecast and scenario work on fields producing above a million barrels a day.'],
         ['Facilities and water', 'Design basis and P&ID review, brownfield stage gates, commissioning and restart plans, overpressure context, produced water systems, scale and flowline integrity programmes.'],
         ['Wells and campaigns', 'Intervention diagnosis and programmes, water shut-off, scale treatment, stimulation, artificial-lift workovers, well delivery scheduling and post-job review.'],
         ['Gas, economics and data', 'Gas pipeline hydraulics, small-scale LNG and gas-to-power screening, transparent project economics, technical due diligence, and operations data systems with field-level precedence.'],
@@ -805,7 +805,7 @@ export const PAGES = {
   contact: {
     title: 'Describe the <em>decision</em>.',
     lead: 'The best brief is a paragraph on what has to be decided, by whom, and by when. We reply with the evidence it needs, the time it takes and what it costs.',
-    placeholder: 'For example: a transfer line is due in November and the forecast assumes it. The receiving station is already at its water limit. We need to know what the line is worth in oil and whether the water schedule supports it.',
+    placeholder: 'For example: a transfer line is due in November and the forecast assumes it. The receiving facility is already at its water limit. We need to know what the line is worth in oil and whether the water schedule supports it.',
     hint: 'Your browser will open an email to us with these fields. Nothing is stored on this site.',
     right: [
       'Assos Tech works for operators, developers, investors and lenders. Enquiries from recruiters, resellers and software vendors are read but rarely answered.',
@@ -845,21 +845,17 @@ export const PAGES = {
 
 PAGES.regions = {
   title: 'Three regions, three different <em>constraints</em>.',
-  lead: 'Competitors list countries. We would rather say what is different about each place we work, with the public numbers that frame the engineering, so you can judge whether we understand your side of the table.',
+  lead: 'Competitors list countries. We would rather say what is different about each place we work, onshore and offshore, so you can judge whether we understand your side of the table.',
   items: [
     {
-      label: 'Southern Iraq', title: 'Water decides the <em>oil</em>.',
-      lead: 'Supergiant water-flooded fields with dozens of degassing stations, large well counts and gathering systems that allow wells to be moved between stations. The binding constraint is more often water than oil.',
+      label: 'Middle East', title: 'Water decides the <em>oil</em>.',
+      lead: 'Supergiant water-flooded onshore fields with several central processing facilities, large well counts and gathering systems that allow wells to be moved between facilities. The binding constraint is more often water than oil.',
       body: [
-        'The engineering problems are brownfield and simultaneous: stations being rebuilt or expanded while producing, produced water re-injection being added in phases, inter-station lines being commissioned, flowlines reaching the end of their life on high water cut, and scale restricting chokes. Forecasts have to carry station oil and water limits, transfer-line liquid capacities and disposal headroom at the same time, with each well counted once.',
+        'The engineering problems are brownfield and simultaneous: processing facilities being rebuilt or expanded while producing, produced water re-injection being added in phases, inter-facility transfer lines being commissioned, flowlines reaching the end of their life on high water cut, and scale restricting chokes. Forecasts have to carry facility oil and water limits, transfer-line liquid capacities and disposal headroom at the same time, with each well counted once.',
         'Data are fragmented across daily exports, planning files and controlled drawings with different dates, so a decision-support record with field-level source precedence pays for itself quickly. Change runs through a brownfield stage-gate process, and commissioning and restart are field-verified activities with hold points, not calendar events.',
-        'The export route is shared and political. The closure of the Strait of Hormuz in March 2026 stopped production at major southern fields because no tankers could load, and the state oil company directed a return to normal production in July 2026 (Bloomberg, March 2026; World Oil, 7 July 2026). Restart planning is therefore a standing capability, not a one-off.',
+        'Export routes are shared and can close without notice, so restart planning is a standing capability rather than a one-off. A restart written one well at a time, with checks between phases and stop criteria, recovers production faster than an ambitious one that trips.',
       ],
-      numbers: [
-        ['Produced water re-injection build-out at one southern field', '1.5 million bwpd in five phases', 'Oilprice, February 2026'],
-        ['New two-train degassing facility at a southern field', '240,000 bpd, due August 2027', 'MEES, January 2026'],
-        ['Output at a southern supergiant, 2025 average', 'about 1.4 million bpd', 'Iraq Business News, February 2026'],
-      ],
+      numbers: [],
       asks: ['Constraint-based oil and water forecasts with transfer and disposal limits', 'Commissioning and restart plans with field-verified hold points', 'P&ID and statement-of-requirements review for new lines and trains', 'Produced water balances and disposal headroom', 'Flowline replacement programme integration and scale procedures', 'Well profiles, deferral registers and management reporting from one data model'],
       cases: ['field-forecast-under-water-constraint', 'produced-water-where-it-goes'],
     },
@@ -955,13 +951,13 @@ PAGES.origin = {
     body: [
       'Assos sits on a volcanic headland on the southern coast of the Troad, facing Lesbos across a narrow strait. In 347 BC, after Plato\'s death, Aristotle left Athens and accepted an invitation from Hermias, the ruler of Atarneus, to come to Assos. He stayed three years and founded his first school there, before moving across the water to Lesbos and the lagoon at Pyrrha.',
       'It was on that coast that his method took its shape. He stopped reasoning down from ideal forms and started working up from the thing in front of him: the anatomy of a cuttlefish, the breeding of a catfish, the tides. Observe first, classify what you see, and only then explain. Two thousand years later it is still the only method that survives contact with a producing field.',
-      'The firm took the name because the method is the point. A forecast is not an argument about what should happen. It is a record of what the wells, the lines and the stations are doing today, with the arithmetic of what follows.',
+      'The firm took the name because the method is the point. A forecast is not an argument about what should happen. It is a record of what the wells, the lines and the facilities are doing today, with the arithmetic of what follows.',
     ],
   },
   card: {
     title: 'The one card that decides the <em>hand</em>.',
     body: [
-      'In modern Greek, άσσος is the ace. It is the single card that carries the hand, the one the rest of the play is arranged around. In an engineering decision there is usually one such number: the water limit at the receiving station, the minimum source pressure on a gas line, the injectivity of a disposal well at today\'s wellhead pressure. Everything else is detail.',
+      'In modern Greek, άσσος is the ace. It is the single card that carries the hand, the one the rest of the play is arranged around. In an engineering decision there is usually one such number: the water limit at the receiving facility, the minimum source pressure on a gas line, the injectivity of a disposal well at today\'s wellhead pressure. Everything else is detail.',
       'Our work is to find that number, state it with its basis and its date, and build the recommendation around it. The idea we work to is the ace from first principles: the answer that holds because the arithmetic holds.',
     ],
   },
@@ -982,7 +978,7 @@ PAGES.origin = {
   timeline: [
     ['347 BC', 'Assos', 'Aristotle founds his first school on the headland and begins the observational method.'],
     ['7 April 2014', 'Incorporation', 'Assos Tech Ltd is registered in Scotland, company number SC474633.'],
-    ['2025 to 2026', 'Embedded and study work', 'Operations and facilities engineering inside a supergiant field\'s teams; gas pipeline and small-scale LNG studies in Nigeria.'],
+    ['2025 to 2026', 'Engagements and studies', 'Production, facilities and water engineering for the operator of a supergiant onshore field in the Middle East; gas pipeline and small-scale LNG studies in Nigeria.'],
     ['2026', 'The standard', 'Forest & Sage brand, evidence classes, document control and the data practice brought into one house standard.'],
   ],
   cta: { title: 'Measure from the same <em>datum</em>.', text: 'Send the decision you face and the files behind it. We will fix the basis first, then the answer.' },
