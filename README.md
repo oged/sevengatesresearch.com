@@ -21,7 +21,7 @@ npm run serve    # http://localhost:8080
 ## Editing rules
 
 - British English, no em dashes, numbers carry a source and a date. The checker enforces the banned-phrase list from the house voice standard.
-- Case studies state setting, period and basis (embedded engineering role, Assos study, practitioner experience). Client, field, station and well identities are withheld. Figures are plan values or dated study inputs, labelled as such.
+- Case studies state setting, period and basis (operator engagement, Assos study, practitioner experience). Client, field, facility and well identities are withheld. Figures are plan values or dated study inputs, labelled as such.
 - Fonts are Newsreader and Instrument Sans from Google Fonts. Colours are the Rev E tokens on `:root` in `styles.css`.
 - One Forest field per page: the closing band. Do not add a second.
 
