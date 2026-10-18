@@ -164,3 +164,32 @@ export const FIGURES = {
     return { title: 'The operating envelope is the argument.', descr: 'Delivery pressure against flow for three candidate diameters, bounded by the source pressure range, the minimum delivery pressure and the velocity limit.', svg: wrap(760, 300, s, 'Conceptual chart of delivery pressure against flow rate for three pipeline diameters with pressure and velocity limits'), caption: 'A line size chosen from a nominal flow alone ignores the low source-pressure case and future demand. Where the selected curve drops below the minimum delivery pressure, compression or a larger line is needed.' };
   },
 };
+
+/* Hero construction drawing of the Fine Datum, with dimension annotations outside the mark. */
+FIGURES.heroDatum = function () {
+  const c = 240, r = 117.5, q = 97.5;
+  const L = C.lichen, T = C.tint;
+  let s = '';
+  // construction grid (faint)
+  s += `<g stroke="${C.rule}" stroke-width="0.6">`;
+  for (let i = 60; i <= 420; i += 60) s += `<line x1="${i}" y1="40" x2="${i}" y2="440"/><line x1="40" y1="${i}" x2="440" y2="${i}"/>`;
+  s += `</g>`;
+  // centre lines
+  s += `<g class="draw"><line x1="${c}" y1="22" x2="${c}" y2="458" stroke="${L}" stroke-width="0.6" stroke-dasharray="6 4"/><line x1="22" y1="${c}" x2="458" y2="${c}" stroke="${L}" stroke-width="0.6" stroke-dasharray="6 4"/>`;
+  // the mark (exact geometry, scaled 5x from the 48 box)
+  s += `<circle cx="${c}" cy="${c}" r="${r}" fill="none" stroke="${C.forest}" stroke-width="4.5"/>`;
+  s += `<path class="fill" d="M${c} ${c} L${c} ${c - q} A${q} ${q} 0 0 1 ${c + q} ${c} Z" fill="${C.forest}"/><path class="fill" d="M${c} ${c} L${c} ${c + q} A${q} ${q} 0 0 1 ${c - q} ${c} Z" fill="${C.forest}"/>`;
+  // dimension: box 48
+  s += `<line x1="${c - r - 2}" y1="400" x2="${c + r + 2}" y2="400" stroke="${L}" stroke-width="0.8"/><line x1="${c - r - 2}" y1="392" x2="${c - r - 2}" y2="408" stroke="${L}" stroke-width="0.8"/><line x1="${c + r + 2}" y1="392" x2="${c + r + 2}" y2="408" stroke="${L}" stroke-width="0.8"/>`;
+  // radius leader
+  s += `<line x1="${c}" y1="${c}" x2="${c + r * 0.7071}" y2="${c - r * 0.7071}" stroke="${L}" stroke-width="0.8"/>`;
+  // gap leader
+  s += `<line x1="${c + q}" y1="${c + 30}" x2="${c + r + 40}" y2="${c + 30}" stroke="${L}" stroke-width="0.8"/></g>`;
+  // labels (not animated)
+  s += `<text x="${c}" y="422" text-anchor="middle" class="fd" fill="${L}">48 units</text>`;
+  s += `<text x="${c + r * 0.7071 + 6}" y="${c - r * 0.7071 - 6}" class="fd" fill="${L}">r 23.5</text>`;
+  s += `<text x="${c + r + 44}" y="${c + 34}" class="fd" fill="${L}">gap 4.0</text>`;
+  s += `<text x="40" y="34" class="fl" fill="${L}">Fine datum</text><text x="40" y="48" class="fv" fill="${L}">Hairline ring, stroke 0.9. Two opposing solid quadrants, inset.</text>`;
+  s += `<text x="440" y="452" text-anchor="end" class="fv" fill="${L}">Rev E · 2026</text>`;
+  return { title: '', descr: '', svg: `<svg viewBox="0 0 480 480" role="img" aria-label="Construction drawing of the Assos Tech fine datum mark with dimensions" xmlns="http://www.w3.org/2000/svg">${s}</svg>`, caption: '', conceptual: false };
+};

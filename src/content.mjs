@@ -900,3 +900,90 @@ PAGES.regions = {
   ],
   cta: { title: 'Tell us which <em>region</em>.', text: 'If your asset sits in one of these places, send the decision you face. If it sits elsewhere, send it anyway; the method travels.' },
 };
+
+/* ------------------------------------------------------------------ */
+/* SECOND DESIGN PASS: additions                                       */
+/* ------------------------------------------------------------------ */
+
+PAGES.home.eyebrow = 'Independent engineering, from first principles';
+PAGES.home.statement = {
+  text: 'Every number on this site carries its basis and its date. <span class="lichen">So does every number in our reports. That is the whole method.</span>',
+  note: 'Fact, management claim, estimate, reconstruction, inference, opinion. Six classes, visible or by phrasing, on every page we issue. The reader can always see where measurement ends and judgement begins.',
+};
+PAGES.home.metrics = {
+  title: 'Stated, not <em>styled</em>.',
+  lead: 'Four numbers from the selected work, each with the document it came from. None of them is a portfolio total.',
+  items: [
+    ['Planned oil, four-phase restart', '86.6', 'mbd', 'Four phases of 21.7, 22.3, 22.1 and 20.5 thousand barrels a day, wells introduced one at a time.', 'Train restart plan, 2026'],
+    ['Flowline ranked for replacement', '67.7', 'km', 'Candidate lines ranked on integrity risk, production viability and scope duplication.', 'Decision support paper, 2021'],
+    ['Hold points before first flow', '5', '', 'Each released only on field-verified evidence, from valve line-up to stable receipt.', 'Commissioning plan, 2026'],
+    ['Scenarios carried to 2029', '3', '', 'No transfers, transfers, transfers with optimisation. Each well counted once, water followed to disposal.', 'Forecast workbook, September 2026'],
+  ],
+};
+PAGES.home.featured = 'field-forecast-under-water-constraint';
+PAGES.home.pillars = {
+  title: 'Observe. Endure. <em>Vantage</em>.',
+  lead: 'Three words from the name. Assos is where Aristotle founded his first school in 347 BC and learned to trust what he could measure. In Greek the word is also the ace, the one card that decides the hand.',
+  items: [
+    ['Observe', 'Start from the measured system, with its dates and its gaps. A calibrated model earns its place by explaining what the plant is doing today.'],
+    ['Endure', 'Build registers, models and procedures that survive the engineer who built them. One live file per document, revision inside it, basis date on every page.'],
+    ['<em>Vantage</em>', 'Stand where the whole chain is visible, from reservoir to export to cash, and name the next constraint before the first is removed.'],
+  ],
+};
+PAGES.home.closeText = 'Tell us what has to be decided and by when. We will say what evidence it needs, how long that takes and what it costs, usually within a week.';
+
+PAGES.services.matrix = {
+  title: 'Where each service enters the <em>asset</em>.',
+  lead: 'Five stages of an asset\'s life against the seven service lines. A filled datum is where we lead; a half datum is where we contribute to a wider team; an open datum is by specific request.',
+  stages: ['Appraise', 'Develop', 'Produce', 'Extend', 'Transfer'],
+  rows: [
+    ['production-optimisation', [0, 1, 2, 2, 1]],
+    ['facilities-engineering', [1, 2, 2, 2, 0]],
+    ['produced-water-and-integrity', [0, 1, 2, 2, 1]],
+    ['wells-and-interventions', [1, 1, 2, 2, 0]],
+    ['gas-monetisation', [2, 2, 1, 1, 1]],
+    ['technical-due-diligence', [2, 1, 1, 2, 2]],
+    ['operations-data', [0, 1, 2, 2, 1]],
+  ],
+};
+
+PAGES.origin = {
+  title: 'The ace, from first <em>principles</em>.',
+  lead: 'A name is a promise about method. Ours comes from a city on the Aegean, a card, and a reference mark. This page explains the three, and what the firm is being built to do.',
+  city: {
+    title: 'A school on a <em>headland</em>.',
+    body: [
+      'Assos sits on a volcanic headland on the southern coast of the Troad, facing Lesbos across a narrow strait. In 347 BC, after Plato\'s death, Aristotle left Athens and accepted an invitation from Hermias, the ruler of Atarneus, to come to Assos. He stayed three years and founded his first school there, before moving across the water to Lesbos and the lagoon at Pyrrha.',
+      'It was on that coast that his method took its shape. He stopped reasoning down from ideal forms and started working up from the thing in front of him: the anatomy of a cuttlefish, the breeding of a catfish, the tides. Observe first, classify what you see, and only then explain. Two thousand years later it is still the only method that survives contact with a producing field.',
+      'The firm took the name because the method is the point. A forecast is not an argument about what should happen. It is a record of what the wells, the lines and the stations are doing today, with the arithmetic of what follows.',
+    ],
+  },
+  card: {
+    title: 'The one card that decides the <em>hand</em>.',
+    body: [
+      'In modern Greek, άσσος is the ace. It is the single card that carries the hand, the one the rest of the play is arranged around. In an engineering decision there is usually one such number: the water limit at the receiving station, the minimum source pressure on a gas line, the injectivity of a disposal well at today\'s wellhead pressure. Everything else is detail.',
+      'Our work is to find that number, state it with its basis and its date, and build the recommendation around it. The idea we work to is the ace from first principles: the answer that holds because the arithmetic holds.',
+    ],
+  },
+  datum: {
+    title: 'A reference everything else is measured <em>from</em>.',
+    body: [
+      'The mark is a fine datum: a hairline ring with two opposing solid quadrants, drawn on a 48-unit box with a 0.9 stroke. Surveyors and machinists use the symbol to fix the point from which every other dimension is taken. If the datum moves, every measurement is wrong.',
+      'We use it because that is what a good report does. It fixes the basis: the source files, their dates, the capacities assumed and the switch dates. Then every number in the document can be traced back to it.',
+    ],
+  },
+  ambition: {
+    title: 'What the firm is being <em>built</em> to do.',
+    body: [
+      'Assos Tech is being built as a small permanent bench of senior production, facilities and gas engineers, working to one evidence standard and one document standard, with a data practice that turns an operator\'s exports into a decision record. The ambition is narrow and specific: to be the engineer an operator, a developer or a lender calls before the money moves, in the three regions where the firm has worked.',
+      'The measures of that are not headcount or logos. They are whether the registers we build are still in use a year later, whether the verdicts we give are borne out by the allocation export, and whether the notes we publish are quoted back to us in the meetings where decisions are made.',
+    ],
+  },
+  timeline: [
+    ['347 BC', 'Assos', 'Aristotle founds his first school on the headland and begins the observational method.'],
+    ['7 April 2014', 'Incorporation', 'Assos Tech Ltd is registered in Scotland, company number SC474633.'],
+    ['2025 to 2026', 'Embedded and study work', 'Operations and facilities engineering inside a supergiant field\'s teams; gas pipeline and small-scale LNG studies in Nigeria.'],
+    ['2026', 'The standard', 'Forest & Sage brand, evidence classes, document control and the data practice brought into one house standard.'],
+  ],
+  cta: { title: 'Measure from the same <em>datum</em>.', text: 'Send the decision you face and the files behind it. We will fix the basis first, then the answer.' },
+};
