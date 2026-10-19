@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="850" viewBox="0 0 640 850" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 1. Testing the scale of the NLNG claim</title>
+  <desc id="desc">Conditional arithmetic, not verified receipts. 250 billion naira per state times 36 states equals 9 trillion naira. If the states' share is 26.72 percent, as stated by the Presidency on 18 October 2026, the implied distributable pool is 33.68 trillion naira. The calculation does not prove that this money exists or is owed, and cannot establish the period covered.</desc>
+  <rect width="640" height="850" fill="#FBF8F1"/>
+  <rect x="12" y="12" width="616" height="826" rx="4" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1A1F24">
+    <text x="36" y="54" font-size="21" letter-spacing="2" fill="#A67C3D">FIGURE 1 · 19 OCTOBER 2026</text>
+    <text x="36" y="96" font-size="30" font-weight="700">Testing the NLNG claim's scale</text>
+    <text x="36" y="132" font-size="23" fill="#46504F">Conditional arithmetic, not verified receipts</text>
+    <rect x="36" y="158" width="568" height="128" fill="#1A1F24" rx="4"/>
+    <text x="58" y="198" font-size="24" fill="#FBF8F1">Claim per state</text>
+    <text x="58" y="252" font-size="44" font-weight="700" fill="#E0B268">₦250 billion</text>
+    <path d="M320 290 V334 M310 324 L320 334 L330 324" fill="none" stroke="#A67C3D" stroke-width="3"/>
+    <text x="340" y="322" font-size="24">× 36 states</text>
+    <rect x="36" y="350" width="568" height="128" fill="none" stroke="#C6BFAE" stroke-width="2" rx="4"/>
+    <text x="58" y="390" font-size="24">Implied aggregate state amount</text>
+    <text x="58" y="444" font-size="44" font-weight="700">₦9 trillion</text>
+    <path d="M320 482 V526 M310 516 L320 526 L330 516" fill="none" stroke="#A67C3D" stroke-width="3"/>
+    <text x="340" y="514" font-size="24">÷ 26.72%</text>
+    <rect x="36" y="542" width="568" height="128" fill="none" stroke="#A67C3D" stroke-width="2" rx="4"/>
+    <text x="58" y="582" font-size="24">Implied total distributable pool</text>
+    <text x="58" y="636" font-size="44" font-weight="700">₦33.68 trillion</text>
+    <text x="36" y="710" font-size="23" font-weight="700">Assumes the Presidency's stated state share.</text>
+    <text x="36" y="742" font-size="23">Does not establish entitlement or period covered.</text>
+    <path d="M36 765 H604" stroke="#C6BFAE"/>
+    <text x="36" y="797" font-size="22" fill="#46504F">Source: State House, 18 October 2026.</text>
+    <text x="36" y="826" font-size="22" fill="#46504F">Method: ₦250bn × 36 ÷ 0.2672. Seven Gates.</text>
+  </g>
+</svg>

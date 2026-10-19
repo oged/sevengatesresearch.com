@@ -141,6 +141,18 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-19 · briefing/2026-10-19 · prepared, not published
+
+- **Type:** Daily Brief, no investment rating.
+- **Publication hold:** draft remains true. Temporary automatic approval-service capacity failure blocked the production browser check and interrupted dependency installation. Build and live-page rendering are not validated. The 390px SVG rendering and source-level responsive rules were checked. Reconfirm current source and news before retry; remove this hold only after validation and production verification.
+- **Entry route:** a state project's dependence on a disputed dividend, followed by the missing declaration-to-allocation reconciliation, rather than yesterday's monitored-diagnosis opening.
+- **Shape:** four ranked developments: Nigeria's NLNG dividend disagreement, Egypt's defence-council resolution, divergent regional equity returns with dated oil prices, and the CMA's proposed Microsoft designation. Ends on documentary reconciliation, military confirmation, shipping access and tested software switching.
+- **Visual:** three-stage conditional arithmetic: ₦250 billion per state times 36 equals ₦9 trillion; divided by the Presidency's stated 26.72% state share implies ₦33.68 trillion. The calculation is labelled as neither verified receipts nor entitlement and cannot establish the covered period. Numerical relationship diagram, not bars that imply comparable observed amounts.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Conflict and potential civilian exposure are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** permanent retired register and rolling 20 entries checked before and after drafting. Fiscal reconciliation entry and conditional numerical flow replace the previous health-surveillance entry and contact-list bar. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke. Egypt is retained only for the new formal council resolution; no repeat of yesterday's scheduled-plenary claim as a fresh event.
+- **Evidence limits:** neither side's political claim establishes NLNG money owed or received; the Presidency's allocation share is an attributed assumption and its historical dollar-dividend assertions are not adopted. Single-payout arithmetic cannot disprove an unspecified multi-period reconciliation. Egypt's council statement does not establish parliamentary approval or deployment. Reuters market observations have distinct 16 and 18 October dates and do not isolate causality. The CMA action is proposed, UK-specific and not a finding of wrongdoing. No Nigerian legal entitlement or supplier-performance outcome is inferred.
+
 ### 2026-10-18 · briefing/2026-10-18
 
 - **Type:** Daily Brief, no investment rating.
