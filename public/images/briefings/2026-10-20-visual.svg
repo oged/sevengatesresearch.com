@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="740" viewBox="0 0 640 740" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 1. Reported interest still exceeds revenue</title>
+  <desc id="desc">Nominal reported federal figures in trillion naira from the October 2026 World Bank Nigeria Development Update, page 28. H1 2025 revenue 3.6 and interest 5.6; H1 2026 revenue 6.2 and interest 7.7. Bars share a zero-to-eight scale. The Finance Ministry disputes the coverage of the comparison. Not a consolidated all-government debt-service ratio.</desc>
+  <rect width="640" height="740" fill="#FBF8F1"/>
+  <rect x="12" y="12" width="616" height="716" rx="4" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1A1F24">
+    <text x="36" y="52" font-size="21" letter-spacing="2" fill="#A67C3D">FIGURE 1 · 20 OCTOBER 2026</text>
+    <text x="36" y="94" font-size="30" font-weight="700">Reported interest still</text>
+    <text x="36" y="130" font-size="30" font-weight="700">exceeds revenue</text>
+    <text x="36" y="168" font-size="24" fill="#46504F">Federal series · nominal ₦ trillion</text>
+    <g stroke="#C6BFAE" stroke-width="1">
+      <path d="M175 215 V540 M275 215 V540 M375 215 V540 M475 215 V540 M575 215 V540"/>
+    </g>
+    <text x="36" y="218" font-size="25" font-weight="700">H1 2025</text>
+    <text x="36" y="264" font-size="24">Revenue</text>
+    <rect x="175" y="240" width="180" height="32" fill="#A67C3D"/>
+    <text x="365" y="265" font-size="26" font-weight="700">3.6</text>
+    <text x="36" y="314" font-size="24">Interest</text>
+    <rect x="175" y="290" width="280" height="32" fill="#1A1F24"/>
+    <text x="465" y="315" font-size="26" font-weight="700">5.6</text>
+    <text x="36" y="390" font-size="25" font-weight="700">H1 2026</text>
+    <text x="36" y="436" font-size="24">Revenue</text>
+    <rect x="175" y="412" width="310" height="32" fill="#A67C3D"/>
+    <text x="495" y="437" font-size="26" font-weight="700">6.2</text>
+    <text x="36" y="486" font-size="24">Interest</text>
+    <rect x="175" y="462" width="385" height="32" fill="#1A1F24"/>
+    <text x="570" y="487" font-size="26" font-weight="700">7.7</text>
+    <path d="M175 540 H575" stroke="#1A1F24" stroke-width="2"/>
+    <g font-size="23" text-anchor="middle">
+      <text x="175" y="570">0</text><text x="275" y="570">2</text><text x="375" y="570">4</text><text x="475" y="570">6</text><text x="575" y="570">8</text>
+    </g>
+    <text x="36" y="614" font-size="23" font-weight="700">Coverage disputed by the Finance Ministry.</text>
+    <text x="36" y="646" font-size="23">Not an all-government debt-service ratio.</text>
+    <path d="M36 667 H604" stroke="#C6BFAE"/>
+    <text x="36" y="699" font-size="22" fill="#46504F">Source: World Bank, October 2026 NDU, p. 28.</text>
+  </g>
+</svg>

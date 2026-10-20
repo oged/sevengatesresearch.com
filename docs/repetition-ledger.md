@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-20 · briefing/2026-10-20
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** simultaneous revenue improvement and an excess of reported federal interest, followed by a coverage challenge rather than a binary solvency verdict.
+- **Shape:** five ranked developments: fiscal reconciliation, Egypt's deferred authorisation, FII postponement, public disclosure of the older DeepSeek order and Nigerian service-chief extensions. Ending specifies accounting, operational, financing, software-inventory and succession evidence.
+- **Visual:** four zero-based bars on a common nominal ₦ trillion scale: H1 2025 and H1 2026 reported federal revenue and interest, directly verified in the World Bank's October NDU, p. 28. Explicitly labels the Finance Ministry's coverage dispute and excludes interpretation as a consolidated all-government debt-service ratio.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Conflict, detainees and public-service users treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** last 20 published entries and permanent retired register checked before and after drafting. Fiscal-accounting opening replaces the last published monitored-diagnosis entry. Bars measure reported cash categories, not recent CPI or contact counts. The unpublished 19 October NLNG draft remains preserved on its separate branch and is not imported or relabelled as today's edition. No retired personification, billing metaphor, distinction flourish, paired epigram or reused joke.
+- **Evidence limits:** ministry coverage objections are attributed, without inventing a reconciled ratio; earned but unremitted revenue is not treated as available cash. Egypt's vote is deferred, not approved or rejected. FII's old FAQ still lists October dates, but its explicit CEO postponement announcement supersedes them; no cancelled capital amount inferred. The DeepSeek notice was filed 19 October for 20 October publication, but its signed appendix states original release 24 July 2026. No new effective date, blanket private-sector ban or universal compromise is inferred. Tenure extensions are official decisions, not proof of improved service or legal conclusions.
+
 ### 2026-10-18 · briefing/2026-10-18
 
 - **Type:** Daily Brief, no investment rating.
