@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-21 · briefing/2026-10-21
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's first confirmed case in the current regional Ebola outbreak, framed through the sequence from arrival to confirmation and the operational demands of complete contact monitoring, rather than a national-outbreak declaration.
+- **Shape:** five ranked developments: Nigeria's imported Ebola case, oil's intraday reversal, the dual-policing package at legal review, UNIDIR's military-AI forum and Reuben Fasoranti's death. The ending names evidence that would change the health, oil, policing and AI assessments.
+- **Visual:** dated vertical timeline from 3 to 20 October, followed by a separate 44-contact monitoring panel. It does not plot contacts as infections and states that the likely source remains under investigation.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Illness, potential exposure and death are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. A patient-pathway timeline replaces 18 October's Kenya contact-list bar and 20 October's fiscal comparison. The lead addresses Nigeria's new imported case and private-facility response interval, not Kenya's diagnoses in quarantine. No retired personification, billing metaphor, distinction flourish, paired epigram or reused joke.
+- **Evidence limits:** one confirmed imported case is not described as community spread; contacts are not cases; the source of infection remains under investigation. Intraday oil highs and closing losses do not establish a lasting price regime. The policing package is under legal review and dependent on constitutional steps, not enacted. UNIDIR's forum is a consultation platform, not a treaty or regulator. The official tribute establishes Fasoranti's death and career claims; future Afenifere authority is presented as an open institutional question.
+
 ### 2026-10-20 · briefing/2026-10-20
 
 - **Type:** Daily Brief, no investment rating.

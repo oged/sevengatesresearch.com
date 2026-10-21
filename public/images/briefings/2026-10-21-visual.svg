@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="740" viewBox="0 0 640 740" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's first confirmed case in the current Bundibugyo Ebola outbreak</title>
+  <desc id="desc">A timeline shows arrival in Nigeria on 3 October, symptoms on 7 October, care at a private facility on 11 October, and laboratory confirmation on 20 October. Forty-four contacts are under monitoring. The likely source of infection remains under investigation.</desc>
+  <rect width="640" height="740" fill="#FBF8F1"/>
+  <rect x="28" y="28" width="584" height="684" rx="8" fill="#FBF8F1" stroke="#1A1F24" stroke-width="2"/>
+  <text x="56" y="78" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">NIGERIA • EBOLA RESPONSE</text>
+  <text x="56" y="116" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">From arrival to confirmation</text>
+  <text x="56" y="143" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">Current Bundibugyo outbreak • WHO report, 20 October 2026</text>
+
+  <line x1="98" y1="204" x2="98" y2="500" stroke="#C6BFAE" stroke-width="4"/>
+
+  <circle cx="98" cy="220" r="11" fill="#A67C3D"/>
+  <text x="132" y="216" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">3 October</text>
+  <text x="132" y="240" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Arrival in Nigeria (implied by WHO chronology)</text>
+
+  <circle cx="98" cy="310" r="11" fill="#A67C3D"/>
+  <text x="132" y="306" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">7 October</text>
+  <text x="132" y="330" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Reported symptom onset</text>
+
+  <circle cx="98" cy="400" r="11" fill="#A67C3D"/>
+  <text x="132" y="396" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">11 October</text>
+  <text x="132" y="420" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Sought care at a private Abuja facility</text>
+
+  <circle cx="98" cy="490" r="11" fill="#1A1F24"/>
+  <text x="132" y="486" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">20 October</text>
+  <text x="132" y="510" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Laboratory confirmation; patient isolated</text>
+
+  <rect x="56" y="554" width="528" height="82" rx="6" fill="#1A1F24"/>
+  <text x="82" y="588" fill="#FBF8F1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1">CONTACT FOLLOW-UP</text>
+  <text x="82" y="621" fill="#FBF8F1" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">44 under monitoring</text>
+
+  <line x1="56" y1="668" x2="584" y2="668" stroke="#C6BFAE"/>
+  <text x="56" y="691" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="12">Source: WHO Regional Office for Africa, 20 October 2026. Arrival date derived</text>
+  <text x="56" y="708" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="12">from stated interval. Contacts are not cases; infection source remains under investigation.</text>
+</svg>
