@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-22 · briefing/2026-10-22
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's shift from public borrowing to private-capital-led growth, tested through financial close, disbursement and construction rather than the announced value of a project list.
+- **Shape:** four ranked developments: Nigeria's growth-financing execution gap, the diesel volume mismatch, Meta's AI spending and non-voting share class, and Sudan's currency collapse. The ending names transaction, cargo, financing and ceasefire evidence that would change each assessment.
+- **Visual:** three zero-based bars on a common zero-to-eight-percent scale compare the IMF's 2026 and 2027 Nigerian real-growth forecasts with the government's five-year average target. It explicitly labels the government figure as a target, not a forecast, and notes the different horizon.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. War, displacement and household hardship are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** last 20 published entries and the permanent retired register checked before and after drafting. A project-bankability opening replaces yesterday's public-health execution opening. The forecast-versus-target visual uses Nigerian growth data, but tests a financing ambition rather than repeating 14 October's distribution argument or 20 October's reported federal cash comparison. No retired personification, billing metaphor, distinction flourish, paired epigram or reused joke.
+- **Evidence limits:** the 7% figure is a government five-year average target, not an IMF forecast; the ministry project list is not committed or disbursed capital; guarantees can create contingent public liabilities. Diesel needs are analyst estimates and the announced cargo is not delivered supply. Meta's stock dividend is not itself dilution, while future Class C issuance may alter economic ownership without changing voting control. Sudan's parallel rate is reported market evidence from a fragmented war economy, and the official rate does not establish broad access.
+
 ### 2026-10-21 · briefing/2026-10-21
 
 - **Type:** Daily Brief, no investment rating.
