@@ -141,6 +141,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-23 · briefing/2026-10-23
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the Dangote refinery offer's ability to convert broad subscription access into retained, active capital-market participation after allotment and listing.
+- **Shape:** four ranked developments: Nigeria's investor-retention test, the two-sided Nigerian effect of $113 oil, diverging AI economics between infrastructure suppliers and spenders, and the slower decline in Chinese inward investment. The ending names post-listing activity, Gulf export capacity, supplier results and a positive FDI reading as disconfirming evidence.
+- **Visual:** three connected factual panels separate total Nigerian capital-market participation, the smaller active-trading population and NGX Group's expected three-to-five-times increase. The expectation is explicitly not plotted as an observed count because the chief executive did not disclose the current active total.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Armed conflict and its economic effects are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** last 20 published entries and the permanent retired register checked before and after drafting. An investor-retention opening replaces yesterday's project-financing test. The participation sequence is neither a common-axis forecast bar nor a public-health timeline, and it does not use the retired pipes, party, billing, personification, distinction or paired-calculation structures. WhatsApp appears only as a literal sourced distribution channel, not as a punchline.
+- **Evidence limits:** NGX Group's three-to-five-times figure is an expectation without a disclosed active-investor denominator; 12 million includes capital-market participants who do not trade actively. The oil analysis is conditional on Nigerian production and remittances and does not equate Brent with fiscal receipts. Western Digital's next-quarter figures are management guidance and its results do not establish returns across the AI sector. China's smaller year-to-date FDI decline remains a contraction, and project-level Nigerian effects are analysis rather than announced commitments.
+
 ### 2026-10-22 · briefing/2026-10-22
 
 - **Type:** Daily Brief, no investment rating.
