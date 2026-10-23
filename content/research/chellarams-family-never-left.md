@@ -222,7 +222,8 @@ The Eagles released "Hotel California" at the end of 1976. Chellarams had by the
 
 <div style="margin:.4em 0 1.4em;padding:1em 1.3em .2em;background:#F4F0E8;border-left:3px solid #A67C3D">
 <p style="margin:0 0 .6em;font:700 .75em Arial,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#A67C3D">Eagles · "Hotel California" (1976)</p>
-<p style="margin:0 0 .8em;font-style:italic">The night man's parting word to the guest: settle your bill whenever you like, sir. Leaving is another matter.</p>
+<p style="margin:0 0 .8em;font-style:normal;font-size:.92em">The guest remembers running for the door, looking for the passage back to the place he was before. The night man stops him.</p>
+<p style="margin:0 0 .8em;font-style:italic">"Relax," said the night man, "We are programmed to receive<br>You can check out any time you like, but you can never leave"</p>
 </div>
 
 That promise remains the most exact description of this share register we have found.
@@ -297,7 +298,7 @@ The Daryananis gave up their name because the brand was worth more than the line
 
 **The Jivatsing spelling.** The reading of the name as a compound of Jivat Singh or Jeevan Singh is the author's conjecture, not Livsey's, and is offered as an aside.
 
-**References to check.** Kishinchand's birth year (1880) and the 1936 Lagos photograph rest on family and corporate-archive captions. The December 2023 National Industrial Court ruling (judgment 8491) was taken from the research record and could not be re-opened at the cut-off. The Hong Kong founding date of 1979 is from a Hong Kong Marine Department publication; TradeWinds gives 1980 with the first vessel ordered in 1978. The Kerouac line is from *On the Road*, Part One, and should be checked against the edition used. Kutuzov's advice is paraphrased from *War and Peace*, Book Three, Part Two, Chapter 16 (Maude translation). The Genesis song is "Back in N.Y.C.", *The Lamb Lies Down on Broadway* (1974), lyrics by Peter Gabriel. Four lines (20 words) are quoted in the box for commentary and the rest of the verse is paraphrased; the wording was supplied by the editor and was not checked against the liner notes. The Eagles song is "Hotel California" (1976), paraphrased in its box, not quoted. The Bulgakov episode is the Variety Theatre séance in *The Master and Margarita*, described rather than quoted. Gladwell's argument is paraphrased from *Outliers*, chapter 5.
+**References to check.** Kishinchand's birth year (1880) and the 1936 Lagos photograph rest on family and corporate-archive captions. The December 2023 National Industrial Court ruling (judgment 8491) was taken from the research record and could not be re-opened at the cut-off. The Hong Kong founding date of 1979 is from a Hong Kong Marine Department publication; TradeWinds gives 1980 with the first vessel ordered in 1978. The Kerouac line is from *On the Road*, Part One, and should be checked against the edition used. Kutuzov's advice is paraphrased from *War and Peace*, Book Three, Part Two, Chapter 16 (Maude translation). The Genesis song is "Back in N.Y.C.", *The Lamb Lies Down on Broadway* (1974), lyrics by Peter Gabriel. Four lines (20 words) are quoted in the box for commentary and the rest of the verse is paraphrased; the wording was supplied by the editor and was not checked against the liner notes. The Eagles song is "Hotel California" (1976), lyrics by Don Henley and Glenn Frey. Two lines (22 words) are quoted in the box for commentary and the two before them are paraphrased; the wording was supplied by the editor. The Bulgakov episode is the Variety Theatre séance in *The Master and Margarita*, described rather than quoted. Gladwell's argument is paraphrased from *Outliers*, chapter 5.
 
 ### Principal sources
 
