@@ -1,17 +1,17 @@
 ---
 title: "Master Editorial, Research, Visual and Publishing Standard"
-version: "v6.3"
+version: "v6.4"
 status: "Working master"
-revision_date: "2026-10-05"
+revision_date: "2026-10-23"
 house_voice: "The Lokoja Contrarian"
-supersedes: "v6.2 (PDF, 2 October 2026) and docs/editorial-standard.md v0.6"
+supersedes: "v6.3 (unadopted draft, 5 October 2026), v6.2 (PDF, 2 October 2026) and docs/editorial-standard.md v0.6"
 ---
 
-# Seven Gates Research: Master Editorial, Research, Visual and Publishing Standard (v6.3)
+# Seven Gates Research: Master Editorial, Research, Visual and Publishing Standard (v6.4)
 
 Working master. Default model: Dangote Refinery IPO format. House voice: The Lokoja Contrarian. Operating maxim: strong opinions, loosely held; capital, tightly held. Primary test: fine grammar, where is the cash? House rule: interesting first, correct always.
 
-**What changed in v6.3.** Version 6.2 and the repository's v0.6 had drifted into two separate documents, each holding rules the other lacked. v6.3 is the single merged master. It adds what v6.2 lacked (ratings with horizons and review dates, the corrections protocol, the publication ladder, the ban on "red team" in public copy, the hard-gate and advisory split) and keeps what v0.6 lacked (the enduring review gate, sentence-geometry audit, matched NGN and USD dates, liquidity and exit test, SOTP bridge, development ledger). It then closes the gaps that the September and October 2026 publications exposed: file integrity checks for images and PDFs, a recomputation rule for derived numbers, a rewrite inventory, a repository frontmatter map, a publication runbook, a lessons-learnt register and a specification for the automated checks that research articles still lack. Section numbers cited by `CLAUDE.md`, the skills and the ledger are preserved. The full change record is Appendix E.
+**What changed in v6.3 and v6.4.** Version 6.2 and the repository's v0.6 had drifted into two separate documents, each holding rules the other lacked. v6.4 is the single merged master. It adds what v6.2 lacked (ratings with horizons and review dates, the corrections protocol, the publication ladder, the ban on "red team" in public copy, the hard-gate and advisory split) and keeps what v0.6 lacked (the enduring review gate, sentence-geometry audit, matched NGN and USD dates, liquidity and exit test, SOTP bridge, development ledger). It then closes the gaps that the September and October 2026 publications exposed: file integrity checks for images and PDFs, a recomputation rule for derived numbers, a rewrite inventory, a repository frontmatter map, a publication runbook, a lessons-learnt register and a specification for the automated checks that research articles still lack. Version 6.4 then adds the lessons of the Chellarams research piece of 23 October 2026, which was published, revised in two follow-up commits on the same day and then issued with a PDF: evidence labels carried in prose with inline source links, quotation and lyric provenance, geography checks on AI heroes, sparse-data price charts for thinly traded stocks, verification exceptions, litigation wording, the PDF edition procedure, and running the repetition check against the final text. Section numbers cited by `CLAUDE.md`, the skills and the ledger are preserved. The full change record is Appendix E.
 
 ## Release card
 
@@ -21,12 +21,12 @@ One page. It does not replace the standard; it orders the work. IDs refer to gat
 2. **Decide** the reader's decision, the one-sentence claim and the mode (12.1). Schedule the five-year chart now if a listed stock is the subject (10.10).
 3. **Evidence.** Dated sources, price, FX source and dates, free float and daily traded value (7, 8.6, 8.7). Inventory first if this is a rewrite or refresh (12.11).
 4. **Arithmetic before prose.** Valuation, scenarios, SOTP bridge (9). Recompute every derived number from its inputs (7.4, G1).
-5. **Draft.** Fresh signature (5.4), answer early (4.8), evidence labels inline (7.1), no em dashes, no slop, no retired families (5.5, 5.6, A1).
+5. **Draft.** Fresh signature (5.4), answer early (4.8), evidence labels carried in the prose with inline source links (7.1, 15.1), no em dashes, no slop, no retired families (5.5, 5.6, A1). Verify every quotation and keep lyrics short (6.3, G23).
 6. **Rating.** Horizon, reference price date, fair value, entry or walk-away price, review date (9.4, G7).
-7. **Visuals.** Brand palette only (3.3). Real data, insight titles, source notes (10). Open every image, SVG and PDF in full (11.5, G20).
-8. **One truth.** Date, price, rating and review date identical on every surface (G22). Mechanical scan: em dashes, "red team", placeholders, deprecated hex.
-9. **Ledger.** Write the entry in the same commit (G8). Add a corrections row if a view or number changed (16.4).
-10. **Ship as one commit.** `npm run validate` for briefs, the manual scans for research (Appendix D), then push to `main` (Appendix B).
+7. **Visuals.** Brand palette only (3.3). Real data, insight titles, source notes (10). Open every image, SVG and PDF in full (11.5, G20). Check any map, route or place an AI hero depicts (4.5).
+8. **One truth.** Date, price, rating, review date and reading time identical on every surface (G22). Mechanical scan: em dashes, "red team", placeholders, deprecated hex.
+9. **Ledger.** Check the final text, not the plan, against the ledger, then write the entry in the same commit (G8). Add a corrections row if a view or number changed (16.4).
+10. **Ship as one commit.** Article, assets, ledger and, if there is one, the PDF printed from the final page (12.12). `npm run validate` for briefs, the manual scans for research (Appendix D), then push to `main` (Appendix B).
 11. **Verify live.** READY, page, hero, figures, tables, disclaimer, PDF (P1 to P6).
 
 ## 0. Enduring Editorial Review Gate
@@ -284,6 +284,8 @@ Do not depict a real facility, person, event or transaction in a way that could 
 
 A hero is not finished until the file has been opened and confirmed to decode at full size (11.5).
 
+**Geography and history in hero art.** An image model will draw a plausible map and a wrong one with equal confidence. If a hero shows a route, a map, a coastline, a flag, a landmark or a period detail, check it against a real source before release. The Chellarams hero shipped with a trade route that ran in from Europe, was caught after publication and was redrawn so that the route enters from the east and ends at the Gulf of Guinea (Appendix C, L20). If the geography cannot be checked, stylise the image so that it makes no geographic claim.
+
 ### 4.6 At a Glance block
 
 A default feature of the Dangote publishing system.
@@ -345,6 +347,17 @@ This should usually cover:
 - confidence level where appropriate.
 
 A strong article may begin with story and then move into this section. The point is to avoid making investors excavate the conclusion from literary rubble.
+
+### 4.9 First-person holdings
+
+The narrator may say that he owns a security. The Chellarams piece opens in the first person with the narrator checking two Nigerian shares he holds, GTCO and MTN Nigeria, in a broker app. The standard had deferred author-position disclosure since v0.4, so this practice has been running without a rule.
+
+Until the editor settles the deferred question, the following applies:
+
+- a first-person holding mentioned in the text is a disclosure and must be true at the date of publication;
+- if the narrator holds, or has just traded, the security that is the subject of the piece, say so in the article, near the At a Glance block, in one plain sentence;
+- the ledger records every first-person holding mentioned (6.4), so that later pieces stay consistent with it;
+- a standing disclosure line, and whether one is required for every rating, remains an open decision (Appendix E, E5).
 
 ## 5. Voice: The Lokoja Contrarian
 
@@ -461,7 +474,7 @@ Useful ways into an argument include:
 - begin with a constraint and follow it until it moves;
 - begin with the disclosure the company would have preferred to bury.
 
-These routes are deliberately unnamed. A named device becomes a menu, a menu becomes a rota, and a rota is the thing this section exists to prevent. The list is illustrative and incomplete by design. (Version 6.2 named eight signatures. Version 6.3 removes the names for this reason.)
+These routes are deliberately unnamed. A named device becomes a menu, a menu becomes a rota, and a rota is the thing this section exists to prevent. The list is illustrative and incomplete by design. (Version 6.2 named eight signatures. Version 6.3 and later remove the names for this reason.)
 
 If the reader can identify the editorial formula by paragraph three, the formula has become too visible.
 
@@ -638,7 +651,9 @@ Before publishing a quotation:
 - do not use lyrics as decoration;
 - do not invent dialogue for future or hypothetical figures.
 
-A candidate quotation is not publication-ready until provenance is checked. Books still in copyright are paraphrased, not quoted at length. Every historical episode used as colour is verified against a source and listed in the research notes so that an editor knows which references deserve a second look.
+A candidate quotation is not publication-ready until provenance is checked **against a primary source**: the book, the transcript, the liner notes or the recording, not a quotation website and not memory. A wording supplied by an editor, a collaborator or an earlier draft is checked the same way.
+
+Books and song lyrics still in copyright are paraphrased, or quoted in a single short line. A multi-line lyric block is not a short line. An editor may override this for a particular piece. An override is an explicit, recorded decision: the ledger names the rule that was overridden, who decided it, and any wording that remains unverified, and the research notes list that wording under "references to check". An unverified wording is never presented as checked. The Chellarams piece opened on a six-line block of a 1974 lyric supplied by the editor and recorded in the ledger as not checked against the liner notes (Appendix C, L21). Every historical episode used as colour is verified against a source and listed in the research notes so that an editor knows which references deserve a second look.
 
 ### 6.4 The repetition ledger
 
@@ -662,7 +677,10 @@ Each entry records:
 - closing cadence in one line;
 - memorable phrases of roughly six words or more;
 - analogies and metaphor families;
-- word count and, where outside the mode range in 12.1, the accepted length and the reason (Appendix C, L15).
+- word count and, where outside the mode range in 12.1, the accepted length and the reason (Appendix C, L15);
+- structural devices (an interchapter, a block quotation, a remembered-experience opening) with a count of their earlier uses and the slugs that used them;
+- first-person holdings mentioned in the text (4.9);
+- "advisory items left as published": every known shortfall that the article ships with, such as a sparse price series, an unverifiable date, a source conflict or an accepted length, with the plan to resolve it. A shortfall that is disclosed in the article and recorded here is a decision. One that is in neither place is a defect.
 
 #### Windows
 
@@ -671,6 +689,8 @@ The rolling audit window is the last 20 published pieces. Quotations, proverbs a
 #### When it is consulted
 
 Twice. At workflow step 8, when the article signature is chosen, and at step 10, before the draft is finalised. Gate G8 is answered yes only when the check was run against the file and the article's own entry has been written.
+
+The step 10 check runs against the **final text**, not against the plan. Search the final article for each cultural guest, quotation and device that the ledger shows as spent. The first published Chellarams text contained a Steinbeck paraphrase that *GDP Does Not Pay the Coupon* had already used on 25 September 2026. A search of the final text against the ledger would have caught it before release. It was replaced in the follow-up commit, and the ledger now records it as drafted and removed (Appendix C, L19). Every later edit that changes the text also rewrites the ledger entry in the same commit.
 
 An entry that is not written down did not happen, and the drafting workflow will reproduce it within a year.
 
@@ -742,7 +762,7 @@ If evidence is uncertain, say so. Uncertainty does not become certainty because 
 
 ### 7.1 Evidence labels
 
-Seven Gates analysis should clearly distinguish, inline, where the reader meets the claim:
+Seven Gates analysis should clearly distinguish the following, where the reader meets the claim:
 
 - **Fact:** directly supported by a dated source.
 - **Management claim:** stated by the company or executive, not independently proven.
@@ -752,6 +772,8 @@ Seven Gates analysis should clearly distinguish, inline, where the reader meets 
 - **Opinion:** Seven Gates judgement.
 
 Do not blur them.
+
+**How the labels appear.** The label travels with the claim, but it does not have to be a bracketed tag. The first Chellarams text ended sentences with tags such as "[Fact, audited employee disclosures]" and "[Fact; multiple is a Seven Gates calculation]". The revised text carries the same information in the prose ("according to the June 2026 quarterly statement", "by our arithmetic", "from the employee notes to the two sets of audited accounts") and links the primary document at the claim. Prose attribution reads better and carries a link. A bracketed tag is still acceptable in a table or a caption where space is short. In either form, the research notes carry a label key that says which classes of claim are fact, management claim, estimate and reconstruction (Appendix C, L18).
 
 ### 7.2 Source hierarchy
 
@@ -769,6 +791,8 @@ Prefer, in order:
 10. social media as a lead, not as proof.
 
 AI output is never a source. A tweet may reveal a story. It does not settle one.
+
+**When sources disagree.** Use the higher source in the hierarchy, and record the discrepancy and the figure not used in the research notes. The Chellarams piece used audited FY2026 pre-tax profit of about ₦658 million and noted that a third-party abridged summary showed ₦517.75 million. A reader who finds the other number elsewhere should find the explanation here.
 
 ### 7.3 Current information
 
@@ -792,6 +816,18 @@ Rules:
 - recompute every derived number in a table or chart from the stated inputs in the final proof;
 - when a number appears in more than one place (At a Glance, body, chart, table, PDF), all instances are made equal in the same edit;
 - a correction made before release is logged in the corrections record if the wrong figure had already left the drafting session in a pushed commit, a shared draft or a PDF.
+
+### 7.5 Verification exceptions
+
+G1 requires every current figure to be verified against a dated source. Occasionally an item cannot be re-opened at the cut-off: a court ruling taken from the research record, a vendor page that will not load, a date given only by a broker page. The rules for that case:
+
+- an exception is allowed only for an item that is not load-bearing for the rating, the fair value or the main argument. A figure the valuation stands on is verified or the piece waits;
+- the item is described as it is known ("as recorded in the research record", "as given by a broker page"), not as verified;
+- the research notes list it under "references to check", and the ledger lists it under advisory items left as published (6.4);
+- a date or figure of uncertain provenance is flagged on the chart or table where it appears;
+- the exception has an owner and a date by which it is resolved or the piece is corrected.
+
+The Chellarams piece applied this to a December 2023 National Industrial Court ruling, to the 29 May 2024 price observation and to a date from a broker page. Each was disclosed in the notes and in the ledger (Appendix C, L23).
 
 ## 8. Analytical Spine
 
@@ -896,6 +932,8 @@ A quoted market capitalisation is not the same thing as executable liquidity. Fo
 - the practical time and price impact required to enter or exit a realistic position.
 
 Where "days of liquidity" is used, state the average daily traded **value or volume**, the observation window and the participation-rate assumption. Do not divide a theoretical position by one unusually busy day.
+
+For a thinly traded stock, show the liquidity in money, not only in shares: the value of the last session's turnover and what a realistic position would need. On 22 October 2026, 2,015 Chellarams shares changed hands for ₦19,546, and ₦9.70 was the price at which those shares last moved, not the price at which 100,000 would. When a vendor's three-month average is lifted by a few large prints that the next buyer cannot reach, show recent-session volumes or a median beside it, and say which prints distort the mean (Appendix C, L24). Where a stock is tightly held by a family or a parent, state the free float that is actually available and who holds the rest.
 
 For index-event research, distinguish total market cap, float-adjusted cap, investable cap, eligibility, candidacy, announcement, effective inclusion and actual passive holdings. Model forced buying only from identified mandates and defensible assets under management.
 
@@ -1216,6 +1254,8 @@ If dividends are included, label the series total shareholder return and state t
 
 For a listing younger than five years, plot all available listed history and label it "Since listing" with the listing date. For a delisted security, use the last verified traded close and state the date and status. Never fabricate pre-listing history.
 
+**Sparse series.** For a thinly traded or poorly covered stock, daily or weekly closes may not be obtainable. Plot the verified dated observations that exist, mark each as an observation rather than drawing an implied continuous line, state how many there are and over what dates, and say plainly what is missing and why. The Chellarams five-year chart plotted nineteen verified dated closes because vendor price pages could not be fetched at the cut-off. The caption and notes said so, and the ledger recorded the chart for replacement once a daily history was verified (Appendix C, L22). A sparse chart that is disclosed meets 10.10. A sparse chart that looks like a full series does not.
+
 Check alternative credible sources before declaring a gap. Show material gaps or suspensions honestly. Do not invent, interpolate or silently forward-fill prices. If a five-year series remains unavailable, plot the verified available period and explain the limitation. An unlisted company has no public share-price history; state that fact.
 
 #### 10.10.5 Seven Gates chart template
@@ -1274,6 +1314,8 @@ Do not make every hero photorealistic. Do not make every hero a cartoon either. 
 An image brief should include subject, central argument, emotional temperature, setting and geography, composition, palette, degree of realism, aspect ratio and crop needs, elements to avoid, and an instruction to avoid fake financial data or tiny generated text.
 
 Do not ask the image model to render dense tables or charts. Add factual labels separately in the publishing layer if needed.
+
+If the brief includes a map, a route, a coastline or a place, say in the brief which way the route runs and where it ends, then check the output against a real map (4.5). Re-run the file integrity check (11.5) on every regenerated image, because a replaced hero is a new binary.
 
 ### 11.4 Captions and alt text
 
@@ -1409,6 +1451,16 @@ Before the first edit, make an **inventory** of the published piece: every figur
 
 The SAHCO and NAHCO note later needed its analytical exhibits restored (Appendix C, L3). An inventory comparison is the check that catches an exhibit going missing between versions. For a refresh, the date, price, data cut-off and review date all move together (G22), and the corrections record notes any changed view (16.2).
 
+### 12.12 PDF edition
+
+A PDF edition is a derived artefact. It is printed from the final rendered page, so it carries the same text, the same figures and the same five-year chart (G16). It is never edited separately.
+
+- Decide at step 1 whether the piece has a PDF edition. If it does, the PDF ships with the article, not in a follow-up. The Chellarams piece went live, was revised, and received its PDF and its "Download the PDF edition" link in a third commit (Appendix C, L25).
+- Print last. Any change to the text, a figure, a date or the ledger after printing means a reprint, and the PDF commit follows the last text commit.
+- File: `public/downloads/<slug>.pdf`. The link in the article body uses the plain form `[Download the PDF edition](/downloads/<slug>.pdf)`.
+- Open every page of the PDF (G20). A size that is implausible for the page count is a prompt to look again. The Chellarams PDF was about 4 MB.
+- The PDF cover date, byline and any rating line equal the article (G22).
+
 ## 13. Metadata and Publishing Fields
 
 ### 13.1 The metadata record
@@ -1445,7 +1497,7 @@ excerpt: "[Clear research-card summary]"
 hero_image: "[Verified asset path]"
 hero_alt: "[Specific description]"
 status: "draft"
-template_version: "master-v6.3"
+template_version: "master-v6.4"
 ```
 
 Never publish bracketed placeholders. A search for `[` followed by a capital letter, and for the words TODO, TBC, XXX and "lorem", is part of G22.
@@ -1461,7 +1513,7 @@ The site reads these frontmatter fields from `content/research/<slug>.md`. Files
 | `date` | YYYY-MM-DD, equal to the byline date | published_at |
 | `title` | the headline | title |
 | `excerpt` | the deck, one standalone sentence or two | subtitle, excerpt |
-| `readingTime` | text such as "20 min" | computed |
+| `readingTime` | text such as "20 min", recomputed after the final edit | computed |
 | `kicker` | `SEVEN GATES RESEARCH · SECTION · REGION` | section, geography |
 | `researchType` | Essay, Note or Report | content_type |
 | `category` | for example Macro, Equities, Banking | tags |
@@ -1488,7 +1540,11 @@ The reader needs the reasoning, evidence and arithmetic. He does not need the re
 
 Use links or citations close enough to the claim that the reader can verify important facts.
 
-High-risk claims need particularly tight attribution: allegations, regulatory action, transactions, ownership, government policy, debt, safety incidents, legal disputes and unusual operating performance.
+High-risk claims need particularly tight attribution: allegations, regulatory action, transactions, ownership, government policy, debt, safety incidents, legal disputes and unusual operating performance. "Tight" means an inline link to the primary document at the claim, not only an entry in the end notes. The first Chellarams text stated the shareholder register, an exchange suspension and the quarterly cash flow without links, and the follow-up commit added them to the June 2026 quarterly statement and to a report of the suspension (Appendix C, L18).
+
+#### Litigation and allegations
+
+Say what the document is. A procedural ruling that lists a matter proves that a dispute exists. It does not prove a finding on the merits, and the text says so in terms. The Chellarams piece described a December 2023 National Industrial Court ruling as evidence that a dispute exists and "not a finding that the company withheld anything from anyone". Name the court and the date, state the stage the matter has reached, and do not allow a neighbouring sentence to imply a result that the document does not contain.
 
 ### 15.2 Source note under visuals
 
@@ -1615,7 +1671,7 @@ Let the material determine when the article is forensic, deadpan, reflective or 
 
 #### Step 10: Repetition audit
 
-Return to the ledger. Check anecdotes, analogies, proverbs, memorable phrases, quotations, cultural guests, hero concepts and closing lines against the rolling window and the permanent register, structurally as well as lexically. Write the article's own ledger entry now, so that it ships in the same commit.
+Return to the ledger. Check anecdotes, analogies, proverbs, memorable phrases, quotations, cultural guests, hero concepts and closing lines against the rolling window and the permanent register, structurally as well as lexically. Run the check against the **final text**, searching the article for each guest, quotation and device that the ledger shows as spent (6.4). Write the article's own ledger entry now, and rewrite it after any later edit, so that it ships in the same commit.
 
 #### Step 11: Source audit
 
@@ -1655,7 +1711,7 @@ A successful export is not proof of a correct PDF. The rendered pages are the ar
 
 #### Step 16: Publish as one unit
 
-Commit the article, its assets, the PDF and the ledger entry together, with the commit message in the house form (Appendix B). Pull the latest main before editing any shared file, and review the diff of shared files before committing (A5).
+Recompute the reading time after the last edit. If the piece has a PDF edition, print it from the final page now (12.12). Commit the article, its assets, the PDF and the ledger entry together, with the commit message in the house form (Appendix B). Pull the latest main before editing any shared file, and review the diff of shared files before committing (A5).
 
 #### Step 17: Verify live, then record
 
@@ -1675,14 +1731,14 @@ The split exists because a long list that nobody completes protects less than a 
 
 A no is a stop, not a discussion.
 
-- **G1.** Is every current figure verified against a dated source, and has every derived number been recomputed from its inputs?
+- **G1.** Is every current figure verified against a dated source, has every derived number been recomputed from its inputs, and does every high-risk claim (15.1) carry an inline link to its primary source? Any item that could not be re-verified is a disclosed exception under 7.5 and is not load-bearing.
 - **G2.** Are dates, data cut-offs, currencies and units explicit and correct?
 - **G3.** Are fact, management claim, estimate, reconstruction, inference and opinion distinguishable?
 - **G4.** Does the current price carry a date?
 - **G5.** Is the asset separated from the security?
 - **G6.** Is there a clear Seven Gates judgement, with an action where the piece warrants one?
 - **G7.** Where a rating is given, are horizon, fair value, entry or walk-away price and review date all present?
-- **G8.** Has the repetition ledger and permanent retired register been checked structurally as well as lexically, and has this article's entry been written in the same commit?
+- **G8.** Has the repetition ledger and permanent retired register been checked structurally as well as lexically, has the check been run against the final text rather than the plan, and has this article's entry been written in the same commit?
 - **G9.** Is the strongest counterargument presented fairly, with disconfirming evidence that would change the view?
 - **G10.** Are the major assumptions stated and false precision avoided?
 - **G11.** Does every chart plot real data, with axes, units, periods and a compact source note?
@@ -1696,7 +1752,8 @@ A no is a stop, not a discussion.
 - **G19.** For a SOTP, is the bridge level declared for every component, are debt and minorities deducted once and at the correct level, and does the sum reconcile to the stated per-share value (9.5)?
 - **G20.** Has every image, chart and PDF been opened and confirmed to decode in full, with no truncation, clipped titles, overlapping labels or broken naira signs, at desktop and 375px widths (10.11, 11.5)?
 - **G21.** For a rewrite or refresh, does the after-inventory match the before-inventory except for listed, intended changes (12.11)?
-- **G22.** Is there one truth across every surface? Date, byline, price and price date, rating, horizon, review date, fair value, cut-off and ticker are identical in the frontmatter, the byline, At a Glance, body, figures, PDF and ledger entry; and a mechanical scan finds no em dashes, no bracketed placeholders, no "red team" and no deprecated palette values.
+- **G22.** Is there one truth across every surface? Date, byline, reading time, price and price date, rating, horizon, review date, fair value, cut-off and ticker are identical in the frontmatter, the byline, At a Glance, body, figures, PDF and ledger entry; and a mechanical scan finds no em dashes, no bracketed placeholders, no "red team" and no deprecated palette values.
+- **G23.** Has every quotation been checked against a primary source, are lyrics and copyright text paraphrased or limited to one short line, and is every editor-approved exception, and every wording still unverified, recorded in the ledger and listed under "references to check" (6.3)?
 
 ### 19.2 Advisory annex
 
@@ -1712,6 +1769,8 @@ A no is a stop, not a discussion.
 - **E8.** Has the draft passed the sentence-geometry audit (5.6): automatic triads, symmetrical antithesis, staged transitions, paragraph-end slogans, rhetorical-question scaffolding, anthropomorphic finance and short-statement punchline rhythm?
 - **E9.** Does the published structure hide the scaffolding rather than expose a fixed template (5.4)?
 - **E10.** Is the length inside the mode range of 12.1, or is the accepted length recorded with a reason?
+- **E11.** Are the evidence labels carried in the prose with links at the claim, with a label key in the research notes (7.1)?
+- **E12.** Are advisory shortfalls the article ships with disclosed in the article and listed in the ledger with a plan to resolve them (6.4)?
 
 #### Freshness
 
@@ -1775,7 +1834,7 @@ For each publication, the person or agent running the gate states which items we
 Use this when commissioning a Seven Gates article:
 
 > **COMMISSIONING PROMPT**
-> Produce a publication-ready Seven Gates Research article using the current Master Editorial, Research, Visual and Publishing Standard (v6.3). Read the standard and the repetition ledger before drafting and review them again against the final artefact. Use the Dangote Refinery IPO as the default publication architecture, not as a source of recycled jokes or metaphors. Choose the publication mode (Short 400 to 900 words, Standard 900 to 1,800, Long 1,800 to 4,000 or more) from the material, not from ambition, and record any accepted deviation. Write in the sophisticated Lokoja Contrarian voice: judgement-led, technically exact, sceptical, culturally literate, dryly funny when earned, serious when the subject requires it, and explicit about uncertainty. Keep the Seven Gates identity consistent but vary the article's signature. Opening architecture, cadence, humour density, cultural register, section rhythm and ending should answer to the material and should not resemble recent pieces. Be concise. Use occasional high-register or unusual words when they are exact and add flavour, but never let vocabulary become an exhibition. Begin with a strong editorial hero concept, usually AI-generated, then an At a Glance block and a compelling opening. Put the strongest objection early and state the Seven Gates view early. Explain the business and mechanism before celebrating the share price. Separate asset, business, management, balance sheet and security. Reconcile earnings to cash. Test inflation, FX, dilution, maintenance capital, debt, governance, exit liquidity and what the current price assumes. Use bear, base and bull cases where material, each economically distinct, and state what would falsify the preferred case. Where a rating is given, state the horizon, the reference price date, the fair value, the entry or walk-away price and the review date, and if this changes a previous view, say what changed and which assumption failed. Use a SOTP bridge that deducts debt and minorities once. Use warm ivory canvas, dark navy or Ink framing, brass accents, green only for positive meaning, red only for negative meaning, boxed panels, numbered insight headlines and compact source notes. Use real plotted data rebuilt in the Seven Gates system, never AI-generated charts or vendor screenshots, and include the mandatory five-year share-price chart for every principal listed stock, with matched NGN and USD dates where both are shown. Verify all current numbers and dates from dated sources, recompute every derived number, distinguish fact, management claim, estimate, reconstruction, inference and opinion inline, and never expose proprietary internal scoring, framework mechanics or internal terms such as red team in public copy. Avoid em dashes, AI filler, recycled anecdotes, the construction "Company X is no longer just a…", and every family in the permanent retired register (Appendix A1), checked structurally and not by exact-word search. Open every image, chart and PDF and confirm it decodes in full. For a rewrite, inventory the figures, tables, charts and sources before and after, and change none of them unasked. Write the ledger entry in the same commit as the article. End with an investable view, disconfirming evidence, research notes, sources and the standard Seven Gates disclaimer, then verify the live page.
+> Produce a publication-ready Seven Gates Research article using the current Master Editorial, Research, Visual and Publishing Standard (v6.4). Read the standard and the repetition ledger before drafting and review them again against the final artefact. Use the Dangote Refinery IPO as the default publication architecture, not as a source of recycled jokes or metaphors. Choose the publication mode (Short 400 to 900 words, Standard 900 to 1,800, Long 1,800 to 4,000 or more) from the material, not from ambition, and record any accepted deviation. Write in the sophisticated Lokoja Contrarian voice: judgement-led, technically exact, sceptical, culturally literate, dryly funny when earned, serious when the subject requires it, and explicit about uncertainty. Keep the Seven Gates identity consistent but vary the article's signature. Opening architecture, cadence, humour density, cultural register, section rhythm and ending should answer to the material and should not resemble recent pieces. Be concise. Use occasional high-register or unusual words when they are exact and add flavour, but never let vocabulary become an exhibition. Begin with a strong editorial hero concept, usually AI-generated, then an At a Glance block and a compelling opening. Put the strongest objection early and state the Seven Gates view early. Explain the business and mechanism before celebrating the share price. Separate asset, business, management, balance sheet and security. Reconcile earnings to cash. Test inflation, FX, dilution, maintenance capital, debt, governance, exit liquidity and what the current price assumes. Use bear, base and bull cases where material, each economically distinct, and state what would falsify the preferred case. Where a rating is given, state the horizon, the reference price date, the fair value, the entry or walk-away price and the review date, and if this changes a previous view, say what changed and which assumption failed. Use a SOTP bridge that deducts debt and minorities once. Use warm ivory canvas, dark navy or Ink framing, brass accents, green only for positive meaning, red only for negative meaning, boxed panels, numbered insight headlines and compact source notes. Use real plotted data rebuilt in the Seven Gates system, never AI-generated charts or vendor screenshots, and include the mandatory five-year share-price chart for every principal listed stock, with matched NGN and USD dates where both are shown. Verify all current numbers and dates from dated sources, recompute every derived number, distinguish fact, management claim, estimate, reconstruction, inference and opinion inline, and never expose proprietary internal scoring, framework mechanics or internal terms such as red team in public copy. Avoid em dashes, AI filler, recycled anecdotes, the construction "Company X is no longer just a…", and every family in the permanent retired register (Appendix A1), checked structurally and not by exact-word search. Open every image, chart and PDF and confirm it decodes in full, and check any map or route in an AI hero against a real map. Verify every quotation against a primary source and keep lyrics to one short line unless the editor records an override. Carry evidence labels in the prose with inline links to primary sources, disclose any verification exception, and print any PDF edition from the final page. For a rewrite, inventory the figures, tables, charts and sources before and after, and change none of them unasked. Run the repetition check against the final text and write the ledger entry in the same commit as the article. End with an investable view, disconfirming evidence, research notes, sources and the standard Seven Gates disclaimer, then verify the live page.
 
 For the Daily Brief, use the `daily-brief` skill. For a narrative rewrite of a finished piece, use the `seven-gates-longform` skill.
 
@@ -1867,13 +1926,17 @@ These remain available as historical references but should not drift into unrela
 | Taylor and McCallum essay family | "The Brake, the Accelerator and the Rat" | Article-linked; do not reuse casually |
 | Taylor and McCallum essay family | "You can't 25bp a chokepoint" | Article-linked |
 | Taylor and McCallum essay family | "r* has been kidnapped" | Article-linked |
+| Chellarams | "the hotel you can pay for but not leave" (reception desk, check-out) | Article-linked; do not reuse for other illiquid stocks |
+| Chellarams | "the cushioned straight-jacket" (Genesis lyric) | Article-linked |
+| Chellarams | "the hole in the hull" and "the hole walks upstairs" | Article-linked |
+| Chellarams | "The share has the brand. It does not yet have a way home." | Article-linked closing cadence |
 | NGX portfolio | "paid for dinner" family | Permanently retired with dinner and party metaphors |
 
 ### A3. Development and unpublished ledger
 
 Items in development do **not** count as published until publication is verified. Their distinctive devices stay reserved while the piece is active, so that another draft does not consume them by accident (F10).
 
-| Piece | Status at v6.3 | Reserved or required elements | Release note |
+| Piece | Status at v6.4 | Reserved or required elements | Release note |
 |---|---|---|---|
 | Vitafoam Nigeria | **Published 3 October 2026** (`vitafoam-how-do-you-sleep-at-night`). Moved out of development. | Its devices (sleep and somnambulism material, motivational-speaker joke, Nas's "sleep is the cousin of death" reference, Soyinka's *The Interpreters*) are now in the rolling window and the ledger. | Do not reuse. A pre-publication correction to the September US$ price is logged in the corrections record. |
 | GTCO draft | Draft and unpublished, unless later verified. The published GTCO piece of 2 August 2026 is separate. | Do not enter draft-only phrases into the published rolling-20 ledger. | Verify publication before treating as prior published prose. |
@@ -1945,7 +2008,7 @@ The repository and deployment facts that the standard depends on. If they change
 
 ## Appendix C. Lessons-Learnt Register
 
-Each entry records what happened, the rule it produced and where the rule is enforced. Evidence is cited by commit or ledger row so that it can be checked. Add a new row whenever a defect reaches the live site or is caught late, and add the rule at the same time.
+Each entry records what happened, the rule it produced and where the rule is enforced. Evidence is cited by commit or ledger row so that it can be checked. L18 to L27 come from the Chellarams piece of 23 October 2026 (commits 6adfc64, 87833b2 and 5a63f04 and its ledger entry); they also record where the rules worked: the accepted length of about 5,000 words against a 4,000-word Long ceiling was recorded in the ledger as L15 requires, and a composite scene was labelled ILLUSTRATION as G13 requires. Add a new row whenever a defect reaches the live site or is caught late, and add the rule at the same time.
 
 | ID | What happened | Rule | Enforced at |
 |---|---|---|---|
@@ -1966,6 +2029,16 @@ Each entry records what happened, the rule it produced and where the rule is enf
 | L15 | A rewritten piece landed outside its mode range, and the accepted length had to be recorded after the fact (da1f7b9). | Record accepted length and reason when outside the range. | 6.4, 12.1, E10 |
 | L16 | The standard contradicted itself. v6.2 retired "denominator" yet used it as a flow heading; v0.6 used a billing idiom in 9.1 that it retired the same week; v6.2 named eight article signatures that its own 5.4 says should stay unnamed; v6.2 listed Vitafoam as unpublished after publication. | Contradictions are defects: a version is checked against its own retirement register before release. | 2.6, F9, A3, 19.2 |
 | L17 | Markdown breaks when an HTML block contains a blank line; wide hand-built tables overflow on phones. | Keep HTML blocks blank-line-free; wrap wide tables. | 10.7, 10.12 |
+| L18 | The first Chellarams text carried evidence labels as bracketed tags ("[Fact, audited employee disclosures]") and left ownership, the 2021 suspension and the June 2026 quarter without inline links. The follow-up commit 87833b2 wove the labels into the prose and linked the sources. | Labels travel with the claim in prose; high-risk claims link to the primary document; a label key sits in the research notes. | 7.1, 15.1, G1, E11 |
+| L19 | The first published text contained a Steinbeck paraphrase that *GDP Does Not Pay the Coupon* had used on 25 September 2026. Replaced in 87833b2; the ledger now records it as drafted and removed. | Run the repetition check against the final text; rewrite the ledger entry after every edit. | 6.4, 18 step 10, G8 |
+| L20 | The AI hero for Chellarams drew a trade route that ran in from Europe. It was redrawn in 5a63f04 so the route enters from the east and ends at the Gulf of Guinea. | Check maps, routes and places in AI art against a real source, or stylise so no geographic claim is made; re-run file integrity on a regenerated image. | 4.5, 11.3, 11.5 |
+| L21 | The opening block quoted six lines of a 1974 lyric at the editor's request. The ledger records the wording as supplied by the editor and not checked against the liner notes. | Quotations verified against a primary source; lyrics paraphrased or one short line; any override recorded with the unverified wording flagged. | 6.3, G23 |
+| L22 | The Chellarams five-year chart plotted nineteen verified dated closes because vendor price pages could not be fetched. It was disclosed in the caption, notes and ledger, with a plan to replace it. | A sparse series is plotted as dated observations, counted and disclosed, never drawn as a full series. | 10.10.4, 6.4, E12 |
+| L23 | A December 2023 court ruling, the 29 May 2024 price date and a broker-page date could not be re-opened at the cut-off. | Verification exceptions: not load-bearing, described as known, listed in the notes and the ledger, with an owner. | 7.5, G1 |
+| L24 | Liquidity for a thinly traded stock was best shown by money (₦19,546 of turnover on 22 October 2026) and by recent sessions, because a vendor's three-month average of about 90,000 shares a day was lifted by large prints that the next buyer cannot reach. | Show turnover in money and recent or median volume beside any vendor mean; name the distorting prints. | 8.7, G18 |
+| L25 | The Chellarams PDF edition and its download link arrived in a third commit, after the article had been published and revised twice. | Decide at step 1; print from the final page; ship the PDF and link with the article; reprint after any later edit. | 12.12, 18 steps 15 and 16, G15, G16 |
+| L26 | Reading time moved from 19 to 20 minutes in the follow-up commit after the text grew. | Recompute reading time after the final edit; it is part of one truth across surfaces. | 13.2, G22 |
+| L27 | The first-person opening reported holdings in GTCO and MTN Nigeria, while the standard had deferred author-position disclosure since v0.4. | Interim rule: a mentioned holding is a disclosure and is recorded; the standing-disclosure decision is open. | 4.9, 6.4, E5 |
 
 ## Appendix D. Automated Check Specification
 
@@ -1984,18 +2057,26 @@ A `validate:research` script should fail the build on:
 5. Ratings: if a rating word appears in At a Glance, a horizon and a review date also appear.
 6. Stock research: if `ticker` is a listed ticker, at least one figure whose caption or alt text contains "five-year" or "since listing".
 7. Ledger: an entry whose slug equals the article slug exists in `docs/repetition-ledger.md`.
+8. Quotations: every blockquote, and every quoted string of more than 25 words, is listed for manual provenance review, and a blockquote of more than one line that contains verse or lyric text fails unless the ledger records an override.
+9. Reading time: `readingTime` is within one minute of the word count at about 230 words a minute, plus a minute per chart; a mismatch warns.
+10. PDF edition: if the article links `/downloads/<slug>.pdf`, the file exists, and its commit is not earlier than the last commit that changed the article.
+11. High-risk links: sentences that contain "suspended", "court", "tribunal", "regulator", "owns" or "holds" with a percentage must have a link in the same paragraph; a miss warns.
 
 ### D3. What cannot be automated
 
 Voice, freshness, the structural retirement check, the soundness of valuation, the fairness of the counterargument and the legibility of a chart remain editorial judgements. The script narrows the gate. It does not replace the editor.
 
-## Appendix E. v6.3 Revision Control
+## Appendix E. v6.4 Revision Control
 
-**Revision date:** 5 October 2026.
-**Basis:** the v6.2 master of 2 October 2026 (reconstituted 5 October 2026) merged with the repository standard `docs/editorial-standard.md` (v0.6, 30 September 2026), the repetition ledger and corrections record, and the repository's commit history to 5 October 2026.
-**Numbering:** v6.3 keeps the repository's section numbers where `CLAUDE.md`, the skills and the ledger cite them (5.6, 6.2, 6.4, 9.4, 10.10, 12, 14, 16.4, 19). v6.3 therefore moves the disclaimer to 17, the workflow to 18, the gate to 19, the commissioning prompt to 20 and the doctrine to 21, compared with v6.2.
+**Revision date:** 23 October 2026 (v6.4). v6.3 was dated 5 October 2026 and was never adopted, so v6.4 replaces it rather than amending a live standard.
+**Basis:** v6.3, which was the v6.2 master of 2 October 2026 (reconstituted 5 October 2026) merged with the repository standard `docs/editorial-standard.md` (v0.6, 30 September 2026), the repetition ledger and corrections record, and the repository's commit history to 5 October 2026; and, for v6.4, the Chellarams research piece of 23 October 2026, its two follow-up commits and its ledger entry.
+**Numbering:** v6.4 keeps the repository's section numbers where `CLAUDE.md`, the skills and the ledger cite them (5.6, 6.2, 6.4, 9.4, 10.10, 12, 14, 16.4, 19). v6.4 therefore moves the disclaimer to 17, the workflow to 18, the gate to 19, the commissioning prompt to 20 and the doctrine to 21, compared with v6.2.
 
 **Section map from v6.2.** 12 (structure) became 12.2 to 12.8 under the new 12.1 ladder; 10.9 (five-year chart) became 10.10; 16 became 17; 17 became 18; 18 became 19; 19 became 20; 20 became 21; Appendix B became this appendix.
+
+### E0. New in v6.4, from the Chellarams piece
+
+Section 4.9 (first-person holdings); geography checks in 4.5 and 11.3; quotation provenance, lyric limits and recorded overrides in 6.3; structural-device counts, first-person holdings and "advisory items left as published" in the ledger fields of 6.4, and the check against the final text; labels carried in prose with a key, and the rule for source conflicts in 7.1 and 7.2; verification exceptions (7.5); money-based and recent-session liquidity for thin stocks (8.7); sparse-series charts (10.10.4); the PDF edition procedure (12.12); litigation wording and inline links for high-risk claims (15.1); reading time in G22; gate G23 and advisory items E11 and E12; lessons L18 to L27; checks 8 to 11 in Appendix D; and four article-linked signatures in A2.
 
 ### E1. Added from the repository standard (absent from v6.2)
 
@@ -2005,20 +2086,23 @@ Publication ladder with word ranges (12.1); short, standard and long forms; rati
 
 The enduring review gate (0); organised tight chaos and the anti-LLM geometry register (5.4, 5.6); the permanent retirement and article-linked signature tables (A1, A2) and development ledger (A3); matched NGN and USD dates and common-start charts (8.6, 10.10); the liquidity, free-float and exit test (8.7); SOTP and minority-interest bridge (9.5); the extended metadata record (13); the rendered-PDF checks (18 step 15); gate checks for matched dates, liquidity and SOTP (G17 to G19).
 
-### E3. New in v6.3
+### E3. New in v6.3 (carried into v6.4)
 
-Derived-number recomputation (7.4); image file integrity (11.5); the visual render check (10.11); Markdown site markup rules (10.12); chart production additions (10.9); the rewrite and refresh inventory (12.11); the repository frontmatter map (13.2); link hygiene (15.4); workflow steps 16 and 17; gates G17 to G22 and G0; post-publication checks P1 to P6; stable-ID rule (19.4) and section-number stability (2.7); ledger merge hygiene (A5); the runbook (Appendix B); the lessons register (Appendix C); the automated check specification (Appendix D). Rules introduced without a precedent in prior text, and therefore for the editor's confirmation: the 2x raster export size (10.9), the rule that compound rating labels need a price level for each half (9.4), the logging of late-caught pre-release figures (16.1), and the 375px legibility test (10.11).
+Derived-number recomputation (7.4); image file integrity (11.5); the visual render check (10.11); Markdown site markup rules (10.12); chart production additions (10.9); the rewrite and refresh inventory (12.11); the repository frontmatter map (13.2); link hygiene (15.4); workflow steps 16 and 17; gates G17 to G23 and G0; post-publication checks P1 to P6; stable-ID rule (19.4) and section-number stability (2.7); ledger merge hygiene (A5); the runbook (Appendix B); the lessons register (Appendix C); the automated check specification (Appendix D). Rules introduced without a precedent in prior text, and therefore for the editor's confirmation: the 2x raster export size (10.9), the rule that compound rating labels need a price level for each half (9.4), the logging of late-caught pre-release figures (16.1), and the 375px legibility test (10.11).
 
 ### E4. Corrected from earlier versions
 
 Numbering defects in the v6.2 gate (L14). The v6.2 "denominator" heading and the v0.6 billing idiom in 9.1 (L16). Named signatures in 5.4 (L16). The stale Vitafoam development entry (A3). The v6.2 "Reconstituted file date" note is retained in this appendix's basis line.
 
-### E5. Actions required to adopt v6.3
+### E5. Actions required to adopt v6.4, and open decisions
 
-1. Replace `docs/editorial-standard.md` with this file, and update `CLAUDE.md`, which currently says "v0.5" and "G1 to G16", to "v6.3" and "G1 to G22".
+1. Replace `docs/editorial-standard.md` with this file, and update `CLAUDE.md`, which currently says "v0.5" and "G1 to G16", to "v6.4" and "G1 to G23".
 2. Update the "Standard v0.5 rules" heading in `.claude/skills/seven-gates-longform/SKILL.md` and add the inventory rule (12.11) and the image-integrity rule (11.5).
 3. Implement `validate:research` from Appendix D, and wire it into `npm run build`.
 4. Decide whether the site should gain optional rating, review and cut-off frontmatter fields (13.2).
 5. Add the GTCO and any other draft pieces to A3 as they are opened.
+6. **Open decision: author-position disclosure.** Decide whether every rating needs a standing disclosure line, now that first-person holdings appear in the narrative (4.9).
+7. **Open decision: lyric quotations.** Confirm whether a multi-line lyric block is ever permitted in published copy, or whether the 6.3 limit has no exceptions. Until then the Chellarams opening is an editor override recorded in the ledger, with wording unverified.
+8. **Resolve the Chellarams advisory items:** replace Figure 3 with a daily or weekly series when one is verified; re-open the December 2023 ruling; settle the 29 May 2024 observation date; verify the Genesis wording against the liner notes.
 
 The purpose of revision control is operational continuity. It is not permission to prefer an old rule over current evidence.
