@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 42656)
+Total output lines: 997
+
 # Seven Gates Research: Repetition Ledger and Corrections Record
 
 Required by sections 6.4, 6.5 and 16.4 of `docs/editorial-standard.md`. This file is the single record. The table that used to sit inside the `seven-gates-longform` skill now lives here.
@@ -145,6 +148,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 - "The price has heard / read the news": seplat-the-price-has-heard-the-news (title), presco ("The price, regrettably, has read the same annual report.").
 
 ## Entries
+
+### 2026-10-24 · briefing/2026-10-24
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the state-police amendment's exact 24-of-36 state-assembly threshold, followed by the governance work required before a dual system operates.
+- **Shape:** five ranked developments: Nigeria's constitutional policing threshold, JPMorgan's preliminary merchant-bank approval, Oleshky's local humanitarian ceasefire, Sudan's drought-compounded hunger risk and OpenAI's frontier-training containment disclosure. The ending names legislative text, final licensing and transactions, safe passage, aid and rainfall, and independent safeguard verification as changing evidence.
+- **Visual:** a six-by-six state-assembly grid with 24 Brass cells and 12 neutral cells. It shows the announced count and exact two-thirds threshold without inventing a state-by-state list.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. War, hunger, civilian evacuation and public safety are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries, the same-day Chellarams entry and the permanent retired register were checked before and after drafting. A constitutional-count opening replaces the prior investor-retention test. The 36-cell threshold visual measures legislative concurrence rather than repeating the 17 October six-person institutional roster, recent price bars or public-health timelines. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the State House announced the total but did not publish a state-by-state list; approval enables the next constitutional step and does not create operating state forces. JPMorgan has approval-in-principle, not a final licence. Oleshky's agreement is local and scheduled to begin on 27 October, not a national ceasefire. The Sudan hunger outlook combines reported USGS data, an older IPC baseline and WFP forecasts. OpenAI's incident, remedies and resumption date are company disclosures; independent verification is not claimed.
 
 ### 2026-10-23 · chellarams-family-never-left
 
@@ -464,89 +478,7 @@ Published 23 October 2026 as chellarams-hotel-california ("Chellarams: A Hundred
 
 - **Type and rating:** Company report, Okomu Oil Palm (OKOMUOIL). WAIT at ₦1,276.20 (25 September 2026 close); base fair value about ₦1,000; underwriting range about ₦700 to ₦1,350. Horizon six months; review on Q3 2026 results, no later than 25 March 2027.
 - **Entry route:** the physical work before the accounts: fruit bunches cut, trucked and pressed in Edo State before a line marked "revenue" appears in Lagos. Then the pre-crude palm-export history, resisted as a lament.
-- **Narrative shape and ending:** landbank history, yield and extraction recovery, Nigerian and Southeast Asian peers, the border and FX protection cycle, rubber as the real export, naira versus dollar returns, balance sheet and Socfin fees, earnings SOTP and scenarios, verdict. Ends on a three-beat verdict line.
-- **Hero concept:** AI-generated realistic scene: a truck of fresh fruit bunches on a laterite road, the estate and mill behind, a cargo ship on the horizon (the foreign tonne).
-- **Cultural guests:** None. (Royal Niger Company and Oloibiri as history, not colour.)
-- **Quotations:** None.
-- **Historical episodes:** Nigeria as the world's leading palm-oil exporter until the 1930s; Okomu Forest Reserve project 1976, incorporation 1979, privatisation 1990; Hartman acquisition 2014; CBN 41-item FX exclusion, June 2015; land-border closure, August 2019; CBN lifting of the 43-item FX restriction, 12 October 2023; 2026 CPO tariff cut from 35% to 28.75%. No proverbs or biblical figures.
-- **Nigerian social types:** None.
-- **Closing cadence:** three short verdict fragments: "Wonderful farm. Very good business. Price needs pruning." Note: same shape as the Presco close ("The plantation is excellent. The balance sheet is much improved. The price, regrettably, has read the same annual report."), six pieces apart and on the same sector.
-- **Memorable phrases:** "By the time a line marked “revenue” appears in Lagos, a great deal of very physical work has already happened in Edo State."; "Better engineering cannot grow a bunch, but it can waste less of one."; "To the nearest thousand naira, the export business is rubber. Palm oil stays home."; "If those frictions fall, the moat narrows even though not a single tree has moved."; "Its oil only needs to arrive cheaply enough."; "Because the farm is good enough that the price has become part of the risk."
-- **Analogies and metaphor families:** two clocks (plantation biology versus trade policy; compare the internet-time and legal-time clocks in republic-of-30-percent); football pitches to humanise scale; the border and the foreign tonne as the competitor; moat (with the caveat that it is made of frictions, not agronomy); pruning; naira versus dollar wealth (compare the-naira-is-not-a-footnote and fcmb).
-
-### 2026-09-28 refresh · the-naira-is-not-a-footnote-in-your-valuation
-
-- **Type and rating:** Macro commentary. No rating.
-- **Entry route:** the 2026 NGX rally, followed by the unit-of-account question.
-- **Narrative shape and ending:** nominal market victory, currency translation, central-bank and inflation mechanics, then an investor currency test. Ends at Heathrow, where naira wealth meets a hard-currency liability.
-- **Hero concept:** a Lagos food seller compares naira cash with a dollar-priced travel bill while investors celebrate behind her.
-- **Cultural guests:** D'banj; King Sunny Adé; Onyeka Onwenu; Ebenezer Obey; Voltaire; Shelley.
-- **Quotations:** Shelley, Ozymandias.
-- **Historical episodes:** the 2020 to July 2026 NGX, S&P 500 and official exchange-rate path.
-- **Nigerian social types:** Nyanya food seller; Agenebode farmer and household; Lagos landlord.
-- **Closing cadence:** callback to the currency of the investor's liabilities, ending at Heathrow.
-- **Memorable phrases:** "The currency collected its commission"; "The market can be right and the citizen can still be poorer"; "your wealth must still survive Heathrow".
-- **Analogies and metaphor families:** dancing and music; the currency as an uninvited bill collector; inflation wearing cufflinks.
-
-### 2026-09-26 · nigeria-is-back-at-the-frontier
-
-Status: published 28 September 2026 (article dated 26 September).
-
-- **Type and rating:** Market structure essay. No company rating.
-- **Entry route:** a single trading day. 21 September 2026, Zenith trades 77.07 million shares at 3.58 times normal volume and the price moves 0.2 per cent.
-- **Narrative shape and ending:** index inclusion precedents, then who actually sells to passive buyers. Ends by returning to the opening day: the question is whether foreign holders stay on a bad Tuesday.
-- **Hero concept:** see the article's hero and heroCaption.
-- **Cultural guests:** Ozark; r/wallstreetbets; Samuel Brannan.
-- **Quotations:** Hamlet; Ozymandias (adapted); J.P. Clark, Night Rain (paraphrase).
-- **Historical episodes:** JPMorgan GBI-EM removal of Nigeria, 2015; Tesla S&P 500 inclusion, 2020; MSCI Pakistan back to Frontier, 2021; MSCI Argentina to Standalone, 2021; Samuel Brannan and the California gold rush, 1848.
-- **Nigerian social types:** Lagos portfolio manager (labelled ILLUSTRATION).
-- **Closing cadence:** callback to the opening day, ending on a hypothetical bad Tuesday.
-- **Memorable phrases:** "The pipes work. The buyer came. The seller was there first."; "the portfolio manager in Lagos has already been paid".
-- **Analogies and metaphor families:** plumbing and pipes; gold rush, picks and shovels.
-- **Cut in editing, not used:** Breaking Bad, Byron, Soyinka.
-
-### 2026-09-25 · gdp-does-not-pay-the-coupon
-
-- **Type and rating:** Macro essay. No rating.
-- **Entry route:** procedural near-miss. Three Mile Island, 28 March 1979, where the relief-valve light reported the command sent rather than the valve's actual position.
-- **Narrative shape and ending:** the misread-gauge thesis, then one episode per country (Nigeria, Egypt, Ghana, Kenya, South Africa, Zambia). Ends by resolving Wriston's line.
-- **Hero concept:** a sovereign control room in which a large Debt/GDP gauge dominates smaller gauges for interest, revenue, maturity, FX, banks and deposits.
-- **Cultural guests:** Steinbeck (interchapter device); Michael Lewis, The Big Short (paraphrase).
-- **Quotations:** Wriston; Hemingway; Dornbusch; Carville.
-- **Historical episodes:** Three Mile Island 1979; Mexico 1982; Tesobonos 1994; Reinhart-Rogoff and Herndon 2013; Consol redemption 2015; Egypt outflows 2022; Ghana DDEP pickets 2023; Kenya Finance Bill protests 2024; Nene sacking, South Africa, December 2015; Zambia default, November 2020.
-- **Nigerian social types:** Lagos loan officer; Aba manufacturer (labelled ILLUSTRATION).
-- **Closing cadence:** resolves the Wriston line planted at the opening.
-- **Memorable phrases:** "GDP does not pay the coupon".
-- **Analogies and metaphor families:** control rooms, instruments and gauges; misread warning lights.
-
-<!-- BACKFILL: entries for the 31 earlier articles in content/research, recorded 28 September 2026 from a full read of each article, newest first. Pieces sharing a date are in no particular order. -->
-
-### 2026-09-24 · ngx-liquidity-the-market-is-back-where-are-the-buyers
-
-- **Type and rating:** Market structure essay on NGX liquidity, free float and trading costs. No rating.
-- **Entry route:** fictional investor scene. At 10:07 on a Tuesday, Kola Balogun owns ₦20 million of shares; at 10:09 he presses sell and nothing happens. Pivots to Geregu Power's ₦2.06 trillion market cap against a ₦2.4 million median daily value.
-- **Narrative shape and ending:** last price versus clearing price, free float, turnover ratio history, the fee "toll booth", then India and Tokyo as policy templates. Ends by returning to Kola: ownership and liquidity are two different assets.
-- **Hero concept:** a man in a navy agbada and a woman in gold lace and gele forcing an oversized velvet sofa through a narrow doorway ("The position can be large. The exit can still be small.").
-- **Cultural guests:** Oppenheimer (film); Wu-Tang Clan.
-- **Quotations:** "Theory will take you only so far." (Oppenheimer, film); "Cash rules everything around me." (Wu-Tang Clan).
-- **Historical episodes:** Nigeria's 34.8% turnover ratio in 2008 (World Bank series); India's 25% continuous public shareholding rule and SEBI's 2013 enforcement; Tokyo Prime Market tradable-share criteria; T+1 settlement from 1 June 2026; FTSE Frontier restoration from 21 September 2026.
-- **Nigerian social types:** Lagos-style retail investor Kola Balogun (labelled fictional in the text and "fictional composite" in the research note; ILLUSTRATION label added 28 September 2026); broker; registrar in passing ("Nobody had vanished with the registrar").
-- **Closing cadence:** callback to Kola, two short lines: he owned the shares perfectly, but ownership and liquidity are two different assets.
-- **Memorable phrases:** "money you can see but cannot quite reach."; "It is answering a smaller question than he asked."; "That is price discovery with an asterisk."; "The plumbing problem eventually reaches the factory."; "ownership and liquidity are two different assets."
-- **Analogies and metaphor families:** exit doors and doorways (big sofa, small door; "very small exit doors"); toll booth for transaction fees; plumbing for market infrastructure; theatre ("rather theatrical").
-
-### 2026-09-24 · chicken-republic-why-the-chicken-crossed-lagos
-
-- **Type and rating:** Note on Food Concepts Plc (Chicken Republic), hospitality, SDFOODCPT on NASD. No rating: "not a full valuation or recommendation on SDFOODCPT. No public-price conclusion is made." KPI box view: "Better business; value separately".
-- **Entry route:** house confession about eating around Nigeria ("Our accountant calls it expenditure. We prefer fieldwork."), a nod to the earlier Tantalizers piece, then the "why did the chicken cross the road" riddle recast for Lagos.
-- **Narrative shape and ending:** three numbered sections: store network history and the missed 500-store target, unit economics and franchise terms, then the Q2 2026 margin squeeze. Ends by reprising the riddle: growth was on the other side, but check what is coming in the opposite direction.
-- **Hero concept:** a hen carrying a shopping bag crosses a Lagos zebra crossing at dusk beside a delivery rider and standing traffic, a lit Chicken Republic storefront with a long receipt spilling down the steps.
-- **Cultural guests:** None beyond the folk riddle "Why did the chicken cross the road?"
-- **Quotations:** None (the riddle is a folk joke, not attributed).
-- **Historical episodes:** first Chicken Republic in Apapa, 2004; 100th Chicken Republic on Zoo Road, Kano, 2020; missed 500-store target for 2023. No proverbs.
-- **Nigerian social types:** the hungry Lagos lunch customer; the supplier "who wants more naira"; franchisees; the staff member "who portions the rice"; delivery rider (hero only). No ILLUSTRATION labels.
-- **Closing cadence:** riddle callback with a warning twist: "Before following it, check what is coming in the opposite direction."
-- **Memorable phrases:** "The shareholder should see working capital wearing an apron."; "Restaurants do not become valuable by reproducing like WhatsApp groups."; "A durable republic cannot tax its provinces into rebellion."; "The chicken crossed the road; operating profit remained at the traffic light."; "One quarter is an inspection, not a funeral."
+- **Narrative shape and ending:** landbank histo…2656 tokens truncated… do not become valuable by reproducing like WhatsApp groups."; "A durable republic cannot tax its provinces into rebellion."; "The chicken crossed the road; operating profit remained at the traffic light."; "One quarter is an inspection, not a funeral."
 - **Analogies and metaphor families:** road crossing and traffic (riddle, traffic light, opposite direction); republic, provinces and constitution (franchise as a state taxing provinces; smaller portion as "a constitutional violation"); clothing personification ("working capital wearing an apron"); inspection versus funeral.
 
 ### 2026-09-18 · the-brake-the-accelerator-and-the-rat
