@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="700" viewBox="0 0 640 700" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 1. Nigeria's state-police amendment reaches the state threshold</title>
+  <desc id="desc">A six-by-six grid represents Nigeria's 36 state assemblies. Twenty-four brass squares are approved and 12 pale squares are the remainder, showing that the two-thirds threshold has been exactly met.</desc>
+  <rect width="640" height="700" fill="#FBF8F1"/>
+  <rect x="12" y="12" width="616" height="676" rx="4" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1A1F24">
+    <text x="36" y="52" font-size="21" letter-spacing="2" fill="#A67C3D">FIGURE 1 · 24 OCTOBER 2026</text>
+    <text x="36" y="94" font-size="30" font-weight="700">The constitutional threshold</text>
+    <text x="36" y="130" font-size="30" font-weight="700">has been reached</text>
+    <text x="36" y="165" font-size="20" fill="#46504F">State-assembly approvals reported by the State House</text>
+
+    <g transform="translate(70 210)">
+      <g fill="#A67C3D">
+        <rect x="0" y="0" width="68" height="48" rx="3"/><rect x="82" y="0" width="68" height="48" rx="3"/><rect x="164" y="0" width="68" height="48" rx="3"/><rect x="246" y="0" width="68" height="48" rx="3"/><rect x="328" y="0" width="68" height="48" rx="3"/><rect x="410" y="0" width="68" height="48" rx="3"/>
+        <rect x="0" y="62" width="68" height="48" rx="3"/><rect x="82" y="62" width="68" height="48" rx="3"/><rect x="164" y="62" width="68" height="48" rx="3"/><rect x="246" y="62" width="68" height="48" rx="3"/><rect x="328" y="62" width="68" height="48" rx="3"/><rect x="410" y="62" width="68" height="48" rx="3"/>
+        <rect x="0" y="124" width="68" height="48" rx="3"/><rect x="82" y="124" width="68" height="48" rx="3"/><rect x="164" y="124" width="68" height="48" rx="3"/><rect x="246" y="124" width="68" height="48" rx="3"/><rect x="328" y="124" width="68" height="48" rx="3"/><rect x="410" y="124" width="68" height="48" rx="3"/>
+        <rect x="0" y="186" width="68" height="48" rx="3"/><rect x="82" y="186" width="68" height="48" rx="3"/><rect x="164" y="186" width="68" height="48" rx="3"/><rect x="246" y="186" width="68" height="48" rx="3"/><rect x="328" y="186" width="68" height="48" rx="3"/><rect x="410" y="186" width="68" height="48" rx="3"/>
+      </g>
+      <g fill="#F4F0E8" stroke="#C6BFAE" stroke-width="2">
+        <rect x="0" y="248" width="68" height="48" rx="3"/><rect x="82" y="248" width="68" height="48" rx="3"/><rect x="164" y="248" width="68" height="48" rx="3"/><rect x="246" y="248" width="68" height="48" rx="3"/><rect x="328" y="248" width="68" height="48" rx="3"/><rect x="410" y="248" width="68" height="48" rx="3"/>
+        <rect x="0" y="310" width="68" height="48" rx="3"/><rect x="82" y="310" width="68" height="48" rx="3"/><rect x="164" y="310" width="68" height="48" rx="3"/><rect x="246" y="310" width="68" height="48" rx="3"/><rect x="328" y="310" width="68" height="48" rx="3"/><rect x="410" y="310" width="68" height="48" rx="3"/>
+      </g>
+    </g>
+
+    <text x="70" y="604" font-size="36" font-weight="700">24 approved</text>
+    <text x="426" y="604" font-size="22" font-weight="700" text-anchor="end">12 remainder</text>
+    <path d="M70 625 H548" stroke="#C6BFAE"/>
+    <text x="70" y="652" font-size="18" fill="#46504F">24 ÷ 36 = two-thirds, exactly the required count</text>
+    <text x="70" y="677" font-size="16" fill="#46504F">Source: Nigeria State House, 23 October 2026. No state list published.</text>
+  </g>
+</svg>
