@@ -149,6 +149,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-25 · briefing/2026-10-25
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the reported killing of at least 40 people in a Taraba village, with unknown location, perpetrators and motive kept explicit, followed by the concrete facts an accountable response must establish.
+- **Shape:** four ranked developments: the Taraba attack and response test, Nigeria's campaign launch against household petrol costs, widening Gulf security risk and the coming hyperscaler earnings and Federal Reserve decision. The ending names casualty verification and arrests, household-income and transport evidence, Gulf infrastructure outcomes, cash-flow evidence and the Fed signal as changing evidence.
+- **Visual:** a three-point, annotated petrol-price line from May and July 2023 NBS national averages to Reuters' September 2026 observations in Lagos and Abuja, with a separate northern high marker. The visual labels the mixed geographic measures and does not present them as a like-for-like national series.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Deaths, injury and threats to civilians are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries, the same-week Chellarams entry and the permanent retired register were checked before and after drafting. A civilian-protection opening replaces the prior constitutional-count opening. The annotated price path is neither the prior state-threshold grid nor the recent common-axis bars, institutional roster or public-health timeline. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the Taraba toll is attributed to Amnesty through Reuters; the initial report did not identify the village, attackers, motive or official response. The 2023 petrol figures are national averages while the 2026 figures are observed prices in named cities and parts of northern Nigeria. The Iranian-plot claim is a US intelligence assessment, not independent verification of a specific plot. The $800 billion capex figure is an expectation cited by Reuters; scheduled earnings and the Federal Reserve decision had not occurred by publication.
+
 ### 2026-10-24 · briefing/2026-10-24
 
 - **Type:** Daily Brief, no investment rating.
