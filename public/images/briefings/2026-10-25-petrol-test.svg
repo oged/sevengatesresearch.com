@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="700" viewBox="0 0 640 700" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 1. Petrol's household test</title>
+  <desc id="desc">A three-point line shows Nigeria's petrol price rising from a national average of 238.11 naira per litre in May 2023 to 600.35 naira in July 2023, then to about 1,400 naira observed in Lagos and Abuja in September 2026. A separate marker shows up to 1,500 naira in parts of northern Nigeria.</desc>
+  <rect width="640" height="700" fill="#FBF8F1"/>
+  <rect x="12" y="12" width="616" height="676" rx="4" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1A1F24">
+    <text x="36" y="52" font-size="21" letter-spacing="2" fill="#A67C3D">FIGURE 1 · 25 OCTOBER 2026</text>
+    <text x="36" y="96" font-size="32" font-weight="700">Petrol's household test</text>
+    <text x="36" y="130" font-size="19" fill="#46504F">Naira per litre at three dated reference points</text>
+
+    <g transform="translate(80 176)">
+      <line x1="0" y1="360" x2="480" y2="360" stroke="#C6BFAE" stroke-width="2"/>
+      <line x1="0" y1="72" x2="480" y2="72" stroke="#E5DED1" stroke-width="1"/>
+      <line x1="0" y1="216" x2="480" y2="216" stroke="#E5DED1" stroke-width="1"/>
+      <text x="-14" y="78" text-anchor="end" font-size="15" fill="#46504F">₦1,500</text>
+      <text x="-14" y="222" text-anchor="end" font-size="15" fill="#46504F">₦750</text>
+      <text x="-14" y="366" text-anchor="end" font-size="15" fill="#46504F">₦0</text>
+
+      <path d="M35 314 L220 245 L410 91" fill="none" stroke="#A67C3D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="35" cy="314" r="11" fill="#1A1F24"/>
+      <circle cx="220" cy="245" r="11" fill="#1A1F24"/>
+      <circle cx="410" cy="91" r="12" fill="#A67C3D" stroke="#1A1F24" stroke-width="3"/>
+      <circle cx="410" cy="72" r="7" fill="#1A1F24"/>
+      <line x1="410" y1="72" x2="410" y2="91" stroke="#1A1F24" stroke-width="2" stroke-dasharray="4 4"/>
+
+      <text x="35" y="290" text-anchor="middle" font-size="22" font-weight="700">₦238.11</text>
+      <text x="220" y="221" text-anchor="middle" font-size="22" font-weight="700">₦600.35</text>
+      <text x="410" y="125" text-anchor="middle" font-size="24" font-weight="700">~₦1,400</text>
+      <text x="426" y="63" font-size="15" font-weight="700">up to ₦1,500 north</text>
+
+      <text x="35" y="395" text-anchor="middle" font-size="16" font-weight="700">MAY 2023</text>
+      <text x="35" y="417" text-anchor="middle" font-size="14" fill="#46504F">NBS national avg.</text>
+      <text x="220" y="395" text-anchor="middle" font-size="16" font-weight="700">JUL 2023</text>
+      <text x="220" y="417" text-anchor="middle" font-size="14" fill="#46504F">NBS national avg.</text>
+      <text x="410" y="395" text-anchor="middle" font-size="16" font-weight="700">SEP 2026</text>
+      <text x="410" y="417" text-anchor="middle" font-size="14" fill="#46504F">Reuters, Lagos + Abuja</text>
+    </g>
+
+    <rect x="36" y="618" width="568" height="42" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+    <text x="52" y="637" font-size="14" fill="#46504F">The 2026 observations are not a national average. The chart supplies context,</text>
+    <text x="52" y="655" font-size="14" fill="#46504F">not a like-for-like national price series.</text>
+    <text x="36" y="680" font-size="13" fill="#46504F">Sources: NBS/CBN; Reuters, 24 October 2026.</text>
+  </g>
+</svg>
