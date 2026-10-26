@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 1. Lula reversed a first-round deficit</title>
+  <desc id="desc">Official Brazilian presidential vote shares compare the first round and runoff. Lula rose from 45.16 per cent to 51.79 per cent. Flavio Bolsonaro rose from 47.03 per cent to 48.21 per cent.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="12" y="12" width="1096" height="676" rx="4" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1A1F24">
+    <text x="42" y="54" font-size="20" letter-spacing="2" fill="#A67C3D">FIGURE 1 · 26 OCTOBER 2026</text>
+    <text x="42" y="101" font-size="34" font-weight="700">Lula reversed a first-round deficit</text>
+    <text x="42" y="136" font-size="19" fill="#46504F">Share of valid presidential votes, %</text>
+
+    <g transform="translate(250 188)">
+      <text x="0" y="22" text-anchor="end" font-size="17" font-weight="700">FIRST ROUND</text>
+      <rect x="28" y="0" width="684" height="35" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+      <rect x="28" y="0" width="562" height="35" rx="3" fill="#A67C3D"/>
+      <text x="606" y="24" font-size="18" font-weight="700">45.16% Lula</text>
+      <rect x="28" y="52" width="684" height="35" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+      <rect x="28" y="52" width="585" height="35" rx="3" fill="#1A1F24"/>
+      <text x="629" y="76" font-size="18" font-weight="700">47.03% Bolsonaro</text>
+
+      <line x1="28" y1="128" x2="650" y2="128" stroke="#C6BFAE" stroke-width="2"/>
+
+      <text x="0" y="191" text-anchor="end" font-size="17" font-weight="700">RUNOFF</text>
+      <rect x="28" y="168" width="684" height="35" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+      <rect x="28" y="168" width="644" height="35" rx="3" fill="#A67C3D"/>
+      <text x="688" y="192" font-size="19" font-weight="700">51.79% Lula</text>
+      <rect x="28" y="220" width="684" height="35" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+      <rect x="28" y="220" width="600" height="35" rx="3" fill="#1A1F24"/>
+      <text x="644" y="244" font-size="19" font-weight="700">48.21% Bolsonaro</text>
+
+      <path d="M 735 16 C 800 70, 800 130, 735 186" fill="none" stroke="#A67C3D" stroke-width="4"/>
+      <path d="M 728 180 L 736 187 L 745 181" fill="none" stroke="#A67C3D" stroke-width="4"/>
+      <text x="790" y="104" text-anchor="middle" font-size="25" font-weight="700" fill="#A67C3D">+6.63 pts</text>
+      <text x="790" y="132" text-anchor="middle" font-size="15" fill="#46504F">Lula's gain</text>
+    </g>
+
+    <rect x="42" y="532" width="1036" height="82" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+    <text x="62" y="562" font-size="17" font-weight="700">What changed</text>
+    <text x="62" y="588" font-size="16" fill="#46504F">Lula moved from 2.23 points behind Bolsonaro in the first round to 3.58 points ahead in the runoff.</text>
+    <text x="42" y="656" font-size="14" fill="#46504F">Source: Tribunal Superior Eleitoral, official results for 4 and 25 October 2026. Percentages are shares of valid votes.</text>
+  </g>
+</svg>

@@ -149,6 +149,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-26 · briefing/2026-10-26
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Brazil's official runoff count and the reversal of Lula's first-round deficit, followed immediately by the conservative Congress and fiscal constraints that limit the result's economic reach.
+- **Shape:** five ranked developments: Brazil's presidential result and governing constraint, Algeria's first foreign military deployment since 1973, renewed naira pressure, SpaceX's reported $40 billion GPU financing and Uganda's 21-day quarantine for returnees from Congo. The ending names certification and fiscal agreement, Algeria's mandate, the naira threshold, secondary Ebola transmission and debt-term disclosure as changing evidence.
+- **Visual:** paired horizontal bars compare official TSE first-round and runoff vote shares for Lula and Flávio Bolsonaro. An annotation isolates Lula's 6.63-point gain; the graphic does not infer turnout effects or forecast governing support.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Disease exposure and regional security are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and the permanent retired register were checked before and after drafting. A democratic reversal and governing-constraint opening replaces the previous civilian-protection opening. The two-round election comparison is distinct from the recent petrol path, state-threshold grid, participation panels, forecast bars and health timeline. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** official TSE results establish the count, while Bolsonaro's challenge and market reaction are reported by Reuters. Algeria's disclosed deployment lacks force size, duration and command details. The naira item is a weekly trader assessment, not a new trend declaration. SpaceX financing details are Musk's statement and Reuters says pricing and completion information was unclear. Uganda's quarantine is policy evidence; Nigeria's infection source remains disputed and no secondary Nigerian transmission is claimed.
+
 ### 2026-10-25 · briefing/2026-10-25
 
 - **Type:** Daily Brief, no investment rating.
