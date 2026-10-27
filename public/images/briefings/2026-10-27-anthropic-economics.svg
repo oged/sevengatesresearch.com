@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 1. Anthropic's growth reached the operating line</title>
+  <desc id="desc">First-half revenue increased from 1.16 billion dollars in 2025 to 16.29 billion dollars in 2026. First-half operating loss narrowed from 2.14 billion dollars to 0.69 billion dollars. The two panels use separate labelled scales.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="12" y="12" width="1096" height="676" rx="4" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1A1F24">
+    <text x="42" y="54" font-size="20" letter-spacing="2" fill="#A67C3D">FIGURE 1 · 27 OCTOBER 2026</text>
+    <text x="42" y="101" font-size="34" font-weight="700">Anthropic's growth reached the operating line</text>
+    <text x="42" y="136" font-size="19" fill="#46504F">First-half results, US$ billion · separate scales</text>
+
+    <g transform="translate(42 182)">
+      <rect width="500" height="318" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+      <text x="24" y="39" font-size="18" font-weight="700">REVENUE</text>
+      <text x="476" y="39" text-anchor="end" font-size="15" fill="#46504F">0 to $18bn</text>
+      <line x1="84" y1="258" x2="466" y2="258" stroke="#8C938E"/>
+      <rect x="126" y="241" width="92" height="17" fill="#C6BFAE"/>
+      <rect x="318" y="77" width="92" height="181" fill="#A67C3D"/>
+      <text x="172" y="228" text-anchor="middle" font-size="22" font-weight="700">$1.16</text>
+      <text x="364" y="64" text-anchor="middle" font-size="22" font-weight="700">$16.29</text>
+      <text x="172" y="287" text-anchor="middle" font-size="17">H1 2025</text>
+      <text x="364" y="287" text-anchor="middle" font-size="17">H1 2026</text>
+    </g>
+
+    <g transform="translate(578 182)">
+      <rect width="500" height="318" rx="3" fill="#F4F0E8" stroke="#C6BFAE"/>
+      <text x="24" y="39" font-size="18" font-weight="700">OPERATING LOSS</text>
+      <text x="476" y="39" text-anchor="end" font-size="15" fill="#46504F">0 to $2.5bn</text>
+      <line x1="84" y1="258" x2="466" y2="258" stroke="#8C938E"/>
+      <rect x="126" y="78" width="92" height="180" fill="#A24B43"/>
+      <rect x="318" y="200" width="92" height="58" fill="#C9857F"/>
+      <text x="172" y="65" text-anchor="middle" font-size="22" font-weight="700">$2.14</text>
+      <text x="364" y="187" text-anchor="middle" font-size="22" font-weight="700">$0.69</text>
+      <text x="172" y="287" text-anchor="middle" font-size="17">H1 2025</text>
+      <text x="364" y="287" text-anchor="middle" font-size="17">H1 2026</text>
+    </g>
+
+    <rect x="42" y="530" width="1036" height="84" rx="3" fill="#1A1F24"/>
+    <text x="66" y="564" font-size="19" font-weight="700" fill="#FBF8F1">Revenue: about 14× year on year</text>
+    <text x="66" y="592" font-size="17" fill="#D7D1C3">Operating loss: roughly two-thirds narrower</text>
+    <text x="42" y="656" font-size="14" fill="#46504F">Source: Anthropic Form S-1 filed with the US SEC on 26 October 2026. Values rounded to two decimal places.</text>
+  </g>
+</svg>
