@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">AI cloud growth and cash conversion</title>
+  <desc id="desc">Microsoft Azure grew 48 percent while Microsoft produced 18.6 billion dollars of quarterly free cash flow. Google Cloud grew 103 percent while Alphabet produced negative 9.07 billion dollars of quarterly free cash flow.</desc>
+  <rect width="1120" height="700" fill="#f5efe3"/>
+  <rect x="28" y="28" width="1064" height="644" rx="8" fill="#fbf7ee" stroke="#22211f" stroke-width="2"/>
+  <text x="72" y="82" fill="#22211f" font-family="Georgia, serif" font-size="34" font-weight="700">AI demand is strong. Cash timing differs.</text>
+  <text x="72" y="116" fill="#5d584f" font-family="Arial, sans-serif" font-size="17">September 2026 quarter · cloud revenue growth vs consolidated free cash flow</text>
+
+  <g font-family="Arial, sans-serif" font-size="15" fill="#5d584f">
+    <text x="82" y="207">$20bn</text><text x="92" y="318">$10bn</text><text x="114" y="429">$0</text><text x="82" y="540">−$10bn</text>
+  </g>
+  <g stroke="#d7cdbd" stroke-width="1">
+    <line x1="150" y1="202" x2="1010" y2="202"/><line x1="150" y1="313" x2="1010" y2="313"/><line x1="150" y1="535" x2="1010" y2="535"/>
+  </g>
+  <line x1="150" y1="424" x2="1010" y2="424" stroke="#a8782a" stroke-width="3"/>
+  <line x1="150" y1="160" x2="150" y2="570" stroke="#22211f" stroke-width="2"/>
+  <line x1="150" y1="570" x2="1010" y2="570" stroke="#22211f" stroke-width="2"/>
+
+  <g font-family="Arial, sans-serif" font-size="15" fill="#5d584f" text-anchor="middle">
+    <text x="294" y="598">40%</text><text x="437" y="598">60%</text><text x="580" y="598">80%</text><text x="723" y="598">100%</text><text x="866" y="598">120%</text>
+  </g>
+  <text x="580" y="634" text-anchor="middle" fill="#22211f" font-family="Arial, sans-serif" font-size="17" font-weight="700">Cloud revenue growth, year on year</text>
+  <text transform="translate(55 375) rotate(-90)" text-anchor="middle" fill="#22211f" font-family="Arial, sans-serif" font-size="17" font-weight="700">Quarterly free cash flow</text>
+
+  <line x1="351" y1="217" x2="407" y2="182" stroke="#2f6b4f" stroke-width="2"/>
+  <circle cx="351" cy="217" r="16" fill="#2f6b4f" stroke="#fbf7ee" stroke-width="5"/>
+  <rect x="407" y="145" width="260" height="76" rx="5" fill="#fbf7ee" stroke="#2f6b4f" stroke-width="2"/>
+  <text x="427" y="174" fill="#22211f" font-family="Arial, sans-serif" font-size="18" font-weight="700">Microsoft / Azure</text>
+  <text x="427" y="202" fill="#2f6b4f" font-family="Arial, sans-serif" font-size="17">48% growth · +$18.6bn FCF</text>
+
+  <line x1="744" y1="525" x2="695" y2="489" stroke="#9b3f36" stroke-width="2"/>
+  <circle cx="744" cy="525" r="16" fill="#9b3f36" stroke="#fbf7ee" stroke-width="5"/>
+  <rect x="405" y="452" width="290" height="76" rx="5" fill="#fbf7ee" stroke="#9b3f36" stroke-width="2"/>
+  <text x="425" y="481" fill="#22211f" font-family="Arial, sans-serif" font-size="18" font-weight="700">Alphabet / Google Cloud</text>
+  <text x="425" y="509" fill="#9b3f36" font-family="Arial, sans-serif" font-size="17">103% growth · −$9.07bn FCF</text>
+
+  <text x="970" y="650" text-anchor="end" fill="#5d584f" font-family="Arial, sans-serif" font-size="13">SEVEN GATES RESEARCH · 29 OCT 2026</text>
+</svg>
