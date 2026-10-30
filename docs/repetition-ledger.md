@@ -149,6 +149,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-30 · briefing/2026-10-30
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** South Africa's GDP rebasing is separated from new economic growth, then tested for its effect on ratios, regional comparisons and Nigerian statistical practice.
+- **Shape:** five ranked developments: South Africa's rebased GDP, US third-quarter growth, the ECB hold and leadership transition, Amazon's AI capacity spending, and Israel's completed vote count. The ending specifies the funding, revision, policy, cash-conversion and coalition evidence that would change each view.
+- **Visual:** a single stacked bar decomposes Statistics South Africa's reported R324 billion upward revision to 2022 GDP into finance, trade, mining and other industries, with a separate method panel. Categories use Ink, Brass and neutrals because they are contributions, not good-or-bad outcomes.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The national-accounts decomposition is distinct from the recent cash quadrant, custody evidence panel, company bars, election comparison, petrol path and constitutional threshold grid. Amazon extends the hyperscaler earnings sequence with a new company disclosure but does not reuse yesterday's visual or title construction. Israel returns only because the completed count replaced the incomplete result. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** rebasing revises measured past output rather than current production; South Africa and Nigeria dollar comparisons depend on exchange rates; the US figure is an advance estimate; the ECB has not committed to a December move; Amazon's spending does not establish future returns; Israel's count is complete but formal submission and coalition formation remain outstanding.
+
 ### 2026-10-29 · briefing/2026-10-29
 
 - **Type:** Daily Brief, no investment rating.

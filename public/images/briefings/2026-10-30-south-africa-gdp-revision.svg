@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Where South Africa's reported 2022 GDP revision came from</title>
+  <desc id="desc">A stacked bar decomposes the reported 324 billion rand upward revision into 127 billion from finance, 61 billion from trade, 61 billion from mining and 75 billion from other industries.</desc>
+  <rect width="1120" height="700" fill="#f4f0e8"/>
+  <rect x="28" y="28" width="1064" height="644" rx="8" fill="#fbf8f1" stroke="#1a1f24" stroke-width="2"/>
+  <text x="72" y="86" fill="#1a1f24" font-family="Georgia, serif" font-size="34" font-weight="700">Where the R324bn GDP revision came from</text>
+  <text x="72" y="122" fill="#46504f" font-family="Arial, sans-serif" font-size="17">South Africa · reported contributions to the upward revision of 2022 GDP</text>
+
+  <rect x="72" y="158" width="976" height="92" rx="5" fill="#f4f0e8" stroke="#c6bfae"/>
+  <text x="100" y="196" fill="#a67c3d" font-family="Georgia, serif" font-size="28" font-weight="700">+4.9%</text>
+  <text x="100" y="224" fill="#46504f" font-family="Arial, sans-serif" font-size="16">reported change to the 2022 level</text>
+  <text x="440" y="196" fill="#1a1f24" font-family="Georgia, serif" font-size="24" font-weight="700">R6.667tn</text>
+  <text x="440" y="224" fill="#46504f" font-family="Arial, sans-serif" font-size="16">previous estimate</text>
+  <text x="760" y="196" fill="#1a1f24" font-family="Georgia, serif" font-size="24" font-weight="700">R6.990tn</text>
+  <text x="760" y="224" fill="#46504f" font-family="Arial, sans-serif" font-size="16">rebased estimate</text>
+
+  <text x="72" y="308" fill="#1a1f24" font-family="Arial, sans-serif" font-size="17" font-weight="700">CONTRIBUTION TO REPORTED UPLIFT</text>
+  <rect x="72" y="336" width="385" height="104" fill="#a67c3d"/>
+  <rect x="457" y="336" width="185" height="104" fill="#1a1f24"/>
+  <rect x="642" y="336" width="185" height="104" fill="#46504f"/>
+  <rect x="827" y="336" width="221" height="104" fill="#c6bfae"/>
+  <text x="264" y="378" text-anchor="middle" fill="#fbf8f1" font-family="Arial, sans-serif" font-size="19" font-weight="700">FINANCE</text>
+  <text x="264" y="408" text-anchor="middle" fill="#fbf8f1" font-family="Georgia, serif" font-size="24" font-weight="700">R127bn</text>
+  <text x="549" y="378" text-anchor="middle" fill="#fbf8f1" font-family="Arial, sans-serif" font-size="17" font-weight="700">TRADE</text>
+  <text x="549" y="408" text-anchor="middle" fill="#fbf8f1" font-family="Georgia, serif" font-size="22" font-weight="700">R61bn</text>
+  <text x="734" y="378" text-anchor="middle" fill="#fbf8f1" font-family="Arial, sans-serif" font-size="17" font-weight="700">MINING</text>
+  <text x="734" y="408" text-anchor="middle" fill="#fbf8f1" font-family="Georgia, serif" font-size="22" font-weight="700">R61bn</text>
+  <text x="937" y="378" text-anchor="middle" fill="#1a1f24" font-family="Arial, sans-serif" font-size="17" font-weight="700">OTHER</text>
+  <text x="937" y="408" text-anchor="middle" fill="#1a1f24" font-family="Georgia, serif" font-size="22" font-weight="700">R75bn</text>
+
+  <line x1="72" y1="486" x2="1048" y2="486" stroke="#a67c3d" stroke-width="2"/>
+  <text x="72" y="525" fill="#1a1f24" font-family="Arial, sans-serif" font-size="17" font-weight="700">WHAT CHANGED IN THE METHOD</text>
+  <circle cx="84" cy="558" r="5" fill="#a67c3d"/><text x="102" y="564" fill="#46504f" font-family="Arial, sans-serif" font-size="16">Finance: revised treatment of owner-occupied housing</text>
+  <circle cx="84" cy="593" r="5" fill="#a67c3d"/><text x="102" y="599" fill="#46504f" font-family="Arial, sans-serif" font-size="16">Mining: improved coverage of illegal mining</text>
+  <circle cx="570" cy="558" r="5" fill="#a67c3d"/><text x="588" y="564" fill="#46504f" font-family="Arial, sans-serif" font-size="16">New base year: 2022, replacing 2015</text>
+  <circle cx="570" cy="593" r="5" fill="#a67c3d"/><text x="588" y="599" fill="#46504f" font-family="Arial, sans-serif" font-size="16">Broader measurement of non-observed activity</text>
+  <text x="1020" y="644" text-anchor="end" fill="#46504f" font-family="Arial, sans-serif" font-size="13">SOURCE: STATISTICS SOUTH AFRICA · 29 OCT 2026</text>
+</svg>
