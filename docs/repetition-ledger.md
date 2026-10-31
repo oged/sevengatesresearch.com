@@ -149,6 +149,27 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-31 · nestle-nigeria-recovery-already-in-the-price
+
+Published 31 October 2026. Rewrite of the unpublished 30 October 2026 draft "Nestlé Nigeria: The Maggi Is Back. The Debt Hasn't Left." under standard v6.4, with a refresh for the Peranel notice of 29 and 30 October 2026.
+
+- **Type and rating:** Company research (Long), Nestlé Nigeria Plc (NESTLE). WATCH at ₦2,750 (29 October 2026 close); base value ₦2,680 on 2027 earnings, about ₦2,170 discounted to today at 20%; interest zone ₦2,050 to ₦2,250; unattractive above ₦3,200 without better cash; horizon to end-2027; review on the Peranel circular or FY2026 results, by 28 February 2027. Confidence medium.
+- **Entry route:** first-person travel recollection. The narrator buys Milo in the Caribbean, meets the MY-lo pronunciation and a different taste, then learns that Nestlé makes Nigerian Milo from sorghum and Ghanaian Milo from barley. The local recipe becomes the case for treating the Nigerian listed company as a local business funded by its parent.
+- **Narrative shape and ending:** Milo opening, Seven Gates view box, five-year history (Figure 1), margins and marketing spend with segment table, finance-line bridge (Figure 2), cash conversion and the 2025 late-interest effect (Figure 3), the parent's three roles and the Peranel transfer, debt and equity (Figure 4), retained-earnings timing and the dividend decision, stale share price and dual-currency record (Figure 5), expectations test, three scenarios with present value (Figure 6), the case against WATCH, verdict box. Ends with a two-sentence Milo callback: "Milo changed its grain and its pronunciation without losing a customer. The loan from the parent kept its currency, and at ₦2,750 the buyer is paying now for a repair that the accounts have not yet finished."
+- **Hero concept:** reused from the 30 October draft. AI-generated painted table of stew, rice, an enamel mug and a seasoning cube above a coastal town at sunset, with iron chains and banknotes beneath. Generic coastline; no map, route or real site depicted.
+- **Cultural guests:** none. Personal travel anecdote only.
+- **Quotations:** one short phrase from the company notice, "adequate consideration". No literary or lyric quotations.
+- **Proverbs, biblical figures, historical episodes:** none.
+- **Nigerian social types:** anyone who has cooked a pot of Nigerian stew (seasoning-cube aside); the Nigerian saver measuring in naira beside the foreign investor measuring in dollars.
+- **First-person holdings:** none mentioned.
+- **Stock-chart treatment:** sparse series, six dated observations (31 Dec 2021 to 29 Oct 2026), NGN and USD panels on matched dates, points only, price return. Flagged for replacement with a verified daily or weekly series.
+- **Liquidity:** price unchanged from 5 to 29 October 2026 reported; daily traded value not compiled; no exit claim made. Required before any upgrade.
+- **Memorable phrases:** "same bones, different accent"; "One trademark, one green tin, two grains"; "The profit line went down the stairs and through the floor"; "Better margins went straight back into the trucks"; "The parent is lender, controlling shareholder and now buyer"; the round-trip sentence on Peranel proceeds; "Every naira paid out sends about 71 kobo to the parent as shareholder; every naira kept could repay the parent as lender."
+- **Analogies and metaphor families:** staircase for nominal revenue; the parent's three seats in one transaction; round trip for intra-group money. No clothing, party, plumbing, billing, castle or personified-market families.
+- **Freshness check:** run against the final text, the last 20 entries and the A1 register. Removed at drafting: the "Swiss" stability tic, the "X does not own Y" skeleton, a four-beat run in the bear case, a triad in the view box, an X/Y chart title pair, and the coffee line from the 30 October draft (coffee-as-restart family). Left as written and noted: Figure 5's insight title states a naira gain and a dollar loss in one sentence; it is a chart title, not the retired headline construction, but an editor may prefer to rephrase. The PZ Cussons note is linked once for the shared minority-shareholder point.
+- **Advisory items left as written:** end-2021 (₦435.00) and end-2022 (₦461.50) FX rates from the research record, not re-verified at the cut-off; end-2022 and end-2023 closes of ₦1,100 from aggregators; NGX document link for the 9M 2026 interim accounts to be added; the final FX point uses the 26 October 2026 official close for the 29 October price. Length about 3,900 words of prose before notes, inside the Long range. PDF edition printed from the final text at /downloads/nestle-nigeria-recovery-already-in-the-price.pdf, 12 pages.
+- **Corrections record:** facts changed (Peranel transfer disclosed after the 30 October draft); errors corrected before publication (Ghana and Nigeria described as neighbours; inflation attributed to the CBN instead of the NBS). Rating, scenario values, fair value, entry zone and walk-away price unchanged.
+
 ### 2026-10-31 · briefing/2026-10-31
 
 - **Type:** Daily Brief, no investment rating.
