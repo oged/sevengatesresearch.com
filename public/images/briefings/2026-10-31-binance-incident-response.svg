@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Binance's reported response to the 6.3 billion dollar theft</title>
+  <desc id="desc">Four horizontal bars compare the reported theft, funds set aside, matching token assets held and stolen assets frozen on-chain. A note warns that the categories overlap.</desc>
+  <rect width="1120" height="700" fill="#F4F0E8"/>
+  <rect x="28" y="28" width="1064" height="644" rx="8" fill="#FBF8F1" stroke="#1A1F24" stroke-width="2"/>
+  <text x="72" y="86" fill="#1A1F24" font-family="Georgia, serif" font-size="34" font-weight="700">What Binance says stands behind the $6.3bn loss</text>
+  <text x="72" y="122" fill="#46504F" font-family="Arial, sans-serif" font-size="17">Reported company response · 30 October 2026 · USD billions</text>
+
+  <line x1="350" y1="172" x2="1010" y2="172" stroke="#C6BFAE"/>
+  <line x1="350" y1="172" x2="350" y2="510" stroke="#C6BFAE"/>
+  <line x1="538.6" y1="172" x2="538.6" y2="510" stroke="#DED8CC"/>
+  <line x1="727.1" y1="172" x2="727.1" y2="510" stroke="#DED8CC"/>
+  <line x1="915.7" y1="172" x2="915.7" y2="510" stroke="#DED8CC"/>
+  <text x="350" y="158" fill="#46504F" font-family="Arial, sans-serif" font-size="14">0</text>
+  <text x="532" y="158" fill="#46504F" font-family="Arial, sans-serif" font-size="14">2</text>
+  <text x="721" y="158" fill="#46504F" font-family="Arial, sans-serif" font-size="14">4</text>
+  <text x="909" y="158" fill="#46504F" font-family="Arial, sans-serif" font-size="14">6</text>
+
+  <text x="72" y="226" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">TOKENS STOLEN</text>
+  <rect x="350" y="194" width="594" height="50" rx="3" fill="#A3443E"/>
+  <text x="960" y="227" fill="#1A1F24" font-family="Georgia, serif" font-size="25" font-weight="700">$6.30bn</text>
+
+  <text x="72" y="310" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">FUNDS SET ASIDE</text>
+  <rect x="350" y="278" width="598" height="50" rx="3" fill="#3F7057"/>
+  <text x="960" y="311" fill="#1A1F24" font-family="Georgia, serif" font-size="25" font-weight="700">$6.34bn+</text>
+
+  <text x="72" y="394" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">MATCHING TOKENS HELD</text>
+  <rect x="350" y="362" width="471" height="50" rx="3" fill="#A67C3D"/>
+  <text x="837" y="395" fill="#1A1F24" font-family="Georgia, serif" font-size="25" font-weight="700">$5.00bn</text>
+
+  <text x="72" y="478" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">FROZEN ON-CHAIN</text>
+  <rect x="350" y="446" width="283" height="50" rx="3" fill="#5B7868"/>
+  <text x="649" y="479" fill="#1A1F24" font-family="Georgia, serif" font-size="25" font-weight="700">≈$3.00bn</text>
+
+  <rect x="72" y="544" width="976" height="82" rx="5" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <circle cx="98" cy="571" r="5" fill="#A67C3D"/>
+  <text x="116" y="577" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">Do not add these bars.</text>
+  <text x="116" y="604" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Matching assets and frozen funds overlap with the response. Frozen funds are not yet recovered cash.</text>
+  <text x="1048" y="650" text-anchor="end" fill="#46504F" font-family="Arial, sans-serif" font-size="13">SOURCE: BINANCE INCIDENT UPDATE · 30 OCT 2026</text>
+</svg>

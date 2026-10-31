@@ -149,6 +149,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-10-31 · briefing/2026-10-31
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Binance's claimed financial capacity is separated from proof that the breach, asset backing and withdrawal access are resolved.
+- **Shape:** five ranked developments: Binance's hot-wallet theft and response, attacks on Nigerian military positions, the AI-linked equity repricing, a St Louis Fed call for an early rate increase, and fatal drone strikes on an Ethiopian displacement camp. The ending names the verification, security, cash-conversion, inflation and humanitarian evidence that would change each assessment.
+- **Visual:** four horizontal bars compare the reported Binance theft with funds set aside, matching token assets and assets frozen on-chain. The overlap warning prevents readers from adding categories, and green appears only for coverage or potentially recoverable assets while red is reserved for the theft.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Military deaths and civilian deaths in Ethiopia are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The incident-response balance sheet is distinct from yesterday's GDP-revision decomposition and recent company cash-conversion, custody, election, price and constitutional visuals. AI spending appears for a third consecutive edition only because Friday's market close supplied a new, broad repricing event; it is confined to one short item and does not drive the visual. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** Binance's loss, asset coverage, freeze and preliminary attack path are company claims pending proof of reserves and a post-mortem; frozen assets are not recovered funds. Nigerian insurgent casualties are a military claim without independent verification. The AI selloff is a one-day market move, not proof that demand has failed. Musalem speaks for himself, not the FOMC. The Ethiopian toll comes from rescue sources, and the attacker and motive remain unknown.
+
 ### 2026-10-30 · briefing/2026-10-30
 
 - **Type:** Daily Brief, no investment rating.
