@@ -257,7 +257,7 @@ Now let the Treasury move to 5.5% and Nigeria to 10.5%. The spread is 500 bp, an
 <p style="font-size:.82em;color:#46504F;margin:.7em 0 0"><strong>Figure 4.</strong> Source: Seven Gates Research illustrative arithmetic. These are worked examples, not market quotations.</p>
 </div>
 
-The Debt Management Office publishes Nigerian Eurobond prices and yields every day, so this is a test rather than a figure of speech. It is also the one gate we cannot yet score: we have not built a maturity-matched daily spread series for this piece, and the dashboard below says so rather than guessing.
+The Debt Management Office publishes Nigerian Eurobond prices and yields every day, so this is a test rather than a figure of speech. It is also the one gate we cannot yet score: no maturity-matched daily spread series has been built for this piece yet, and the dashboard below marks the gap.
 
 ## Cardoso has trenches before he needs the MPR
 
@@ -358,7 +358,7 @@ At that point the butterfly stays a fine lesson in complexity and becomes a poor
 </div>
 </div>
 
-For now the butterfly is flapping. The bond market has noticed, and the weakest American borrowers have noticed rather more. Nigeria still has its defences. Lorenz spent a career explaining that nobody can forecast the tornado. You can, however, notice when the wind changes, and on 24 September, at the bottom of the American credit market, it did.
+For now the butterfly is flapping. Bond prices have moved, and they have moved furthest for the weakest American borrowers. Nigeria still has its defences. Lorenz spent a career explaining that nobody can forecast the tornado. You can, however, notice when the wind changes, and on 24 September, at the bottom of the American credit market, it did.
 
 *Until the other gates open, the rest is still a seagull.*
 

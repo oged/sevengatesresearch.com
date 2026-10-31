@@ -150,7 +150,7 @@ Measured in dollars, the result is still excellent but much less theatrical. A s
 
 <div style="margin:2em 0;padding:1.25em;background:#FBF8F1;border:1px solid #C6BFAE">
 <div style="font:700 .75em Arial,sans-serif;letter-spacing:.1em;color:#A67C3D">FIGURE 5</div>
-<h3 style="margin:.25em 0 .2em">Naira wealth and dollar wealth are not the same thing</h3>
+<h3 style="margin:.25em 0 .2em">Naira wealth, measured in dollars</h3>
 <p style="margin:.2em 0 1em;color:#46504F;font-size:.92em">Price-only index, December 2015 = 100. FX translation follows the relevant official or tradable-market window for each period and is intended as an analytical comparison, not a claim of frictionless repatriation.</p>
 <img src="/images/research/okomu-the-price-of-red-oil/05-naira-vs-dollar-index.webp" alt="Two-line index chart from 2015 to 2026. The naira price index rises to 4,212. The dollar-translated index rises to 625." style="width:100%;height:auto;display:block" loading="lazy">
 <p style="font-size:.82em;color:#46504F;margin:.7em 0 0"><strong>Figure 5.</strong> Source: NGX year-end prices; CBN and NFEM exchange rates; Nairametrics 10-year return reconstruction; Seven Gates calculations.</p>

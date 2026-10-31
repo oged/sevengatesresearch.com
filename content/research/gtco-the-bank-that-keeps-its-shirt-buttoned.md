@@ -27,7 +27,7 @@ It has cheap deposits, formidable capital, excellent cost control and a lending 
 
 At a reference price of **₦130**, GTCO trades at approximately **5.1 times FY2025 earnings**, **1.4 times book value** and a trailing dividend yield of about **9.8%**.
 
-That is not expensive. But the market has noticed the quality. GTCO is now a good business at a sensible price, not contraband being sold behind Balogun Market.
+That is not expensive. But the price already credits the quality. GTCO is now a good business at a sensible price, not contraband being sold behind Balogun Market.
 
 My preferred accumulation range is **₦110–₦120**. Below ₦105, one should stop consulting the village oracle and check whether the fundamentals remain intact.
 

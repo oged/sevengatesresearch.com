@@ -133,7 +133,7 @@ That is where debt leaves the finance ministry and walks into the wider economy.
 
 Egypt reaches a similar destination from the other direction. The IMF projects public debt at **91.1 per cent of GDP in FY2025/26**. More revealing, gross financing needs are expected to reach roughly **42 per cent of GDP**. They are expected to stay close to 40 per cent in the near term, falling below 30 per cent by 2030 if the programme holds.
 
-That is not merely a lot of debt. It is a lot of debt that keeps coming back.
+That is a lot of debt, and it keeps coming back.
 
 The British once issued a bond called the Consol, a perpetual instrument with no maturity date. When the Treasury finally redeemed the last of them in 2015, some of the money being repaid traced its lineage to the South Sea Bubble and the Napoleonic Wars. A 91-day Treasury bill is the Consol's comic opposite. One can sit quietly for generations. The other insists on seeing you again before the quarter is out.
 

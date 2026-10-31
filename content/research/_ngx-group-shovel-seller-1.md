@@ -26,7 +26,7 @@
 | Preferred accumulation zone | **Below ~₦110** |
 | Stronger buy zone | **~₦95–₦100** |
 
-### The answer before the sermon
+### Where we land
 
 NGX Group is becoming a better company faster than I expected.
 

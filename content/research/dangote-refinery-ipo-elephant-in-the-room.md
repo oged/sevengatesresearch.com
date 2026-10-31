@@ -35,7 +35,7 @@ Dangote Refinery is that elephant, except this one cost roughly US$20 billion, c
 
 All of them have found a real part of the animal. None has yet described the whole beast. This article is an attempt to walk around it without being stepped on.
 
-## The answer before the sermon
+## The short answer
 
 My preliminary value range is **US$0.11–US$0.16 per existing share**, with **US$0.13**, about **₦178** using ₦1,370/US$, as the preferred maximum entry before a clean prospectus changes the evidence. On an estimated 111.67 billion pre-IPO shares, US$0.13 implies an equity value of about **US$14.5 billion**. Add assumed opening net debt of US$3 billion and the enterprise value is roughly **US$17.5 billion**, or about **6.5 times** reconstructed 2027 EBITDA of US$2.7 billion.
 
@@ -82,7 +82,7 @@ Management states daily light-product capability of roughly **57 million litres 
 
 The home-market advantage is real. The US Energy Information Administration estimated that Nigeria imported an average of roughly **376,000 barrels per day** of petroleum products in 2020–2024. A large coastal refinery can replace freight-heavy imports, turn inventory faster, supply cleaner fuels and sell surplus cargoes into West Africa and the Atlantic Basin. Reuters, citing Kpler, reported Nigerian product exports of about **353,000 bpd in April 2026**, before they slipped to around **285,000 bpd in May**.
 
-It is not merely a Nigerian import-substitution machine. Its jet fuel has reached Britain; its diesel and petrol can reach African and international customers; its scale gives it bargaining power with crude suppliers, traders, shippers and equipment vendors. The asset may become to African refining what Dangote Cement became to African building materials: a regional system, not merely a factory.
+The refinery reaches well beyond import substitution. Its jet fuel has reached Britain; its diesel and petrol can reach African and international customers; its scale gives it bargaining power with crude suppliers, traders, shippers and equipment vendors. The asset may become to African refining what Dangote Cement became to African building materials: a regional system rather than a single plant.
 
 The Bible says, **“By their fruits ye shall know them.”** The refinery has produced fuel, displaced imports and exported cargoes. Those are fruits. They deserve more respect than PowerPoint capacity.
 
@@ -108,7 +108,7 @@ At 700,000 bpd, a 30-day whole-site outage puts about **21 million barrels** of 
 
 > Coleridge's mariner had “water, water, every where” and none to drink. Nigeria can have crude in the ground, tanks by the sea and motorists at the gate, yet still discover that one unavailable conversion unit stands between abundance and petrol.
 
-For the IPO, I would require an independent engineer's report showing monthly 2024–2026 availability for each major unit, causes and duration of trips, mean time between failures, critical spares, inspection findings, turnaround plan, insurer exclusions, open warranty claims and the capital required to reach mature reliability. A 700,000-barrel performance test is impressive. It is not the same thing as 365 days of sellable yield.
+For the IPO, I would require an independent engineer's report showing monthly 2024–2026 availability for each major unit, causes and duration of trips, mean time between failures, critical spares, inspection findings, turnaround plan, insurer exclusions, open warranty claims and the capital required to reach mature reliability. A 700,000-barrel performance test is impressive. Investors are buying 365 days of sellable yield.
 
 ## The refinery makes revenue. Does it make distributable cash?
 

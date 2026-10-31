@@ -13,13 +13,13 @@ category: "Energy"
 ticker: "SEPLAT"
 region: "Nigeria"
 ---
-MPNU adds scale, ANOH adds growth and leverage has collapsed. The market has noticed.
+MPNU adds scale, ANOH adds growth and leverage has collapsed. The share price reflects all three.
 
 The Lokoja Contrarian · 2 August 2026 · 3 min read
 
 Seplat Energy · NGX · Oil & gas · Dividends · Valuation
 
-**At ₦11,364 / 576p, Seplat is no longer a neglected asset story. It is an execution story.**
+**At ₦11,364 / 576p, nobody is neglecting Seplat's assets. The price now depends on execution.**
 
 <figure class="article-chart"><div class="article-table-title"><h2>H1 2026 operating evidence</h2><p>Scale has improved, while the balance sheet has strengthened.</p></div><div class="research-table"><div class="research-table-row research-table-head"><span>Measure</span><span>Result</span><span>YoY</span></div><div class="research-table-row"><strong>Production</strong><span>139.5 kboepd</span><span>+4%</span></div><div class="research-table-row"><strong>Revenue</strong><span>$1.82bn</span><span>+30%</span></div><div class="research-table-row"><strong>EBITDA</strong><span>$939m</span><span>+28%</span></div><div class="research-table-row"><strong>Free cash flow</strong><span>$526m</span><span>n/a</span></div><div class="research-table-row"><strong>Net debt / EBITDA</strong><span>0.25×</span><span>Sharply lower</span></div></div></figure>
 

@@ -57,7 +57,7 @@ But I digress.
 
 The investment case is considerably better behaved than my luggage.
 
-## The answer before the sermon
+## Our view
 
 At **₦138.50**, Seven Gates rates NAHCO **HOLD**.
 

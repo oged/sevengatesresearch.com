@@ -383,7 +383,7 @@ Then Lagos drivers learned to route around Uber.
 
 Fake the GPS. Manufacture the bonus trip. Run three apps. Ask for another ₦2,000. Cancel the ride. Take the transfer.
 
-The comparison is not moral. A driver trying to preserve his margin is not the same thing as a multibillion-dollar company evading a regulator.
+The comparison is not moral. A driver trying to preserve his margin is not a multibillion-dollar company evading a regulator.
 
 But the mechanism rhymes.
 

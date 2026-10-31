@@ -29,7 +29,7 @@ Base value / SOTP₦950 / ~₦935
 
 Research edition · 28 August 2026 · Chart presentation revised; historical observations rounded. Investment thesis unchanged.
 
-## The verdict before the sermon
+## Our verdict
 
 MTN Nigeria has come through the worst of its recent trials and now looks more like a repaired cash machine than a patient on a drip. H1 2026 service revenue rose **25.9% to ₦3.0 trillion**, EBITDA rose **39.2% to ₦1.67 trillion**, EBITDA margin improved to **55.9%**, profit after tax rose **70.6% to ₦707.5 billion**, and free cash flow climbed to **₦712.7 billion**. Capex excluding leases was **₦620.5 billion**, with capex intensity at **20.7%**. MTN also closed the half with positive net cash of **₦116.3 billion** and no outstanding foreign-currency loans.
 

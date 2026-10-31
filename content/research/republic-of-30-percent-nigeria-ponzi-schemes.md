@@ -58,7 +58,7 @@ He is distribution.
 
 He is a salesman who does not know he is on commission.
 
-The first payout is not merely a return. **It is customer-acquisition spending.**
+The first payout works as **customer-acquisition spending**.
 
 This is why the conventional question about Ponzi schemes, why are people so gullible, is not only rude but analytically lazy. A successful fraud does not begin by demanding belief in an absurdity. It manufactures evidence. It pays somebody. It rents an office. It registers a company. It produces a certificate. It hires a receptionist. It places an intelligent friend between the promoter and your scepticism. It surrounds one fictional thing with twenty real things.
 

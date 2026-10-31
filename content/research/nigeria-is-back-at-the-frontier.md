@@ -63,7 +63,7 @@ Global X's own notice said the liquidation timetable had to accommodate the orde
 Now the gate is open. Nigeria returned to FTSE Russell's Frontier Market classification at the market open on **21 September 2026**. FTSE had concluded that the FX and repatriation problems behind the 2023 expulsion had improved sufficiently, and its follow-up review of T+1 settlement found no material operational or funding issue that blocked the move. On implementation day, NGX said Nigerian companies were once again featuring in the Frontier Index Series. [NGX implementation notice](https://ngxgroup.com/new-global-ranking-opens-up-foreign-inflows-for-nigeria/); [FTSE Frontier Index Series](https://www.lseg.com/en/ftse-russell/indices/frontier).
 
 <div style="margin:2em 0;padding:1.3em 1.5em;border:2px solid #1A1F24;background:#FBF8F1">
-<p style="margin:0 0 .5em;font-family:Arial,sans-serif;font-size:.75em;font-weight:700;letter-spacing:.1em;color:#A67C3D">THE ANSWER BEFORE THE SERMON</p>
+<p style="margin:0 0 .5em;font-family:Arial,sans-serif;font-size:.75em;font-weight:700;letter-spacing:.1em;color:#A67C3D">OUR VIEW</p>
 <p style="margin:0;font-size:1.05em">The reclassification has happened. The first-week evidence is positive for market access, but far less theatrical than the pre-event headlines. The six Nigerian Frontier 50 names are now the clearest concentrated benchmark channel. On the first session, Zenith traded 3.58 times its recent average volume yet rose only 0.2%, while GTCO gained 3.9%. That looks more like a large transfer of inventory than a stampede. The long-run prize remains the same: keep the FX exit open, deepen ordinary liquidity, improve governance and earn a permanently lower cost of equity.</p>
 </div>
 
@@ -223,7 +223,7 @@ Small float also raises governance questions. Thin public ownership can weaken p
 
 We have moved from "who might qualify?" to "who actually matters inside which benchmark?" That is progress, but there is an important distinction between the broad Frontier Index Series and the narrower **FTSE Frontier 50**.
 
-The September review identified 31 Nigerian securities across 10 Large Cap, 10 Mid Cap and 11 Small Cap names. At implementation, NGX's own 21 September release said 30 Nigerian companies were featuring in the Frontier Index Series. Publicly accessible material reviewed for this update does not resolve that one-name difference, so we do not manufacture a reconciliation. The September review list remains in our data appendix, while the live implementation count is reported exactly as NGX stated it. [September review list](https://nairametrics.com/2026/09/03/ftse-russell-lists-dangote-cement-first-holdco-mtn-zenith-others-in-frontier-index-series/); [NGX implementation release](https://ngxgroup.com/new-global-ranking-opens-up-foreign-inflows-for-nigeria/).
+The September review identified 31 Nigerian securities across 10 Large Cap, 10 Mid Cap and 11 Small Cap names. At implementation, NGX's own 21 September release said 30 Nigerian companies were featuring in the Frontier Index Series. Publicly accessible material reviewed for this update does not resolve that one-name difference. The September review list remains in our data appendix, while the live implementation count is reported exactly as NGX stated it. [September review list](https://nairametrics.com/2026/09/03/ftse-russell-lists-dangote-cement-first-holdco-mtn-zenith-others-in-frontier-index-series/); [NGX implementation release](https://ngxgroup.com/new-global-ranking-opens-up-foreign-inflows-for-nigeria/).
 
 | Bucket | Nigerian names | What matters now |
 |---|---|---|
@@ -232,7 +232,7 @@ The September review identified 31 Nigerian securities across 10 Large Cap, 10 M
 | **Mid Cap: 10 in Sep review** | Access; Dangote Sugar; FCMB; Fidelity; Guinness; Oando; Okomu Oil; Unilever; UBA; Wema | Broad benchmark exposure, generally smaller index footprint. |
 | **Small Cap: 11 in Sep review** | Custodian; Fidson; Julius Berger; NASCON; NAHCO; NGX Group; Sterling; Transcorp; UAC Nigeria; United Capital; Vitafoam | Important for breadth and market accessibility, less likely to dominate concentrated passive flows. |
 
-The biggest upgrade to our original thesis is that the Frontier 50 is no longer a forecast. FTSE's 4 September semi-annual review put six Nigerian names into the 50-stock benchmark: Aradel, Dangote Cement, FirstHoldCo, GTCO, MTN Nigeria and Zenith. Three are banks. The six-name list is more useful for concentrated event analysis than treating every broad-series constituent as though it receives the same mechanical demand. [FTSE Frontier 50 review notice](https://research.ftserussell.com/products/index-notices/home/getnotice/?id=2621884).
+The biggest upgrade to our original thesis is that the Frontier 50 has happened. FTSE's 4 September semi-annual review put six Nigerian names into the 50-stock benchmark: Aradel, Dangote Cement, FirstHoldCo, GTCO, MTN Nigeria and Zenith. Three are banks. The six-name list is more useful for concentrated event analysis than treating every broad-series constituent as though it receives the same mechanical demand. [FTSE Frontier 50 review notice](https://research.ftserussell.com/products/index-notices/home/getnotice/?id=2621884).
 
 Two old lessons survived intact. BUA Cement remains absent, consistent with the free-float problem above. Seplat also remains absent from the Nigeria review list. We still have not found a primary FTSE explanation for that omission, so the dual-listing or nationality explanation remains inference rather than fact.
 
@@ -446,7 +446,7 @@ From the 18 September rebalance close to 25 September, the ASI gained only about
 
 ## FTSE has opened the gate. It has not abolished arithmetic.
 
-Nigeria's return to FTSE Frontier is no longer an announcement. It is an operating fact. That is the first important update. The second is that the first day behaved less like a stampede and more like institutional plumbing: very large turnover in selected Frontier 50 names, modest or uneven price moves, and plenty of willing sellers.
+Nigeria's return to FTSE Frontier has now been implemented, and that is the first important update. The second is that the first day looked less like a stampede than a large, orderly rebalancing trade: very large turnover in selected Frontier 50 names, modest or uneven price moves, and plenty of willing sellers.
 
 That is healthier than a one-day melt-up. A market that can absorb benchmark rebalancing without becoming ridiculous is demonstrating depth. It also means investors should be careful about paying a heroic premium for a forced buyer who may already have been supplied.
 

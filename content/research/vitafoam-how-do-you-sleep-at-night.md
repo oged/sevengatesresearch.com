@@ -33,7 +33,7 @@ By The Lokoja Contrarian · 3 October 2026 · Seven Gates Research
 
 ## The short answer
 
-Vitafoam has recovered and the market has noticed. Debt has nearly gone, cash generation is strong and the business is a broader polyurethane platform than the mattress brand suggests. At N174.60 the price already assumes roughly N12 to N14 of sustainable earnings per share, so we hold and watch, and become interested below N150.
+Vitafoam has recovered, and the share price has caught up. Debt has nearly gone, cash generation is strong and the business is a broader polyurethane platform than the mattress brand suggests. At N174.60 the price already assumes roughly N12 to N14 of sustainable earnings per share, so we hold and watch, and become interested below N150.
 
 The constraint we would not sleep through is liquidity. About N7m of stock changes hands on an average day.
 
@@ -93,11 +93,11 @@ Vitapur makes rigid insulation, panels and chemical systems. Vitavisco works in 
 | Vono | 100.00% | Wholly owned |
 | Vitaparts | 52.95% | 47.05% non-controlling interest |
 
-<p style="font-size:.82em;color:#46504F">Source: Vitafoam's accounts say the remaining shareholders in Vitapur, Vitablom and Vitavisco are dispersed; an earlier audited disclosure stated that none of the unrelated holders in Vitapur or Vitablom individually owned more than 15%. The public accounts reviewed do not identify every minority holder by name, so we do not invent an ownership register. Vitafoam consolidates the three businesses because it says its voting position is sufficiently dominant to control their financial and operating policies (management claim).</p>
+<p style="font-size:.82em;color:#46504F">Source: Vitafoam's accounts say the remaining shareholders in Vitapur, Vitablom and Vitavisco are dispersed; an earlier audited disclosure stated that none of the unrelated holders in Vitapur or Vitablom individually owned more than 15%. The public accounts reviewed do not identify every minority holder by name. Vitafoam consolidates the three businesses because it says its voting position is sufficiently dominant to control their financial and operating policies (management claim).</p>
 
 ## A lot of float. Not necessarily a lot of exit.
 
-One thing Seven Gates has become increasingly wary of is the word *float*. It sounds liquid. It is not the same thing as liquidity.
+One thing Seven Gates has become increasingly wary of is the word *float*. It sounds liquid. It only counts the shares insiders do not hold, and says nothing about whether anyone will buy them.
 
 At March 2026, Vitafoam still had three 5%-plus holders controlling 29.90% between them. The filing also showed Sanctus Nigeria Limited at 4.01% plus small director positions. The formal free-float calculation remained compliant with NGX Main Board rules. After the 2026 bonus issue, third-party market data puts the tradable float around 0.99 to 1.05 billion shares, roughly two-thirds of the company.
 
@@ -163,11 +163,11 @@ Inventory rose from N20.54bn in September 2024 to N28.73bn in September 2025 bef
 
 The foreign-exchange note explains the economic problem without giving us the percentage we most want. Vitafoam imports some production raw materials and pays in dollars while most sales are in naira. It keeps foreign-currency accounts as a natural hedge and earns some foreign-currency receipts from Sierra Leone.
 
-Vitapur's System House therefore has two possible jobs: sell more industrial insulation and chemical systems to outsiders, and localise parts of the chemistry used inside the wider group. How much FX exposure it can remove is still unquantified. We leave that unanswered rather than convert strategy into arithmetic.
+Vitapur's System House therefore has two possible jobs: sell more industrial insulation and chemical systems to outsiders, and localise parts of the chemistry used inside the wider group. How much FX exposure it can remove is still unquantified.
 
 ## Then the share price stopped behaving like a mattress
 
-At N174.60, using the post-bonus share count, Vitafoam is worth roughly N262bn. The recovery is no longer a secret. The question for a new buyer is how much of FY2025/FY2026 can persist once lower finance cost has finished giving us easy year-on-year comparisons.
+At N174.60, using the post-bonus share count, Vitafoam is worth roughly N262bn. The recovery is public knowledge. The question for a new buyer is how much of FY2025/FY2026 can persist once lower finance cost has finished giving us easy year-on-year comparisons.
 
 <figure><img alt="Two-panel chart of Vitafoam's share price at September year-ends 2021 to 2026. Naira: 11.06, 14.43, 16.51, 17.37, 64.82, 194.00. US dollars: 0.027, 0.033, 0.021, 0.011, 0.044, 0.146" src="/images/research/vitafoam-how-do-you-sleep-at-night/05-five-year-price-naira-dollar.svg"/><figcaption>Figure 5. Five-year share price, naira and dollar. Limitation: this series uses six fiscal-year-end closes (September 2021 to September 2026), not a daily or weekly history, because a verified full price history could not be assembled at the cut-off; the path between those dates is not shown. Sources: Vitafoam fiscal-year closes from S&amp;P Global Market Intelligence/StockAnalysis, provider-adjusted for the 2026 bonus issue; the September 2026 observation is N194.00, while the close on 2 October 2026 was N174.60. US$ series = NGN close divided by period-end NGN/US$. 2023 to 2025 FX uses CBN NAFEM/NFEM period-end data; 2021 and 2022 use the then-prevailing official/I&amp;E rate; September 2026 uses the NFEM close of N1,329.50/US$ on 30 September 2026 (Nairametrics, 1 October 2026). Price only; cash dividends are not included.</figcaption></figure>
 

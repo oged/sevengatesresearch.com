@@ -37,6 +37,23 @@ Previously retired: the familiar uncle, agbada, Mercedes, ceremonial moat, colle
 - **The first-calculation / second-calculation paired epigram.** Retire the setup in which one calculation produces the exciting answer and the next produces expenses or disappointment.
 - **Billing metaphors for consequences.** Economic cycles, leverage, inflation, valuation, regulation and risk do not "send an invoice", "present a bill", "collect rent" or similar. Name the actual consequence: lower margins, higher funding costs, losses, dilution, weaker cash flow or lower returns.
 
+**Retired 31 October 2026**
+
+- **The narrator's declaration of restraint.** "We make no claim about how...", "this piece does not pretend to know", "so we do not invent / manufacture...", "we leave that unanswered rather than...", "the dashboard says so rather than guessing", "and we have not written one". State the gap as a fact ("daily traded value has not been compiled, so exit time is unmeasured") and move on. The house does not congratulate itself for declining to fabricate. Plain methodology statements of treatment ("no separate addition is made for the receivable") remain valid.
+- **"X is not the same thing as Y."** Including "which is not the same thing as". Say what Y is, or what the reader is actually buying ("A 700,000-barrel test is impressive. Investors are buying 365 days of sellable yield."). A plain "is not" survives when it is the clearest sentence.
+- **"Not merely" and "no longer a".** "X is not merely a Y. It is a Z", "X did not merely...", "X is no longer a Y" and the v6.2 "Company X is no longer just a..." are one family. Retire all variants.
+- **"The answer (or verdict) before the sermon" as a printed heading or label.** It is the house principle for article structure, not public copy. Use a plain label and vary it.
+- **"[The market / the bond market / the rate market / investors] has noticed."** A specific case of the sentient-market rule above. Say what moved: the price, the yield, the spread.
+
+**Retired 31 October 2026 for new copy; existing instances cleaned on next touch**
+
+- **"It does not establish X" / "That does not prove X"** as a routine closing beat on a news item. In October briefs it ran in roughly one edition in three. Where the limit matters, state the evidence instead ("the report gives no production figure").
+- **"X would matter more than Y"** as the watch-list formula. Name the signal and the threshold.
+- **"X matters more than the headline / total / threshold"** (the v6.2 X-visible / Y-important geometry with a new verb).
+- **"The useful question is..."** (sibling of the retired "The question is not X, but Y").
+- **"The figures differ, but the direction is clear / plain / obvious."**
+- **"That does not make X Y"** as a reflexive caveat after a positive point.
+
 These remain blocked after they fall outside the 20-piece rolling window unless an editor explicitly restores them.
 
 ### Quotations used (never reuse without a specific editorial reason)
@@ -142,7 +159,6 @@ Families used more than once within a 20-article window, from the backfill of 28
 - Tuesday as the comic day of the week: nigeria-is-back-at-the-frontier, ngx-liquidity, the-brake, ngx-group-shovel-seller, dangote-refinery-ipo-three-valuations, pz-nigeria, project-gazelle, universal-insurance, the-middle-of-the-barrel, seplat-and-the-privilege. Ten pieces.
 - WhatsApp groups as the punchline for crowd belief: chicken-republic, ngx-group-shovel-seller, uber-nigeria, republic-of-30-percent, universal-insurance, tantalizers.
 - "Swiss" as shorthand for stability: dangote-refinery-ipo-three-valuations, fcmb, project-gazelle, gtco.
-- "The answer (or verdict) before the sermon" used as a literal heading: ngx-group-shovel-seller, fcmb, mtn-nigeria and others. It is the house principle, not a line to repeat in every piece.
 - The "X does not own Y. He owns Z." skeleton: zenith-bank ("Shareholders do not own the press release"), aradel ("The ordinary shareholder does not own the consolidated income statement. He owns what survives it.").
 - EBITDA personified: dangote-refinery-ipo-three-valuations ("an attractive house guest"), aradel ("has never paid tax", "house-trained").
 - "The price has heard / read the news": seplat-the-price-has-heard-the-news (title), presco ("The price, regrettably, has read the same annual report.").

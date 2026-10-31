@@ -48,7 +48,7 @@ Meanwhile, Champion competes against establishments of frightening size. Nigeria
 
 Champion could remain comfortable in its southeastern stronghold and risk becoming steadily less relevant, or it could attempt something much larger. It chose larger.
 
-In February 2026, Champion acquired 80% of EnjoyBev B.V., owner of the Bullet energy-drink and ready-to-drink alcoholic beverage portfolio distributed across 14 African markets. Champion did not merely add a new flavour of lager. It moved from being a regional Nigerian brewer towards becoming a multi-category African beverage company.
+In February 2026, Champion acquired 80% of EnjoyBev B.V., owner of the Bullet energy-drink and ready-to-drink alcoholic beverage portfolio distributed across 14 African markets. The deal moved Champion from regional Nigerian brewer towards multi-category African beverage company.
 
 The Uyo brewery has bought itself a passport. Passports, as anyone who has applied for one knows, are rarely as cheap as advertised.
 

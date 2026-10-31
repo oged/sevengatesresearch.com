@@ -30,7 +30,7 @@ The investable conclusion is less theatrical than the theme:
 
 Among the liquid listed names, **MTN Nigeria is the highest-quality business and reasonably priced, but data localisation is a garnish on its earnings, not the meal**. **CWG is the most direct small-cap implementation play, but its cash conversion and undisclosed data-centre economics make the current price a watch, not a chase**. **Airtel Africa owns serious future capacity through Nxtra, but the Lagos facility is still being built and the shares have already run hard**. **eTranzact and Chams are not clean data-centre beneficiaries at all**. At current prices, both ask investors to pay mature-franchise multiples for benefits that remain conditional, indirect or imaginary.
 
-## The verdict before the sermon
+## Where we stand
 
 Prices and market values below are as at 24 or 25 August 2026. Multiples are approximate because interim reporting dates and share-price cut-offs differ.
 

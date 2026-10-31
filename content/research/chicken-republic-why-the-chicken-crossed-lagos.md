@@ -63,7 +63,7 @@ In 2025, it did this rather well. Group revenue rose 12.9% to ₦107.5 billion. 
 
 <figure class="sgr-figure"><img src="/images/research/chicken-republic-why-the-chicken-crossed-lagos/03-fy2025-index-vs-fy2024.png" width="2316" height="1260" loading="lazy" alt="Figure 3 bar chart indexed to FY2024 = 100: FY2025 revenue 113, profit after tax 217, operating cash flow 291 and employees 96."><figcaption><strong>Figure 3.</strong> Better economics, not a larger payroll, drove 2025: revenue, profit and operating cash flow grew while year-end headcount declined. Source: Food Concepts FY2025 annual report; Seven Gates calculations. Operating cash flow benefited from working-capital releases; the employee figure is full-time group headcount at year-end. <a class="sgr-chart-link" href="/images/research/chicken-republic-why-the-chicken-crossed-lagos/03-fy2025-index-vs-fy2024.png" target="_blank" rel="noopener">Open full-size chart ↗</a></figcaption></figure>
 
-The improvement was not merely accounting garnish. More revenue and much more profit emerged from fewer employees. Still, operating cash benefited from inventory and prepayment releases, while lease payments sit in financing cash flow. Cash conversion deserves respect, not worship.
+The improvement was real: more revenue and much more profit came from fewer employees. Still, operating cash benefited from inventory and prepayment releases, while lease payments sit in financing cash flow. Cash conversion deserves respect, not worship.
 
 ## 03 · Revenue crossed. Margin checked traffic.
 

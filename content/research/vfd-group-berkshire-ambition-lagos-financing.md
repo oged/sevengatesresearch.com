@@ -25,7 +25,7 @@ The attraction is real. VFD has assembled businesses across market infrastructur
 
 That is the thesis. It is not yet the moat.
 
-A moat produces repeatable excess returns without requiring shareholders to replenish the castle every few years. VFD’s 2025 performance was respectable: gross earnings rose 13% to **₦88.4 billion**, profit before tax reached **₦14.2 billion** and profit after tax was **₦9.7 billion**. Total assets expanded to roughly **₦446 billion**. Real estate and hospitality supplied the largest share of segment profit, followed by capital markets. This is no longer a PowerPoint ecosystem. There are functioning businesses underneath it.
+A moat produces repeatable excess returns without requiring shareholders to replenish the castle every few years. VFD’s 2025 performance was respectable: gross earnings rose 13% to **₦88.4 billion**, profit before tax reached **₦14.2 billion** and profit after tax was **₦9.7 billion**. Total assets expanded to roughly **₦446 billion**. Real estate and hospitality supplied the largest share of segment profit, followed by capital markets. The ecosystem now has functioning businesses underneath the slides.
 
 H1 2026 strengthens that case. Group gross earnings rose **30.5%** to **₦53.71 billion**, while profit after tax doubled to **₦10.06 billion**. Basic earnings per share increased from **29 kobo to 62 kobo** despite the enlarged share base, and the board approved a **24 kobo interim dividend**. Parent-company borrowings fell 7% from December to **₦116.18 billion**, suggesting some rights-issue proceeds are doing the unglamorous but useful work of replacing debt.
 

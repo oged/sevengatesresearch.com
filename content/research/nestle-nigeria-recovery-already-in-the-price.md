@@ -119,7 +119,7 @@ The translation gain is the part to hold loosely. It arrived because the naira f
 
 *Source: Nestlé Nigeria 9M 2026 unaudited accounts. Small differences arise from rounding reported ₦'000 figures.*
 
-Tax took ₦90.5bn, an effective rate of about 46.7% against 43.4% a year earlier. Deferred tax and timing differences move that rate around, so we do not read much into a single nine-month figure. The practical point is simpler: a naira of pre-tax profit is worth a good deal less than a naira to the shareholder here, and a multiple of after-tax earnings should be applied to after-tax earnings.
+Tax took ₦90.5bn, an effective rate of about 46.7% against 43.4% a year earlier. Deferred tax and timing differences move that rate around, and a single nine-month figure carries little weight. The practical point is simpler: a naira of pre-tax profit is worth a good deal less than a naira to the shareholder here, and a multiple of after-tax earnings should be applied to after-tax earnings.
 
 ## Operating cash fell while profit rose
 
@@ -177,7 +177,7 @@ That pool is about to refill, though. Accumulated losses were about ₦9.4bn at 
 
 Nestlé Nigeria closed 2024 at ₦875 and 2025 at ₦1,958. It [reached ₦3,395 on 31 March 2026](https://nairametrics.com/2026/10/29/nestle-nigerias-9m-pre-tax-profit-jumps-51-5-to-n193-88-billion-as-net-finance-costs-fall-73/) and closed at ₦2,750 on 29 October, where, according to the same report, it had stood unchanged since 5 October. The results therefore left the quoted price where it was, and where it had been for three weeks.
 
-A price that has stood still for that long is a record of the last trade large enough to move it, which is not the same thing as a price at which a buyer or seller could deal today in size. We have not compiled daily traded value for this note, so we make no claim about how quickly a position could be built or sold. That work comes before any upgrade.
+A price that has stood still for that long records the last trade large enough to move it. It says little about where anyone could deal today in size. Daily traded value has not been compiled for this note, so the time needed to build or exit a position is unmeasured, and measuring it comes before any upgrade.
 
 <div style="margin:2em 0;padding:1.25em;background:#FBF8F1;border:1px solid #C6BFAE">
 <img src="/images/research/nestle-nigeria-recovery-already-in-the-price/05-share-price-ngn-usd.webp" alt="Figure 5. Six dated closing prices for Nestlé Nigeria in naira and US dollars. Naira: ₦1,556 at Dec 2021, ₦1,100 at Dec 2022 and Dec 2023, ₦875 at Dec 2024, ₦1,958 at Dec 2025, ₦2,750 on 29 Oct 2026. Dollars: $3.58, $2.38, $1.21, $0.57, $1.37 and $2.01." style="width:100%;height:auto;display:block">

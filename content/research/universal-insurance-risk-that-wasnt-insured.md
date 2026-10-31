@@ -567,9 +567,9 @@ And the regulator's case needs to be tested against Universal's challenge.
 
 For existing shareholders, therefore:
 
-### This is no longer a normal equity investment.
+### What the buyer actually owns
 
-It is an option on a legal and regulatory outcome with uncertain residual value.
+Universal now behaves like an option on a legal and regulatory outcome with uncertain residual value.
 
 For prospective investors, there is nothing presently to buy because the shares are suspended.
 

@@ -38,7 +38,7 @@ heroCaption: "A stylised reconstruction of FCMB’s 2007 public offer beside the
 | Bear | **₦8.50–₦10.00** |
 | Bull | **₦22–₦24** |
 
-> **The answer before the sermon:** FCMB is cheap enough to own, but not clean enough for a table-thumping Buy. The asymmetry improves materially below ₦11.50. The decisive question is whether the recapitalised bank can sustain ROE above 20% without another credit accident.
+> **Our view:** FCMB is cheap enough to own, but not clean enough for a table-thumping Buy. The asymmetry improves materially below ₦11.50. The decisive question is whether the recapitalised bank can sustain ROE above 20% without another credit accident.
 
 ## 1. Everybody was an investment banker
 

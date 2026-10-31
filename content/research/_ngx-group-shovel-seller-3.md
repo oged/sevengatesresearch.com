@@ -51,7 +51,7 @@ So call it what it is: a Seven Gates normalisation diagnostic.
 
 But do not miss what the number says.
 
-The market is pricing NGX as though **2024–26 is not merely a boom. It is the new business.**
+The share price assumes **the 2024–26 boom is the new normal for the business.**
 
 Perhaps.
 
@@ -161,7 +161,7 @@ The lady should keep selling shovels.
 
 But the truly wonderful business begins when **she owns the road to the mine, the weighing scale, the registry and the map**.
 
-At ₦149.90, the market has noticed the shovel shop.
+At ₦149.90, investors have found the shovel shop.
 
 **It has also started charging us for the railway.**
 
