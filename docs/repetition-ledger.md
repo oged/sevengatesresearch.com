@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-01 · briefing/2026-11-01
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** South Korea's official October trade release is used as physical evidence of AI infrastructure demand, then tested against calendar effects and export concentration.
+- **Shape:** four ranked developments: Korea's chip-led export surge, Iran-Qatar mediation over Gulf escalation, the Cameroon-Dangote-MRS fuel agreement, and pre-election US ballot litigation. The ending specifies the order, navigation, contract and institutional evidence that would change each assessment.
+- **Visual:** a split bar shows Korea's $115.28 billion export total as $56.44 billion of semiconductors and $58.84 billion of other goods. Three cards separate headline, working-day-adjusted and semiconductor growth. Brass marks chips as the focal category; no green or red appears because no category is inherently favourable or adverse.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 Daily Brief entries and permanent retired register were checked before and after drafting. The physical trade-flow lead is distinct from the prior incident-response bars, GDP revision, cash-conversion quadrant and company-economics panels. AI returns only through newly released national trade data and does not repeat the prior market-repricing frame. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** Korean year-on-year growth benefits from working-day differences, which is why the daily comparison is shown. The Iran-Qatar negotiating detail is attributed to an official briefed on the talks, and neither side has accepted the other's plan. The Cameroon agreement lacks public volumes, prices and delivery dates. The US court order resolves an emergency request rather than the underlying citizenship claims or election outcome.
+
 ### 2026-10-31 · nestle-nigeria-recovery-already-in-the-price
 
 Published 31 October 2026. Rewrite of the unpublished 30 October 2026 draft "Nestlé Nigeria: The Maggi Is Back. The Debt Hasn't Left." under standard v6.4, with a refresh for the Peranel notice of 29 and 30 October 2026.

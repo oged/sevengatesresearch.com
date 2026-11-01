@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">South Korea's October 2026 export engine</title>
+  <desc id="desc">A split horizontal bar shows 56.44 billion dollars of semiconductor exports and 58.84 billion dollars of other exports within a 115.28 billion dollar total. Three cards show total export growth, working-day-adjusted growth and semiconductor growth.</desc>
+  <rect width="1120" height="700" fill="#F4F0E8"/>
+  <rect x="28" y="28" width="1064" height="644" rx="8" fill="#FBF8F1" stroke="#1A1F24" stroke-width="2"/>
+  <text x="72" y="88" fill="#1A1F24" font-family="Georgia, serif" font-size="35" font-weight="700">Korea's $115.28bn export engine</text>
+  <text x="72" y="124" fill="#46504F" font-family="Arial, sans-serif" font-size="17">October 2026 merchandise exports · USD billions</text>
+
+  <text x="72" y="190" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">EXPORT COMPOSITION</text>
+  <rect x="72" y="212" width="976" height="92" rx="5" fill="#E4DED1"/>
+  <rect x="72" y="212" width="478" height="92" rx="5" fill="#A67C3D"/>
+  <line x1="550" y1="212" x2="550" y2="304" stroke="#FBF8F1" stroke-width="3"/>
+  <text x="96" y="250" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="16" font-weight="700">SEMICONDUCTORS</text>
+  <text x="96" y="282" fill="#FBF8F1" font-family="Georgia, serif" font-size="27" font-weight="700">$56.44bn · 49%</text>
+  <text x="580" y="250" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">ALL OTHER EXPORTS</text>
+  <text x="580" y="282" fill="#1A1F24" font-family="Georgia, serif" font-size="27" font-weight="700">$58.84bn · 51%</text>
+
+  <text x="72" y="370" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">YEAR-ON-YEAR GROWTH</text>
+  <rect x="72" y="392" width="300" height="148" rx="6" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <text x="96" y="426" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">ALL EXPORTS</text>
+  <text x="96" y="488" fill="#1A1F24" font-family="Georgia, serif" font-size="48" font-weight="700">+93.7%</text>
+  <text x="96" y="518" fill="#46504F" font-family="Arial, sans-serif" font-size="14">headline measure</text>
+
+  <rect x="410" y="392" width="300" height="148" rx="6" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <text x="434" y="426" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">PER WORKING DAY</text>
+  <text x="434" y="488" fill="#1A1F24" font-family="Georgia, serif" font-size="48" font-weight="700">+76.0%</text>
+  <text x="434" y="518" fill="#46504F" font-family="Arial, sans-serif" font-size="14">calendar-adjusted comparison</text>
+
+  <rect x="748" y="392" width="300" height="148" rx="6" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <text x="772" y="426" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">SEMICONDUCTORS</text>
+  <text x="772" y="488" fill="#A67C3D" font-family="Georgia, serif" font-size="48" font-weight="700">+259.4%</text>
+  <text x="772" y="518" fill="#46504F" font-family="Arial, sans-serif" font-size="14">price and volume demand</text>
+
+  <rect x="72" y="576" width="976" height="48" rx="5" fill="#1A1F24"/>
+  <text x="96" y="607" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="15">Trade surplus: $42.50bn · Chips plus non-chip exports equal the reported total.</text>
+  <text x="1048" y="650" text-anchor="end" fill="#46504F" font-family="Arial, sans-serif" font-size="13">SOURCE: KOREAN MINISTRY OF TRADE, INDUSTRY AND RESOURCES · 1 NOV 2026</text>
+</svg>
