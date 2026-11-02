@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's Ebola response ledger</title>
+  <desc id="desc">Four factual cards show one confirmed case, 62 identified contacts, 18 samples tested and 17 negative results. A note states that the 17 negatives comprise 15 contacts and two suspected cases in Adamawa.</desc>
+  <rect width="1120" height="700" fill="#F4F0E8"/>
+  <rect x="28" y="28" width="1064" height="644" rx="8" fill="#FBF8F1" stroke="#1A1F24" stroke-width="2"/>
+  <text x="72" y="88" fill="#1A1F24" font-family="Georgia, serif" font-size="36" font-weight="700">Nigeria's Ebola response ledger</text>
+  <text x="72" y="124" fill="#46504F" font-family="Arial, sans-serif" font-size="17">NCDC national response data · reported 30 and 31 October 2026</text>
+
+  <rect x="72" y="174" width="226" height="196" rx="6" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <text x="96" y="212" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">CONFIRMED CASES</text>
+  <text x="96" y="304" fill="#A3443E" font-family="Georgia, serif" font-size="82" font-weight="700">1</text>
+  <text x="96" y="342" fill="#46504F" font-family="Arial, sans-serif" font-size="14">imported index case</text>
+
+  <rect x="322" y="174" width="226" height="196" rx="6" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <text x="346" y="212" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">CONTACTS IDENTIFIED</text>
+  <text x="346" y="304" fill="#A67C3D" font-family="Georgia, serif" font-size="82" font-weight="700">62</text>
+  <text x="346" y="342" fill="#46504F" font-family="Arial, sans-serif" font-size="14">follow-up in progress</text>
+
+  <rect x="572" y="174" width="226" height="196" rx="6" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <text x="596" y="212" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">SAMPLES TESTED</text>
+  <text x="596" y="304" fill="#1A1F24" font-family="Georgia, serif" font-size="82" font-weight="700">18</text>
+  <text x="596" y="342" fill="#46504F" font-family="Arial, sans-serif" font-size="14">national total reported</text>
+
+  <rect x="822" y="174" width="226" height="196" rx="6" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <text x="846" y="212" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">NEGATIVE RESULTS</text>
+  <text x="846" y="304" fill="#3F7057" font-family="Georgia, serif" font-size="82" font-weight="700">17</text>
+  <text x="846" y="342" fill="#46504F" font-family="Arial, sans-serif" font-size="14">including two repeat-tested suspects</text>
+
+  <rect x="72" y="414" width="976" height="112" rx="6" fill="#1A1F24"/>
+  <text x="96" y="452" fill="#D0A85C" font-family="Arial, sans-serif" font-size="15" font-weight="700">WHAT THE 17 NEGATIVES CONTAIN</text>
+  <text x="96" y="494" fill="#FBF8F1" font-family="Georgia, serif" font-size="25" font-weight="700">15 contacts of the index case + 2 suspected cases in Adamawa</text>
+
+  <rect x="72" y="558" width="976" height="66" rx="5" fill="#F4F0E8" stroke="#C6BFAE"/>
+  <circle cx="100" cy="591" r="6" fill="#A67C3D"/>
+  <text x="122" y="588" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">Contact monitoring window</text>
+  <text x="122" y="610" fill="#46504F" font-family="Arial, sans-serif" font-size="14">Expected completion dates range from 31 October to 13 November 2026.</text>
+  <text x="1048" y="650" text-anchor="end" fill="#46504F" font-family="Arial, sans-serif" font-size="13">SOURCE: NIGERIA CENTRE FOR DISEASE CONTROL AND PREVENTION</text>
+</svg>

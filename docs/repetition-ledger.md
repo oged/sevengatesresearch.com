@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-02 · briefing/2026-11-02
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's two repeat-negative Ebola tests are placed inside the full NCDC surveillance ledger, with the remaining 62-contact monitoring obligation stated immediately.
+- **Shape:** four ranked developments: Nigeria's Ebola testing and contact follow-up, reported tanker explosions alongside the OPEC+ hold, Binance's phased withdrawal reopening, and dismissal of the Alaska election-certification suit. The ending names the infection, navigation, exchange and appellate evidence that would change each assessment.
+- **Visual:** four factual cards show one confirmed case, 62 identified contacts, 18 samples tested and 17 negative results. A separate panel explains that the 17 negatives comprise 15 contacts and two suspected Adamawa cases. Red marks only the confirmed infection; green marks only negative laboratory results; Brass marks active follow-up.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Ebola deaths and the public-health risk are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 Daily Brief entries and permanent retired register were checked before and after drafting. The surveillance ledger is distinct from the 25 October petrol path, 28 October custody evidence panel, 30 October GDP decomposition, 31 October incident-response bars and 1 November trade split. Binance returns only because withdrawals and measured outflows supply the operational evidence requested in the 31 October edition. The Alaska ruling resolves part of the legal risk described on 1 November. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** Nigeria still had 62 contacts under follow-up at the reported cut-off. The tanker explosions are an Iranian military claim without independent confirmation in the initial report. Binance's asset, replenishment and flow figures are company-reported, and DefiLlama published a higher outflow estimate. The Alaska dismissal rests on standing and an unworkable remedy; an appeal was announced and the underlying allegations were not adjudicated.
+
 ### 2026-11-01 · briefing/2026-11-01
 
 - **Type:** Daily Brief, no investment rating.
