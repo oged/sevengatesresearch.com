@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">South Africa's AGOA exposure</title>
+  <desc id="desc">South Africa exported about 1.7 billion dollars under AGOA in 2025, equal to roughly 10 percent of exports to the United States and 1 percent of total global exports. Access is scheduled to end on 1 January 2027.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="18" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="76" y="102" fill="#1A1F24" font-family="Georgia, serif" font-size="40" font-weight="700">South Africa's AGOA exposure</text>
+  <text x="76" y="140" fill="#46504F" font-family="Arial, sans-serif" font-size="20">Reported 2025 trade values and shares · decision announced 2 November 2026</text>
+
+  <rect x="76" y="184" width="968" height="60" rx="10" fill="#F2E4E1" stroke="#A33F35" stroke-width="2"/>
+  <circle cx="110" cy="214" r="10" fill="#A33F35"/>
+  <text x="136" y="221" fill="#6C2923" font-family="Arial, sans-serif" font-size="22" font-weight="700">Duty-free access scheduled to end 1 January 2027</text>
+
+  <rect x="76" y="282" width="292" height="226" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="106" y="329" fill="#46504F" font-family="Arial, sans-serif" font-size="17" font-weight="700">AGOA EXPORTS</text>
+  <text x="106" y="407" fill="#A67C3D" font-family="Georgia, serif" font-size="68" font-weight="700">$1.7bn</text>
+  <text x="106" y="447" fill="#46504F" font-family="Arial, sans-serif" font-size="19">goods exported in 2025</text>
+  <text x="106" y="478" fill="#46504F" font-family="Arial, sans-serif" font-size="17">under duty-free preferences</text>
+
+  <rect x="414" y="282" width="292" height="226" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="444" y="329" fill="#46504F" font-family="Arial, sans-serif" font-size="17" font-weight="700">SHARE OF US EXPORTS</text>
+  <text x="444" y="407" fill="#1A1F24" font-family="Georgia, serif" font-size="68" font-weight="700">10%</text>
+  <text x="444" y="447" fill="#46504F" font-family="Arial, sans-serif" font-size="19">material for affected firms</text>
+  <text x="444" y="478" fill="#46504F" font-family="Arial, sans-serif" font-size="17">and product supply chains</text>
+
+  <rect x="752" y="282" width="292" height="226" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="782" y="329" fill="#46504F" font-family="Arial, sans-serif" font-size="17" font-weight="700">SHARE OF GLOBAL EXPORTS</text>
+  <text x="782" y="407" fill="#1A1F24" font-family="Georgia, serif" font-size="68" font-weight="700">1%</text>
+  <text x="782" y="447" fill="#46504F" font-family="Arial, sans-serif" font-size="19">limited at national scale</text>
+  <text x="782" y="478" fill="#46504F" font-family="Arial, sans-serif" font-size="17">but concentrated by sector</text>
+
+  <line x1="76" y1="550" x2="1044" y2="550" stroke="#A67C3D" stroke-width="2"/>
+  <text x="76" y="589" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">EXPOSED PRODUCTS</text>
+  <text x="260" y="589" fill="#46504F" font-family="Arial, sans-serif" font-size="18">vehicles and parts  ·  citrus  ·  wine</text>
+  <text x="76" y="629" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Sources: US Trade Representative; South Africa trade ministry figures reported by Reuters, 2 November 2026.</text>
+</svg>
