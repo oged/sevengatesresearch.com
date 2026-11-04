@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-04 · briefing/2026-11-04
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the US midterm result as a change in institutional constraint, separating projected congressional control from the president's surviving veto and from enacted policy.
+- **Shape:** four ranked developments: the Democratic congressional sweep, South Africa's local-election operation, lower October Gulf oil flows and AI-assisted physical engineering; the ending names certification, votes, municipal results, navigation and factory trials that would change the assessment.
+- **Visual:** two common-scale bars show six projected Senate flips and at least eight projected House flips, beside a separate 70% exit-poll panel. It labels all results as media projections pending state canvass and certification.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. War, election access and public accountability are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** last 20 published entries and the permanent retired register checked before and after drafting. Institutional constraint replaces yesterday's concentrated trade exposure; projected seat gains and an opinion panel replace the AGOA exposure cards. No retired personification, distinction flourish, billing metaphor, paired calculation or reused joke.
+- **Evidence limits:** US results are media projections rather than certified state totals; market moves do not establish durable policy transmission, and Democrats lack a veto-proof Senate majority. South African special-vote participation is calculated from approved and recorded voters and does not predict overall turnout. Gulf shipment estimates may be revised upward because tracking signals are incomplete. OpenAI's engineering results are company tests and collaborations, while production still required human review.
+
 ### 2026-11-03 · briefing/2026-11-03
 
 - **Type:** Daily Brief, no investment rating.
