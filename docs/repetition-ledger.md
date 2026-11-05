@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-05 · briefing/2026-11-05
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's revised external borrowing request is placed inside the 2026 budget financing mix, with the broader time horizon of the earlier request stated before any comparison.
+- **Shape:** four ranked developments: Nigeria's external borrowing terms, preliminary South African coalition arithmetic, Arm's reported AI and data-centre demand, and oil's four-session reversal; the ending names the financing, coalition, peace and shipment evidence that would change each assessment.
+- **Visual:** two zero-based, common-scale bars show ₦18.4 trillion of planned domestic borrowing and ₦10.79 trillion of planned external borrowing. A separate total and status line identify ₦29.2 trillion as an authorised financing plan rather than cash already raised. Brass marks the external component as the focal series; Ink marks domestic financing; neither green nor red appears because the amounts alone are not outcomes.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Armed conflict and public obligations are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The financing-mix bar chart is distinct from the 4 November seat-gain chart, 3 November trade-exposure cards and earlier company cash-conversion work. South Africa returns only because counted results now replace election logistics. Gulf risk returns through a newly observed four-session price reversal and is kept to one short item. AI returns through reported licence and royalty revenue rather than a benchmark, proposal or partnership. No retired personification, distinction flourish, billing metaphor, paired calculation or reused joke.
+- **Evidence limits:** the new Nigerian request covers the 2026 budget while the earlier request covered a broader 2026–2027 plan; pricing, maturity and lender mix remain undisclosed. South African results cover only an early and geographically incomplete count. Arm's AGI revenue expectation and server deployment shares are company forecasts. Oil prices and surplus estimates can reverse with diplomacy, attacks or revised supply data.
+
 ### 2026-11-04 · briefing/2026-11-04
 
 - **Type:** Daily Brief, no investment rating.
