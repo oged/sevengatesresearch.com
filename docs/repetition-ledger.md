@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-06 · briefing/2026-11-06
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the Federal High Court ruling against Atiku Abubakar's ADC nomination is treated as a compressed appellate timetable and an institutional uncertainty rather than a forecast of the final ballot.
+- **Shape:** four ranked developments: Nigeria's opposition candidacy ruling, the global AI-market selloff, the Bank of England's energy-driven rate increase and continuing Gulf tanker attacks; the ending names the appellate, operating, inflation and navigation evidence that would change each assessment.
+- **Visual:** three red, zero-based bars on one scale show the Nasdaq Composite, S&amp;P 500 and Dow one-day losses on 5 November. A Brass annotation gives the approximate S&amp;P 500 market-value loss. Red is used semantically for negative returns; Canvas, Ink and Brass provide the frame.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Election access, war and danger to crews are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The legal-calendar entry replaces yesterday's fiscal-financing lead. The common-scale negative-return chart differs from the previous borrowing-mix, seat-gain, trade-exposure and company-economics visuals. AI returns because a 19-month record selloff and Asian circuit breakers supplied new market evidence. Gulf risk returns only because a newly reported tanker strike followed the prior price decline. No retired personification, distinction flourish, billing metaphor, paired calculation or reused joke.
+- **Evidence limits:** the ADC is appealing and seeking a stay, while the certified judgment was not yet available to the party at the cut-off. Market losses show repricing and forced selling rather than a measured decline in AI operating demand. The Bank of England's inflation path is a forecast. UKMTO had not confirmed crew status, damage or environmental impact for incident 196, and Iranian accounts of other tanker events were not independently verified.
+
 ### 2026-11-05 · briefing/2026-11-05
 
 - **Type:** Daily Brief, no investment rating.

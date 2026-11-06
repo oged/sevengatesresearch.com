@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">US equity indices fell sharply on 5 November 2026</title>
+  <desc id="desc">Zero-based bars show one-day declines of 5.56 percent for the Nasdaq Composite, 4.36 percent for the S&amp;P 500 and 3.44 percent for the Dow Jones Industrial Average.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="18" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="76" y="102" fill="#1A1F24" font-family="Georgia, serif" font-size="40" font-weight="700">The AI rout reached the whole market</text>
+  <text x="76" y="140" fill="#46504F" font-family="Arial, sans-serif" font-size="20">One-day US index moves · 5 November 2026 · common zero baseline</text>
+  <rect x="76" y="184" width="968" height="350" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="108" y="248" fill="#1A1F24" font-family="Arial, sans-serif" font-size="21" font-weight="700">Nasdaq</text>
+  <rect x="270" y="210" width="611" height="52" rx="7" fill="#9C4230"/>
+  <text x="899" y="247" fill="#1A1F24" font-family="Georgia, serif" font-size="32" font-weight="700">−5.56%</text>
+  <text x="108" y="348" fill="#1A1F24" font-family="Arial, sans-serif" font-size="21" font-weight="700">S&amp;P 500</text>
+  <rect x="270" y="310" width="480" height="52" rx="7" fill="#9C4230"/>
+  <text x="768" y="347" fill="#1A1F24" font-family="Georgia, serif" font-size="32" font-weight="700">−4.36%</text>
+  <text x="108" y="448" fill="#1A1F24" font-family="Arial, sans-serif" font-size="21" font-weight="700">Dow</text>
+  <rect x="270" y="410" width="378" height="52" rx="7" fill="#9C4230"/>
+  <text x="666" y="447" fill="#1A1F24" font-family="Georgia, serif" font-size="32" font-weight="700">−3.44%</text>
+  <line x1="270" y1="492" x2="930" y2="492" stroke="#1A1F24" stroke-width="2"/>
+  <text x="266" y="521" fill="#46504F" font-family="Arial, sans-serif" font-size="15">0</text>
+  <text x="483" y="521" fill="#46504F" font-family="Arial, sans-serif" font-size="15">−2%</text>
+  <text x="703" y="521" fill="#46504F" font-family="Arial, sans-serif" font-size="15">−4%</text>
+  <text x="916" y="521" fill="#46504F" font-family="Arial, sans-serif" font-size="15">−6%</text>
+  <line x1="76" y1="568" x2="1044" y2="568" stroke="#A67C3D" stroke-width="2"/>
+  <text x="76" y="612" fill="#A67C3D" font-family="Georgia, serif" font-size="34" font-weight="700">≈$3tn</text>
+  <text x="214" y="612" fill="#46504F" font-family="Arial, sans-serif" font-size="18">market value removed from S&amp;P 500 companies</text>
+  <text x="76" y="646" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Source: Reuters closing market report, 5 November 2026.</text>
+</svg>
