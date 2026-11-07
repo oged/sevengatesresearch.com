@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's expansion is broadening; price pressure is broader still</title>
+  <desc id="desc">October 2026 diffusion indices. Composite PMI 53.2, output 54.6, new orders 52.8, employment 53.2, output prices 58.9 and input prices 64.0. Fifty means no change.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="100" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Activity expanded; price pressure was broader</text>
+  <text x="76" y="142" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">Nigeria · October 2026 diffusion indices · 50 = no change</text>
+
+  <rect x="76" y="182" width="968" height="364" rx="16" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="108" y="224" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1">ACTIVITY</text>
+  <text x="585" y="224" fill="#A34533" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1">PRICES</text>
+
+  <line x1="270" y1="246" x2="270" y2="502" stroke="#1A1F24" stroke-width="2"/>
+  <line x1="770" y1="246" x2="770" y2="502" stroke="#1A1F24" stroke-width="2"/>
+  <text x="258" y="528" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">50</text>
+  <text x="758" y="528" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">50</text>
+
+  <text x="108" y="278" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Output</text>
+  <rect x="270" y="253" width="110" height="34" rx="6" fill="#A67C3D"/>
+  <text x="392" y="278" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">54.6</text>
+
+  <text x="108" y="344" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Composite PMI</text>
+  <rect x="270" y="319" width="77" height="34" rx="6" fill="#1A1F24"/>
+  <text x="359" y="344" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">53.2</text>
+
+  <text x="108" y="410" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Employment</text>
+  <rect x="270" y="385" width="77" height="34" rx="6" fill="#1A1F24"/>
+  <text x="359" y="410" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">53.2</text>
+
+  <text x="108" y="476" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">New orders</text>
+  <rect x="270" y="451" width="67" height="34" rx="6" fill="#1A1F24"/>
+  <text x="349" y="476" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">52.8</text>
+
+  <text x="585" y="311" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Output prices</text>
+  <rect x="770" y="286" width="127" height="34" rx="6" fill="#A34533"/>
+  <text x="909" y="311" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">58.9</text>
+
+  <text x="585" y="410" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Input prices</text>
+  <rect x="770" y="385" width="200" height="34" rx="6" fill="#A34533"/>
+  <text x="982" y="410" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">64.0</text>
+
+  <text x="108" y="574" fill="#A67C3D" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">5 months</text>
+  <text x="245" y="574" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="18">of consecutive expansion in the composite PMI</text>
+  <line x1="76" y1="600" x2="1044" y2="600" stroke="#A67C3D" stroke-width="2"/>
+  <text x="76" y="634" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Source: Central Bank of Nigeria, October 2026 PMI, published 4 November 2026.</text>
+</svg>

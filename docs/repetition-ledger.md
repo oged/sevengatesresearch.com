@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-07 · briefing/2026-11-07
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's October PMI is opened through the divergence between broadening activity and faster input-price pressure, then tested through orders, employment and pass-through rather than the composite headline alone.
+- **Shape:** five ranked developments: Nigeria's activity and price diffusion, South Africa's fragmented municipal result, the confirmed death after the Gulf tanker attack, OpenAI's smaller and lower-valued funding, and Congo's demand for executable minerals projects; the ending names the cost, coalition, navigation, financing and project evidence that would alter each assessment.
+- **Visual:** two baseline panels plot four Nigerian activity indices and two price indices from the same 50-point no-change line. Brass and Ink mark expansion; red appears only for rising prices. The chart uses Canvas, Parchment, Ink, Brass and Slate framing.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. The seafarer's death is treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The PMI diffusion chart differs from the previous equity-loss bars, borrowing mix, election seat gains and trade exposure cards. South Africa returns because a near-complete count now quantifies national fragmentation and hung councils. Gulf shipping returns because the previously unconfirmed crew status became a confirmed fatality. AI returns through new private financing terms rather than another public-market move. No retired personification, distinction flourish, billing metaphor, paired calculation, X/Y caveat or reused joke.
+- **Evidence limits:** PMI indices report the balance of survey responses rather than measured output volumes or prices. South African totals were provisional at the cut-off and council governments had not been formed. The tanker manager believes a missile caused the explosion, but the origin was unidentified. OpenAI's terms were reported by unnamed sources and the round remained incomplete. The US-Congo statement announced no new funding commitment or project timetable.
+
 ### 2026-11-06 · briefing/2026-11-06
 
 - **Type:** Daily Brief, no investment rating.
