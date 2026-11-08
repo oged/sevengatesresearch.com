@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-08 · briefing/2026-11-08
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's national cholera decline is set against the extreme concentration of remaining reported cases in Borno, moving from improvement to the exact locations where response capacity is still required.
+- **Shape:** five ranked developments: Nigeria's cholera surveillance, direct US blockade enforcement against a commercial vessel, New Zealand's one-seat preliminary coalition margin, the AI-led Nasdaq repricing, and Nigeria's first FIFA women's world title; the ending names the surveillance, retaliation, special-vote, inflation and player-development evidence that could change each assessment.
+- **Visual:** two common-scale bars show 67 projected seats for National, ACT and New Zealand First and 64 for a Labour, Green, Opportunity and Te Pati Maori combination, with a red dashed line reserved for the consequential 66-seat majority threshold. Brass marks the current governing bloc; Ink marks the alternative; Canvas and Parchment provide the field.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Death, disease, conflict and youth athletes are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. Public-health concentration, preliminary coalition arithmetic and the first African women's FIFA title are new entry routes. Gulf risk returns because a new US strike directly disabled a commercial ship. AI returns through a measured weekly public-market repricing rather than private funding terms. No retired personification, distinction flourish, billing metaphor, paired calculation or reused joke.
+- **Evidence limits:** WHO figures run only through 27 September and can be revised or undercounted. CENTCOM's account is attributed and crew status was unavailable. New Zealand's count excludes outstanding special votes and is not the formal declaration. Market causation is multi-factor. A tournament victory alone does not fund a durable player pathway.
+
 ### 2026-11-07 · briefing/2026-11-07
 
 - **Type:** Daily Brief, no investment rating.

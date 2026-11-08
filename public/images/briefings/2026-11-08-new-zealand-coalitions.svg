@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">New Zealand's preliminary coalition arithmetic</title>
+  <desc id="desc">The National, ACT and New Zealand First bloc has 67 projected seats. A Labour, Green, Opportunity and Te Pati Maori combination has 64. The majority threshold is 66 seats in the projected 131-seat parliament.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="100" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">One seat above a majority</text>
+  <text x="76" y="142" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">New Zealand · 2026 preliminary count · 131 projected seats</text>
+
+  <rect x="76" y="184" width="968" height="356" rx="16" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="110" y="235" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">National + ACT + NZ First</text>
+  <rect x="110" y="260" width="737" height="72" rx="10" fill="#A67C3D"/>
+  <text x="870" y="311" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700">67</text>
+
+  <text x="110" y="391" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Labour + Green + Opportunity + Te Pāti Māori</text>
+  <rect x="110" y="416" width="704" height="72" rx="10" fill="#1A1F24"/>
+  <text x="858" y="467" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700">64</text>
+
+  <line x1="836" y1="244" x2="836" y2="510" stroke="#A34533" stroke-width="4" stroke-dasharray="10 8"/>
+  <rect x="755" y="198" width="162" height="34" rx="17" fill="#A34533"/>
+  <text x="836" y="221" text-anchor="middle" fill="#FBF8F1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">66-SEAT MAJORITY</text>
+
+  <text x="76" y="582" fill="#A67C3D" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">0.15 points</text>
+  <text x="256" y="582" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="18">Labour's lead over National in the preliminary party vote</text>
+  <line x1="76" y1="606" x2="1044" y2="606" stroke="#A67C3D" stroke-width="2"/>
+  <text x="76" y="638" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Source: Electoral Commission New Zealand, preliminary count, 8 November 2026. Special votes outstanding.</text>
+</svg>
