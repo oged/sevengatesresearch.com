@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-09 · briefing/2026-11-09
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's new stablecoin regime, led by the capital required to issue a foreign-currency token and followed by the reserve, redemption and licensing obligations that determine market access.
+- **Shape:** five ranked developments: Nigeria's stablecoin regulation, South Africa's final municipal declaration, Nvidia's independent board investigation, oil's weekly fall and the opening of COP31. The ending names licence applications, coalition agreements, investigation evidence, Gulf security and funded climate projects as changing evidence.
+- **Visual:** three common-scale horizontal bars compare minimum paid-up capital for foreign-currency stablecoin issuers, naira stablecoin issuers and other covered providers. Three separate factual cards state the reserve buffer, redemption time and existing-operator application window.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Intelligence threats and armed conflict are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The stablecoin licensing opening replaces yesterday's public-health concentration. South Africa returns because the electoral commission issued the final nationwide declaration after the earlier provisional counts; Gulf oil returns because the new evidence is a weekly price reversal and presidential de-escalation signal; AI returns through board governance and national-security exposure rather than public-market valuation. The capital ladder is neither yesterday's coalition arithmetic nor the recent PMI composition bar. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the CBN capital requirements do not show which firms will qualify or whether customers will adopt licensed tokens; stablecoins remain outside deposit insurance. South Africa's declaration says all 213 councils were finalised, then reports 72 outright majorities and 127 hung councils, which leaves 14 unreconciled, and separately orders a voting-district revote; the brief preserves and flags those conflicts. Nvidia's statement reports no current evidence of compromised information while its independent investigation continues. Trump's statement can change and Gulf shipping disruption remains unresolved. COP31 had opened but had produced no negotiated outcome at publication.
+
 ### 2026-11-08 · briefing/2026-11-08
 
 - **Type:** Daily Brief, no investment rating.

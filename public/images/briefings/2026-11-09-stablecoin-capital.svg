@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's stablecoin capital requirements</title>
+  <desc id="desc">Foreign-currency stablecoin issuers require 15 billion naira in paid-up capital, naira stablecoin issuers require 10 billion naira and other covered providers require 1 billion naira. Stablecoin reserves must cover par value plus a 2 percent buffer.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="100" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">A high capital floor for stablecoins</text>
+  <text x="76" y="142" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">Nigeria · rules effective 5 November 2026 · minimum paid-up capital</text>
+
+  <rect x="76" y="180" width="968" height="325" rx="16" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="110" y="225" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Foreign-currency stablecoin issuer</text>
+  <rect x="110" y="244" width="690" height="52" rx="8" fill="#A67C3D"/>
+  <text x="824" y="282" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">₦15bn</text>
+
+  <text x="110" y="344" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Naira stablecoin issuer</text>
+  <rect x="110" y="363" width="460" height="52" rx="8" fill="#1A1F24"/>
+  <text x="594" y="401" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">₦10bn</text>
+
+  <text x="110" y="463" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Other covered provider</text>
+  <rect x="110" y="482" width="46" height="52" rx="8" fill="#C6BFAE"/>
+  <text x="180" y="520" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">₦1bn</text>
+
+  <rect x="76" y="548" width="294" height="67" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="223" y="574" text-anchor="middle" fill="#A67C3D" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">100% + 2%</text>
+  <text x="223" y="598" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">par backing and buffer</text>
+
+  <rect x="402" y="548" width="294" height="67" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="549" y="574" text-anchor="middle" fill="#A67C3D" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">1 business day</text>
+  <text x="549" y="598" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">maximum redemption time</text>
+
+  <rect x="728" y="548" width="316" height="67" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="886" y="574" text-anchor="middle" fill="#A67C3D" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">180 days</text>
+  <text x="886" y="598" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">existing operators to apply</text>
+
+  <text x="76" y="646" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Source: Central Bank of Nigeria, Regulations for Non-Security Virtual Assets, 5 November 2026.</text>
+</svg>
