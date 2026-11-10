@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">NRS tax-refund deductions from Nigeria's Federation Account</title>
+  <desc id="desc">A three-step chart shows 100 billion naira deducted from May revenue, 250 billion from June revenue and 300 billion from July revenue. The cumulative total rises from 100 billion to 350 billion and then 650 billion naira.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="100" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Three deductions, ₦650bn in total</text>
+  <text x="76" y="142" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">NRS tax refunds · Federation Account revenue earned May to July 2026</text>
+
+  <line x1="116" y1="520" x2="1000" y2="520" stroke="#C6BFAE" stroke-width="3"/>
+  <line x1="180" y1="220" x2="180" y2="520" stroke="#C6BFAE" stroke-width="2" stroke-dasharray="8 8"/>
+  <line x1="520" y1="220" x2="520" y2="520" stroke="#C6BFAE" stroke-width="2" stroke-dasharray="8 8"/>
+  <line x1="860" y1="220" x2="860" y2="520" stroke="#C6BFAE" stroke-width="2" stroke-dasharray="8 8"/>
+
+  <path d="M180 470 H520 V360 H860 V220" fill="none" stroke="#1A1F24" stroke-width="12" stroke-linejoin="round"/>
+  <circle cx="180" cy="470" r="18" fill="#A67C3D" stroke="#1A1F24" stroke-width="5"/>
+  <circle cx="520" cy="360" r="18" fill="#A67C3D" stroke="#1A1F24" stroke-width="5"/>
+  <circle cx="860" cy="220" r="18" fill="#A67C3D" stroke="#1A1F24" stroke-width="5"/>
+
+  <rect x="90" y="252" width="180" height="112" rx="14" fill="#FBF8F1" stroke="#A67C3D" stroke-width="3"/>
+  <text x="180" y="287" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">MAY REVENUE</text>
+  <text x="180" y="332" text-anchor="middle" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">+₦100bn</text>
+
+  <rect x="430" y="202" width="180" height="112" rx="14" fill="#FBF8F1" stroke="#A67C3D" stroke-width="3"/>
+  <text x="520" y="237" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">JUNE REVENUE</text>
+  <text x="520" y="282" text-anchor="middle" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">+₦250bn</text>
+
+  <rect x="770" y="72" width="180" height="112" rx="14" fill="#FBF8F1" stroke="#A67C3D" stroke-width="3"/>
+  <text x="860" y="107" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">JULY REVENUE</text>
+  <text x="860" y="152" text-anchor="middle" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">+₦300bn</text>
+
+  <text x="180" y="560" text-anchor="middle" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">₦100bn</text>
+  <text x="180" y="586" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">cumulative</text>
+  <text x="520" y="560" text-anchor="middle" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">₦350bn</text>
+  <text x="520" y="586" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">cumulative</text>
+  <text x="860" y="560" text-anchor="middle" fill="#A67C3D" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">₦650bn</text>
+  <text x="860" y="586" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">cumulative</text>
+
+  <text x="76" y="636" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Source: OAGF disbursement tables for June, July and August 2026. Monthly labels refer to revenue month.</text>
+</svg>

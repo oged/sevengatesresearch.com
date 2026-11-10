@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-10 · briefing/2026-11-10
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** three official Federation Account tables showing a rising NRS tax-refund deduction, followed by the disclosure needed to connect aggregate deductions with validated claims and completed payments.
+- **Shape:** four ranked developments: Nigeria's ₦650 billion three-month tax-refund deductions, the EU's two-year extension of its Ukraine training mission, Google's secure and denser TPU systems, and the ordered Youth Confab implementation framework. The ending names reconciliation, battlefield, benchmark and implementation evidence that could change the assessment.
+- **Visual:** a three-step cumulative chart for the May, June and July revenue deductions, with each monthly addition and the ₦100 billion, ₦350 billion and ₦650 billion cumulative totals. It uses the official OAGF tables and avoids implying that the aggregate deduction identifies recipients or completed refunds.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Armed conflict and public-resource accountability are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. A three-document fiscal disclosure opening replaces the prior stablecoin-regulation opening. The cumulative step chart presents a monthly flow and running total rather than repeating the prior capital ladder, coalition bars or institutional roster. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the OAGF tables identify aggregate monthly deductions to the NRS but do not disclose recipients, tax types, claim periods, approvals or completed onward payments. The EU mission details are Council decisions and do not predict battlefield results. TPU performance and security statements are Google claims awaiting independent workload tests. The Youth Confab implementation framework was ordered but had not been published by the cut-off.
+
 ### 2026-11-09 · briefing/2026-11-09
 
 - **Type:** Daily Brief, no investment rating.
