@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's proposed ten-country West African capital-market passport</title>
+  <desc id="desc">Nigeria and Ghana plus eight CFA-franc countries are linked to five proposed mechanisms: a common issuer passport, unified investor identity, connected trading and settlement, a local-currency bond index and credit enhancement.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="99" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">A proposed passport for ten markets</text>
+  <text x="76" y="141" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">West African capital markets · proposal announced 10 November 2026</text>
+
+  <rect x="76" y="180" width="308" height="330" rx="16" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="104" y="224" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">TEN PARTICIPATING MARKETS</text>
+  <text x="104" y="273" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Nigeria + Ghana</text>
+  <text x="104" y="307" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="17">national markets</text>
+  <line x1="104" y1="337" x2="356" y2="337" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="104" y="381" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Eight CFA markets</text>
+  <text x="104" y="415" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="17">Benin · Burkina Faso</text>
+  <text x="104" y="443" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="17">Côte d'Ivoire · Guinea-Bissau</text>
+  <text x="104" y="471" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="17">Mali · Niger · Senegal · Togo</text>
+
+  <path d="M384 345 H450" stroke="#A67C3D" stroke-width="8"/>
+  <polygon points="450,345 430,332 430,358" fill="#A67C3D"/>
+
+  <rect x="458" y="180" width="586" height="330" rx="16" fill="#1A1F24"/>
+  <text x="492" y="224" fill="#D5B36A" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">FIVE PROPOSED CONNECTORS</text>
+  <rect x="492" y="249" width="518" height="42" rx="8" fill="#FBF8F1"/>
+  <text x="515" y="277" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">1  Common issuer approval passport</text>
+  <rect x="492" y="304" width="518" height="42" rx="8" fill="#FBF8F1"/>
+  <text x="515" y="332" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">2  Unified investor identification</text>
+  <rect x="492" y="359" width="518" height="42" rx="8" fill="#FBF8F1"/>
+  <text x="515" y="387" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">3  Linked trading, settlement and payments</text>
+  <rect x="492" y="414" width="250" height="62" rx="8" fill="#FBF8F1"/>
+  <text x="515" y="441" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">4  Local-currency</text>
+  <text x="515" y="463" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">bond index</text>
+  <rect x="760" y="414" width="250" height="62" rx="8" fill="#FBF8F1"/>
+  <text x="783" y="441" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">5  Credit enhancement</text>
+  <text x="783" y="463" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">for infrastructure</text>
+
+  <rect x="76" y="548" width="968" height="58" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="560" y="573" text-anchor="middle" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">STATUS: POLICY PROPOSAL</text>
+  <text x="560" y="594" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">No signed regulator agreement or implementation timetable was announced.</text>
+
+  <text x="76" y="638" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">Sources: Finance Minister Taiwo Oyedele's remarks reported by Reuters; S&amp;P Global Africa Summit, 10 November 2026.</text>
+</svg>

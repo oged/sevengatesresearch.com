@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-11 · briefing/2026-11-11
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's proposed ten-country capital-market passport, opened through the duplicated approvals and investor onboarding it seeks to remove, then tested against the missing regulator agreement, timetable and operating rules.
+- **Shape:** four ranked developments: West African capital-market integration, the October US inflation release and its missing annual comparison, South Sudan's compressed election timetable and OpenAI's new business-discovery layer. The ending names regulatory, inflation, political-security and product-availability evidence that could change the assessment.
+- **Visual:** a ten-market architecture diagram separates Nigeria and Ghana from the eight CFA-franc markets, then connects them to five proposed mechanisms. A prominent status panel states that the design remains a policy proposal without a signed regulator agreement or timetable.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Death, hunger, displacement and election risk are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. A regional market-design opening replaces yesterday's fiscal-disclosure opening. The architecture diagram presents named market connections and proposal status rather than repeating the cumulative tax-refund step chart, stablecoin capital ladder or coalition arithmetic. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the regional passport and related mechanisms are ministerial proposals reported from an in-person summit; no joint regulator text, treaty or timetable was published. The US October annual CPI comparison is unavailable because BLS lacked the October 2025 survey observation. South Sudan figures are UN reporting and some local fatality figures are attributed reports. OpenAI's audience, privacy and product details are company disclosures; Business Agents are currently limited to eligible US firms.
+
 ### 2026-11-10 · briefing/2026-11-10
 
 - **Type:** Daily Brief, no investment rating.
