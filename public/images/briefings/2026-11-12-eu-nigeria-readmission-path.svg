@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Path to entry into force for the EU–Nigeria readmission agreement</title>
+  <desc id="desc">Four-stage process beginning with signature on 10 November 2026, followed by European Parliament consent, Council conclusion, and notifications by both parties. Entry into force occurs on the first day of the second month after notification.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="98" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Signed is the first legal step</text>
+  <text x="76" y="141" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">EU–Nigeria readmission agreement · status at 12 November 2026</text>
+
+  <line x1="140" y1="321" x2="980" y2="321" stroke="#C6BFAE" stroke-width="8"/>
+  <line x1="140" y1="321" x2="350" y2="321" stroke="#A67C3D" stroke-width="8"/>
+
+  <circle cx="140" cy="321" r="42" fill="#A67C3D"/>
+  <text x="140" y="330" text-anchor="middle" fill="#FBF8F1" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">1</text>
+  <text x="140" y="400" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">SIGNED</text>
+  <text x="140" y="428" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">Abuja</text>
+  <text x="140" y="452" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">10 Nov 2026</text>
+
+  <circle cx="420" cy="321" r="42" fill="#FBF8F1" stroke="#1A1F24" stroke-width="4"/>
+  <text x="420" y="330" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">2</text>
+  <text x="420" y="400" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">CONSENT</text>
+  <text x="420" y="428" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">European</text>
+  <text x="420" y="452" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">Parliament</text>
+
+  <circle cx="700" cy="321" r="42" fill="#FBF8F1" stroke="#1A1F24" stroke-width="4"/>
+  <text x="700" y="330" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">3</text>
+  <text x="700" y="400" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">CONCLUSION</text>
+  <text x="700" y="428" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">Council of</text>
+  <text x="700" y="452" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">the EU</text>
+
+  <circle cx="980" cy="321" r="42" fill="#FBF8F1" stroke="#1A1F24" stroke-width="4"/>
+  <text x="980" y="330" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">4</text>
+  <text x="980" y="400" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">NOTIFICATION</text>
+  <text x="980" y="428" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">Both parties</text>
+  <text x="980" y="452" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">complete procedures</text>
+
+  <rect x="76" y="515" width="968" height="78" rx="12" fill="#1A1F24"/>
+  <text x="560" y="547" text-anchor="middle" fill="#D5B36A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">ENTRY INTO FORCE</text>
+  <text x="560" y="576" text-anchor="middle" fill="#FBF8F1" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">First day of the second month after both notifications</text>
+
+  <rect x="76" y="178" width="390" height="58" rx="10" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="271" y="202" text-anchor="middle" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">CURRENT STATUS</text>
+  <text x="271" y="224" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Signed after a decade of negotiations</text>
+
+  <rect x="484" y="178" width="560" height="58" rx="10" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="764" y="202" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">STILL REQUIRED</text>
+  <text x="764" y="224" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="15">Consent · Council conclusion · bilateral notifications</text>
+
+  <text x="76" y="635" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">Sources: European Commission; Nigeria Ministry of Foreign Affairs, 11 November 2026.</text>
+</svg>

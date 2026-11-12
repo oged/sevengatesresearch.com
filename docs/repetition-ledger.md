@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-12 · briefing/2026-11-12
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the signed EU–Nigeria readmission agreement is opened through the legal steps that still separate signature from entry into force, then tested against the safeguards and operating detail that remain unpublished.
+- **Shape:** five ranked developments: the EU–Nigeria returns process, Nigeria's improving surveillance inside a worsening regional Ebola emergency, the agreed 2027 EU budget, CoreWeave's demand and financing economics, and the UN's latest Haiti civilian-casualty findings. The ending identifies legal, epidemiological, fiscal, financing and accountability evidence that could change the assessment.
+- **Visual:** a four-stage legal-process line moves from the completed signature to European Parliament consent, Council conclusion and bilateral notifications. A separate Ink panel states the precise entry-into-force rule. Brass marks only the completed stage; the remaining steps stay neutral.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Death, disease, migration and civilian harm are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. A legal-effect opening replaces yesterday's regional market-design opening. Ebola returns because the 11 November NCDC dashboard quantifies the remaining Nigerian monitoring cohort while WHO reports that the DRC emergency has crossed 11,000 cases and that violence has broken contact tracing. The process visual differs from the prior market architecture, tax-refund steps and stablecoin capital ladder. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the readmission agreement is signed but not in force and its full text was not published in the cited releases. NCDC surveillance counts can change, and Nigeria is not yet Ebola-free. The EU budget remains subject to formal approval. CoreWeave backlog, guidance and non-GAAP measures are company disclosures; backlog depends on future service delivery. Haiti figures are UN-documented minimums, and attribution across security operations does not by itself establish individual criminal responsibility.
+
 ### 2026-11-11 · briefing/2026-11-11
 
 - **Type:** Daily Brief, no investment rating.
