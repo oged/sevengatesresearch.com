@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">NVIDIA leadership handover, 12 November 2026</title>
+  <desc id="desc">A timeline shows Jensen Huang's 33-year tenure ending with an immediate resignation, Colette Kress becoming interim chief executive while retaining the chief financial officer role, Harvey Jones becoming NVIDIA's first board chair, and quarterly results due on 17 November 2026.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="32" y="32" width="1056" height="636" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="101" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">NVIDIA's handover starts immediately</text>
+  <text x="76" y="143" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">Leadership facts and the first operating checkpoint</text>
+
+  <rect x="76" y="185" width="968" height="86" rx="12" fill="#1A1F24"/>
+  <text x="108" y="220" fill="#D5B36A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">1993–2026</text>
+  <text x="108" y="252" fill="#FBF8F1" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Jensen Huang · 33 years as founder and CEO</text>
+
+  <line x1="132" y1="345" x2="988" y2="345" stroke="#C6BFAE" stroke-width="8"/>
+  <circle cx="132" cy="345" r="30" fill="#A67C3D"/>
+  <circle cx="560" cy="345" r="30" fill="#A67C3D"/>
+  <circle cx="988" cy="345" r="30" fill="#FBF8F1" stroke="#1A1F24" stroke-width="4"/>
+
+  <text x="132" y="353" text-anchor="middle" fill="#FBF8F1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">12</text>
+  <text x="560" y="353" text-anchor="middle" fill="#FBF8F1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">12</text>
+  <text x="988" y="353" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">17</text>
+
+  <text x="132" y="405" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">NOVEMBER</text>
+  <text x="132" y="435" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">Huang resigns</text>
+  <text x="132" y="459" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">with immediate effect</text>
+
+  <text x="560" y="405" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">NOVEMBER</text>
+  <text x="560" y="435" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">Kress becomes interim CEO</text>
+  <text x="560" y="459" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">and remains CFO</text>
+
+  <text x="988" y="405" text-anchor="middle" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">NOVEMBER</text>
+  <text x="988" y="435" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">Q3 FY2027 results</text>
+  <text x="988" y="459" text-anchor="middle" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16">first scheduled checkpoint</text>
+
+  <rect x="76" y="505" width="470" height="82" rx="12" fill="#FBF8F1" stroke="#A67C3D" stroke-width="2"/>
+  <text x="104" y="536" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">BOARD</text>
+  <text x="104" y="566" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700">Harvey Jones · first-ever chair</text>
+
+  <rect x="574" y="505" width="470" height="82" rx="12" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="602" y="536" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">SEARCH</text>
+  <text x="602" y="566" fill="#1A1F24" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700">Internal and external candidates</text>
+
+  <text x="76" y="634" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">Source: NVIDIA leadership announcement, 12 November 2026.</text>
+</svg>

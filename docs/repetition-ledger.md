@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-13 · briefing/2026-11-13
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** NVIDIA's first chief-executive search in 33 years opens through the immediate transfer of authority and the operating evidence due five days later.
+- **Shape:** five ranked developments: NVIDIA's post-Huang succession, Nigeria's 12 health-reform actions, the Nasser Hospital strike, Europe's Ukraine peace tests and the latest U.S. petroleum balance. The ending names the scheduled result, implementation measures, hospital capacity, Black Sea navigation and a second petroleum week that could change each assessment.
+- **Visual:** a dated leadership timeline separates Huang's completed 33-year tenure, the immediate interim CEO and CFO appointment, the first board chair and the 17 November results checkpoint. Brass marks completed transitions; the scheduled result remains neutral.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Death and hospital damage are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. An immediate corporate-succession opening replaces yesterday's legal-process opening. AI returns because the central chip supplier changed chief executive for the first time since its founding, rather than through financing or model news. Health returns through Nigeria's new national reform actions, not the Ebola outbreak. The leadership timeline differs from the prior legal process, market architecture and tax-refund steps. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** NVIDIA's continuity language is a company statement and the permanent chief-executive search has no stated deadline. Nigeria's health communiqué lists actions but does not publish an owner, deadline and measure for each one. Gaza casualty and damage figures are UN-reported, and the cited UN material does not independently adjudicate the strike's military rationale. Dublin set negotiating principles rather than a peace agreement. Weekly EIA data are estimates and one release cannot establish a trend.
+
 ### 2026-11-12 · briefing/2026-11-12
 
 - **Type:** Daily Brief, no investment rating.
