@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-14 · briefing/2026-11-14
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** U.S. producer inflation opens through the breadth of October's goods, services and freight increases, then traces the dollar-funding consequence for Nigeria.
+- **Shape:** five ranked developments: U.S. producer inflation, threats to Hormuz shipping, Nigeria's campaign-violence directive, the EU's first strategic AI discussion and a new African distributed-energy financing platform. The ending names the consumer-price, safe-passage, enforcement, budget and first-transaction evidence that could change each assessment.
+- **Visual:** a two-panel producer-price chart keeps the 6.5% annual rate and October's monthly goods and services changes on separate scales. Ink and Brass distinguish measures without implying that a higher rate is positive; the source date and 2022 comparator are explicit.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Seafarer deaths and political violence are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. A broad inflation-pressure opening replaces yesterday's corporate-succession opening. AI returns through the EU's first leader-level strategy discussion rather than chip-company management. Energy returns through receivables finance and local-currency liquidity rather than refinery utilisation. The paired-scale data panel differs from the prior leadership timeline, legal process and market-architecture visuals. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the BLS release describes producer prices and does not determine the next consumer-inflation or Federal Reserve result. UN incident counts can be revised, and restored alternative export routes complicate the oil-price effect. Nigeria's presidential statement does not quantify incidents or publish an accountability mechanism. The EU discussion sets direction before the budget is agreed. RAMP is evaluating opportunities and has not announced its first transaction, pricing or Nigerian eligibility.
+
 ### 2026-11-13 · briefing/2026-11-13
 
 - **Type:** Daily Brief, no investment rating.

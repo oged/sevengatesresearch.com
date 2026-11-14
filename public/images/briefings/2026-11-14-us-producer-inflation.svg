@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">U.S. producer inflation in October 2026</title>
+  <desc id="desc">Annual final-demand producer inflation was 6.5 percent, the highest since November 2022. Monthly prices rose 0.3 percent overall, 0.5 percent for goods and 0.2 percent for services.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="42" y="42" width="1036" height="616" rx="14" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <text x="80" y="105" font-family="Georgia, serif" font-size="37" font-weight="700" fill="#1A1F24">Producer pressure remains broad</text>
+  <text x="80" y="142" font-family="Arial, sans-serif" font-size="18" fill="#46504F">U.S. final-demand producer price index, October 2026</text>
+  <line x1="80" y1="174" x2="1040" y2="174" stroke="#A67C3D" stroke-width="3"/>
+
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#A67C3D">ANNUAL CHANGE</text>
+  <text x="80" y="330" font-family="Georgia, serif" font-size="104" font-weight="700" fill="#1A1F24">6.5%</text>
+  <text x="84" y="374" font-family="Arial, sans-serif" font-size="21" fill="#46504F">year to October</text>
+  <text x="84" y="416" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#A67C3D">Highest since November 2022</text>
+  <rect x="80" y="448" width="405" height="78" rx="8" fill="#F0EBE0"/>
+  <text x="104" y="480" font-family="Arial, sans-serif" font-size="16" fill="#46504F">November 2022 comparator</text>
+  <text x="104" y="510" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#1A1F24">7.4%</text>
+
+  <line x1="560" y1="210" x2="560" y2="540" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="610" y="220" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#A67C3D">OCTOBER MONTHLY CHANGE</text>
+  <text x="610" y="275" font-family="Arial, sans-serif" font-size="18" fill="#46504F">Final demand</text>
+  <rect x="610" y="292" width="246" height="38" rx="5" fill="#1A1F24"/>
+  <text x="870" y="321" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#1A1F24">+0.3%</text>
+  <text x="610" y="375" font-family="Arial, sans-serif" font-size="18" fill="#46504F">Goods</text>
+  <rect x="610" y="392" width="410" height="38" rx="5" fill="#A67C3D"/>
+  <text x="934" y="421" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#1A1F24">+0.5%</text>
+  <text x="610" y="475" font-family="Arial, sans-serif" font-size="18" fill="#46504F">Services</text>
+  <rect x="610" y="492" width="164" height="38" rx="5" fill="#C6BFAE"/>
+  <text x="788" y="521" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#1A1F24">+0.2%</text>
+
+  <rect x="80" y="566" width="960" height="58" rx="8" fill="#1A1F24"/>
+  <text x="104" y="602" font-family="Arial, sans-serif" font-size="17" fill="#FBF8F1">Transport &amp; warehousing +2.0%</text>
+  <circle cx="428" cy="595" r="4" fill="#A67C3D"/>
+  <text x="450" y="602" font-family="Arial, sans-serif" font-size="17" fill="#FBF8F1">Truck freight +3.9%</text>
+  <circle cx="728" cy="595" r="4" fill="#A67C3D"/>
+  <text x="750" y="602" font-family="Arial, sans-serif" font-size="17" fill="#FBF8F1">Diesel fuel −7.9%</text>
+  <text x="1040" y="648" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#46504F">Source: U.S. BLS, 13 Nov 2026</text>
+</svg>
