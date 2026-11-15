@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-15 · briefing/2026-11-15
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** the U.S. aviation shutdown opens through the failure-containment question raised when routine maintenance at one site propagated across a national network.
+- **Shape:** five ranked developments: the U.S. air-traffic network failure, Gaza's winter flooding, Africa's water-finance agenda at COP31, quantified Plateau security promises and new AI climate-information standards. The ending names the investigation, humanitarian access, funded climate decisions, deployment records and comparable disclosure that could change each assessment.
+- **Visual:** a four-stage failure chain separates the routine copper-to-fibre change, unsettled immediate cause, quantified router flood and safety response. Brass marks sequence and Ink marks the network overload; no colour implies that disruption is economically positive.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Displacement, conflict, disease risk and security threats are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. An operational failure-containment opening replaces yesterday's inflation-pressure opening. Gaza returns because the new UN report quantifies winter flood damage and water contamination, rather than repeating the hospital strike. AI returns through disclosure and provenance standards, not European compute capacity. The causal failure chain differs from the prior paired-scale inflation panel, leadership timeline and legal-process visual. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** U.S. officials have not determined whether equipment or installation failed, and the investigation remains preliminary. Gaza flood estimates include damage that was not yet independently confirmed, while casualty figures are attributed to Gaza's health authorities. COP31 negotiations are unfinished. Plateau statements were delivered at a governing-party campaign rally and do not establish implementation. The AI and advertising standards are voluntary and do not provide a common audited measurement system.
+
 ### 2026-11-14 · briefing/2026-11-14
 
 - **Type:** Daily Brief, no investment rating.

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">How a local network change became a nationwide U.S. ground stop</title>
+  <desc id="desc">A four-stage sequence from a routine copper-to-fibre change, through a suspected faulty router or installation error and more than 1,000 connection attempts every four to five seconds, to disrupted communications and radar feeds and a nationwide ground stop that safely landed 3,500 aircraft.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="42" y="42" width="1036" height="616" rx="14" fill="none" stroke="#1A1F24" stroke-width="2"/>
+  <text x="80" y="105" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#1A1F24">From one network change to a national stop</text>
+  <text x="80" y="142" font-family="Arial, sans-serif" font-size="18" fill="#46504F">The failure chain described by U.S. transportation officials</text>
+  <line x1="80" y1="174" x2="1040" y2="174" stroke="#A67C3D" stroke-width="3"/>
+
+  <rect x="80" y="222" width="210" height="250" rx="10" fill="#F4F0E8" stroke="#C6BFAE" stroke-width="2"/>
+  <circle cx="117" cy="259" r="19" fill="#A67C3D"/>
+  <text x="117" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FBF8F1">1</text>
+  <text x="104" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5" fill="#A67C3D">ROUTINE CHANGE</text>
+  <text x="104" y="358" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">Copper line</text>
+  <text x="104" y="391" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">moved to fibre</text>
+  <text x="104" y="435" font-family="Arial, sans-serif" font-size="16" fill="#46504F">Remote FAA location</text>
+
+  <path d="M300 347 H337" stroke="#A67C3D" stroke-width="4"/><path d="M327 337 L339 347 L327 357" fill="none" stroke="#A67C3D" stroke-width="4"/>
+  <rect x="348" y="222" width="210" height="250" rx="10" fill="#F4F0E8" stroke="#C6BFAE" stroke-width="2"/>
+  <circle cx="385" cy="259" r="19" fill="#A67C3D"/>
+  <text x="385" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FBF8F1">2</text>
+  <text x="372" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5" fill="#A67C3D">FAULT UNDER REVIEW</text>
+  <text x="372" y="358" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">Router or</text>
+  <text x="372" y="391" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1A1F24">installation</text>
+  <text x="372" y="435" font-family="Arial, sans-serif" font-size="16" fill="#46504F">Cause not yet settled</text>
+
+  <path d="M568 347 H605" stroke="#A67C3D" stroke-width="4"/><path d="M595 337 L607 347 L595 357" fill="none" stroke="#A67C3D" stroke-width="4"/>
+  <rect x="616" y="222" width="210" height="250" rx="10" fill="#1A1F24"/>
+  <circle cx="653" cy="259" r="19" fill="#A67C3D"/>
+  <text x="653" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FBF8F1">3</text>
+  <text x="640" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C69A52">ROUTER FLOOD</text>
+  <text x="640" y="365" font-family="Georgia, serif" font-size="33" font-weight="700" fill="#FBF8F1">1,000+</text>
+  <text x="640" y="402" font-family="Arial, sans-serif" font-size="18" fill="#FBF8F1">attempts every</text>
+  <text x="640" y="430" font-family="Arial, sans-serif" font-size="18" fill="#FBF8F1">4–5 seconds</text>
+
+  <path d="M836 347 H873" stroke="#A67C3D" stroke-width="4"/><path d="M863 337 L875 347 L863 357" fill="none" stroke="#A67C3D" stroke-width="4"/>
+  <rect x="884" y="222" width="156" height="250" rx="10" fill="#F4F0E8" stroke="#A67C3D" stroke-width="3"/>
+  <circle cx="921" cy="259" r="19" fill="#A67C3D"/>
+  <text x="921" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FBF8F1">4</text>
+  <text x="908" y="316" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2" fill="#A67C3D">SAFETY STOP</text>
+  <text x="908" y="365" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#1A1F24">3,500</text>
+  <text x="908" y="402" font-family="Arial, sans-serif" font-size="17" fill="#46504F">aircraft landed</text>
+  <text x="908" y="431" font-family="Arial, sans-serif" font-size="17" fill="#46504F">safely</text>
+
+  <rect x="80" y="516" width="960" height="76" rx="8" fill="#1A1F24"/>
+  <text x="104" y="548" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.4" fill="#C69A52">CONTAINMENT QUESTION</text>
+  <text x="104" y="576" font-family="Arial, sans-serif" font-size="18" fill="#FBF8F1">Why could one maintenance site overload a national air-traffic network?</text>
+  <text x="1040" y="638" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#46504F">Source: U.S. DOT, 14 Nov 2026</text>
+</svg>
