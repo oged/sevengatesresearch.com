@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Oil supply overtakes demand as crude prices retreat</title>
+  <desc id="desc">Global oil supply was 105.4 million barrels a day in October, compared with forecast 2026 demand of 102.3 million barrels a day. North Sea Dated crude fell from 136 dollars a barrel on 8 October to about 93 dollars in mid-November.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="28" y="28" width="1064" height="644" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="95" fill="#1A1F24" font-family="Georgia, serif" font-size="41" font-weight="700">Oil has moved from shortage towards surplus</text>
+  <text x="76" y="133" fill="#46504F" font-family="Arial, sans-serif" font-size="19">Recovered Gulf exports changed the balance, but the war premium remains</text>
+
+  <rect x="76" y="174" width="470" height="374" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="108" y="218" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">GLOBAL OIL BALANCE</text>
+  <text x="108" y="246" fill="#46504F" font-family="Arial, sans-serif" font-size="15">million barrels a day</text>
+  <line x1="164" y1="474" x2="486" y2="474" stroke="#C6BFAE" stroke-width="2"/>
+  <rect x="190" y="290" width="108" height="184" rx="5" fill="#A67C3D"/>
+  <rect x="356" y="311" width="108" height="163" rx="5" fill="#1A1F24"/>
+  <text x="244" y="279" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="31" font-weight="700">105.4</text>
+  <text x="410" y="300" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="31" font-weight="700">102.3</text>
+  <text x="244" y="508" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="17" font-weight="700">SUPPLY</text>
+  <text x="244" y="531" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="14">October 2026</text>
+  <text x="410" y="508" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="17" font-weight="700">DEMAND</text>
+  <text x="410" y="531" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="14">2026 forecast</text>
+
+  <rect x="574" y="174" width="470" height="374" rx="14" fill="#1A1F24"/>
+  <text x="606" y="218" fill="#C69A52" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">NORTH SEA DATED CRUDE</text>
+  <text x="606" y="246" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">US dollars per barrel</text>
+  <line x1="630" y1="446" x2="988" y2="446" stroke="#46504F" stroke-width="2"/>
+  <polyline points="646,302 760,331 872,386 978,420" fill="none" stroke="#C69A52" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="646" cy="302" r="10" fill="#FBF8F1" stroke="#A67C3D" stroke-width="5"/>
+  <circle cx="978" cy="420" r="10" fill="#FBF8F1" stroke="#A67C3D" stroke-width="5"/>
+  <text x="646" y="285" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="34" font-weight="700">$136</text>
+  <text x="978" y="397" text-anchor="end" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="34" font-weight="700">about $93</text>
+  <text x="646" y="480" text-anchor="middle" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">8 October</text>
+  <text x="978" y="480" text-anchor="middle" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">13 November report</text>
+  <rect x="782" y="260" width="196" height="55" rx="27" fill="#A67C3D"/>
+  <text x="880" y="296" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="25" font-weight="700">32% decline</text>
+
+  <rect x="76" y="579" width="968" height="55" rx="8" fill="#E7E0D2"/>
+  <text x="100" y="613" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">October inventories: +52 million barrels</text>
+  <text x="1000" y="613" text-anchor="end" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Source: IEA Oil Market Report, 13 Nov 2026</text>
+</svg>

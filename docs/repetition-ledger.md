@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-16 · briefing/2026-11-16
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** two simultaneous Gulf signals open the edition: fresh Iranian and Houthi drone attacks, and recovered oil exports that have moved global supply above demand.
+- **Shape:** five ranked developments: Gulf drone interceptions, the global oil rebalancing, Japan's third-quarter GDP stall, Ethiopia-Sudan proxy-war accusations and Alibaba's Qwen4-Max preview. The ending names the military, statistical, diplomatic and product evidence that could change each assessment.
+- **Visual:** a two-panel oil-market graphic compares 105.4 million barrels a day of supply with 102.3 million of forecast demand, then traces North Sea Dated crude from $136 to about $93. Brass and Ink identify series without treating a higher or lower value as inherently positive.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Conflict and the risk to civilians and infrastructure are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. A paired contemporaneous-signal opening replaces yesterday's operational failure-containment question. Energy returns through a quantified supply, inventory and price rebalancing rather than the prior shipping threat or refinery balance. The Horn item addresses new bilateral proxy-war accusations rather than repeating the recent South Sudan election timetable. AI returns through model access, compatibility and release durability, not climate-information disclosure or European strategy. The supply-and-price visual differs from the prior failure chain, paired inflation chart and leadership timeline. No retired personification, distinction flourish, party imagery, plumbing shorthand, paired epigram or reused joke.
+- **Evidence limits:** Bahrain and Saudi Arabia's reports are official statements and do not independently establish Iran's or the Houthis' full intent. IEA demand is a forecast and inventories remain historically low. Japan's GDP estimate is preliminary and effectively flat before revisions. Ethiopia and Sudan deny the allegations against them, which are not independently verified. Qwen4-Max is a temporary preview without independent benchmark or cost comparisons on the cited product page.
+
 ### 2026-11-15 · briefing/2026-11-15
 
 - **Type:** Daily Brief, no investment rating.
