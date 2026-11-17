@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria inflation moved at two speeds in October</title>
+  <desc id="desc">Annual headline inflation fell from 14.63 percent in September to 14.06 percent in October, while monthly inflation rose from 0.06 percent to 0.43 percent.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="28" y="28" width="1064" height="644" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="95" fill="#1A1F24" font-family="Georgia, serif" font-size="41" font-weight="700">Nigeria inflation moved at two speeds</text>
+  <text x="76" y="133" fill="#46504F" font-family="Arial, sans-serif" font-size="19">The annual comparison improved while October's monthly pace accelerated</text>
+
+  <rect x="76" y="174" width="470" height="374" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="108" y="218" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">ANNUAL HEADLINE RATE</text>
+  <text x="108" y="246" fill="#46504F" font-family="Arial, sans-serif" font-size="15">year on year, percent</text>
+  <line x1="142" y1="460" x2="492" y2="460" stroke="#C6BFAE" stroke-width="2"/>
+  <rect x="176" y="286" width="118" height="174" rx="6" fill="#1A1F24"/>
+  <rect x="352" y="293" width="118" height="167" rx="6" fill="#A67C3D"/>
+  <text x="235" y="274" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="32" font-weight="700">14.63%</text>
+  <text x="411" y="281" text-anchor="middle" fill="#1A1F24" font-family="Arial, sans-serif" font-size="32" font-weight="700">14.06%</text>
+  <text x="235" y="496" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="17" font-weight="700">SEPTEMBER</text>
+  <text x="411" y="496" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="17" font-weight="700">OCTOBER</text>
+  <text x="323" y="531" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="15">down 0.57 percentage points</text>
+
+  <rect x="574" y="174" width="470" height="374" rx="14" fill="#1A1F24"/>
+  <text x="606" y="218" fill="#C69A52" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">MONTHLY HEADLINE RATE</text>
+  <text x="606" y="246" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">month on month, percent</text>
+  <line x1="640" y1="460" x2="990" y2="460" stroke="#46504F" stroke-width="2"/>
+  <rect x="674" y="438" width="118" height="22" rx="6" fill="#FBF8F1"/>
+  <rect x="850" y="302" width="118" height="158" rx="6" fill="#C69A52"/>
+  <text x="733" y="424" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="32" font-weight="700">0.06%</text>
+  <text x="909" y="290" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="32" font-weight="700">0.43%</text>
+  <text x="733" y="496" text-anchor="middle" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="17" font-weight="700">SEPTEMBER</text>
+  <text x="909" y="496" text-anchor="middle" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="17" font-weight="700">OCTOBER</text>
+  <text x="821" y="531" text-anchor="middle" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">up 0.37 percentage points</text>
+
+  <rect x="76" y="579" width="968" height="55" rx="8" fill="#E7E0D2"/>
+  <text x="100" y="613" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">October food inflation: 19.13% annual, -0.75% monthly</text>
+  <text x="1000" y="613" text-anchor="end" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Source: NBS, 16 Nov 2026</text>
+</svg>

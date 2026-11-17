@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-17 · briefing/2026-11-17
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's October CPI opens with the divergence between a fifth month of annual disinflation and a faster monthly headline increase.
+- **Shape:** five ranked developments: Nigeria's two-speed inflation result, the EU's largest Ukraine Facility payment and new sanctions, increased Gulf of Guinea maritime-security funding, Microsoft Research's TokenEconomizer and Britain's commitment to protect in-person banking. The ending names the next inflation print, ceasefire terms, equipment delivery, independent replication and statutory access rules that could change the assessment.
+- **Visual:** a two-panel CPI graphic compares September and October annual headline rates separately from the monthly rates. Canvas, Ink and Brass identify periods and measures without implying that every decline or increase is beneficial.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. War, exclusion and security are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The CPI opening centres on the reversal in monthly momentum rather than the 18 October edition's monthly food-price decline. Ukraine returns through a reform-linked disbursement, sanctions and peace sequencing rather than yesterday's battlefield signals. Gulf of Guinea security funding is separate from yesterday's Gulf conflict and oil balance. AI returns through measured operating cost rather than model capability. The paired CPI panel differs from the prior oil-balance graphic and the 14 November producer-price scales. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** October CPI is one month and annual rates remain affected by comparison periods. EU funds are approved but had not yet been disbursed at the research cut-off, and sanctions effectiveness is unmeasured. The Gulf of Guinea release gives no country allocation or delivery timetable. Microsoft reports bug-fixing results rather than long-run operation across all software work. Britain's commitment leaves reasonable access, covered services and enforcement for later legislation.
+
 ### 2026-11-16 · briefing/2026-11-16
 
 - **Type:** Daily Brief, no investment rating.
