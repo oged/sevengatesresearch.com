@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-18 · briefing/2026-11-18
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** NVIDIA's reported quarter supplies the operating evidence that the 13 November leadership-transition edition could not, then tests where the same AI investment cycle concentrates revenue and credit exposure.
+- **Shape:** four ranked developments: NVIDIA's revenue and Data Center concentration, the ECB's euro-bond concentration warning, Ukraine air-defence pledges against interceptor-stock limits, and Nigeria's Tsamiya dry-port approval without an operating plan. The ending names the capital-spending, interceptor-production and implementation evidence that would change the assessment.
+- **Visual:** one factual stacked revenue bar separates NVIDIA's reported $107.6 billion of Data Center revenue from $8.2 billion of other revenue within the $115.8 billion total. Canvas, Ink and Brass distinguish categories without assigning good or bad meaning. Other revenue and the 92.9% share are labelled as Seven Gates calculations.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Civilian attacks and infrastructure constraints are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. NVIDIA returns because scheduled results replaced forward-looking questions with reported revenue, margins and shipments. Ukraine appears through the next day's specific air-defence pledges and admitted interceptor shortage rather than the prior EU disbursement, sanctions and peace sequencing. AI credit concentration is distinct from 17 November's coding-agent operating-cost item. The company-revenue composition bar differs from the prior paired inflation panel and oil-balance chart. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** one exceptional NVIDIA quarter does not measure customer returns or long-run infrastructure demand. Other revenue and Data Center share are derived from company totals. The ECB describes early portfolio evidence and a risk channel, not a realised loss. NATO's cumulative pledge figure does not establish delivery timing, while stockpile availability remains constrained. The State House dry-port announcement gives no cost, funding, operator, capacity, connection plan or opening date.
+
 ### 2026-11-17 · briefing/2026-11-17
 
 - **Type:** Daily Brief, no investment rating.
