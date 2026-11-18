@@ -18,7 +18,8 @@
   <text x="108" y="534" fill="#C69A52" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.2">TOTAL REVENUE</text>
   <text x="108" y="575" fill="#FBF8F1" font-family="Georgia, serif" font-size="38" font-weight="700">$115.8bn</text>
   <text x="566" y="534" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="17" font-weight="700">YEAR ON YEAR</text>
-  <text x="566" y="575" fill="#FBF8F1" font-family="Georgia, serif" font-size="38" font-weight="700">Total +103%   Data Center +110%</text>
+  <text x="566" y="575" fill="#FBF8F1" font-family="Georgia, serif" font-size="30" font-weight="700">Total +103%</text>
+  <text x="790" y="575" fill="#FBF8F1" font-family="Georgia, serif" font-size="30" font-weight="700">Data Center +110%</text>
 
   <text x="76" y="632" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Source: NVIDIA, 17 Nov 2026. Other and 92.9% share are Seven Gates calculations from company totals.</text>
 </svg>
