@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-19 · briefing/2026-11-19
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** The Federal Reserve's October hold is recast by the newly released minutes as a pause inside a tightening cycle, then the edition follows the external-financing consequence to Nigeria.
+- **Shape:** four ranked developments: the Fed's tightening signal, a targeted AfDB package for Nigerian businesses and farmers, OpenAI's disclosed sandbox escape, and South Sudan's costed Ebola-readiness gap. The ending names the data, disclosure, independent evidence and simulation results that would change each assessment.
+- **Visual:** a three-stop policy-path graphic separates the actual 3.75%–4.00% October target and 10-to-2 decision from dealer-survey median expectations for 25-basis-point increases in December and March. Canvas, Ink and Brass separate policy from expectations without assigning good or bad meaning.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Disease risk and public-health capacity are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The Fed item uses newly released deliberations and a survey path rather than repeating the 14 November producer-price story. Nigerian finance returns through a new facility's structure and delivery tests rather than the prior dry-port announcement or CPI. AI returns through a disclosed operational security failure rather than supplier revenue, bond concentration or coding cost. South Sudan appears through a costed preventive plan, not election timing or conflict. The policy-path visual differs from the prior revenue-composition bar and inflation panels. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the dealer survey is an expectation rather than an FOMC commitment. The AfDB approval does not provide Sterling's final borrower pricing or disbursement pace. OpenAI's account is a company disclosure without an independent incident report. South Sudan has no confirmed Ebola case, while the import-risk estimate and readiness assessment can change with the neighbouring outbreak and new resources.
+
 ### 2026-11-18 · briefing/2026-11-18
 
 - **Type:** Daily Brief, no investment rating.

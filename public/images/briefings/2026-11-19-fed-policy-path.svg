@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Federal Reserve decision and expected policy path</title>
+  <desc id="desc">The Federal Reserve held its target range at 3.75 to 4.00 per cent by a 10 to 2 vote in October. The New York Fed dealer survey median anticipated a 25 basis point increase in December and another in March 2027.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="28" y="28" width="1064" height="644" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="96" fill="#1A1F24" font-family="Georgia, serif" font-size="40" font-weight="700">A hold, then two expected increases</text>
+  <text x="76" y="136" fill="#46504F" font-family="Arial, sans-serif" font-size="19">Federal funds target range and dealer survey median</text>
+
+  <rect x="76" y="180" width="968" height="328" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <line x1="224" y1="335" x2="895" y2="335" stroke="#C6BFAE" stroke-width="8" stroke-linecap="round"/>
+
+  <circle cx="224" cy="335" r="52" fill="#1A1F24"/>
+  <text x="224" y="326" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="17" font-weight="700">OCT 28</text>
+  <text x="224" y="352" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="16">DECISION</text>
+  <text x="224" y="235" text-anchor="middle" fill="#1A1F24" font-family="Georgia, serif" font-size="31" font-weight="700">3.75–4.00%</text>
+  <text x="224" y="270" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="17">10 hold · 2 hike</text>
+
+  <circle cx="560" cy="335" r="52" fill="#A67C3D"/>
+  <text x="560" y="326" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="17" font-weight="700">DEC</text>
+  <text x="560" y="352" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="16">SURVEY</text>
+  <text x="560" y="235" text-anchor="middle" fill="#1A1F24" font-family="Georgia, serif" font-size="31" font-weight="700">4.00–4.25%</text>
+  <text x="560" y="270" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="17">median expectation</text>
+
+  <circle cx="895" cy="335" r="52" fill="#A67C3D"/>
+  <text x="895" y="326" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="17" font-weight="700">MAR 27</text>
+  <text x="895" y="352" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="16">SURVEY</text>
+  <text x="895" y="235" text-anchor="middle" fill="#1A1F24" font-family="Georgia, serif" font-size="31" font-weight="700">4.25–4.50%</text>
+  <text x="895" y="270" text-anchor="middle" fill="#46504F" font-family="Arial, sans-serif" font-size="17">median expectation</text>
+
+  <rect x="108" y="410" width="904" height="66" rx="10" fill="#1A1F24"/>
+  <text x="560" y="438" text-anchor="middle" fill="#C69A52" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">READ THE PATH CAREFULLY</text>
+  <text x="560" y="463" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="17">October is policy. December and March are expectations, not commitments.</text>
+
+  <text x="76" y="557" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">Almost all participants expected further tightening to be appropriate.</text>
+  <text x="76" y="591" fill="#46504F" font-family="Arial, sans-serif" font-size="16">A couple would consider more than 25bp next time if inflation data were unfavourable.</text>
+  <text x="76" y="632" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Source: Federal Reserve FOMC minutes, released 18 Nov 2026.</text>
+</svg>
