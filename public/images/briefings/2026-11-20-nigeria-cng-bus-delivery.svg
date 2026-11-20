@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria CNG bus delivery scoreboard</title>
+  <desc id="desc">Nigeria agreed an initial supply of 300 CNG buses. The first 100 are expected by the end of December 2026, and the remaining 200 are designated for subsequent local assembly in Ibadan. The programme targets a 40 per cent fare reduction on participating routes.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="28" y="28" width="1064" height="644" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="96" fill="#1A1F24" font-family="Georgia, serif" font-size="40" font-weight="700">Nigeria's CNG bus delivery test</text>
+  <text x="76" y="136" fill="#46504F" font-family="Arial, sans-serif" font-size="19">Initial Yutong supply agreement</text>
+
+  <rect x="76" y="180" width="968" height="88" rx="12" fill="#1A1F24"/>
+  <text x="108" y="216" fill="#C69A52" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">TOTAL AGREED</text>
+  <text x="108" y="252" fill="#FBF8F1" font-family="Georgia, serif" font-size="38" font-weight="700">300 buses</text>
+  <text x="1012" y="238" text-anchor="end" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="20">CNG-powered</text>
+
+  <rect x="76" y="296" width="464" height="188" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="108" y="336" fill="#46504F" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">FIRST DELIVERY</text>
+  <text x="108" y="399" fill="#1A1F24" font-family="Georgia, serif" font-size="56" font-weight="700">100</text>
+  <text x="108" y="438" fill="#1A1F24" font-family="Arial, sans-serif" font-size="20" font-weight="700">due in Lagos</text>
+  <text x="108" y="466" fill="#46504F" font-family="Arial, sans-serif" font-size="17">by end-December 2026</text>
+
+  <rect x="580" y="296" width="464" height="188" rx="14" fill="#A67C3D"/>
+  <text x="612" y="336" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">SUBSEQUENT ASSEMBLY</text>
+  <text x="612" y="399" fill="#FBF8F1" font-family="Georgia, serif" font-size="56" font-weight="700">200</text>
+  <text x="612" y="438" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="20" font-weight="700">remaining buses</text>
+  <text x="612" y="466" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="17">planned for Ibadan · calculated</text>
+
+  <rect x="76" y="514" width="968" height="86" rx="12" fill="#FBF8F1" stroke="#1A1F24" stroke-width="2"/>
+  <text x="108" y="550" fill="#46504F" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">PASSENGER OUTCOME</text>
+  <text x="108" y="583" fill="#1A1F24" font-family="Georgia, serif" font-size="30" font-weight="700">40% fare-reduction target</text>
+  <text x="1012" y="578" text-anchor="end" fill="#46504F" font-family="Arial, sans-serif" font-size="17">participating routes</text>
+
+  <text x="76" y="636" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Source: State House, 19 Nov 2026. Remaining 200 is calculated from the announced total less the first batch.</text>
+</svg>

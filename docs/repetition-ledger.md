@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-20 · briefing/2026-11-20
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** The ICJ's final finding of state responsibility for genocide opens through the legal change from provisional warning to binding judgment, then separates the ruling from the harder enforcement test.
+- **Shape:** four ranked developments: the ICJ's Myanmar genocide judgment, Anthropic's public offering, Nigeria's dated CNG-bus supply and assembly agreement, and South Africa's one-vote rate pause. The ending names the compliance, financial reporting, physical delivery and inflation evidence that would change each assessment.
+- **Visual:** a delivery scoreboard separates Nigeria's announced 300-bus total into the first 100 due by end-December and the calculated remaining 200 designated for subsequent local assembly, with the 40% fare target in a separate outcome panel. Canvas, Ink and Brass distinguish total, batch and target without implying success before delivery.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Genocide, displacement and accountability are treated without humour.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The legal judgment is distinct from recent conflict and humanitarian updates. Anthropic's public listing introduces disclosed capital structure and a market price rather than another supplier-revenue or model-capability story. Nigeria returns through a dated vehicle-delivery and local-assembly plan, not finance, inflation or an unfunded port announcement. South Africa's split vote follows yesterday's US deliberations but adds a regional growth-investment constraint and an actual African policy decision. The delivery scoreboard differs from the prior Fed path and NVIDIA revenue composition. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the ICJ judgment is binding but enforcement and the amount of reparation remain unresolved. Anthropic's offering size does not establish future returns or operating cash generation. The State House release gives no route list, operator allocation, fare baseline or assembly timetable beyond the first imported batch. The SARB forecast is conditional and the 4–3 vote can change with new data.
+
 ### 2026-11-19 · briefing/2026-11-19
 
 - **Type:** Daily Brief, no investment rating.
