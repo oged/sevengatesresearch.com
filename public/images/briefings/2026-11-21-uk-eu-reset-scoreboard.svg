@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="title desc">
+  <title id="title">UK-EU reset scoreboard</title>
+  <desc id="desc">The UK estimates the SPS agreement could add up to 5.1 billion pounds a year relative to projected 2040 output and ETS linking up to 3.8 billion pounds a year by 2040. The youth scheme provides 100,000 places from each side annually.</desc>
+  <rect width="1120" height="700" fill="#FBF8F1"/>
+  <rect x="28" y="28" width="1064" height="644" rx="20" fill="#F4F0E8" stroke="#1A1F24" stroke-width="4"/>
+  <text x="76" y="94" fill="#1A1F24" font-family="Georgia, serif" font-size="40" font-weight="700">The UK–EU reset: three negotiated outcomes</text>
+  <text x="76" y="134" fill="#46504F" font-family="Arial, sans-serif" font-size="19">Economic estimates and implementation terms announced 20 November 2026</text>
+
+  <rect x="76" y="174" width="968" height="176" rx="14" fill="#1A1F24"/>
+  <text x="108" y="214" fill="#C69A52" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">FOOD AND AGRICULTURAL TRADE</text>
+  <text x="108" y="286" fill="#FBF8F1" font-family="Georgia, serif" font-size="58" font-weight="700">up to £5.1bn a year</text>
+  <text x="1012" y="246" text-anchor="end" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="20">official 2040 estimate</text>
+  <text x="1012" y="286" text-anchor="end" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="18">target application: 1 March 2028</text>
+  <text x="108" y="324" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="17">Common SPS Area · compared with projected output</text>
+
+  <rect x="76" y="380" width="464" height="204" rx="14" fill="#A67C3D"/>
+  <text x="108" y="420" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">CARBON MARKETS</text>
+  <text x="108" y="488" fill="#FBF8F1" font-family="Georgia, serif" font-size="46" font-weight="700">up to £3.8bn</text>
+  <text x="108" y="526" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="20">a year by 2040 · official estimate</text>
+  <text x="108" y="558" fill="#F4F0E8" font-family="Arial, sans-serif" font-size="17">ETS linkage and planned CBAM exemptions</text>
+
+  <rect x="580" y="380" width="464" height="204" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="612" y="420" fill="#46504F" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">YOUTH EXPERIENCE SCHEME</text>
+  <text x="612" y="488" fill="#1A1F24" font-family="Georgia, serif" font-size="46" font-weight="700">100,000 each way</text>
+  <text x="612" y="526" fill="#1A1F24" font-family="Arial, sans-serif" font-size="20">places annually · ages 18–31</text>
+  <text x="612" y="558" fill="#46504F" font-family="Arial, sans-serif" font-size="17">up to three years</text>
+
+  <text x="76" y="626" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Sources: UK Government and European Council, 20 Nov 2026. Economic figures are official estimates, not realised gains.</text>
+</svg>

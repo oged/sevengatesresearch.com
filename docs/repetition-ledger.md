@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-21 · briefing/2026-11-21
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** The UK–EU summit opens through the move from political reset to three negotiated agreements with dates, quantities and official economic estimates.
+- **Shape:** four ranked developments: the UK–EU food, carbon and youth agreements; renewed fighting around Hudaydah Port; Nigeria's 5,500 MW grid target and budget-cycle agenda; and Microsoft's distribution of GPT-6.2 through Copilot. The ending names the legal, physical, operating and enterprise evidence that would change each assessment.
+- **Visual:** a three-outcome scoreboard keeps the SPS and ETS economic estimates separate from the youth-scheme allocation, and pairs each with its time basis or implementation term. Canvas, Ink and Brass distinguish categories without adding the two output estimates or treating them as realised gains.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Civilian risk and humanitarian access in Yemen are treated without humour.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. The UK–EU item uses concluded negotiations and implementation dates rather than 17 November's preliminary banking commitment. Yemen returns because reported coalition strikes on Hudaydah Port create a new civilian-access and Red Sea risk after 16 November's drone interceptions. Nigeria appears through power delivery and budget coordination, not the recent CPI, dry port, finance package or bus agreement. AI returns through enterprise-software distribution and permission controls, not capital structure, sandbox failure, supplier revenue or model preview. The three-outcome scoreboard differs from the prior bus-delivery, Fed-path and revenue-composition graphics. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the UK figures are government estimates against projected 2040 output and the agreements require implementation. The UN report attributes the 20 November military activity and provides no independent damage assessment. Nigeria's EMT release gives no owner, funding schedule or delivery date for the grid target. Microsoft's release states product availability and permission design but gives no independent productivity or security results.
+
 ### 2026-11-20 · briefing/2026-11-20
 
 - **Type:** Daily Brief, no investment rating.
