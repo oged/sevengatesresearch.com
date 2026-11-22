@@ -13,7 +13,7 @@
 
   <text x="92" y="382" fill="#1A1F24" font-family="Arial, sans-serif" font-size="21" font-weight="700">2035 ESTIMATED NEED</text>
   <rect x="372" y="350" width="694" height="52" rx="5" fill="#1A1F24"/>
-  <text x="1084" y="386" text-anchor="end" fill="#1A1F24" font-family="Arial, sans-serif" font-size="30" font-weight="700">$305bn</text>
+  <text x="1036" y="386" text-anchor="end" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="30" font-weight="700">$305bn</text>
 
   <line x1="92" y1="455" x2="1108" y2="455" stroke="#C6BFAE" stroke-width="2"/>
   <rect x="92" y="492" width="1016" height="76" rx="10" fill="#F4F0E8" stroke="#A67C3D" stroke-width="2"/>
