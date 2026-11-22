@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-22 · briefing/2026-11-22
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** COP31 opens through the financing scale and dated 2027 process attached to the 2035 adaptation target, with Nigeria's access and cost-of-capital constraints stated directly.
+- **Shape:** five ranked developments: the COP31 adaptation-finance roadmap, Europe's winter gas-storage scenarios, the revised EU long-term budget proposal, the fatal Bayelsa boat disaster and measured AI-assisted chip-design gains. The ending names the finance terms, physical supply, political negotiation, investigation and independent replication that could change each assessment.
+- **Visual:** a common-scale comparison places $28 billion to $32 billion of 2024 international public adaptation finance beside the $305 billion annual need estimated for 2035, with the decision's no-more-than-29% coverage statement kept in a separate panel. Canvas, Ink and Brass show scale without using positive or negative semantic colours.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Death and public-safety failures in Bayelsa are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 published entries and permanent retired register were checked before and after drafting. Climate finance returns through the final COP31 financing decision and a quantified gap, rather than 15 November's water-finance agenda. Energy uses new winter inventory scenarios, rather than 16 November's global oil balance. The EU item concerns a seven-year budget allocation, not the previous day's bilateral implementation agreements. AI returns through silicon and circuit results, rather than enterprise-software distribution. The common-scale finance graphic differs from the preceding agreement scoreboard, delivery scoreboard and policy path. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the COP31 roadmap identifies a process rather than committed disbursements, and the cited need is an estimate. The gas paths are scenarios conditional on weather, demand and imports. Costa's budget is a negotiating proposal. Bayelsa's casualty count was provisional at the cut-off, the passenger total was unknown and the mechanical explanation preliminary. Chip-design results are company-reported, task-specific and only partly represented in manufactured hardware.
+
 ### 2026-11-21 · briefing/2026-11-21
 
 - **Type:** Daily Brief, no investment rating.

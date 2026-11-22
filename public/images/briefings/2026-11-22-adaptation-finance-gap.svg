@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">The adaptation-finance gap</title>
+  <desc id="desc">International public adaptation finance of 28 to 32 billion dollars in 2024 compared with estimated developing-country needs of 305 billion dollars per year by 2035. COP31 says tripling finance would cover no more than 29 percent of estimated needs.</desc>
+  <rect width="1200" height="675" fill="#FBF8F1"/>
+  <rect x="46" y="42" width="1108" height="591" rx="20" fill="none" stroke="#1A1F24" stroke-width="3"/>
+  <text x="92" y="110" fill="#A67C3D" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3">COP31 · ADAPTATION FINANCE</text>
+  <text x="92" y="164" fill="#1A1F24" font-family="Georgia, serif" font-size="42" font-weight="700">The target covers a fraction of the need</text>
+  <text x="92" y="203" fill="#46504F" font-family="Arial, sans-serif" font-size="20">Annual US dollars · figures cited in the presidency-led decision</text>
+
+  <text x="92" y="284" fill="#1A1F24" font-family="Arial, sans-serif" font-size="21" font-weight="700">2024 PUBLIC FINANCE</text>
+  <rect x="372" y="252" width="94" height="52" rx="5" fill="#A67C3D"/>
+  <text x="486" y="286" fill="#1A1F24" font-family="Arial, sans-serif" font-size="30" font-weight="700">$28–32bn</text>
+
+  <text x="92" y="382" fill="#1A1F24" font-family="Arial, sans-serif" font-size="21" font-weight="700">2035 ESTIMATED NEED</text>
+  <rect x="372" y="350" width="694" height="52" rx="5" fill="#1A1F24"/>
+  <text x="1084" y="386" text-anchor="end" fill="#1A1F24" font-family="Arial, sans-serif" font-size="30" font-weight="700">$305bn</text>
+
+  <line x1="92" y1="455" x2="1108" y2="455" stroke="#C6BFAE" stroke-width="2"/>
+  <rect x="92" y="492" width="1016" height="76" rx="10" fill="#F4F0E8" stroke="#A67C3D" stroke-width="2"/>
+  <text x="124" y="526" fill="#A67C3D" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">2035 TEST</text>
+  <text x="124" y="556" fill="#1A1F24" font-family="Georgia, serif" font-size="25" font-weight="700">Even tripling finance would meet no more than 29% of need</text>
+  <text x="92" y="610" fill="#46504F" font-family="Arial, sans-serif" font-size="16">Roadmap report due for consideration in 2027 · Source: UNFCCC, 21 November 2026</text>
+</svg>
