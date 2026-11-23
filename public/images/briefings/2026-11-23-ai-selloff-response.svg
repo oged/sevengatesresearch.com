@@ -10,12 +10,14 @@
   <rect x="82" y="227" width="310" height="178" rx="16" fill="#F7EAE6" stroke="#8C3B32" stroke-width="2"/>
   <text x="108" y="268" fill="#8C3B32" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">NASDAQ · LAST WEEK</text>
   <text x="108" y="341" fill="#8C3B32" font-family="Georgia, serif" font-size="66" font-weight="700">−10%</text>
-  <text x="108" y="377" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18">Largest weekly fall since March 2020</text>
+  <text x="108" y="369" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="16">Largest weekly fall</text>
+  <text x="108" y="391" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="16">since March 2020</text>
 
   <rect x="420" y="227" width="310" height="178" rx="16" fill="#F7EAE6" stroke="#8C3B32" stroke-width="2"/>
   <text x="446" y="268" fill="#8C3B32" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">KOSPI · MONDAY</text>
   <text x="446" y="341" fill="#8C3B32" font-family="Georgia, serif" font-size="66" font-weight="700">≈−5%</text>
-  <text x="446" y="377" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18">South Korean index at a ten-month low</text>
+  <text x="446" y="369" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="16">South Korean index</text>
+  <text x="446" y="391" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="16">at a ten-month low</text>
 
   <rect x="758" y="227" width="310" height="178" rx="16" fill="#E8F1EB" stroke="#2F6B4F" stroke-width="2"/>
   <text x="784" y="268" fill="#2F6B4F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">NASDAQ 100 FUTURES</text>
