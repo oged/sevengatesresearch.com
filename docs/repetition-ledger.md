@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-23 · briefing/2026-11-23
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** The lead opens with the 10% weekly Nasdaq fall and the Asian policy response, then identifies the financing question beneath AI infrastructure valuations.
+- **Shape:** five ranked developments: the AI-equity retreat and market-stabilization measures, the suspected drone attack on a Russian vessel in Benghazi, Ghana's monetary-policy framework repair, Nigeria's leadership of a continental asset-recovery forum and OpenAI's proposal for common model-development limits. The ending states the observable evidence that could alter each assessment.
+- **Visual:** three price cards separate the Nasdaq and KOSPI declines from the early Nasdaq 100 futures rebound; a policy strip records Taiwan's higher short-sale margin, restriction and authorized stabilization fund. Canvas, Ink and Brass frame the figure, with red and green reserved for actual price direction.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Injuries and geopolitical risk are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 entries and permanent retired register were checked before and after drafting. Markets and AI return through a broad equity repricing and financing test, rather than the previous day's measured chip-design gains. Africa enters through a monetary operating framework, cross-border asset recovery and North African maritime security, rather than the prior gas and boat-safety items. The response-board visual differs from the preceding scale comparison, agreement scoreboard, delivery scoreboard and policy path. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** the early futures rebound can reverse and policy support may not arrest the equity decline. Attribution for the Benghazi attack was unresolved at the cut-off. Ghana's operating changes require confirmation in money-market rates. The asset-recovery statements provide no values, country targets or reporting timetable. OpenAI's common metric is a company proposal and cross-lab data differences complicate comparison.
+
 ### 2026-11-22 · briefing/2026-11-22
 
 - **Type:** Daily Brief, no investment rating.

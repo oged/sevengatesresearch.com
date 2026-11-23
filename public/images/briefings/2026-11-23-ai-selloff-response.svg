@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">AI selloff: damage and response</title>
+  <desc id="desc">The Nasdaq fell 10 percent last week and South Korea's KOSPI fell about 5 percent on Monday. Nasdaq 100 futures rebounded about 3 percent. Taiwan raised its short-sale margin from 130 to 150 percent, prohibited shorting previous-session fallers, and had authorized a 500 billion New Taiwan dollar stabilization fund.</desc>
+  <rect width="1200" height="675" fill="#FBF8F1"/>
+  <rect x="44" y="40" width="1112" height="595" rx="22" fill="#FBF8F1" stroke="#1A1F24" stroke-width="3"/>
+  <text x="82" y="100" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">SEVEN GATES RESEARCH · 23 NOVEMBER 2026</text>
+  <text x="82" y="151" fill="#1A1F24" font-family="Georgia, serif" font-size="42" font-weight="700">AI selloff: damage and response</text>
+  <text x="82" y="186" fill="#4A4F53" font-family="Arial, Helvetica, sans-serif" font-size="20">Price moves and the first policy measures, as of early Monday</text>
+
+  <rect x="82" y="227" width="310" height="178" rx="16" fill="#F7EAE6" stroke="#8C3B32" stroke-width="2"/>
+  <text x="108" y="268" fill="#8C3B32" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">NASDAQ · LAST WEEK</text>
+  <text x="108" y="341" fill="#8C3B32" font-family="Georgia, serif" font-size="66" font-weight="700">−10%</text>
+  <text x="108" y="377" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18">Largest weekly fall since March 2020</text>
+
+  <rect x="420" y="227" width="310" height="178" rx="16" fill="#F7EAE6" stroke="#8C3B32" stroke-width="2"/>
+  <text x="446" y="268" fill="#8C3B32" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">KOSPI · MONDAY</text>
+  <text x="446" y="341" fill="#8C3B32" font-family="Georgia, serif" font-size="66" font-weight="700">≈−5%</text>
+  <text x="446" y="377" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18">South Korean index at a ten-month low</text>
+
+  <rect x="758" y="227" width="310" height="178" rx="16" fill="#E8F1EB" stroke="#2F6B4F" stroke-width="2"/>
+  <text x="784" y="268" fill="#2F6B4F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">NASDAQ 100 FUTURES</text>
+  <text x="784" y="341" fill="#2F6B4F" font-family="Georgia, serif" font-size="66" font-weight="700">≈+3%</text>
+  <text x="784" y="377" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="18">Early Monday rebound</text>
+
+  <rect x="82" y="437" width="986" height="126" rx="16" fill="#F2E9D9" stroke="#A67C3D" stroke-width="2"/>
+  <text x="108" y="475" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5">TAIWAN'S RESPONSE</text>
+  <text x="108" y="523" fill="#1A1F24" font-family="Georgia, serif" font-size="32" font-weight="700">130% → 150%</text>
+  <text x="338" y="514" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">Short-sale margin raised</text>
+  <text x="338" y="542" fill="#4A4F53" font-family="Arial, Helvetica, sans-serif" font-size="17">Shorting previous-session fallers prohibited</text>
+  <line x1="715" y1="465" x2="715" y2="540" stroke="#A67C3D" stroke-width="2"/>
+  <text x="746" y="506" fill="#1A1F24" font-family="Georgia, serif" font-size="28" font-weight="700">NT$500bn</text>
+  <text x="746" y="538" fill="#4A4F53" font-family="Arial, Helvetica, sans-serif" font-size="17">stabilization fund authorized</text>
+
+  <text x="82" y="604" fill="#5A5E61" font-family="Arial, Helvetica, sans-serif" font-size="14">Sources: Reuters, 23 Nov; Taiwan FSC/CNA, 21 Nov; Taiwan Ministry of Finance, 6 Nov 2026.</text>
+</svg>
