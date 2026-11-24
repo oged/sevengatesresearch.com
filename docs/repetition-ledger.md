@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-24 · briefing/2026-11-24
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** WFP's three disrupted maritime routes open through the quantified cost to humanitarian operations and the number of people whose assistance is exposed.
+- **Shape:** four ranked developments: conflict-driven food and aid costs, oil's three-month low and Nigeria's fiscal transmission, the 2027–2030 ECO implementation framework, and GPT-6.2's release with critical cyber and high bio and self-improvement classifications. The ending identifies the agreements, price triggers, operating rules and independent evaluations that could change each assessment.
+- **Visual:** three route cards connect Hormuz fertilizer flows, Bab el-Mandeb logistics pressure and the Bosphorus vessel decline to WFP's projected additional cost and exposed assistance. Canvas, Ink and Brass provide the structure; red appears only for the documented vessel decline and aid at risk.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Hunger, attacks on shipping and human loss are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 entries and permanent retired register were checked before and after drafting. Humanitarian supply routes replace the prior equity-policy opening. Oil returns through a fresh three-month price low and physical supply restart, rather than 22 November's European gas-storage scenarios. Regional integration uses a dated monetary implementation framework rather than the 11 November capital-market passport. AI returns through released model capability classifications and safeguards, rather than yesterday's proposed common training limit. The converging-route visual differs from the preceding response board, finance comparison, agreement scoreboard and delivery scoreboard. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** WFP figures are projections conditional on current disruption. The Libyan restart followed a short interruption and the oil balance can reverse with renewed attacks. ECOWAS leaders have not approved a participating sequence or operating rules. GPT-6.2 classifications and performance figures are OpenAI's own evaluations.
+
 ### 2026-11-23 · briefing/2026-11-23
 
 - **Type:** Daily Brief, no investment rating.

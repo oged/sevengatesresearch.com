@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Three chokepoints, one food-aid shock</title>
+  <desc id="desc">Hormuz carries 30 percent of global fertilizer supplies. Wheat and maize vessel traffic through the Bosphorus was 63 percent lower than a year earlier. Disruption around Hormuz, Bab el-Mandeb and the Black Sea could add 727 million dollars to World Food Programme costs and put aid for 7.3 million people at risk.</desc>
+  <rect width="1200" height="675" fill="#FBF8F1"/>
+  <rect x="44" y="40" width="1112" height="595" rx="22" fill="#FBF8F1" stroke="#1A1F24" stroke-width="3"/>
+  <text x="82" y="98" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">SEVEN GATES RESEARCH · 24 NOVEMBER 2026</text>
+  <text x="82" y="148" fill="#1A1F24" font-family="Georgia, serif" font-size="42" font-weight="700">Three chokepoints, one food-aid shock</text>
+  <text x="82" y="183" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="20">Conflict raises the cost of food, fertilizer, energy and transport</text>
+
+  <rect x="82" y="222" width="310" height="170" rx="16" fill="#F2E9D9" stroke="#A67C3D" stroke-width="2"/>
+  <text x="108" y="260" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">STRAIT OF HORMUZ</text>
+  <text x="108" y="326" fill="#1A1F24" font-family="Georgia, serif" font-size="58" font-weight="700">30%</text>
+  <text x="108" y="357" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="16">of global fertilizer supplies</text>
+  <text x="108" y="378" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">pass through the strait</text>
+
+  <rect x="420" y="222" width="310" height="170" rx="16" fill="#F2E9D9" stroke="#A67C3D" stroke-width="2"/>
+  <text x="446" y="260" fill="#A67C3D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">BAB EL-MANDEB</text>
+  <text x="446" y="310" fill="#1A1F24" font-family="Georgia, serif" font-size="30" font-weight="700">Food and aid routes</text>
+  <text x="446" y="346" fill="#1A1F24" font-family="Georgia, serif" font-size="30" font-weight="700">under pressure</text>
+  <text x="446" y="378" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">alongside higher fuel and freight costs</text>
+
+  <rect x="758" y="222" width="310" height="170" rx="16" fill="#F7EAE6" stroke="#8C3B32" stroke-width="2"/>
+  <text x="784" y="260" fill="#8C3B32" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">BLACK SEA / BOSPHORUS</text>
+  <text x="784" y="326" fill="#8C3B32" font-family="Georgia, serif" font-size="58" font-weight="700">−63%</text>
+  <text x="784" y="357" fill="#1A1F24" font-family="Arial, Helvetica, sans-serif" font-size="16">wheat and maize vessels</text>
+  <text x="784" y="378" fill="#46504F" font-family="Arial, Helvetica, sans-serif" font-size="14">year on year by mid-October</text>
+
+  <path d="M237 410 L237 438 L575 438" fill="none" stroke="#A67C3D" stroke-width="3"/>
+  <path d="M575 410 L575 438" fill="none" stroke="#A67C3D" stroke-width="3"/>
+  <path d="M913 410 L913 438 L575 438" fill="none" stroke="#A67C3D" stroke-width="3"/>
+  <path d="M575 438 L575 462" fill="none" stroke="#A67C3D" stroke-width="3"/>
+  <path d="M566 453 L575 464 L584 453" fill="none" stroke="#A67C3D" stroke-width="3"/>
+
+  <rect x="184" y="470" width="782" height="106" rx="16" fill="#1A1F24"/>
+  <text x="220" y="514" fill="#C69A52" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1">PROJECTED WFP IMPACT BY MID-2027</text>
+  <text x="220" y="554" fill="#FBF8F1" font-family="Georgia, serif" font-size="35" font-weight="700">+$727m costs</text>
+  <line x1="548" y1="493" x2="548" y2="559" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="584" y="554" fill="#E8A39A" font-family="Georgia, serif" font-size="35" font-weight="700">7.3m people at risk</text>
+  <text x="82" y="611" fill="#5A5E61" font-family="Arial, Helvetica, sans-serif" font-size="14">Source: World Food Programme briefing to the UN Security Council, 23 November 2026.</text>
+</svg>
