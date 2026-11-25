@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Nigeria's policy stance after five months of disinflation</title>
+  <desc id="desc">A three-panel dashboard shows the 23 percent monetary policy rate and cash reserve requirements, October inflation readings, and 54.02 billion dollars of external reserves covering 10.26 months of imports.</desc>
+  <rect width="1200" height="675" fill="#FBF8F1"/>
+  <rect x="34" y="34" width="1132" height="607" rx="22" fill="#FBF8F1" stroke="#1A1F24" stroke-width="3"/>
+  <text x="72" y="82" fill="#A67C3D" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">SEVEN GATES RESEARCH · 25 NOVEMBER 2026</text>
+  <text x="72" y="126" fill="#1A1F24" font-family="Georgia, serif" font-size="35" font-weight="700">Nigeria's policy stance after five months of disinflation</text>
+  <text x="72" y="157" fill="#46504F" font-family="Arial, sans-serif" font-size="16">Rates, inflation and external buffers are separate measures. Each panel keeps its own unit.</text>
+
+  <rect x="72" y="195" width="336" height="334" rx="16" fill="#F4F0E8" stroke="#A67C3D" stroke-width="2"/>
+  <text x="96" y="228" fill="#A67C3D" font-family="Arial, sans-serif" font-size="15" font-weight="700">POLICY AND BANK LIQUIDITY</text>
+  <text x="96" y="286" fill="#1A1F24" font-family="Georgia, serif" font-size="52" font-weight="700">23%</text>
+  <text x="96" y="313" fill="#46504F" font-family="Arial, sans-serif" font-size="15">Monetary Policy Rate</text>
+  <line x1="96" y1="338" x2="384" y2="338" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="96" y="379" fill="#1A1F24" font-family="Georgia, serif" font-size="34" font-weight="700">45%</text>
+  <text x="180" y="379" fill="#46504F" font-family="Arial, sans-serif" font-size="15">DMB cash reserve ratio</text>
+  <text x="96" y="438" fill="#1A1F24" font-family="Georgia, serif" font-size="34" font-weight="700">75%</text>
+  <text x="180" y="438" fill="#46504F" font-family="Arial, sans-serif" font-size="15">non-TSA public deposits</text>
+  <text x="96" y="489" fill="#46504F" font-family="Arial, sans-serif" font-size="14">All settings retained on 24 November</text>
+
+  <rect x="432" y="195" width="336" height="334" rx="16" fill="#F4F0E8" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="456" y="228" fill="#A67C3D" font-family="Arial, sans-serif" font-size="15" font-weight="700">OCTOBER INFLATION</text>
+  <text x="456" y="286" fill="#1A1F24" font-family="Georgia, serif" font-size="52" font-weight="700">14.06%</text>
+  <text x="456" y="313" fill="#46504F" font-family="Arial, sans-serif" font-size="15">headline, year on year</text>
+  <line x1="456" y1="338" x2="744" y2="338" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="456" y="388" fill="#1A1F24" font-family="Georgia, serif" font-size="32" font-weight="700">19.13%</text>
+  <text x="590" y="388" fill="#46504F" font-family="Arial, sans-serif" font-size="15">food</text>
+  <text x="456" y="447" fill="#1A1F24" font-family="Georgia, serif" font-size="32" font-weight="700">10.78%</text>
+  <text x="590" y="447" fill="#46504F" font-family="Arial, sans-serif" font-size="15">core</text>
+  <text x="456" y="489" fill="#46504F" font-family="Arial, sans-serif" font-size="14">Headline fell from 14.63% in September</text>
+
+  <rect x="792" y="195" width="336" height="334" rx="16" fill="#1A1F24"/>
+  <text x="816" y="228" fill="#C69A52" font-family="Arial, sans-serif" font-size="15" font-weight="700">EXTERNAL BUFFER</text>
+  <text x="816" y="301" fill="#FBF8F1" font-family="Georgia, serif" font-size="50" font-weight="700">$54.02bn</text>
+  <text x="816" y="329" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">gross external reserves</text>
+  <line x1="816" y1="357" x2="1104" y2="357" stroke="#A67C3D" stroke-width="2"/>
+  <text x="816" y="424" fill="#FBF8F1" font-family="Georgia, serif" font-size="44" font-weight="700">10.26 months</text>
+  <text x="816" y="453" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">goods and services import cover</text>
+  <text x="816" y="489" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="14">Reserves measured 17 November 2026</text>
+
+  <text x="72" y="576" fill="#46504F" font-family="Arial, sans-serif" font-size="14">Source: Central Bank of Nigeria, Monetary Policy Communique No. 165, 24 November 2026.</text>
+  <text x="72" y="603" fill="#46504F" font-family="Arial, sans-serif" font-size="13">DMB = deposit money bank. TSA = Treasury Single Account. Percentages use different bases and are not additive.</text>
+</svg>

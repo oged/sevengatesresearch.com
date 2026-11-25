@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-25 · briefing/2026-11-25
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** The CBN's 23% hold opens through the continued cost of money after five months of disinflation, then separates rate restraint from the inflation and reserve data supporting the decision.
+- **Shape:** four ranked developments: Nigeria's policy hold and NNPC implementation test, the EU's proposed 22nd Russia sanctions package, Asian markets pricing an unpublished U.S. tariff report, and Google's repeated-reliability benchmark. The ending names the rate, legal, tariff and independent-testing evidence that could change each assessment.
+- **Visual:** a three-panel policy dashboard separates the MPR and reserve requirements, October inflation readings and the external reserve buffer. Each panel retains its own unit. Canvas, Ink, Brass and neutral Travertine carry the design; no green or red is used because none of the measures is coded as inherently good or bad.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. War and sanctions are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 entries and permanent retired register were checked before and after drafting. Domestic monetary restraint replaces the previous humanitarian-route opening. The CBN dashboard differs from 17 November's inflation time series and 16 November's monthly CPI comparison by showing the operating policy stack, inflation context and external buffer in separate panels. Russia returns through a new Commission sanctions proposal rather than the 23 November Benghazi attribution question. Markets return through an unconfirmed trade-policy catalyst and explicit evidence boundary, rather than the prior AI financing selloff. AI reliability testing replaces model capability classification. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** CBN reserve coverage and inflation figures are official estimates; a hold does not establish that market lending rates are unchanged. The NNPC-CBN MoU has no published flow targets. The EU package is a Commission proposal pending member-state adoption. USTR had not published its report or tariff rates at the cut-off. Google's benchmark is company-led and newly released; Nigerian task performance is untested.
+
 ### 2026-11-24 · briefing/2026-11-24
 
 - **Type:** Daily Brief, no investment rating.
