@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-26 · briefing/2026-11-26
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** The opening resolves yesterday's tariff-report uncertainty by moving from market rumour to USTR's published countries, legal findings and proposed rates, while keeping the final product cost open.
+- **Shape:** five ranked developments: U.S. Section 301 proposals and the market reversal, Google's governed and tiered Workspace-agent access, an AfDB-EBRD SME-finance partnership, the combination of a security directive and election rally in Maiduguri, and the death of Pete Edochie. The ending names the final schedules, observed workloads, funded programme and verified security outcomes that could change the analysis.
+- **Visual:** all 14 covered economies are grouped by proposed U.S. tariff ceiling on one common scale, with the scope and proposal status shown separately. Canvas, Ink, Brass and Travertine distinguish structure and status; no green or red is used because proposals are not outcomes.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** Pete Edochie and his portrayal of Okonkwo are treated as cultural record, without humour. Abduction, insurgency and death are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 entries and permanent retired register were checked before and after drafting. The tariff story returns because USTR published the report and rates that were unavailable at yesterday's cut-off. The visual replaces the prior monetary-policy dashboard with a common-scale trade-policy comparison. AI returns through access, governance and usage economics rather than reliability benchmarking. African finance uses institutional capital and risk-sharing rather than monetary policy or sovereign finance. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** USTR's rates are proposals with exemptions and interactions with existing duties. Intraday market moves do not isolate tariff effects. Google has not yet enforced the MCP rule or billing, and some tools consume multiple requests. AfDB and EBRD disclosed no new facility size or timetable. The State House release gives no operational security detail. The official notice of Pete Edochie's death does not establish an archive or preservation plan.
+
 ### 2026-11-25 · briefing/2026-11-25
 
 - **Type:** Daily Brief, no investment rating.

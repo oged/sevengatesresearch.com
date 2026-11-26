@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">United States tariff proposals announced 25 November 2026</title>
+  <desc id="desc">Horizontal bars group all 14 economies by proposed headline or maximum tariff rate: Vietnam at 35 percent, India at 25 percent, China and Singapore at 20 percent, five economies at 18 percent and five economies at 15 percent. The proposals are not final.</desc>
+  <rect width="1200" height="675" fill="#FBF8F1"/>
+  <rect x="34" y="34" width="1132" height="607" rx="22" fill="#FBF8F1" stroke="#1A1F24" stroke-width="3"/>
+  <text x="72" y="82" fill="#A67C3D" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">SEVEN GATES RESEARCH · 26 NOVEMBER 2026</text>
+  <text x="72" y="126" fill="#1A1F24" font-family="Georgia, serif" font-size="35" font-weight="700">Washington put rates on the tariff threat</text>
+  <text x="72" y="157" fill="#46504F" font-family="Arial, sans-serif" font-size="16">All 14 economies grouped by proposed headline or maximum rate. Final product rates can differ.</text>
+
+  <rect x="72" y="190" width="760" height="360" rx="16" fill="#F4F0E8" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="96" y="224" fill="#A67C3D" font-family="Arial, sans-serif" font-size="14" font-weight="700">PROPOSED RATE, %</text>
+  <line x1="282" y1="245" x2="782" y2="245" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="282" y="267" fill="#46504F" font-family="Arial, sans-serif" font-size="12">0</text>
+  <text x="422" y="267" fill="#46504F" font-family="Arial, sans-serif" font-size="12">10</text>
+  <text x="562" y="267" fill="#46504F" font-family="Arial, sans-serif" font-size="12">20</text>
+  <text x="702" y="267" fill="#46504F" font-family="Arial, sans-serif" font-size="12">30</text>
+  <text x="770" y="267" fill="#46504F" font-family="Arial, sans-serif" font-size="12">35</text>
+
+  <text x="96" y="304" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">Vietnam</text>
+  <rect x="282" y="286" width="500" height="22" rx="6" fill="#A67C3D"/><text x="794" y="303" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 35%</text>
+  <text x="96" y="346" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">India</text>
+  <rect x="282" y="328" width="357" height="22" rx="6" fill="#A67C3D"/><text x="651" y="345" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 25%</text>
+  <text x="96" y="388" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">China · Singapore</text>
+  <rect x="282" y="370" width="286" height="22" rx="6" fill="#A67C3D"/><text x="580" y="387" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 20%</text>
+  <text x="96" y="430" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">BD · KH · ID · MY · TH</text>
+  <rect x="282" y="412" width="257" height="22" rx="6" fill="#A67C3D"/><text x="551" y="429" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 18%</text>
+  <text x="96" y="472" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">EU · JP · KR · CH · TW</text>
+  <rect x="282" y="454" width="214" height="22" rx="6" fill="#1A1F24"/><text x="508" y="471" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 15%</text>
+  <text x="96" y="510" fill="#46504F" font-family="Arial, sans-serif" font-size="12">BD Bangladesh · KH Cambodia · ID Indonesia · MY Malaysia · TH Thailand</text>
+  <text x="96" y="530" fill="#46504F" font-family="Arial, sans-serif" font-size="12">JP Japan · KR South Korea · CH Switzerland · TW Taiwan</text>
+
+  <rect x="858" y="190" width="270" height="360" rx="16" fill="#1A1F24"/>
+  <text x="886" y="228" fill="#C69A52" font-family="Arial, sans-serif" font-size="15" font-weight="700">SCOPE</text>
+  <text x="886" y="307" fill="#FBF8F1" font-family="Georgia, serif" font-size="64" font-weight="700">14</text>
+  <text x="886" y="338" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">economies covered by</text>
+  <text x="886" y="360" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="15">Section 301 determinations</text>
+  <line x1="886" y1="397" x2="1100" y2="397" stroke="#A67C3D" stroke-width="2"/>
+  <text x="886" y="435" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="16" font-weight="700">STATUS: PROPOSED</text>
+  <text x="886" y="468" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="14">Consultation, exemptions</text>
+  <text x="886" y="489" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="14">and final action remain.</text>
+
+  <text x="72" y="590" fill="#46504F" font-family="Arial, sans-serif" font-size="14">Source: Office of the United States Trade Representative, 25 November 2026.</text>
+  <text x="72" y="615" fill="#46504F" font-family="Arial, sans-serif" font-size="13">EU = European Union. Korea = Republic of Korea. The chart does not imply uniform product-level rates.</text>
+</svg>
