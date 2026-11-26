@@ -1,0 +1,126 @@
+# PhD and academic work
+
+For the house author's own doctoral or academic work, and for supervising, coaching or reviewing someone else's. The aim is a thesis or paper that makes an original, defensible contribution, written so that an examiner can follow every step once.
+
+## 1. Two modes and one boundary
+
+- **Own work mode** (the house author as candidate or author): full collaboration on design, analysis, drafting and editing, with AI assistance disclosed as the institution or journal requires.
+- **Supervision mode** (someone else as candidate): act as a demanding supervisor, methods adviser, editor and mock examiner. Explain, question, critique, model a paragraph, suggest structure, check arithmetic and references, and run viva practice.
+
+**Boundary.** Work submitted for a degree or for assessment must be the candidate's own. Do not write chapters, theses, assignments or examined papers for another person to submit as theirs, and do not disguise AI-written text as the candidate's. Help them do the work: diagnose, teach, critique, draft a worked example they then rewrite in their own words, and edit for clarity within the institution's rules. Remind them to follow their institution's AI-use policy and to disclose assistance.
+
+## 2. The spine of a thesis
+
+Every doctoral project can be stated in six sentences. Write them before anything else and revise them as the work moves.
+
+1. **Problem**: what is not understood, and why it matters to the field and to practice.
+2. **Gap**: what the literature has not done, shown with citations, not asserted.
+3. **Question**: the research question or questions, answerable with the data and time available.
+4. **Approach**: the method and why it fits the question better than the alternatives.
+5. **Finding**: what the work shows (provisional until the analysis is done).
+6. **Contribution**: what is new (to knowledge, method, data or practice) and for whom.
+
+A good question is feasible, interesting, novel, ethical and relevant. Narrow beats grand.
+
+## 3. Phases and outputs
+
+| Phase | Output | Test |
+|---|---|---|
+| Proposal | Problem, gap, questions, method, timeline, risks, ethics plan | A stranger in the field can say what will be new |
+| Literature review | A map of the debate, not a list of summaries; the gap located precisely | Every paragraph positions a claim, not just a paper |
+| Theory or framework | The lens that defines variables, mechanisms and expected relationships | Each construct is defined and measurable or observable |
+| Methodology | Design, data, sampling, instruments, analysis plan, validity, reliability, ethics | Another researcher could repeat it |
+| Data and analysis | Clean data, documented code, results with uncertainty | Every table and figure can be regenerated from the archive |
+| Discussion | What the results mean against the literature; alternative explanations; limits | The claim does not outrun the evidence |
+| Conclusion | Answers to each question; contribution; implications; further work | It answers the questions asked, not new ones |
+| Viva | Defence of choices, limits and contribution | Each likely question has a two-minute answer |
+
+## 4. Writing the literature review
+
+- Organise by argument, not by author. Each section answers: what is agreed, what is contested, what is missing.
+- Synthesise: "Three field studies report X under condition A; the two that report Y were run under condition B" is synthesis. "Smith (2019) found X. Jones (2020) found Y." is a list.
+- Weigh evidence: sample size, design, setting, date. Peer-reviewed primary studies outrank reviews, which outrank grey literature, which outranks commentary.
+- Use the house repertoire (`modules/repertoire.md`) only as theory, never as decoration. Hayek on dispersed knowledge, Ostrom on common-pool resources, North on institutions, Kahneman on judgement, Mazzucato on the state's role in innovation: each is a framework to be cited and tested, not a flourish.
+- Track every source in a reference manager from day one, with page numbers for every quotation.
+
+## 5. Methods discipline
+
+- State the design and why it answers this question: experimental, quasi-experimental, case study, panel, survey, qualitative interviews, mixed methods, modelling and simulation, or field-data analysis.
+- **Field and operational data** are not experiments: check selection bias, stratify, use controls or placebo windows, name confounders (`core/03-evidence.md` section 4).
+- **Models**: state assumptions, calibration, validation and the regime the model is valid in. A good history match is not predictive proof.
+- **Statistics**: report sample size, effect sizes with intervals, dependence, multiple comparisons, specification sensitivity and robustness. Do not let statistical significance wear a cape.
+- **Qualitative work**: sampling logic, saturation, coding procedure, reflexivity, and how quotations were selected.
+- **Reproducibility**: raw data preserved, code versioned, every figure regenerated by script, a data and code availability statement.
+- **Ethics**: approvals, consent, anonymisation keys kept separate, data held as agreed. Employer data enters a thesis only with written permission and through the employer's own approval route; the firewall in `SKILL.md` section 4 applies in full.
+
+## 6. Academic register
+
+- Precise claims, scoped to their evidence. Hedge once, with the basis ("the effect holds for the two reservoirs sampled; it is untested elsewhere"), not in every sentence.
+- Define every term at first use and use it the same way throughout.
+- Active voice where the actor matters ("we measured"), passive acceptable in methods where convention prefers it.
+- Topic sentences carry the paragraph's claim. A reader of the first sentences alone should get the chapter's argument.
+- Citations support the specific claim they sit beside. No decorative citations, no citation of a review for a primary finding.
+- The prose engine (`core/02-human-prose.md`) applies in full: no slop, no verdict sentences, no signposting beyond what the genre requires ("Chapter 4 reports..." in an introduction is convention, not slop), no em dashes unless the style guide demands them.
+- Figures: caption states the finding; axes, units, sample size and source on the figure; colour-blind safe.
+
+## 7. Chapter templates
+
+- **Introduction**: context, problem, gap, questions, approach, contribution, thesis structure.
+- **Literature review**: debate map by theme; synthesis; the precise gap; how the questions follow.
+- **Methodology**: philosophy or position where the discipline expects it; design; data; procedures; analysis; validity and reliability; ethics; limitations of method.
+- **Results**: findings by question, without interpretation; tables and figures that answer one question each.
+- **Discussion**: findings against the literature; mechanism; alternative explanations; implications; limitations.
+- **Conclusion**: answer to each question; contribution restated precisely; recommendations; further work.
+- **Thesis by publication**: each paper self-contained; linking chapters that show the single contribution; authorship statements.
+
+## 8. Supervision and review routine
+
+When reviewing a draft for anyone:
+
+1. Restate the chapter's claim in one sentence. If you cannot, that is the first comment.
+2. Check the spine: does the chapter serve the research questions?
+3. Check evidence: every claim cited or shown; every number recomputed; every figure readable.
+4. Check method against question.
+5. Check prose: the seven syntax checks and the slop list.
+6. Return comments ranked: fatal, major, minor, style. Say what to do, not just what is wrong.
+7. For supervision mode, ask questions that make the candidate do the thinking ("What would convince a sceptic that the trend is not seasonal?").
+
+## 9. Viva and defence preparation
+
+Prepare a two-minute answer for each of these, then for the hostile version of each:
+
+- Summarise the thesis and its contribution in three minutes.
+- Why this question? Why now?
+- Why this method and not the obvious alternative?
+- What is the weakest part of the work?
+- What would you do differently?
+- How do your results compare with the closest competing study?
+- What does your work not show?
+- How would you generalise beyond your setting?
+- What will you publish from this, and where?
+
+Run mock vivas with a separate agent playing a sceptical external examiner who has read the thesis closely.
+
+## 10. Technical papers (SPE and similar)
+
+From the SPE Style Guide (2011) and the house author's own published SPE paper, with the house rules where they differ:
+
+- Active voice; vary sentence length around an average of about 25 words at most; define each abbreviation at first use and do not abbreviate a term used once.
+- Plain swaps: "to" for "in order to", "because" for "due to the fact that", "use" for "utilise", "about" for "in reference to".
+- British spelling for papers at meetings run from SPE's Dubai, Kuala Lumpur, London and Moscow offices, which covers Nigeria, the Middle East and Europe.
+- Numbers: spell out nine and below except with units or money; commas in customary-unit numbers (456,789 bbl); dates as "5 June 2026".
+- Titles: a colon, not a dash, before a subtitle.
+- References author-date in the text, alphabetical in the list, first three authors then et al., always with the DOI.
+- Figures and tables numbered in order of citation; axis titles as "Time, years"; captions "Fig. N" and "Table N" in sentence case, stating the finding.
+- End-matter order: nomenclature, acknowledgements, references, appendices, conversion factors.
+- Disclose AI assistance in the acknowledgements or methods for the authors to confirm. Build a named and a publication-safe version from one source with an anonymisation key, and scan the safe version for leaked names before release.
+- The Hemingway-Oil technical-paper rules in `core/03-evidence.md` section 4 apply: open the abstract with the field result and its number; put interpretation in the discussion; bound model results with mass balance; report what a test can and cannot discriminate.
+
+## 11. Progress discipline
+
+- Write every working day, even a paragraph; revise on a separate pass.
+- Keep a research log: date, what was done, decisions and why, open questions.
+- Keep a claims register: each claim the thesis makes, its evidence, its status.
+- Keep a decision record for method choices; examiners ask why.
+- Back up data, code and drafts in two places.
+- Set milestones with the supervisor and record agreed changes.

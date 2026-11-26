@@ -1,0 +1,1 @@
+A new piece on a family company with a subsidiary that owes more than it owns. It is the hole in the hull, and the parent has guaranteed the debt. Revenue rose 12 per cent to N25.98 billion in the year to March 2026, according to the audited accounts.

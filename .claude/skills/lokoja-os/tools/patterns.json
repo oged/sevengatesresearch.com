@@ -1,0 +1,570 @@
+{
+  "version": "6.6.0-public",
+  "notes": "Machine-checkable rules for lokoja_lint.py. Add a pattern when a lesson card says it can be detected (learning/loop.md). Each pattern: id, regex (Python, case-insensitive unless case_sensitive is true), severity (hard | warn | review), rooms (list, or ['all']), message, source (lesson or file section).",
+  "rooms": [
+    "sevengates",
+    "brief",
+    "technical",
+    "academic",
+    "email",
+    "deck",
+    "neutral"
+  ],
+  "thresholds": {
+    "default": {
+      "so_per_1000": 1.5,
+      "which_per_1000": 3.0,
+      "semicolon_per_1000": 5.0,
+      "triads_per_1000": 4.0,
+      "not_x_y_max": 2,
+      "questions_max": 2,
+      "sentence_sd_min": 6.0,
+      "final_short_ratio_max": 0.4,
+      "max_sentence_words": 40
+    },
+    "technical": {
+      "questions_max": 0,
+      "sentence_sd_min": 4.5,
+      "max_sentence_words": 32
+    },
+    "email": {
+      "questions_max": 1,
+      "sentence_sd_min": 3.0,
+      "max_sentence_words": 28
+    },
+    "academic": {
+      "questions_max": 1,
+      "sentence_sd_min": 5.0,
+      "max_sentence_words": 45
+    },
+    "brief": {
+      "sentence_sd_min": 5.0
+    }
+  },
+  "lexicon": {
+    "severity": "warn",
+    "rooms": [
+      "all"
+    ],
+    "source": "core/02-human-prose.md section 3",
+    "terms": [
+      "it is important to note",
+      "it should be noted",
+      "it is worth noting",
+      "it's worth noting",
+      "here's the thing",
+      "let's dive in",
+      "let us unpack",
+      "delve",
+      "delves",
+      "delving",
+      "pivotal",
+      "landscape of",
+      "evolving landscape",
+      "navigate the",
+      "navigating the complexities",
+      "foster",
+      "underscore",
+      "underscores",
+      "highlights the",
+      "showcase",
+      "showcases",
+      "comprehensive approach",
+      "streamline",
+      "facilitate",
+      "bolster",
+      "harness",
+      "empower",
+      "paramount",
+      "myriad",
+      "plethora",
+      "realm",
+      "tapestry",
+      "testament to",
+      "nuanced",
+      "multifaceted",
+      "intricate",
+      "interplay",
+      "seamless",
+      "seamlessly",
+      "holistic",
+      "synergies",
+      "synergy",
+      "unlock",
+      "unlocks",
+      "cutting-edge",
+      "world-class",
+      "best-in-class",
+      "game-changer",
+      "game-changing",
+      "future-ready",
+      "end-to-end",
+      "in today's world",
+      "at the heart of",
+      "against this backdrop",
+      "the numbers tell a story",
+      "this paints a picture",
+      "this is where things get interesting",
+      "the implications are profound",
+      "make no mistake",
+      "the reality is",
+      "in essence",
+      "only time will tell",
+      "at the end of the day",
+      "it goes without saying",
+      "needless to say",
+      "serves as a reminder",
+      "speaks to",
+      "stands at a crossroads",
+      "ensure optimal",
+      "going forward",
+      "moving forward",
+      "in order to",
+      "at this point in time",
+      "please be advised",
+      "kindly note",
+      "please do the needful",
+      "key takeaway",
+      "key takeaways",
+      "the bottom line is",
+      "in conclusion",
+      "to summarise",
+      "in summary",
+      "robust",
+      "robustly"
+    ]
+  },
+  "patterns": [
+    {
+      "id": "em_dash",
+      "regex": "—",
+      "severity": "hard",
+      "rooms": [
+        "all"
+      ],
+      "message": "Em dash. Use a full stop, comma, colon or parentheses.",
+      "source": "SKILL.md section 5"
+    },
+    {
+      "id": "spaced_en_dash",
+      "regex": " – ",
+      "severity": "hard",
+      "rooms": [
+        "all"
+      ],
+      "message": "Spaced en dash used as a dash. Use 'to' for ranges or rewrite.",
+      "source": "core/02-human-prose.md"
+    },
+    {
+      "id": "red_team",
+      "regex": "\\bred[- ]?team",
+      "severity": "hard",
+      "rooms": [
+        "sevengates",
+        "brief",
+        "technical",
+        "neutral",
+        "academic"
+      ],
+      "message": "'Red team' is internal vocabulary. Use contrarian case, challenge case or independent challenge review.",
+      "source": "core/04-thinking.md section 6"
+    },
+    {
+      "id": "placeholder",
+      "regex": "\\[(?:[A-Z][A-Za-z /|]{1,40})\\](?![(\\[:])|\\bTODO\\b|\\bTBC\\b|\\bXXX\\b|lorem ipsum",
+      "severity": "hard",
+      "rooms": [
+        "all"
+      ],
+      "message": "Placeholder left in the text.",
+      "source": "seven-gates G22"
+    },
+    {
+      "id": "deprecated_hex",
+      "regex": "#(?:F5F0E6|0B1F33|B08A3E|EDE4D3|64707B)\\b",
+      "severity": "hard",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Deprecated Seven Gates palette value.",
+      "source": "templates/sevengates.md"
+    },
+    {
+      "id": "percent_word",
+      "regex": "\\b\\d[\\d,.]*\\s?percent\\b|\\bpercent\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief",
+        "technical",
+        "academic",
+        "neutral"
+      ],
+      "message": "House spelling is 'per cent'.",
+      "source": "SKILL.md section 5"
+    },
+    {
+      "id": "not_x_but_y",
+      "regex": "\\bnot (?:just |only |merely |simply )?[^.;:!?]{1,60}?,? but (?!also\\b)",
+      "severity": "review",
+      "rooms": [
+        "all"
+      ],
+      "message": "Contrast reversal ('not X but Y'). State the positive claim; allowed once or twice per document.",
+      "source": "core/02-human-prose.md section 4",
+      "counts_as": "not_x_y"
+    },
+    {
+      "id": "its_not_just",
+      "regex": "\\bit'?s not (?:just|only) (?:about )?",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "'It's not just X' construction.",
+      "source": "core/02-human-prose.md section 4",
+      "counts_as": "not_x_y"
+    },
+    {
+      "id": "not_only_but_also",
+      "regex": "\\bnot only\\b[^.!?]{1,100}\\bbut also\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "'Not only X but also Y'.",
+      "source": "core/02-human-prose.md section 4",
+      "counts_as": "not_x_y"
+    },
+    {
+      "id": "not_same_thing",
+      "regex": "\\bis not the same (?:thing )?as\\b|which is not the same thing as",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired 31 Oct 2026: 'X is not the same thing as Y'. Say what Y is.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "not_merely",
+      "regex": "\\bnot merely\\b|\\bdid not merely\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired: 'not merely'.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "no_longer_a",
+      "regex": "\\bis no longer (?:just )?an?\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired: 'X is no longer a Y'.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "question_is_not",
+      "regex": "\\bthe question is not\\b|\\bthe useful question is\\b|\\bthe real question is\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired question framing.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "does_not_establish",
+      "regex": "\\b(?:it|that|this) does not (?:establish|prove)\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired closing beat: 'it does not establish X'. State the evidence instead.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "would_matter_more",
+      "regex": "\\bwould matter more than\\b|\\bmatters more than the (?:headline|total|threshold)\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired watch-list formula. Name the signal and threshold.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "direction_clear",
+      "regex": "\\bbut the direction is (?:clear|plain|obvious)\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired: 'the figures differ, but the direction is clear'.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "does_not_make",
+      "regex": "\\bthat does not make\\b",
+      "severity": "review",
+      "rooms": [
+        "all"
+      ],
+      "message": "Possible reflexive caveat ('that does not make X Y').",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "restraint",
+      "regex": "\\bwe make no claim\\b|\\bdoes not pretend to know\\b|\\bwe do not (?:invent|manufacture)\\b|\\bwe leave that unanswered\\b|\\brather than guessing\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired: narrator's declaration of restraint. State the gap as a fact.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "market_noticed",
+      "regex": "\\b(?:the (?:bond |rate |equity )?market|investors) (?:has|have) noticed\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired: 'the market has noticed'. Say what moved.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "market_person",
+      "regex": "\\bthe market (?:knows|thinks|believes|sulks|laughs|shrugs|decided|wants|hates|loves|is telling)\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Personified market. Use 'the price implies' or 'investors appear to expect'.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "data_person",
+      "regex": "\\b(?:the )?(?:data|numbers|figures|chart|spreadsheet|model|plan) (?:tells?|want(?:s)?|decides?|hopes?|argues?) ",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Inanimate subject doing a human action. Use 'show', 'assume', 'state'.",
+      "source": "core/02-human-prose.md section 2 check 3"
+    },
+    {
+      "id": "distinction_flourish",
+      "regex": "\\b(?:the|that|this|one) distinction (?:matters|remains|is now)\\b|that difference is now the story",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Retired distinction flourish.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "billing_metaphor",
+      "regex": "\\b(?:send|sends|sent|present|presents|presented|arrives? with) (?:an? |the )?(?:invoice|bill)\\b|\\bcollects? rent\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief",
+        "technical",
+        "neutral"
+      ],
+      "message": "Retired billing metaphor. Name the consequence.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "plumbing",
+      "regex": "\\bplumbing\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief",
+        "neutral"
+      ],
+      "message": "Retired plumbing shorthand. Name the mechanism.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "calculation_epigram",
+      "regex": "\\b(?:the )?(?:first|second) calculation\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Retired first/second calculation epigram.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "pavement_money",
+      "regex": "\\bmoney (?:lying )?on the (?:pavement|street|road|floor)\\b|\\bcross(?:ing)? the road\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Retired free-money and road imagery.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "champagne_party",
+      "regex": "\\b(?:champagne|bar tab|bar-tab|paid for dinner|pay for dinner|dinner table)\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Retired party and dinner imagery for costs.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "nobel_joke",
+      "regex": "\\bnobel (?:prize|committee)\\b",
+      "severity": "review",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Check for a mock Nobel joke.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "denominator",
+      "regex": "\\bdenominator\\b",
+      "severity": "review",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Retired as editorial shorthand. State the ratio or base.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "wearing_tic",
+      "regex": "\\b(?:arithmetic|inflation|earnings|ebitda|capital|cash|debt|working capital|the price|valuation|naira) wearing\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Clothing-on-numbers tic.",
+      "source": "core/05-memory.md section 3"
+    },
+    {
+      "id": "price_heard",
+      "regex": "\\bthe price (?:has|had) (?:heard|read)\\b",
+      "severity": "warn",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Retired tic: the price has heard the news.",
+      "source": "core/05-memory.md section 3"
+    },
+    {
+      "id": "sermon_label",
+      "regex": "(?:answer|verdict) before the sermon",
+      "severity": "hard",
+      "rooms": [
+        "sevengates",
+        "brief"
+      ],
+      "message": "Retired as a printed label.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "signpost_opener",
+      "regex": "(?m)(?:^|(?<=[.!?] ))(?:Here's|Here is|Let's|Let us|Let me|Importantly|Notably|Interestingly|Essentially|Basically|Overall|Crucially|Ultimately|Furthermore|Moreover|Additionally),?\\s",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Signpost or connective padding at sentence start.",
+      "source": "core/02-human-prose.md section 3",
+      "case_sensitive": true
+    },
+    {
+      "id": "imperative_opener",
+      "regex": "(?m)(?:^|(?<=[.!?] ))(?:Consider|Imagine|Compare|Note that|Remember|Look at|Take the)\\b",
+      "severity": "review",
+      "rooms": [
+        "sevengates",
+        "brief",
+        "technical",
+        "neutral",
+        "academic"
+      ],
+      "message": "Imperative opener aimed at the reader (Economist tone test).",
+      "source": "core/02-human-prose.md section 4a",
+      "case_sensitive": true
+    },
+    {
+      "id": "self_reference",
+      "regex": "\\bthis (?:slide|section|piece|article|note) (?:shows|outlines|will|explores|examines)\\b|\\bas discussed\\b|\\bbelow we\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Self-reference or signposting.",
+      "source": "core/02-human-prose.md section 3"
+    },
+    {
+      "id": "verdict_short",
+      "regex": "(?m)(?:^|(?<=[.!?] ))(?:The (?:evidence|data|results?) (?:agrees?|is clear|are clear)|That is not a general rule|The point stands|The answer is no|The answer is yes)\\.",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Verdict sentence. Put the evidence first.",
+      "source": "core/02-human-prose.md section 4"
+    },
+    {
+      "id": "intensifier",
+      "regex": "\\b(?:very|truly|incredibly|extremely|highly|deeply|remarkably|undoubtedly|clearly) (?=[a-z]{3,})",
+      "severity": "review",
+      "rooms": [
+        "all"
+      ],
+      "message": "Adverb without measurable meaning.",
+      "source": "core/02-human-prose.md section 3"
+    },
+    {
+      "id": "technical_rejected",
+      "regex": "\\bheld back\\b|\\bholds back\\b|\\bwhen it binds\\b|\\bsets the limit\\b|\\bpath forward\\b|\\bconstrained oil\\b|\\bwater handled\\b|\\bkbd\\b|\\bbwpd\\b",
+      "severity": "hard",
+      "rooms": [
+        "technical"
+      ],
+      "message": "Phrase or unit rejected in technical documents.",
+      "source": "core/05-memory.md section 2"
+    },
+    {
+      "id": "famously",
+      "regex": "\\b(?:famously|once said|as the saying goes|in the immortal words of|to quote)\\b",
+      "severity": "warn",
+      "rooms": [
+        "all"
+      ],
+      "message": "Quotation framing that sounds forced.",
+      "source": "modules/repertoire.md section 5"
+    },
+    {
+      "id": "unverified_quote_risk",
+      "regex": "\\b(?:Einstein|Churchill|Gandhi|Voltaire|Burke|Mark Twain|Sun Tzu|Confucius|Rumi)\\b",
+      "severity": "review",
+      "rooms": [
+        "all"
+      ],
+      "message": "Name on the misattribution watchlist. Verify any quotation against a primary source.",
+      "source": "modules/repertoire.md section 4"
+    }
+  ]
+}
