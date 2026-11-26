@@ -17,7 +17,7 @@
   <text x="770" y="267" fill="#46504F" font-family="Arial, sans-serif" font-size="12">35</text>
 
   <text x="96" y="304" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">Vietnam</text>
-  <rect x="282" y="286" width="500" height="22" rx="6" fill="#A67C3D"/><text x="794" y="303" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 35%</text>
+  <rect x="282" y="286" width="500" height="22" rx="6" fill="#A67C3D"/><text x="770" y="303" text-anchor="end" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 35%</text>
   <text x="96" y="346" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">India</text>
   <rect x="282" y="328" width="357" height="22" rx="6" fill="#A67C3D"/><text x="651" y="345" fill="#1A1F24" font-family="Arial, sans-serif" font-size="15" font-weight="700">up to 25%</text>
   <text x="96" y="388" fill="#1A1F24" font-family="Arial, sans-serif" font-size="16" font-weight="700">China · Singapore</text>
