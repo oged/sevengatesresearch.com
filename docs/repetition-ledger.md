@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-27 · briefing/2026-11-27
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Verified attacks and constrained visible traffic in the Strait of Hormuz open through the joint effect on oil, Nigerian export receipts and import costs.
+- **Shape:** five ranked developments: the latest Hormuz attack count and oil move, the CBN's temporary expansion of cash-dollar access for licensed BDCs, Dangote Refinery's approved IPO allotment and 1 December listing, the Bank of England's quantified AI-financing links, and family support plus the promised investigation after the NAF 931 loss. The ending names the traffic, disbursement, exchange-rate, trading, disclosure and investigation evidence that can change the assessment.
+- **Visual:** IPO applications and approved allotment are compared on one share-count scale, with subscribers, offer price and the demand multiple in separate factual cards. Canvas, Ink, Brass and Travertine carry the design; no green or red is used because demand and allotment are quantities rather than positive or negative outcomes.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Fatalities, bereavement and regional conflict are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 entries and permanent retired register were checked before and after drafting. Hormuz returns because the 26 November JMIC update counted 17 tanker strikes since 1 November and documented exceptionally low visible traffic, a new physical constraint after 24 November's humanitarian-route brief. Nigeria's FX item concerns retail cash distribution rather than the 25 November monetary-policy hold. Dangote returns through a completed allotment and dated trading milestone, with a demand-versus-allotment visual rather than the archive's valuation or operating dashboards. AI returns through a central bank's quantified credit interconnections rather than model access, capability or reliability. The aviation-loss item focuses on family support, investigation and safety accountability. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** AIS-visible traffic excludes assisted and non-visible transits, while oil prices can reverse quickly. The CBN directive is temporary but gives no public expiry date or aggregate dollar-supply target. IPO demand measures applications at the offer price, while post-listing liquidity and valuation are unknown. The Bank of England's $4 trillion figure includes potential exposure and off-balance-sheet commitments, so it is not outstanding debt. The NAF investigation has not published findings, and delivery of housing and cash support has not yet been verified.
+
 ### 2026-11-26 · briefing/2026-11-26
 
 - **Type:** Daily Brief, no investment rating.

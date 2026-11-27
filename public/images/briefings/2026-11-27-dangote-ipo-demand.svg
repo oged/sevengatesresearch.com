@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Dangote Refinery IPO demand and approved allotment</title>
+  <desc id="desc">Applications covered 11.15 billion shares. The approved allotment covers 5.196 billion shares, about 46.6 percent of applications. There were 3.78 million subscribers and the price was 525 naira per share.</desc>
+  <rect width="1200" height="630" fill="#F4EEDF"/>
+  <rect x="54" y="48" width="1092" height="534" rx="22" fill="#FFFDF7" stroke="#25231F" stroke-width="2"/>
+  <text x="94" y="108" fill="#25231F" font-family="Georgia, serif" font-size="34" font-weight="700">Dangote Refinery IPO demand exceeded allotment</text>
+  <text x="94" y="143" fill="#665F55" font-family="Arial, sans-serif" font-size="18">Billion shares, common scale · issuer data published 25 November 2026</text>
+  <line x1="285" y1="205" x2="1062" y2="205" stroke="#D8D0C1" stroke-width="2"/>
+  <line x1="285" y1="205" x2="285" y2="422" stroke="#25231F" stroke-width="2"/>
+  <line x1="608" y1="205" x2="608" y2="422" stroke="#D8D0C1" stroke-width="1" stroke-dasharray="5 7"/>
+  <line x1="932" y1="205" x2="932" y2="422" stroke="#D8D0C1" stroke-width="1" stroke-dasharray="5 7"/>
+  <text x="285" y="190" fill="#665F55" font-family="Arial, sans-serif" font-size="16">0</text>
+  <text x="597" y="190" fill="#665F55" font-family="Arial, sans-serif" font-size="16">5</text>
+  <text x="916" y="190" fill="#665F55" font-family="Arial, sans-serif" font-size="16">10</text>
+  <text x="94" y="272" fill="#25231F" font-family="Arial, sans-serif" font-size="21" font-weight="700">Applications</text>
+  <rect x="285" y="235" width="722" height="58" rx="8" fill="#25231F"/>
+  <text x="1024" y="273" fill="#25231F" font-family="Arial, sans-serif" font-size="23" font-weight="700">11.15bn</text>
+  <text x="94" y="381" fill="#25231F" font-family="Arial, sans-serif" font-size="21" font-weight="700">Approved allotment</text>
+  <rect x="285" y="344" width="336" height="58" rx="8" fill="#B08D3E"/>
+  <text x="638" y="382" fill="#25231F" font-family="Arial, sans-serif" font-size="23" font-weight="700">5.196bn</text>
+  <rect x="94" y="462" width="300" height="79" rx="12" fill="#F4EEDF" stroke="#D8D0C1"/>
+  <text x="117" y="492" fill="#665F55" font-family="Arial, sans-serif" font-size="15" font-weight="700">SUBSCRIBERS</text>
+  <text x="117" y="524" fill="#25231F" font-family="Georgia, serif" font-size="27" font-weight="700">3.78 million</text>
+  <rect x="418" y="462" width="300" height="79" rx="12" fill="#F4EEDF" stroke="#D8D0C1"/>
+  <text x="441" y="492" fill="#665F55" font-family="Arial, sans-serif" font-size="15" font-weight="700">OFFER PRICE</text>
+  <text x="441" y="524" fill="#25231F" font-family="Georgia, serif" font-size="27" font-weight="700">₦525 a share</text>
+  <rect x="742" y="462" width="320" height="79" rx="12" fill="#F4EEDF" stroke="#D8D0C1"/>
+  <text x="765" y="492" fill="#665F55" font-family="Arial, sans-serif" font-size="15" font-weight="700">DEMAND / ALLOTMENT</text>
+  <text x="765" y="524" fill="#25231F" font-family="Georgia, serif" font-size="27" font-weight="700">2.15×</text>
+</svg>
