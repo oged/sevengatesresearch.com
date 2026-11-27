@@ -12,10 +12,10 @@
   <text x="285" y="190" fill="#665F55" font-family="Arial, sans-serif" font-size="16">0</text>
   <text x="597" y="190" fill="#665F55" font-family="Arial, sans-serif" font-size="16">5</text>
   <text x="916" y="190" fill="#665F55" font-family="Arial, sans-serif" font-size="16">10</text>
-  <text x="94" y="272" fill="#25231F" font-family="Arial, sans-serif" font-size="21" font-weight="700">Applications</text>
+  <text x="94" y="272" fill="#25231F" font-family="Arial, sans-serif" font-size="18" font-weight="700">Applications</text>
   <rect x="285" y="235" width="722" height="58" rx="8" fill="#25231F"/>
   <text x="1024" y="273" fill="#25231F" font-family="Arial, sans-serif" font-size="23" font-weight="700">11.15bn</text>
-  <text x="94" y="381" fill="#25231F" font-family="Arial, sans-serif" font-size="21" font-weight="700">Approved allotment</text>
+  <text x="94" y="381" fill="#25231F" font-family="Arial, sans-serif" font-size="18" font-weight="700">Approved allotment</text>
   <rect x="285" y="344" width="336" height="58" rx="8" fill="#B08D3E"/>
   <text x="638" y="382" fill="#25231F" font-family="Arial, sans-serif" font-size="23" font-weight="700">5.196bn</text>
   <rect x="94" y="462" width="300" height="79" rx="12" fill="#F4EEDF" stroke="#D8D0C1"/>
