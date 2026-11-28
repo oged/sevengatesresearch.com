@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">INEC nationwide mock exercise capacity</title>
+  <desc id="desc">The exercise covers 37 jurisdictions. Presidential, senatorial and House mock contests each expect 17,704 result uploads, for 53,112 total. The maximum voters assigned to one BVAS device falls from 1,250 to 850, a 32 percent reduction.</desc>
+  <rect width="1200" height="675" fill="#FBF8F1"/>
+  <rect x="36" y="36" width="1128" height="603" rx="22" fill="#F4F0E8" stroke="#1A1F24" stroke-width="3"/>
+  <text x="76" y="101" fill="#A67C3D" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">NIGERIA • 28 NOVEMBER 2026</text>
+  <text x="76" y="151" fill="#1A1F24" font-family="Georgia, serif" font-size="38" font-weight="700">A national election system under test</text>
+  <text x="76" y="184" fill="#46504F" font-family="Arial, sans-serif" font-size="18">Accreditation and result transmission across 36 states and the FCT</text>
+
+  <rect x="76" y="220" width="302" height="184" rx="14" fill="#1A1F24"/>
+  <text x="104" y="260" fill="#C69A52" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">COVERAGE</text>
+  <text x="104" y="335" fill="#FBF8F1" font-family="Georgia, serif" font-size="72" font-weight="700">37</text>
+  <text x="104" y="371" fill="#C6BFAE" font-family="Arial, sans-serif" font-size="18">jurisdictions</text>
+
+  <rect x="398" y="220" width="690" height="184" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="426" y="260" fill="#A67C3D" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">EXPECTED RESULT UPLOADS</text>
+  <text x="426" y="314" fill="#1A1F24" font-family="Arial, sans-serif" font-size="17" font-weight="700">PRESIDENTIAL</text>
+  <text x="620" y="314" fill="#1A1F24" font-family="Georgia, serif" font-size="29" font-weight="700">17,704</text>
+  <text x="426" y="352" fill="#1A1F24" font-family="Arial, sans-serif" font-size="17" font-weight="700">SENATORIAL</text>
+  <text x="620" y="352" fill="#1A1F24" font-family="Georgia, serif" font-size="29" font-weight="700">17,704</text>
+  <text x="426" y="390" fill="#1A1F24" font-family="Arial, sans-serif" font-size="17" font-weight="700">HOUSE</text>
+  <text x="620" y="390" fill="#1A1F24" font-family="Georgia, serif" font-size="29" font-weight="700">17,704</text>
+  <line x1="805" y1="258" x2="805" y2="382" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="842" y="294" fill="#46504F" font-family="Arial, sans-serif" font-size="15" font-weight="700">TOTAL</text>
+  <text x="842" y="347" fill="#A67C3D" font-family="Georgia, serif" font-size="46" font-weight="700">53,112</text>
+  <text x="842" y="377" fill="#46504F" font-family="Arial, sans-serif" font-size="16">expected uploads</text>
+
+  <rect x="76" y="428" width="1012" height="154" rx="14" fill="#FBF8F1" stroke="#C6BFAE" stroke-width="2"/>
+  <text x="104" y="467" fill="#A67C3D" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">MAXIMUM VOTERS ASSIGNED TO ONE BVAS DEVICE</text>
+  <text x="104" y="510" fill="#46504F" font-family="Arial, sans-serif" font-size="15">PREVIOUS</text>
+  <rect x="218" y="489" width="650" height="25" rx="5" fill="#C6BFAE"/>
+  <text x="890" y="510" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">1,250</text>
+  <text x="104" y="554" fill="#46504F" font-family="Arial, sans-serif" font-size="15">NEW LIMIT</text>
+  <rect x="218" y="533" width="442" height="25" rx="5" fill="#A67C3D"/>
+  <text x="682" y="554" fill="#1A1F24" font-family="Arial, sans-serif" font-size="18" font-weight="700">850</text>
+  <rect x="970" y="487" width="88" height="69" rx="10" fill="#1A1F24"/>
+  <text x="1014" y="519" text-anchor="middle" fill="#C69A52" font-family="Georgia, serif" font-size="24" font-weight="700">−32%</text>
+  <text x="1014" y="542" text-anchor="middle" fill="#FBF8F1" font-family="Arial, sans-serif" font-size="11">PER DEVICE</text>
+
+  <text x="76" y="616" fill="#46504F" font-family="Arial, sans-serif" font-size="13">Source: Independent National Electoral Commission. Expected-upload counts captured 28 November 2026.</text>
+  <text x="1124" y="616" text-anchor="end" fill="#1A1F24" font-family="Arial, sans-serif" font-size="13" font-weight="700">SEVEN GATES RESEARCH</text>
+</svg>

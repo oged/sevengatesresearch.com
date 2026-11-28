@@ -165,6 +165,17 @@ Families used more than once within a 20-article window, from the backfill of 28
 
 ## Entries
 
+### 2026-11-28 · briefing/2026-11-28
+
+- **Type:** Daily Brief, no investment rating.
+- **Entry route:** Nigeria's nationwide mock election opens through the scale of the accreditation and result-transmission load that INEC is attempting to test before January's presidential election.
+- **Shape:** five ranked developments: INEC's 53,112 expected result uploads and lower BVAS voter ceiling; the AU's endorsed two-stage AUSSOM transition; the widening US goods deficit; Canada's C$700 million expansion of subsidised sovereign AI compute; and New Zealand's final count changing coalition arithmetic. The ending names the operational, diplomatic, economic, deployment and parliamentary evidence that can change each assessment.
+- **Visual:** an election-system capacity card shows 37 jurisdictions, 17,704 expected uploads for each of three mock contests, the 53,112 total and the BVAS voter ceiling falling from 1,250 to 850. Canvas, Ink, Brass and Travertine carry the design; no green or red is used because the figures describe test scope rather than outcomes.
+- **Cultural guests, quotations, anecdotes, jokes, social types:** None. Security threats are treated seriously.
+- **Memorable phrase:** None deliberately introduced.
+- **Freshness check:** the last 20 entries and permanent retired register were checked before and after drafting. Election administration returns through a same-day nationwide systems rehearsal and live public results module rather than campaign claims. The Somalia item is a newly endorsed transition timetable with explicit logistics and assessment deadlines. The trade release supplies new October data. AI returns through government-funded compute access and industrial policy rather than yesterday's credit-risk links. New Zealand appears through audited final results that changed the seat count. The visual is a capacity card rather than the recent comparison bars, dashboards, route maps, response boards, agreement scorecards or policy paths. No retired personification, distinction flourish, billing metaphor, paired epigram or reused joke.
+- **Evidence limits:** expected-upload figures measure scope rather than successful completion. The AU transition depends on UN mandate and funding decisions that are not final. US trade data are advance estimates and October imports do not alone identify future demand. Canada's funding announcement does not establish utilisation or commercial outcomes. New Zealand's results remain subject to judicial recount applications, and support negotiations are incomplete.
+
 ### 2026-11-27 · briefing/2026-11-27
 
 - **Type:** Daily Brief, no investment rating.
